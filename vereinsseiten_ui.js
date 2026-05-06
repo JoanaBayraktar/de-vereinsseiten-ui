@@ -1,9 +1,8 @@
-const DATA_FILES = [
-  "vereinsseiten.json",
-  "filtered-vereinsseiten.json",
-  "filtered vereinsseiten.json",
-  "filtered_vereinsseiten.json",
+const DATA_SOURCES = [
+  { file: "vereinsseiten.json", label: "Baden-Wuerttemberg" },
+  { file: "vereinsseiten_bayern.json", label: "Bayern" },
 ];
+const FALLBACK_DATA_FILES = ["filtered-vereinsseiten.json", "filtered vereinsseiten.json", "filtered_vereinsseiten.json"];
 const SEARCH_TERM = "verein";
 const PLURAL_SEARCH_TERM = "vereine";
 const LOW_CONFIDENCE_SCORE = 10;
@@ -169,6 +168,7 @@ function normalizeData(data) {
         typ: entry.typ,
         bundesland: entry.bundesland,
         webseite: entry.webseite,
+        datenquelle: entry.datenquelle,
         vereinsseiten,
       };
     })
@@ -188,24 +188,57 @@ function formatNumber(value) {
   return new Intl.NumberFormat("de-DE").format(value);
 }
 
-async function loadDefaultData() {
-  for (const fileName of DATA_FILES) {
-    try {
-      const response = await fetch(encodeURI(fileName), { cache: "no-store" });
-      if (!response.ok) {
-        continue;
-      }
+async function fetchJson(fileName) {
+  const response = await fetch(encodeURI(fileName), { cache: "no-store" });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
 
-      const data = await response.json();
+  return response.json();
+}
+
+async function loadDefaultData() {
+  const loadedSources = [];
+
+  for (const source of DATA_SOURCES) {
+    try {
+      const data = await fetchJson(source.file);
+      loadedSources.push({
+        name: source.file,
+        data,
+      });
+    } catch {
+      // Keep loading the other state files.
+    }
+  }
+
+  if (loadedSources.length > 0) {
+    setData(
+      loadedSources.flatMap((source) => dataWithSource(source.data, source.name)),
+      loadedSources.map((source) => source.name).join(" + ")
+    );
+    return;
+  }
+
+  for (const fileName of FALLBACK_DATA_FILES) {
+    try {
+      const data = await fetchJson(fileName);
       setData(data, fileName);
       return;
     } catch {
-      // Try the next known filename.
+      // Try the next known fallback filename.
     }
   }
 
   elements.sourceLabel.textContent = "Keine JSON geladen";
   render();
+}
+
+function dataWithSource(data, sourceName) {
+  return (Array.isArray(data) ? data : []).map((entry) => ({
+    ...entry,
+    datenquelle: sourceName,
+  }));
 }
 
 function setData(data, sourceName) {

@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Abenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40997963439",
+    "webseite": "http://www.stadt-abenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Abensberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24220186439",
+    "webseite": "https://www.abensberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine\n                                                            →",
+        "url": "https://www.abensberg.de/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "04.05.2026\n                            \n                Knapp 200 Gartler in Abensberg\n                    Bezirksversammlung der Gartenbauvereine",
+        "url": "https://www.abensberg.de/aktuelles/knapp-200-gartler-in-abensberg-aktuelles-19131",
+        "score": 20
+      },
+      {
+        "titel": "08.05.2026\n                \n                                        Freizeit, Kultur / Kunst / Musik, Junge Leute, Familie, Jugend, Senioren\n                        \n                Das Abschiedsdinner\n            \n            \n                Theater am Bahnhof",
+        "url": "https://www.abensberg.de/kalender/das-abschiedsdinner-veranstaltung-17728",
+        "score": 20
+      },
+      {
+        "titel": "10.05.2026\n                \n                                        Freizeit, Kultur / Kunst / Musik\n                        \n                Nico Graz\n            \n            \n                Kreuzgang",
+        "url": "https://www.abensberg.de/kalender/nico-graz-veranstaltung-15182",
+        "score": 20
+      },
+      {
+        "titel": "Kulturreihen\n                                                                                                                                                                    Frühlingsgefühle, Novembernebel, Musiksonntag",
+        "url": "https://www.abensberg.de/touristik/erleben/kulturreihen",
+        "score": 10
+      },
+      {
+        "titel": "Kultur\n                                                                                                                                                                    Museum, VHS, Partnerstädte",
+        "url": "https://www.abensberg.de/buergerservice/rathaus/museum",
+        "score": 10
+      },
+      {
+        "titel": "08.05.2026\n                \n                                        Feste / Märkte, Freizeit, Kulinarisches\n                        \n                kleiner Wochenmarkt\n            \n            \n                Aventinusplatz",
+        "url": "https://www.abensberg.de/kalender/kleiner-wochenmarkt-veranstaltung-18902",
+        "score": 10
+      },
+      {
+        "titel": "09.05.2026\n                \n                                        Kultur / Kunst / Musik\n                        \n                40 Jahre Städtepartnerschaft mit Parga\n            \n            \n                Parga, Griechenland",
+        "url": "https://www.abensberg.de/kalender/40-jahre-stadtepartnerschaft-mit-parga-veranstaltung-18720",
+        "score": 10
+      },
+      {
+        "titel": "09.05.2026\n                \n                                        Führungen, Freizeit, Familie\n                        \n                Klassische Stadtführung \n            \n            \n                Rathaus am Stadtplatz",
+        "url": "https://www.abensberg.de/kalender/klassische-stadtfuhrung--veranstaltung-6329",
+        "score": 10
+      },
+      {
+        "titel": "11.05.2026\n                \n                                        Kultur / Kunst / Musik\n                        \n                John Q Irritated\n            \n            \n                stanxxs",
+        "url": "https://www.abensberg.de/kalender/john-q-irritated-veranstaltung-18843",
+        "score": 10
+      },
+      {
+        "titel": "14.05.2026\n                \n                                        Kultur / Kunst / Musik\n                        \n                Matinée: Brunch trifft TubAkkord\n            \n            \n                Abensberger Kaffeerösterei",
+        "url": "https://www.abensberg.de/kalender/matinee--brunch-trifft-tubakkord-veranstaltung-19067",
+        "score": 10
+      },
+      {
+        "titel": "15.05.2026\n                \n                                        Feste / Märkte, Freizeit, Kulinarisches\n                        \n                kleiner Wochenmarkt \n            \n            \n                Aventinusplatz",
+        "url": "https://www.abensberg.de/kalender/kleiner-wochenmarkt--veranstaltung-18903",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.abensberg.de/kontakt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Absberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39442185487",
+    "webseite": "https://www.absberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Abtswind",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56219962487",
+    "webseite": "http://www.abtswind.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.abtswind.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Tourismusverein",
+        "url": "https://www.tourismus-abtswind.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Achslach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72997739487",
+    "webseite": "http://www.achslach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://daten2.verwaltungsportal.de/dateien/seitengenerator/leitfaden_vereinsfeiern_1_.pdf",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Adelschlag",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89775516487",
+    "webseite": "https://www.adelschlag.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.adelschlag.de/oertliche-einrichtungen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Förderungen",
+        "url": "https://www.adelschlag.de/oertliche-einrichtungen/vereine/foerderungen/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Adelsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06553293488",
+    "webseite": "https://www.adelsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.adelsdorf.de/leben/vereine/hilfreiche-infos-fuer-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://adelsdorf.communicetime.de/terminbuchung/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.adelsdorf.de/leben/fuer-unsere-senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.adelsdorf.de/erleben/kultur/eisenbahn",
+        "score": 10
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.adelsdorf.de/erleben/kultur/fuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.adelsdorf.de/erleben/kultur/museen",
+        "score": 10
+      },
+      {
+        "titel": "Schlösser",
+        "url": "https://www.adelsdorf.de/erleben/kultur/schloesser",
+        "score": 10
+      },
+      {
+        "titel": "Theater",
+        "url": "https://www.adelsdorf.de/erleben/kultur/theater",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit aktiv gestalten",
+        "url": "https://www.adelsdorf.de/erleben/freizeit-aktiv-gestalten",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitflächen & Spielplätze",
+        "url": "https://www.adelsdorf.de/erleben/freizeit-aktiv-gestalten/freizeitflaechen-spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Wandern rund um Adelsdorf",
+        "url": "https://www.adelsdorf.de/erleben/freizeit-aktiv-gestalten/wandern-rund-um-adelsdorf",
+        "score": 10
+      },
+      {
+        "titel": "Radeln rund um Adelsdorf",
+        "url": "https://www.adelsdorf.de/erleben/freizeit-aktiv-gestalten/radeln-rund-um-adelsdorf",
+        "score": 10
+      },
+      {
+        "titel": "Naherholungsgebiet Eisweiher",
+        "url": "https://www.adelsdorf.de/erleben/freizeit-aktiv-gestalten/naherholungsgebiet-eisweiher",
+        "score": 10
+      },
+      {
+        "titel": "Sankt-Anna-Weg",
+        "url": "https://www.adelsdorf.de/erleben/freizeit-aktiv-gestalten/sankt-anna-weg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Adelshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23331070488",
+    "webseite": "http://www.gemeinde-adelshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.gemeinde-adelshofen.de/vereine-adelshofen",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Adelshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40108847488",
+    "webseite": "https://www.adelshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.adelshofen.de/Leben-Wohnen/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.adelshofen.de/Tourismus-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.adelshofen.de/Tourismus-Freizeit/Ausflugsziele.html",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.adelshofen.de/Tourismus-Freizeit/Wanderwege.html",
+        "score": 10
+      },
+      {
+        "titel": "Gasthäuser",
+        "url": "https://www.adelshofen.de/Tourismus-Freizeit/Gasthaeuser.html",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.adelshofen.de/Tourismus-Freizeit/Ferienwohnungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Events",
+        "url": "https://www.adelshofen.de/Tourismus-Freizeit/Events.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Adelsried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56886624488",
+    "webseite": "https://www.gemeinde-adelsried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Angebote für Kinder, Jugendliche und Senioren",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/angebote-fuer-kinder-jugendliche-und-senioren",
+        "score": 50
+      },
+      {
+        "titel": "Bayerische Ehrenamtskarte",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/neuigkeiten",
+        "score": 50
+      },
+      {
+        "titel": "Behindertenbeauftragte",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/behindertenbeauftragte",
+        "score": 50
+      },
+      {
+        "titel": "Jugendbeauftragte",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/jugendbeauftragte",
+        "score": 50
+      },
+      {
+        "titel": "Nachbarschaftshilfe",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/angebote-fuer-kinder-jugendliche-und-senioren/nachbarschaftshilfe",
+        "score": 50
+      },
+      {
+        "titel": "Seniorenbeauftragte",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/seniorenbeauftragte",
+        "score": 50
+      },
+      {
+        "titel": "Sozialfonds Adelsried",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/sozialfonds-adelsried",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.adelsried.de/de/leben/vereine-organisationen/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Adelzhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73664401488",
+    "webseite": "http://www.adelzhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.adelzhausen.de/leben-erleben/freizeit-ehrenamt-kultur/vereine-und-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit, Ehrenamt & Kultur",
+        "url": "https://www.adelzhausen.de/leben-erleben/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.adelzhausen.de/leben-erleben/freizeit-ehrenamt-kultur/ehrenamt",
+        "score": 20
+      },
+      {
+        "titel": "Natur und Umgebung",
+        "url": "https://www.adelzhausen.de/leben-erleben/freizeit-ehrenamt-kultur/natur-und-umgebung",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Adlkofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90442178488",
+    "webseite": "http://www.adlkofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.adlkofen.de/gemeindeleben/vereine-und-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/anreise-und-nahverkehr/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/freizeitangebote/",
+        "score": 10
+      },
+      {
+        "titel": "Naherholung",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/naherholung/",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradfahren und Wandern",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/fahrradfahren-und-wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Denkmäler",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/denkmaeler/",
+        "score": 10
+      },
+      {
+        "titel": "Automuseum",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/automuseum/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtung",
+        "url": "https://www.adlkofen.de/freizeit-und-tourismus/uebernachtung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Affing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07219955489",
+    "webseite": "http://www.affing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aham",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23997732489",
+    "webseite": "http://www.gerzen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Gemeinde- und Vereinsleben",
+        "url": "https://www.gerzen.de/Gemeinde-und-Vereinsleben.n241.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aholfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40775509489",
+    "webseite": "http://www.aholfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aholming",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57553286489",
+    "webseite": "https://www.aholming.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aholming.de/freizeitvereinekultur/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.aholming.de/freizeitvereinekultur/kultur/",
+        "score": 40
+      },
+      {
+        "titel": "Rufbus\n                                \n                                                            Informationen zum Rufbus.",
+        "url": "https://www.aholming.de/freizeitvereinekultur/senioren/",
+        "score": 40
+      },
+      {
+        "titel": "KULUTRmobil am 04.07.2026\n                            \n                        \n                            Am 4. Juli 2026 macht das Kulturmobil erneut in unserer Gemeinde Halt und lädt Sie zu einem stimmungsvollen kulturellen...",
+        "url": "https://www.aholming.de/aktuelles/aktuelle-meldungen/kulturmobil-am-04072026/",
+        "score": 10
+      }
+    ]
+  }
+]
