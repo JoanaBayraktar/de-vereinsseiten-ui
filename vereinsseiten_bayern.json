@@ -468,5 +468,4059 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Ahorn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74331063489",
+    "webseite": "http://www.ahorn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/freiwillige-feuerwehr/",
+        "score": 60
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/sportvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Musikvereine",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/musikvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Gartenbau und Ortsverschönerungsvereine",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/gartenbau-und-ortsverschoenerungsvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Förderkreis Ahorn e.V.",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/foerderkreis-ahorn-e-v/",
+        "score": 60
+      },
+      {
+        "titel": "Begräbniskasse",
+        "url": "https://www.ahorn.de/tourismus-freizeit/vereine/begraebniskasse/",
+        "score": 60
+      },
+      {
+        "titel": "Vereinssport",
+        "url": "https://www.ahorn.de/bildung-soziales/lehrschwimmbad/vereinssport/",
+        "score": 30
+      },
+      {
+        "titel": "Kulturhalle Witzmannsberg",
+        "url": "https://www.ahorn.de/tourismus-freizeit/veranstaltungsraeume/kulturhalle-witzmannsberg/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Ahorntal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91108840489",
+    "webseite": "https://www.ahorntal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aicha vorm Wald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07886617490",
+    "webseite": "https://aichavormwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturelles",
+        "url": "https://aichavormwald.de/aichaer-heimatlied",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aichach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59109064441",
+    "webseite": "http://www.aichach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aichen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24664394490",
+    "webseite": "https://www.vgziemetshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aidenbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41442171490",
+    "webseite": "http://www.aidenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aidhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58219948490",
+    "webseite": "http://www.aidhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aidhausen.de/DE/Vereine.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Aiglsbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74997725490",
+    "webseite": "https://www.aiglsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aindling",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91775502490",
+    "webseite": "https://www.aindling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsförderrichtlinien",
+        "url": "https://www.aindling.de/vereinsfoerderrichtlinien",
+        "score": 30
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.aindling.de/kultur-und-freizeit-aindling",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.aindling.de/Vereine.n45.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Ainring",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08553279491",
+    "webseite": "http://www.ainring.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Verein für Heimat und Tourismus Ainring e.V.",
+        "url": "https://www.ainring-urlaub.de/",
+        "score": 10
+      },
+      {
+        "titel": "weiterlesen",
+        "url": "https://www.ainring.de/fruehshoppen-des-burschenverein-ainring",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aislingen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25331056491",
+    "webseite": "http://www.aislingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://aislingen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://aislingen.de/freizeitangebote/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aiterhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42108833491",
+    "webseite": "http://www.aiterhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.aiterhofen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Erholung",
+        "url": "https://www.aiterhofen.de/freizeit-und-erholung/",
+        "score": 10
+      },
+      {
+        "titel": "mehr erfahren",
+        "url": "https://www.aiterhofen.de/veranstaltungen/schuetzenverein-gemuetlichkeit-geltolfing-koenigsfeier/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aitrang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58886610491",
+    "webseite": "https://www.aitrang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Albaching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75664387491",
+    "webseite": "http://www.albaching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.albaching.de/freizeit-sport/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    07\n                                                Müllabfuhr in Albaching",
+        "url": "https://www.pfaffing.de/freizeit-sport/veranstaltungen/veranstaltungskalender/veranstaltung/muellabfuhr-in-albaching/2026-05-07?cHash=bbb18d0c42e829f55d3ebb2dd739879d",
+        "score": 10
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    01\n                                                Umweltmobil für Problemabfälle, Wertstoffhof, 10.30 Uhr bis 11.30 Uhr",
+        "url": "https://www.pfaffing.de/freizeit-sport/veranstaltungen/veranstaltungskalender/veranstaltung/umweltmobil-fuer-problemabfaelle-wertstoffhof-1030-uhr-bis-1145-uhr/2026-07-01?cHash=d0016f998f07de1c3e841f37aa1c8e23",
+        "score": 10
+      },
+      {
+        "titel": "Alle Veranstaltungen",
+        "url": "https://www.pfaffing.de/freizeit-sport/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.pfaffing.de/freizeit-sport/veranstaltungen/veranstaltungskalender/einreichen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Albertshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92442164491",
+    "webseite": "http://www.albertshofen.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aldersbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09219941492",
+    "webseite": "http://www.aldersbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Alerheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25997718492",
+    "webseite": "https://www.alerheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Rieser Kulturtage",
+        "url": "https://www.rieser-kulturtage.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Alesheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42775495492",
+    "webseite": "http://www.gemeinde-alesheim.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aletshausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59553272492",
+    "webseite": "http://www.aletshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Alfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76331049492",
+    "webseite": "http://www.alfeld-mfr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.alfeld-mfr.de/kultur-sport-und-freizeit/vereine-und-verbaende/",
+        "score": 70
+      },
+      {
+        "titel": "Gratis Kids Comic Tag\n                                                \n        \n            \n                am 09.05.2026\n            \n        \n    \n    \n        \n            \n                ab 14:00 Uhr  \n            \n        \n    \n    \n        \n            Bauwagen, \n\n            \n            \n        \n    \n    \n        \n            Kulturverein Alfeld e. V.\n        \n    \n    \n        \n            Vereine",
+        "url": "https://www.alfeld-mfr.de/aktuelles/veranstaltungen/gratis-kids-comic-tag/",
+        "score": 30
+      },
+      {
+        "titel": "Kultur, Sport und Freizeit",
+        "url": "https://www.alfeld-mfr.de/kultur-sport-und-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.alfeld-mfr.de/kultur-sport-und-freizeit/kirchen/",
+        "score": 20
+      },
+      {
+        "titel": "Serenade - Vier Linden - Alfeld\n                                                \n        \n            \n                am 20.06.2026\n            \n        \n    \n    \n        \n            \n                ab 19:00 Uhr  \n            \n        \n    \n    \n        \n            Alfeld, Alfeld\n\n            \n            \n        \n    \n    \n        \n            Gesangverein Alfeld 1852 e. V.\n        \n    \n    \n        \n            Musik",
+        "url": "https://www.alfeld-mfr.de/aktuelles/veranstaltungen/serenade-vier-linden-alfeld/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Allersberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93108826492",
+    "webseite": "https://www.allersberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.allersberg.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "von A bis Z",
+        "url": "https://www.allersberg.de/freizeitangebote/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur und Tourismus",
+        "url": "https://www.allersberg.de/poi/kultur-_und_tourismusbuero_all-9192/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung im Bürgerbüro",
+        "url": "https://www.allersberg.de/rathaus/oeffnungszeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://cm-terminreservierung.de/allersberg?calendarId=157",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Allershausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09886603493",
+    "webseite": "http://www.allershausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://allershausen.de/ortsplan/?jsf=jet-engine:stadtplan-query-id&tax=adressen-kategorie:454",
+        "score": 20
+      },
+      {
+        "titel": "<img loading=\"lazy\" decoding=\"async\" width=\"1020\" height=\"900\" src=\"https://allershausen.de/wp-content/uploads/2025/04/Logo-ILE.png\" alt=\"\" srcset=\"https://allershausen.de/wp-content/uploads/2025/04/Logo-ILE.png 1020w, https://allershausen.de/wp-content/uploads/2025/04/Logo-ILE-300x265.png 300w, https://allershausen.de/wp-content/uploads/2025/04/Logo-ILE-768x678.png 768w\" sizes=\"(max-width: 1020px) 100vw, 1020px\"/>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tKulturraum Ampertal",
+        "url": "https://kulturraum-ampertal.de/",
+        "score": 10
+      },
+      {
+        "titel": "Kunst & Kultur",
+        "url": "https://www.kunst-und-kultur-allershausen.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Alling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26664380493",
+    "webseite": "https://www.alling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Gruppen, Parteien",
+        "url": "https://www.alling.de/unser-alling/ehrenamt/vereine-gruppen-parteien",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.alling.de/freizeit-naherholung/vereinsleben",
+        "score": 40
+      },
+      {
+        "titel": "Vereinsportraits",
+        "url": "https://www.alling.de/freizeit-naherholung/vereinsleben/vereinsportraits",
+        "score": 40
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    18\n                                                Terminabsprache 2027 der Vereine & Institutionen\n                                                                Feuerwehrraum, Hoflacher Straße 5, Alling",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen/veranstaltungskalender/veranstaltung/terminabsprache-2021der-vereine-institutionen-24/2026-11-18?cHash=6aaa8004cd23798b89a94534c7b28b4f",
+        "score": 30
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen/kunst-und-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    09\n                                                Veteranen- und Soldatenverein: Mitgliederausflug",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen/veranstaltungskalender/veranstaltung/veteranen-und-soldatenverein-mitgliederausflug-203/2026-05-09?cHash=4d5416c8d958e1821f095b6ade90e531",
+        "score": 20
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    04\n                                                Veteranen- & Soldatenverein: Traditionelles Grillfest\n                                                                Metz-Hof, Edelfeldweg",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen/veranstaltungskalender/veranstaltung/veteranen-soldatenverein-traditionelles-grillfest/2026-07-04?cHash=6cd99ba1985bff8e3d5c7b386b82eb67",
+        "score": 20
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    04\n                                                Veteranen- und Soldatenverein: Marktstand Franziskusmarkt Lannach\n                                                                A- 8502 Lannach/Steiermark",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen/veranstaltungskalender/veranstaltung/veteranen-und-soldatenverein-marktstand-franziskusmarkt-lannach-208/2026-10-04?cHash=5881f74da14c60328ea38e4ff4aa43e9",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.alling.de/leben-in-alling/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Naherholung",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.alling.de/freizeit-naherholung/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Allmannshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43442157493",
+    "webseite": "http://www.allmannshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60219934493",
+    "webseite": "http://www.markt-altdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altdorf b.Nürnberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75220179440",
+    "webseite": "http://www.altdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Alteglofsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76997711493",
+    "webseite": "http://www.gemeinde-alteglofsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.alteglofsheim.de/freizeit-kultur/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Wieskapelle",
+        "url": "https://www.alteglofsheim.de/freizeit-kultur/wieskapelle/",
+        "score": 20
+      },
+      {
+        "titel": "Dreifaltigkeitskapelle",
+        "url": "https://www.alteglofsheim.de/freizeit-kultur/dreifaltigkeitskapelle/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.unser-ferienprogramm.de/vg-alteglofsheim/index.php",
+        "score": 20
+      },
+      {
+        "titel": "Einwohnermeldeamt Terminvereinbarung",
+        "url": "https://vgalteglofsheim.as.me/schedule/7135df18",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altenbuch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93775488493",
+    "webseite": "http://www.altenbuch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Wandern",
+        "url": "https://www.altenbuch.de/tourismus-kultur/freizeitangebote/wandern/",
+        "score": 20
+      },
+      {
+        "titel": "Kastrationsfonds für Freigängerkatzen im Landkreis Miltenberg\n                                    Ab dem 01.01.2026 bieten regionale Tierschutzvereine einen Kastrationsfonds für einkommensschwache Katzenhalter:innen im Landkreis Miltenberg an.",
+        "url": "https://www.altenbuch.de/altenbuch/pressemeldungen/kastrationsfonds-fuer-freigaengerkatzen-im-landkreis-miltenberg/",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.altenbuch.de/tourismus-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.altenbuch.de/tourismus-kultur/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Kirche",
+        "url": "https://www.altenbuch.de/tourismus-kultur/kirche/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen 2026",
+        "url": "https://www.altenbuch.de/tourismus-kultur/veranstaltungen-2026/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10553265494",
+    "webseite": "https://www.gemeinde-altendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-altendorf.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Einrichtungen & Vereine",
+        "url": "https://www.gemeinde-altendorf.de/buerger-gemeinde/einrichtungen-vereine/kommunale-einrichtungen/",
+        "score": 20
+      },
+      {
+        "titel": "Ämter & Dienststellen",
+        "url": "https://www.gemeinde-altendorf.de/buerger-gemeinde/einrichtungen-vereine/aemter-dienststellen/",
+        "score": 20
+      },
+      {
+        "titel": "Familie & Freizeit",
+        "url": "https://www.gemeinde-altendorf.de/leben-wohnen/familie-freizeit/kinderferienprogramm/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.gemeinde-altendorf.de/leben-wohnen/familie-freizeit/sport-spiel/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.gemeinde-altendorf.de/tourismus-kultur/touristik/tourismusverbaende/",
+        "score": 10
+      },
+      {
+        "titel": "Naturpark Oberpfälzer Wald",
+        "url": "https://www.gemeinde-altendorf.de/tourismus-kultur/touristik/naturpark-oberpfaelzer-wald/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.gemeinde-altendorf.de/tourismus-kultur/touristik/unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.gemeinde-altendorf.de/tourismus-kultur/geschichte/altendorf/",
+        "score": 10
+      },
+      {
+        "titel": "Wappen",
+        "url": "https://www.gemeinde-altendorf.de/tourismus-kultur/geschichte/wappen/",
+        "score": 10
+      },
+      {
+        "titel": "19.06.2026 Vereinsabend mit Fotoshow SVA",
+        "url": "https://www.gemeinde-altendorf.de/startseite/veranstaltungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27331042494",
+    "webseite": "http://www.altendorf-gemeinde.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altenkunstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44108819494",
+    "webseite": "http://www.altenkunstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ortsvereine",
+        "url": "https://www.altenkunstadt.de/altenkunstadt-erleben/ortsvereine",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Altenmarkt a.d.Alz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60886596494",
+    "webseite": "https://www.altenmarkt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.altenmarkt.de/vereine-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "www.traunstein.bayern",
+        "url": "https://www.traunstein.com/aktuelles/news-pressemitteilungen/der-freizeitpass-2026-des-landkreises-traunstein-ist-da",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen\n                In unserer kleinen Gemeinde ist viel los. Bei Angeboten, die von Kunst und Kultur, Sport, Kirche, Politik oder Familienfesten reichen, kommt garantiert jeder auf seine Kosten.",
+        "url": "https://www.altenmarkt.de/veranstaltungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altenmünster",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77664373494",
+    "webseite": "https://www.altenmuenster.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.altenmuenster.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit + Tourismus",
+        "url": "https://www.altenmuenster.de/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Übernachtung",
+        "url": "https://www.altenmuenster.de/freizeit-tourismus/gaststatten-ubernachtung",
+        "score": 10
+      },
+      {
+        "titel": "Naturpark Augsburg - Westliche Wälder",
+        "url": "https://www.altenmuenster.de/freizeit-tourismus/naturpark-augsburg-westliche-walder",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.altenmuenster.de/freizeit-tourismus/spielplatze",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwegenetz",
+        "url": "https://www.altenmuenster.de/freizeit-tourismus/wanderwegenetz",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altenstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94442150494",
+    "webseite": "http://www.altenstadt-oberbayern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsatzung",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/der-verein/vereinsatzung",
+        "score": 70
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.altenstadt-obb.de/vereine/kultur",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.altenstadt-obb.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kulze",
+        "url": "https://www.altenstadt-obb.de/vereine/kulze",
+        "score": 50
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.altenstadt-obb.de/vereine/ausstellungen",
+        "score": 50
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.altenstadt-obb.de/vereine/sport",
+        "score": 50
+      },
+      {
+        "titel": "Verbände",
+        "url": "https://www.altenstadt-obb.de/vereine/verbaende",
+        "score": 50
+      },
+      {
+        "titel": "KAB",
+        "url": "https://www.altenstadt-obb.de/vereine/verbaende/kab",
+        "score": 50
+      },
+      {
+        "titel": "Frauenbund Schwabniederhofen",
+        "url": "https://www.altenstadt-obb.de/vereine/verbaende/frauenbund-schwabniederhofen",
+        "score": 50
+      },
+      {
+        "titel": "Sonstige",
+        "url": "https://www.altenstadt-obb.de/vereine/sonstige",
+        "score": 50
+      },
+      {
+        "titel": "TSV Schwabniederhofen",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/startseite",
+        "score": 50
+      },
+      {
+        "titel": "Stockschießen",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/startseite/stockschiessen",
+        "score": 50
+      },
+      {
+        "titel": "Boule",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/startseite/boule",
+        "score": 50
+      },
+      {
+        "titel": "Bogenschießen",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/startseite/bogenschiessen",
+        "score": 50
+      },
+      {
+        "titel": "Der Verein",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/der-verein",
+        "score": 50
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.altenstadt-obb.de/vereine/tsv-schwabniederhofen/der-verein/geschichte",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Altenstadt",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11219927495",
+    "webseite": "http://www.altenstadt-iller.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Änderungsmitteilung und Einverständniserklärung zur Veröffentlichung der Vereinsvorstandsdaten",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/unsere-vereine/aenderungsmitteilung-und-einverstaendniserklaerung-zur-veroeffentlichung-der-vereinsvorstandsdaten",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/unsere-vereine/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Antrag auf Bezuschussung der Kinder- und Jugendarbeit",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/unsere-vereine/antrag-auf-bezuschussung-der-kinder-und-jugendarbeit",
+        "score": 30
+      },
+      {
+        "titel": "Unsere Gastgeber",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/unsere-gastgeber/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Feste und Märkte",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/was-ist-los-in-altenstadt/feste-und-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Wandern und Radfahren",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/sport-und-freizeit/wandern-und-radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Baden",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/sport-und-freizeit/baden",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.altenstadt-iller.de/freizeit-und-tourismus/unsere-gastgeber/uebernachten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altenstadt a.d.Waldnaab",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27997704495",
+    "webseite": "http://www.altenstadt-waldnaab.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "",
+        "url": "https://www.altenstadt-waldnaab.de/aktuelles/neues-digitales-veranstaltungsformat-wissenehrenamt-unterstuetzung-fuer-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Fifty-Fifty-Taxi",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/fifty-fifty-taxi",
+        "score": 10
+      },
+      {
+        "titel": "Vatertags-Frühschoppen",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/veranstaltungskalender/veranstaltung/vatertags-fruehschoppen",
+        "score": 10
+      },
+      {
+        "titel": "14. Bierfest der Feuerwehr Altenstadt/WN mit der Brauerei Eismann",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/veranstaltungskalender/veranstaltung/14-bierfest-der-feuerwehr-altenstadt-wn-mit-der-brauerei-eismann",
+        "score": 10
+      },
+      {
+        "titel": "Pfingstfeuer",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/veranstaltungskalender/veranstaltung/pfingstfeuer",
+        "score": 10
+      },
+      {
+        "titel": "Museums-Kaffee auf dem Pfarrplatz während der Öffnungszeiten",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/veranstaltungskalender/veranstaltung/museums-kaffee-auf-dem-pfarrplatz-waehrend-der-oeffnungszeiten",
+        "score": 10
+      },
+      {
+        "titel": "Johannisfeuer auf dem BSG Gelände",
+        "url": "https://www.altenstadt-waldnaab.de/freizeit/veranstaltungskalender/veranstaltung/johannisfeuer-auf-dem-bsg-gelaende",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Altenthann",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44775481495",
+    "webseite": "http://www.altenthann.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/freizeit/sehenswertes/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Heimatmuseum Altenthann",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/kultur/heimatmuseum-altenthann/",
+        "score": 20
+      },
+      {
+        "titel": "Ortsheimatpfleger",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/kultur/ortsheimatpfleger/",
+        "score": 20
+      },
+      {
+        "titel": "Fürstlicher Thiergarten",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/tourismus/fuerstlicher-thiergarten/",
+        "score": 20
+      },
+      {
+        "titel": "ILE Vorderer Bayerischer Wald",
+        "url": "https://www.altenthann.de/kultur-freizeit-und-tourismus/ile-vorderer-bayerischer-wald/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Altertheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61553258495",
+    "webseite": "https://www.altertheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altfraunhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78331035495",
+    "webseite": "http://www.altfraunhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Althegnenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95108812495",
+    "webseite": "http://www.althegnenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.althegnenberg.de/vereine-althegnenberg",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Altmannstein",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11886589496",
+    "webseite": "http://www.altmannstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altötting",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07442409439",
+    "webseite": "http://www.altoetting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altomünster",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28664366496",
+    "webseite": "https://www.altomuenster.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altusried",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45442143496",
+    "webseite": "http://www.altusried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.altusried.de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.altusried.de/freizeit/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.altusried.de/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.altusried.de/freizeit/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.altusried.de/freizeit/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Gästeinformation & Urlaub",
+        "url": "https://www.altusried.de/freizeit/gaesteinformation-urlaub",
+        "score": 10
+      },
+      {
+        "titel": "Urlaubsort Altusried",
+        "url": "https://www.altusried.de/freizeit/gaesteinformation-urlaub/urlaubsort-altusried",
+        "score": 10
+      },
+      {
+        "titel": "Gästezimmer & Ferienwohnungen",
+        "url": "https://www.altusried.de/freizeit/gaesteinformation-urlaub/gaestezimmer-ferienwohnungen",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobil-Stellplatz",
+        "url": "https://www.altusried.de/freizeit/gaesteinformation-urlaub/wohnmobil-stellplatz",
+        "score": 10
+      },
+      {
+        "titel": "Kontakt Gästeinformation",
+        "url": "https://www.altusried.de/freizeit/gaesteinformation-urlaub/kontakt-gaesteinformation",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.altusried.de/freizeit/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://www.altusried.de/freizeit/hallenbad",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.altusried.de/freizeit/wandern-radfahren/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.altusried.de/freizeit/wandern-radfahren/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Hängebrücke",
+        "url": "https://www.altusried.de/freizeit/wandern-radfahren/haengebruecke",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes & Ausflugsziele",
+        "url": "https://www.altusried.de/freizeit/sehenswertes-ausflugsziele/sehenswertes",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Alzenau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57775740439",
+    "webseite": "http://www.alzenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Amberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62219920496",
+    "webseite": "http://www.gemeinde-amberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Verbände & Einrichtungen",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "FSV Amberg 1949 e.V.",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/fsv-amberg-1949-ev",
+        "score": 50
+      },
+      {
+        "titel": "Schützenlust 1904 e.V.",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/schuetzenlust-1904-ev",
+        "score": 50
+      },
+      {
+        "titel": "Gartenbau-Verein",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/gartenbau-verein",
+        "score": 50
+      },
+      {
+        "titel": "Musikkapelle Amberg e.V.",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/musikkapelle",
+        "score": 50
+      },
+      {
+        "titel": "Motorradfreunde",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/motorradfreunde",
+        "score": 50
+      },
+      {
+        "titel": "Veteranen-, Soldaten- & Kameradschaftsverein",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/veteranen-soldaten-kameradschaftsverein",
+        "score": 50
+      },
+      {
+        "titel": "Angelverein Amberg",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/vereine/fsv-amberg-1949-ev-1",
+        "score": 50
+      },
+      {
+        "titel": "Einrichtungen",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/einrichtungen",
+        "score": 50
+      },
+      {
+        "titel": "Quartiersbüro",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/einrichtungen/quartiersbuero-fachstelle-aelterwerden",
+        "score": 50
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/einrichtungen/freiwillige-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Kinderhaus Amberg",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/einrichtungen/kinderhaus-amberg",
+        "score": 50
+      },
+      {
+        "titel": "Gasthaus Zum Kaiserwirt",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/einrichtungen/gasthaus-zum-kaiserwirt",
+        "score": 50
+      },
+      {
+        "titel": "Dorfgemeinschaftshaus",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/einrichtungen/dorfgemeinschaftshaus",
+        "score": 50
+      },
+      {
+        "titel": "Verbände",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Teilnehmergemeinschaft Dorferneuerung",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/verbaende/teilnehmergemeinschaft-dorferneuerung",
+        "score": 50
+      },
+      {
+        "titel": "Bürgergemeinschaft e.V.",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/verbaende/buergergemeinschaft-ev",
+        "score": 50
+      },
+      {
+        "titel": "Katholischer Frauenbund",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/verbaende/katholischer-frauenbund",
+        "score": 50
+      },
+      {
+        "titel": "Seniorenkreis",
+        "url": "https://www.gemeinde-amberg.de/vereine-verbaende-einrichtungen/verbaende/seniorenkreis",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Amberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72775985386",
+    "webseite": "https://www.amberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Amerang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78997697496",
+    "webseite": "http://www.amerang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Lebendiges Vereinsleben",
+        "url": "https://www.amerang.de/leben-in-amerang/lebendiges-vereinsleben/vereinsregister",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.amerang.de/leben-in-amerang/lebendiges-vereinsleben/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.amerang.de/leben-in-amerang/wirtschaft-und-gewerbe/gewerbeverein",
+        "score": 10
+      },
+      {
+        "titel": "Kultur genießen",
+        "url": "https://www.amerang.de/amerang-erleben/kultur-geniessen/schloss-amerang",
+        "score": 10
+      },
+      {
+        "titel": "EFA Mobile Zeiten",
+        "url": "https://www.amerang.de/amerang-erleben/kultur-geniessen/efa-mobile-zeiten",
+        "score": 10
+      },
+      {
+        "titel": "Freilichtmuseum",
+        "url": "https://www.amerang.de/amerang-erleben/kultur-geniessen/bauernhausmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Kunst im Rathaus",
+        "url": "https://www.amerang.de/amerang-erleben/kultur-geniessen/kunst-im-rathaus",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Amerdingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95775474496",
+    "webseite": "http://www.amerdingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amerdingen.de/index.php/vereine",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.amerdingen.de/index.php/vereine-fuer-kacheln",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.amerdingen.de/images/rga/1200x900/images/Kachelbilder/vereine.jpg",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.amerdingen.de/index.php/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.amerdingen.de/images/rga/1200x900/images/Kachelbilder/freizeit.jpg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ammerndorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12553251497",
+    "webseite": "http://www.ammerndorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Heimat, Kultur, Bücherei",
+        "url": "https://www.ammerndorf.de/heimat,-kultur,-buecherei.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ammerthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29331028497",
+    "webseite": "https://www.ammerthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/sehenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitaktivit�ten",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/freizeitaktivitaeten/",
+        "score": 10
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/impressionen/",
+        "score": 10
+      },
+      {
+        "titel": "Werde Mitglied der FFW",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/mitglied-ffw/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Anfahrts- / Ortsplan",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/anfahrt-ortsplan/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.ammerthal.de/tourismus-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Amorbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08775733441",
+    "webseite": "http://www.amorbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "› Vereinsliste",
+        "url": "https://www.amorbach.de/freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "› Kultur",
+        "url": "https://www.amorbach.de/freizeit/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "› Zehntscheuer",
+        "url": "https://www.amorbach.de/freizeit/kultur/zehntscheuer/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.amorbach.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "› Freizeitanlagen",
+        "url": "https://www.amorbach.de/freizeit/freizeitanlagen/",
+        "score": 10
+      },
+      {
+        "titel": "› Musik & Tanz",
+        "url": "https://www.amorbach.de/freizeit/musik-tanz/",
+        "score": 10
+      },
+      {
+        "titel": "› Sport",
+        "url": "https://www.amorbach.de/freizeit/sport/",
+        "score": 10
+      },
+      {
+        "titel": "› Wandern & Nordic Walking",
+        "url": "https://www.amorbach.de/freizeit/wandern-nordic-walking/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Erleben",
+        "url": "https://www.amorbach.de/kultur-erleben/",
+        "score": 10
+      },
+      {
+        "titel": "› Sehenswertes",
+        "url": "https://www.amorbach.de/kultur-erleben/hoehepunkte/",
+        "score": 10
+      },
+      {
+        "titel": "› Märkte",
+        "url": "https://www.amorbach.de/kultur-erleben/maerkte/",
+        "score": 10
+      },
+      {
+        "titel": "› Veranstaltungen",
+        "url": "https://www.amorbach.de/kultur-erleben/veranstaltungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ampfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46108805497",
+    "webseite": "https://www.ampfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Andechs",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62886582497",
+    "webseite": "https://gemeinde-andechs.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Landeskultureller Wanderweg",
+        "url": "https://gemeinde-andechs.de/tourismus/freizeitgestaltung/landeskultureller-wanderweg",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://gemeinde-andechs.de/tourismus/freizeitgestaltung",
+        "score": 10
+      },
+      {
+        "titel": "Radltouren & Wanderwege",
+        "url": "https://gemeinde-andechs.de/tourismus/freizeitgestaltung/radltouren-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Region Starnberg Ammersee",
+        "url": "https://gemeinde-andechs.de/tourismus/freizeitgestaltung/region-starnberg-ammersee",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Anger",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79664359497",
+    "webseite": "http://www.anger.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.anger.de/tradition-brauchtum/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ansbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90220424387",
+    "webseite": "http://www.ansbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturverb�nde",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Kulturverb%c3%a4nde/",
+        "score": 30
+      },
+      {
+        "titel": "Gesang- und Musikvereine",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Gesang-und-Musikvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Heimatvereine",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Heimatvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Jugendverb�nde",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Jugendverb%c3%a4nde/",
+        "score": 20
+      },
+      {
+        "titel": "Landsmannschaften",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Landsmannschaften/",
+        "score": 20
+      },
+      {
+        "titel": "Motorsportclubs / Automobilclubs",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Motorsportclubs-Automobilclubs/",
+        "score": 20
+      },
+      {
+        "titel": "Obst- und Gartenbauvereine",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Obst-und-Gartenbauvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Sch�tzenvereine",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Sch%c3%bctzenvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Soldaten- und Kriegskameradschaften",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Soldaten-und-Kriegskameradschaften/",
+        "score": 20
+      },
+      {
+        "titel": "Sportverb�nde und -vereine",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Sportverb%c3%a4nde-und-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Tierzucht und Pflege",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Rathaus-Service/Vereine/Tierzucht-und-Pflege/",
+        "score": 20
+      },
+      {
+        "titel": "Sport Alles rund um Sportvereine, -pl�tze oder -f�rderung",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Sport-/",
+        "score": 20
+      },
+      {
+        "titel": "Interkulturelle Woche",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Familie-Soziales/Integration/Integrationsbeirat/Interkulturelle-Woche/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Erholung in der Natur",
+        "url": "https://www.ansbach.de/B%c3%bcrger/Umwelt-Natur/Naturschutz/Freizeit-und-Erholung-in-der-Natur/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & G�ste",
+        "url": "https://www.tourismus-ansbach.de/",
+        "score": 10
+      },
+      {
+        "titel": "Restaurants und Gastst�tten",
+        "url": "https://www.ansbach.de/Freizeit-G%c3%a4ste/Kulinarik/Restaurants-und-Gastst%c3%a4tten/",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplatz",
+        "url": "https://www.ansbach.de/Freizeit-G%c3%a4ste/%c3%9cbernachten/Wohnmobilstellplatz/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Antdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96442136497",
+    "webseite": "https://www.antdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Anzing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13219913498",
+    "webseite": "http://www.anzing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "LEBEN  WIRTSCHAFT • ENERGIE",
+        "url": "https://www.anzing.de/kultur/ortsplan/",
+        "score": 10
+      },
+      {
+        "titel": "Bus + Bahn",
+        "url": "https://www.anzing.de/kultur/bus-bahn/",
+        "score": 10
+      },
+      {
+        "titel": "Deutsche Glasfaser",
+        "url": "https://www.anzing.de/kultur/breitbandausbau/",
+        "score": 10
+      },
+      {
+        "titel": "Energiemonitor",
+        "url": "https://www.anzing.de/kultur/energiemonitor/",
+        "score": 10
+      },
+      {
+        "titel": "Nahwärmeversorgung",
+        "url": "https://www.anzing.de/kultur/nahwaermeversorgung/",
+        "score": 10
+      },
+      {
+        "titel": "Gemeinde Einrichtungen",
+        "url": "https://www.anzing.de/kultur/gemeindliche-einrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Kinderkrippen, Kindergärten und Hort",
+        "url": "https://www.anzing.de/kultur/gemeindliche-einrichtungen/kindergarten/",
+        "score": 10
+      },
+      {
+        "titel": "Gemeindehaus",
+        "url": "https://www.anzing.de/kultur/gemeindehaus/",
+        "score": 10
+      },
+      {
+        "titel": "Sportzentrum",
+        "url": "https://www.anzing.de/kultur/gemeindliche-einrichtungen/sportzentrum/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.anzing.de/kultur/gemeindliche-einrichtungen/spielplatze/",
+        "score": 10
+      },
+      {
+        "titel": "Soziale Einrichtungen",
+        "url": "https://www.anzing.de/kultur/soziale-einrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.anzing.de/kultur/soziale-einrichtungen/kirchen/",
+        "score": 10
+      },
+      {
+        "titel": "Nachbarschaftshilfe e.V.",
+        "url": "https://www.anzing.de/kultur/soziale-einrichtungen/nachbarschaftshilfe/",
+        "score": 10
+      },
+      {
+        "titel": "Seniorengemeinschaft",
+        "url": "https://www.anzing.de/kultur/soziale-einrichtungen/seniorengemeinschaft-anzing/",
+        "score": 10
+      },
+      {
+        "titel": "Hier bekommen Sie Hilfe",
+        "url": "https://www.anzing.de/kultur/hier-bekommen-sie-hilfe/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Apfeldorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29997690498",
+    "webseite": "http://www.apfeldorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Apfeltrach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46775467498",
+    "webseite": "http://www.apfeltrach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.apfeltrach.de/vereine.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Arberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63553244498",
+    "webseite": "http://www.arberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Kunst- und Kulturverein",
+        "url": "https://www.arberg.de/freizeit-tourismus/kultur/kunst-und-kulturverein",
+        "score": 30
+      },
+      {
+        "titel": "Kunstatelier Zimmermann",
+        "url": "https://www.arberg.de/freizeit-tourismus/kultur/kunstatelier-zimmermann",
+        "score": 20
+      },
+      {
+        "titel": "Limes",
+        "url": "https://www.arberg.de/freizeit-tourismus/kultur/limes",
+        "score": 20
+      },
+      {
+        "titel": "Reiseführer für die Hosentasche",
+        "url": "https://www.arberg.de/freizeit-tourismus/reisefuehrer-fuer-die-hosentasche",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.arberg.de/freizeit-tourismus/veranstaltungen/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/angeln",
+        "score": 10
+      },
+      {
+        "titel": "Surfen & Segeln",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/surfen-segeln",
+        "score": 10
+      },
+      {
+        "titel": "Skaten",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/skaten",
+        "score": 10
+      },
+      {
+        "titel": "Tennis",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/tennis",
+        "score": 10
+      },
+      {
+        "titel": "Badminton",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/badminton",
+        "score": 10
+      },
+      {
+        "titel": "Lernort im Grünen",
+        "url": "https://www.arberg.de/freizeit-tourismus/freizeit-sport/lernort-im-gruenen",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.arberg.de/freizeit-tourismus/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Baden",
+        "url": "https://www.arberg.de/freizeit-tourismus/baden",
+        "score": 10
+      },
+      {
+        "titel": "Rad- & Wanderwege",
+        "url": "https://www.arberg.de/freizeit-tourismus/rad-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Tagesausflüge",
+        "url": "https://www.arberg.de/freizeit-tourismus/tagesausfluege",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aresing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80331021498",
+    "webseite": "https://www.aresing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Arnbruck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97108798498",
+    "webseite": "https://www.arnbruck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "vereine",
+        "url": "https://www.arnbruck.de/de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsveranstaltungen",
+        "url": "https://www.arnbruck.de/de/vereine/vereine-770",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Arnschwang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13886575499",
+    "webseite": "http://www.arnschwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Sporthalle",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/sporthalle/",
+        "score": 10
+      },
+      {
+        "titel": "Wasserschloss",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/wasserschloss/",
+        "score": 10
+      },
+      {
+        "titel": "Audioguides",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/audioguides/",
+        "score": 10
+      },
+      {
+        "titel": "Waldlehrpfad",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/waldlehrpfad/",
+        "score": 10
+      },
+      {
+        "titel": "Bayerwald-Tagesticket / GUTi Tarifgebiet",
+        "url": "http://www.arnschwang.de/de/freizeit-tourismus/bayerwald-tagesticket-guti-tarifgebiet/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Arnstein",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42997949442",
+    "webseite": "http://www.arnstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online Terminvereinbarung",
+        "url": "https://arnstein.communicetime.de/terminbuchung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Arnstorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30664352499",
+    "webseite": "http://www.arnstorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur und Freizeit",
+        "url": "https://www.arnstorf.de/kultur-und-freizeit/aktuelles",
+        "score": 20
+      },
+      {
+        "titel": "Jugendprojekt des Kulturförderpreises Rottal-Inn",
+        "url": "https://www.arnstorf.de/aktuelles/jugendprojekt-des-kulturfoerderpreises-rottal-inn",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Arrach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47442129499",
+    "webseite": "https://www.gemeinde-arrach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Arzberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58442402440",
+    "webseite": "http://www.arzberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Asbach-Bäumenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64219906499",
+    "webseite": "https://www.asbach-baeumenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.asbach-baeumenheim.de/de/leben-freizeit/soziales/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.asbach-baeumenheim.de/de/leben-freizeit/sport-spass/ferienprogramm",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.asbach-baeumenheim.de/de/leben-freizeit/sport-spass/spielplaetze",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ascha",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80997683499",
+    "webseite": "http://www.ascha.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aschaffenburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74109309388",
+    "webseite": "https://www.aschaffenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur und Tourismus",
+        "url": "https://www.aschaffenburg.de/Freizeit-Tourismus/Kultur-und-Tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Vereine und Stiftungen",
+        "url": "https://www.aschaffenburg.de/Beteiligen-Gestalten/Vereine-und-Stiftungen/",
+        "score": 20
+      },
+      {
+        "titel": "Öffnungszeiten Rathaus",
+        "url": "https://www.aschaffenburg.de/B%C3%BCrgerservice/Terminvereinbarung/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.aschaffenburg.de/Freizeit-Tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.aschaffenburg.de/Freizeit-Tourismus/Sport-und-Freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Aktuell: \n                                         27. Aschaffenburger Kulturtage - Das Programm ist online",
+        "url": "https://www.aschaffenburg.de/index.php?object=tx,4173.5.1&ModID=7&FID=4173.12221.1&topic=1",
+        "score": 10
+      },
+      {
+        "titel": "‌Förderverein Stadtmarketing Aschaffenburg e.V.",
+        "url": "https://info-aschaffenburg.de/stadtmarketing/verein.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aschau a.Inn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97775460499",
+    "webseite": "http://www.aschau-a-inn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/vereinsleben/unsere-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/vereinsleben/ehrenamt",
+        "score": 40
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.aschau-a-inn.de/leben-wohnen/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/veranstaltungen/feste-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/sport-freizeit/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Spiel- & Bolzplätze",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/sport-freizeit/spiel-bolzplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/sport-freizeit/hallenbad",
+        "score": 10
+      },
+      {
+        "titel": "Aschauer Geschichtsweg",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/sport-freizeit/aschauer-geschichtsweg",
+        "score": 10
+      },
+      {
+        "titel": "Geschirrverleih",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/sport-freizeit/geschirrverleih",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Übernachtung",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/gastronomie-uebernachtung/essen-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.aschau-a-inn.de/freizeit-geniessen/gastronomie-uebernachtung/uebernachten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aschau i.Chiemgau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14553237500",
+    "webseite": "http://www.gemeinde-aschau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.gemeinde-aschau.de/leben-arbeiten/freizeit-und-kultur/vereine-und-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "Bäder",
+        "url": "https://www.gemeinde-aschau.de/leben-arbeiten/freizeit-und-kultur/baeder",
+        "score": 20
+      },
+      {
+        "titel": "Kulturbeauftragter",
+        "url": "https://www.gemeinde-aschau.de/leben-arbeiten/freizeit-und-kultur/kulturbeauftragter",
+        "score": 20
+      },
+      {
+        "titel": "Römerregion Chiemsee",
+        "url": "https://www.gemeinde-aschau.de/leben-arbeiten/freizeit-und-kultur/roemerregion-chiemsee",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.gemeinde-aschau.de/soziales-bildung/unsere-jugend/freizeitangebote",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aschheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31331014500",
+    "webseite": "http://www.aschheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.aschheim.de/kultur-freizeit/vereine-organisationen",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.aschheim.de/",
+        "score": 20
+      },
+      {
+        "titel": "Öffentliche Einrichtungen",
+        "url": "https://www.aschheim.de/kultur-freizeit/oeffentliche-einrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Erholung",
+        "url": "https://www.aschheim.de/kultur-freizeit/erholung",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten & Restaurants",
+        "url": "https://www.aschheim.de/kultur-freizeit/gaststaetten-restaurants",
+        "score": 20
+      },
+      {
+        "titel": "Hotels & Pensionen",
+        "url": "https://www.aschheim.de/kultur-freizeit/hotels-pensionen",
+        "score": 20
+      },
+      {
+        "titel": "Kulturprogramm",
+        "url": "https://www.aschheim.de/kultur-freizeit/kulturprogramm",
+        "score": 20
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.aschheim.de/kultur-freizeit/sport",
+        "score": 20
+      },
+      {
+        "titel": "AschheiMuseum",
+        "url": "https://www.aschheim.de/kultur-freizeit/aschheimuseum",
+        "score": 20
+      },
+      {
+        "titel": "AschheiMuseum",
+        "url": "https://www.aschheim.de/kultur-freizeit/aschheimuseum/aschheimuseum",
+        "score": 20
+      },
+      {
+        "titel": "Geschichtliches",
+        "url": "https://www.aschheim.de/kultur-freizeit/aschheimuseum/geschichtliches",
+        "score": 20
+      },
+      {
+        "titel": "Fundstücke des Monats",
+        "url": "https://www.aschheim.de/kultur-freizeit/aschheimuseum/fundstuecke-des-monats",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Aßling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48108791500",
+    "webseite": "http://www.assling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.assling.de/buergerservice-politik/service/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Attenhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64886568500",
+    "webseite": "http://www.attenhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Attenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81664345500",
+    "webseite": "http://www.attenkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Atting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98442122500",
+    "webseite": "http://www.atting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Au i.d.Hallertau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15219899501",
+    "webseite": "https://www.markt-au.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://markt-au.de/leben-in-au/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://markt-au.de/au-erleben/freizeit-und-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://markt-au.de/au-erleben/kultur-und-geschichte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aub",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59775726442",
+    "webseite": "https://www.stadt-aub.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aubstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31997676501",
+    "webseite": "http://www.aubstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aubstadt.de/kultur-freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.aubstadt.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.aubstadt.de/kultur-freizeit/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Aktivitäten & Sehenswürdigkeiten",
+        "url": "https://www.aubstadt.de/kultur-freizeit/aktivitaeten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Auerbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48775453501",
+    "webseite": "https://www.gemeinde-auerbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://auerbach.dahoam-in-niederbayern.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit, Kultur und Tourismus",
+        "url": "https://www.gemeinde-auerbach.de/freizeit-kultur-und-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.gemeinde-auerbach.de/freizeit-kultur-und-tourismus/unterkuenfte/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.gemeinde-auerbach.de/aktuelles/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Gunthersteig",
+        "url": "https://www.gemeinde-auerbach.de/freizeit-kultur-und-tourismus/gunthersteig/",
+        "score": 20
+      },
+      {
+        "titel": "Kneippanlage mit Sinnespfad",
+        "url": "https://www.gemeinde-auerbach.de/freizeit-kultur-und-tourismus/kneippanlage-mit-sinnespfad/",
+        "score": 20
+      },
+      {
+        "titel": "Naturerlehrpfad",
+        "url": "https://www.gemeinde-auerbach.de/freizeit-kultur-und-tourismus/naturerlehrpfad/",
+        "score": 20
+      },
+      {
+        "titel": "Wandern im Naturpark Bayerischer Wald",
+        "url": "https://www.naturpark-bayer-wald.de/wandern.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Auerbach i.d.OPf.",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25553510441",
+    "webseite": "https://www.auerbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.auerbach.de/kultur-freizeit/veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Topevents",
+        "url": "https://www.auerbach.de/kultur-freizeit/topevents/",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.auerbach.de/kultur-freizeit/museen/",
+        "score": 20
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.auerbach.de/kultur-freizeit/stadtarchiv/",
+        "score": 20
+      },
+      {
+        "titel": "Stadtb�cherei St. Johannes",
+        "url": "https://www.auerbach.de/kultur-freizeit/stadtbuecherei/",
+        "score": 20
+      },
+      {
+        "titel": "Auerbach entdecken",
+        "url": "https://www.auerbach.de/kultur-freizeit/auerbach-entdecken/",
+        "score": 20
+      },
+      {
+        "titel": "Sehensw�rdigkeiten",
+        "url": "https://www.auerbach.de/kultur-freizeit/sehenswuerdigkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "St�dtische B�der",
+        "url": "https://www.auerbach.de/kultur-freizeit/baeder/",
+        "score": 20
+      },
+      {
+        "titel": "Wander- & Radwege",
+        "url": "https://www.auerbach.de/kultur-freizeit/wandern-radwege/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.auerbach.de/kultur-freizeit/freizeit-sport/",
+        "score": 20
+      },
+      {
+        "titel": "WoMo-Stellplatz",
+        "url": "https://www.auerbach.de/kultur-freizeit/womo-stellplatz/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie & �bernachtung",
+        "url": "https://www.auerbach.de/kultur-freizeit/gastro-uebernachtung/",
+        "score": 20
+      },
+      {
+        "titel": "Prospekte",
+        "url": "https://www.auerbach.de/kultur-freizeit/prospekte/",
+        "score": 20
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.auerbach.de/kultur-freizeit/impressionen/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.auerbach.de/kultur-freizeit/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Aufhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65553230501",
+    "webseite": "http://www.gemeinde-aufhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/veranstaltungen/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Aufhausener Weihnacht",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/veranstaltungen/aufhausener-weihnacht/",
+        "score": 20
+      },
+      {
+        "titel": "Ufhusia feiert Fasching",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/veranstaltungen/ufhusia-feiert-fasching/",
+        "score": 20
+      },
+      {
+        "titel": "Ortsheimatpfleger",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/heimatpflege/ortsheimatpfleger/",
+        "score": 20
+      },
+      {
+        "titel": "Archiv der Gemeinde Aufhausen",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/heimatpflege/archiv-der-gemeinde-aufhausen/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitmöglichkeiten",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/freizeitmoeglichkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Via Nova",
+        "url": "https://www.gemeinde-aufhausen.de/freizeit-kultur/via-nova/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Aufseß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82331007501",
+    "webseite": "http://www.aufsess.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Augsburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24442640389",
+    "webseite": "https://www.augsburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Auhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99108784501",
+    "webseite": "http://www.auhausen.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aura a.d.Saale",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15886561502",
+    "webseite": "https://www.vg-euerdorf.de/gemeinden/aura/index.html",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/euerdorf/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/ramsthal/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/sulzthal/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/aura/vereine/index.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Aura i.Sinngrund",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32664338502",
+    "webseite": "http://www.aura-im-sinngrund.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Touristik, Kultur & Freizeit",
+        "url": "https://vgem-burgsinn.de/seite/au/cms0605202614414824821956/08:57/-/Touristik_Kultur_und_Freizeit.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Aurach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49442115502",
+    "webseite": "https://www.aurach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.aurach.de/seite/de/cms0605202614415327118712/036/tn_36/Kultur_und_Freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine & Verb�nde",
+        "url": "https://www.aurach.de/seite/de/cms0605202614415327118712/036:461/tn_461/Vereine_und_Verbaende.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.aurach.de/verein/de/cms0605202614415327118712/-/-/vereine_searchresult",
+        "score": 20
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.aurach.de/seite/de/cms0605202614415327118712/036:463/tn_463/Freizeiteinrichtungen.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aurachtal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66219892502",
+    "webseite": "https://www.aurachtal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aurachtal.de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.terminland.de/vg-aurachtal/?m=37744",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.aurachtal.de/img/frueher/af_gesangsverein_1366.jpg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Außernzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82997669502",
+    "webseite": "https://www.aussernzell.info",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "🛈 Bereitgestellt durch Dahoam in Niederbayern: Vereine, Freizeit, Veranstaltungen und Termine",
+        "url": "https://www.dahoam-in-niederbayern.de/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Aying",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99775446502",
+    "webseite": "https://www.aying.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Vereine",
+        "url": "https://aying.de/kultur/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://aying.de/freizeit-und-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://aying.de/branche/verein/",
+        "score": 20
+      },
+      {
+        "titel": "Leitfaden für Vereine",
+        "url": "https://aying.de/leitfaden-fuer-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur und Heimatpflege",
+        "url": "https://aying.de/kultur-heimatpflege/",
+        "score": 10
+      },
+      {
+        "titel": "Dorfleben und Soziales",
+        "url": "https://aying.de/register/verein-dorfleben-und-soziales/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Aystetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16553223503",
+    "webseite": "http://www.aystetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aystetten.de/leben-in-aystetten/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.aystetten.de/leben-in-aystetten/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.aystetten.de/leben-in-aystetten/freizeit",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Baar (Schwaben)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33331000503",
+    "webseite": "http://www.baar-schwaben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Baar-Ebenhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50108777503",
+    "webseite": "https://www.baar-ebenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Babenhausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66886554503",
+    "webseite": "http://www.markt-babenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Lebendiges Vereinsleben",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/lebendiges-vereinsleben/unsere-vereine",
+        "score": 50
+      },
+      {
+        "titel": "10.09. - 13.09.Reit-, Fahr- und Zuchtvereins Babenhausen e. V.: Herbstturnier Dressur- und Springprüfungen Klasse E bis S** auf dem Gelände des Reitvereins in der Bahnhofstraße",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/schwaebisches-zuchtturnier-vom-8-bis-9-september-2023-des-reit-fahr-und-zuchtvereins-babenhausen-e-v-1/2026-09-10?cHash=76be295d5ce2f19a2a719a8db9e69a6d",
+        "score": 40
+      },
+      {
+        "titel": "25.09. - 26.09.19:00 - 23:55Weinfest des Musikvereins Babenhausen am 25./26. September",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/weinfest-des-musikvereins-babenhausen-am-1516-september-2023/2026-09-25?cHash=814ca50627cbc1a61db9bd803eacc4d1",
+        "score": 40
+      },
+      {
+        "titel": "28.11.ab 20:00 UhrJahreskonzert des Musikvereins Babenhausen e. V. 20 Uhr, Pausenhalle der Mittel- und Realschule Babenhausen",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/jahreskonzert-des-musikvereins-babenhausen-e-v-1/2026-11-28?cHash=e394aa764ef3422b6ebf0e83b61f6a49",
+        "score": 40
+      },
+      {
+        "titel": "07.05. - 08.05.17:00 - 18:00Kultur rund ums Schloss>>Führung mit Herrn Dr. Hans Kreuzpointner: Warum? …Der Babenhausen Rätsel nächster Teil<<",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/freitag-12-mai-fuehrung-mit-herrn-dr-hans-kreuzpointner-redewendungen-und-ihr-ursprung-in-alter-zeit-der-historische-verein-freut-sich-ueber-eine-spende-treffpunkt-haus-zur-geschichte-tirolerstr-3-1700-uhr/2026-05-07?cHash=76ecaabd3ca26f02f7eeb109ce8adeac",
+        "score": 30
+      },
+      {
+        "titel": "Kultureinrichtungen",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/freizeitangebote/kultureinrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Partnerschaftsverein",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/freizeitangebote/partnerschaftsverein",
+        "score": 20
+      },
+      {
+        "titel": "07.05.ab 19:30 UhrKultur rund ums Schloss:>>Am Ende vorn<< Django Asül gastiert im Theater Am Espach",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/offenes-visier/2026-05-07?cHash=76ecaabd3ca26f02f7eeb109ce8adeac",
+        "score": 20
+      },
+      {
+        "titel": "08.05.ab 19:30 UhrKultur rund ums Schloss >>Inisheer und Greenfields - ein Irish Folk Abend<<",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/inisheer-und-greenfields-ein-irish-folk-abend/2026-05-08?cHash=c8cadf89933e01b74cdd31642e030c57",
+        "score": 20
+      },
+      {
+        "titel": "10.05.11:00 - 12:30Kultur rund ums Schloss >>Matinee Jazzkur Bigband<<",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/natur/2026-05-10?cHash=b6c8127fefe869ff5af248d439d3f230",
+        "score": 20
+      },
+      {
+        "titel": "13.05.ab 19:30 UhrKultur rund ums Schloss>>Lesung: Coco Eberhardt: Knödelmord im Sperrbezirk<< Premierenlesung",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/lesung-coco-eberhardt-knoedelmord-im-sperrbezirk/2026-05-13?cHash=bf333e10b63d5d393de6f4b6b21425b0",
+        "score": 20
+      },
+      {
+        "titel": "16.05.ab 20:30 UhrKultur rund ums Schloss >>Slipped Disc<<, Saal im Gasthaus Rössle",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/classic-rock/2026-05-16?cHash=108274d5c268c0846067c0ca36727d07",
+        "score": 20
+      },
+      {
+        "titel": "20.05.19:30 - 21:30Kneipp-Verein Babenhausen: Generalsversammlung und Neuwahlen im Schützenheim Babenhausen",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/kneipp-verein-babenhausen-generalsversammlung-und-neuwahlen-im-schuetzenheim-babenhausen/2026-05-20?cHash=001e22e848ae3c2d49af8c429c63027c",
+        "score": 20
+      },
+      {
+        "titel": "30.05.ab 19:30 UhrKultur rund ums Schloss: >>Schlager, Oldies & Flower-Power mit Beate, Manu und Freunden!<<",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/schlagerparty-mit-beate-schimanski-im-gasthaus-roessle-grosser-saal/2026-05-30?cHash=009dd0753b50e9e153cfb50920d64393",
+        "score": 20
+      },
+      {
+        "titel": "13.06.ab 09:00 UhrObst- und Gartenbauverein Babenhausen: Gemeinsames Gärtnern im Kreislehrgarten Bad Grönenbach mit anschließendem Helferfest",
+        "url": "https://www.babenhausen-schwaben.de/freizeit-geniessen/was-ist-los-in-babenhausen/veranstaltungskalender/veranstaltung/obst-und-gartenbauverein-babenhausen-gemeinsames-gaertnern-im-kreislehrgarten-bad-groenenbach-mit-anschliessendem-helferfest/2026-06-13?cHash=a7eeb1a8d66a1d511853608927caa2f9",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Babensham",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83664331503",
+    "webseite": "http://www.babensham.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Lebendiges Vereinsleben",
+        "url": "https://www.babensham.de/leben-in-babensham/lebendiges-vereinsleben/vereinsregister",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.babensham.de/leben-in-babensham/lebendiges-vereinsleben/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.babensham.de/babensham-erleben/freizeit-geniessen/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Mehrgenerationengarten",
+        "url": "https://www.babensham.de/babensham-erleben/freizeit-geniessen/mehrgenerationengarten",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.babensham.de/babensham-erleben/freizeit-geniessen/buecherei",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bach a.d.Donau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00442108504",
+    "webseite": "http://www.bach-donau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur, Freizeit und Tourismus",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Radtouren",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/freizeit/radtouren/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/freizeit/sehenswertes/",
+        "score": 20
+      },
+      {
+        "titel": "Donau-Radweg",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/freizeit/donau-radweg/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/tourismus/sehenswuerdigkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Unterkunft suchen",
+        "url": "https://www.bach-donau.de/kultur-freizeit-und-tourismus/unterkunft-suchen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Bachhagel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17219885504",
+    "webseite": "https://www.bachhagel.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bad Abbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50775439504",
+    "webseite": "https://www.bad-abbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-abbach.de/leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine von A bis Z",
+        "url": "https://www.bad-abbach.de/leben/vereine/uebersicht/",
+        "score": 50
+      },
+      {
+        "titel": "Belegungspläne",
+        "url": "https://www.bad-abbach.de/leben/vereine/hallenbelegungsplaene/",
+        "score": 50
+      },
+      {
+        "titel": "Marktmobil",
+        "url": "https://www.bad-abbach.de/leben/vereine/marktmobil/",
+        "score": 50
+      },
+      {
+        "titel": "Kursangebote",
+        "url": "https://www.bad-abbach.de/tourismusundkultur/veranstaltungen/kursangebote/",
+        "score": 10
+      },
+      {
+        "titel": "Parkplätze",
+        "url": "https://www.bad-abbach.de/freizeit/parkplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Trinkwasserbrunnen",
+        "url": "https://www.bad-abbach.de/freizeit/trinkwasserbrunnen/",
+        "score": 10
+      },
+      {
+        "titel": "Öffentliche Toiletten",
+        "url": "https://www.bad-abbach.de/freizeit/oeffentlichetoiletten/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.bad-abbach.de/freizeit/spielplatz/",
+        "score": 10
+      },
+      {
+        "titel": "Geführte Wanderung 09.05.2026Vogelexkursion auf der Freizeitinsel Erkundung der Vogelwelt rund um den Vogelbeobachtungsturm",
+        "url": "https://www.bad-abbach.de/veranstaltungen/vogelexkursion_auf_der_freizei-753025-12656141/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Aibling",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11442381445",
+    "webseite": "https://rathaus-bad-aibling.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://bad-aibling.communicetime.de/terminbuchung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Alexandersbad",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67553216504",
+    "webseite": "http://www.badalexandersbad.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Veranstaltungen",
+        "url": "https://badalexandersbad.de/tourismus-freizeit/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Gruppen & Vereine",
+        "url": "https://badalexandersbad.de/gesundheit-soziales/gruppen-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://badalexandersbad.de/tourismus-freizeit/ausflugsziele/",
+        "score": 10
+      },
+      {
+        "titel": "Einkaufen & Dienstleister",
+        "url": "https://badalexandersbad.de/tourismus-freizeit/einkaufen/",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber & Gästekarte",
+        "url": "https://badalexandersbad.de/tourismus-freizeit/gastgeber/",
+        "score": 10
+      },
+      {
+        "titel": "Tagungsstätten",
+        "url": "https://badalexandersbad.de/tourismus-freizeit/tagungsstaetten/",
+        "score": 10
+      },
+      {
+        "titel": "Anreise, Ortsplan & Wohnmobilstellplatz",
+        "url": "https://badalexandersbad.de/tourismus-freizeit/anreise-ortsplan/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Bayersoien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84330993504",
+    "webseite": "https://www.gemeinde-bad-bayersoien.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bad Berneck i.Fichtelgebirge",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27553496444",
+    "webseite": "http://www.badberneck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.badberneck.de/leben-wohnen/vereine-verbaende/vereinsregister",
+        "score": 80
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.badberneck.de/leben-wohnen/vereine-verbaende/feuerwehren",
+        "score": 50
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.badberneck.de/leben-wohnen/vereine-verbaende/ehrenamt",
+        "score": 50
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.badberneck.de/freizeit-tourismus/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Moderner Gesundheitsort",
+        "url": "https://www.badberneck.de/freizeit-tourismus/kneipp-gesundheit",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen in Bad Berneck",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck/veranstaltungen-in-bad-berneck",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen im Fichtelgebirge",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck/veranstaltungen-im-fichtelgebirge",
+        "score": 10
+      },
+      {
+        "titel": "Konzerte im Park",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck/konzerte-im-park",
+        "score": 10
+      },
+      {
+        "titel": "Sommerparkfest",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck/sommerparkfest",
+        "score": 10
+      },
+      {
+        "titel": "Burgenfest",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck/burgenfest",
+        "score": 10
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.badberneck.de/freizeit-tourismus/was-ist-los-in-bad-berneck/weihnachtsmarkt",
+        "score": 10
+      },
+      {
+        "titel": "Historische Altstadt",
+        "url": "https://www.badberneck.de/freizeit-tourismus/sehenswertes/historische-altstadt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Birnbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01108770505",
+    "webseite": "http://www.badbirnbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bad Bocklet",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17886547505",
+    "webseite": "https://www.badbocklet.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bad Brückenau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42331287441",
+    "webseite": "http://www.bad-brueckenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kontaktformular",
+        "url": "https://www.bad-brueckenau.de/kulturbuero-kontakt/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Endorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34664324505",
+    "webseite": "http://www.bad-endorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur und Feste",
+        "url": "https://www.bad-endorf.de/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Urlaub & Freizeit",
+        "url": "https://www.bad-endorf.de/urlaub-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Verkehrs- und Verschönerungsverein",
+        "url": "https://www.bad-endorf.de/verkehrs-und-verschoenerungsverein",
+        "score": 10
+      },
+      {
+        "titel": "Gewerbeverein Bad Endorf",
+        "url": "https://www.bad-endorf.de/gewerbeverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Feilnbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51442101505",
+    "webseite": "http://www.bad-feilnbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ökomodellregion",
+        "url": "https://www.bad-feilnbach.de/buerger-und-rathaus/vereine-verbaende/oeko-modellregion/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.bad-feilnbach.de/buerger-und-rathaus/vereine-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine & Verbände der Gemeinde Bad Feilnbach",
+        "url": "https://www.bad-feilnbach.de/buerger-und-rathaus/vereine-und-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "SUR - Arbeitsgemeinschaft Stadt- und Umland Rosenheim",
+        "url": "https://www.bad-feilnbach.de/buerger-und-rathaus/vereine-verbaende/sur-arbeitsgemeinschaft-stadt-und-umland-rosenheim/",
+        "score": 50
+      },
+      {
+        "titel": "Urlaub & Freizeit in Bad Feilnbach",
+        "url": "https://www.bad-feilnbach.de/kur-und-tourismus/urlaub-und-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Kneippanlage",
+        "url": "https://www.bad-feilnbach.de/kur-und-tourismus/urlaub-und-freizeit/kneippanlage/",
+        "score": 10
+      },
+      {
+        "titel": "Angeln für Gäste",
+        "url": "https://www.bad-feilnbach.de/kur-und-tourismus/urlaub-und-freizeit/angeln-fuer-gaeste/",
+        "score": 10
+      },
+      {
+        "titel": "Jenbachparadies",
+        "url": "https://www.bad-feilnbach.de/kur-und-tourismus/urlaub-und-freizeit/jenbachparadies/",
+        "score": 10
+      },
+      {
+        "titel": "Wetterstollen Deisenried",
+        "url": "https://www.bad-feilnbach.de/kur-und-tourismus/urlaub-und-freizeit/wetterstollen-deisenried/",
+        "score": 10
+      },
+      {
+        "titel": "Sommerurlaub in Bad Feilnbach",
+        "url": "https://www.bad-feilnbach.de/kur-und-tourismus/urlaub-und-freizeit/sommerurlaub-in-bad-feilnbach/",
+        "score": 10
+      },
+      {
+        "titel": "Baukultur",
+        "url": "https://www.bad-feilnbach.de/buerger-und-rathaus/gemeindetafel-und-aktuelles/baukultur/",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.bad-feilnbach.de/buerger-und-rathaus/sport-und-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Füssing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68219878505",
+    "webseite": "https://www.gde-badfuessing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.gde-badfuessing.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit- & Erlebnisbad",
+        "url": "https://www.gde-badfuessing.de/leben-wohnen/institutionen-in-der-gemeinde/freizeit-erlebnisbad",
+        "score": 10
+      },
+      {
+        "titel": "Kulturelle Einrichtungen",
+        "url": "https://www.gde-badfuessing.de/leben-wohnen/institutionen-in-der-gemeinde/kulturelle-einrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gde-badfuessing.de/leben-wohnen/freizeit",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Griesbach i.Rottal",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31553468450",
+    "webseite": "https://www.bad-griesbach.de/buerger-rathaus",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.bad-griesbach.de/buerger-rathaus/einrichtungen-infrastruktur/vereine-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Kultur beim Nachbarn",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/veranstaltungen/kultur-beim-nachbarn",
+        "score": 10
+      },
+      {
+        "titel": "Genuss & Freizeit",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugs- & Schifffahrten",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/ausflugs-schifffahrten",
+        "score": 10
+      },
+      {
+        "titel": "Ballonhafen",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/ballonhafen",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei & Kino",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/buecherei-kino",
+        "score": 10
+      },
+      {
+        "titel": "Burgen & Schlösser",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/burgen-schloesser",
+        "score": 10
+      },
+      {
+        "titel": "Flohmärkte",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/flohmaerkte",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitspaß, Tiere & Natur",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/freizeiteinrichtungen-tierparks",
+        "score": 10
+      },
+      {
+        "titel": "Galerien & Ateliers",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/galerien-ateliers",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/gastronomie-restaurants",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen & Klöster",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/kirchen-kloester",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/museen",
+        "score": 10
+      },
+      {
+        "titel": "Naturdenkmäler",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/naturdenkmaeler",
+        "score": 10
+      },
+      {
+        "titel": "PassauRegioCard",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/passauregiocard",
+        "score": 10
+      },
+      {
+        "titel": "Stadterlebnis & Sehenswerte Orte",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/stadterlebnis-sehenswerte-orte",
+        "score": 10
+      },
+      {
+        "titel": "Bauern- und Wochenmärkte",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/wochen-und-flohmaerkte",
+        "score": 10
+      },
+      {
+        "titel": "Heimische Produkte",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/freizeit-genuss/regional-geniessen",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.bad-griesbach.de/kur-tourismus/bewegung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Grönenbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84997655505",
+    "webseite": "http://www.bad-groenenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Schulen, Gruppen & Vereine",
+        "url": "https://www.bad-groenenbach.de/bad-groenenbach-blueht-auf/naturerlebnisweg/schulen-vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Führungen & Sehenswertes",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/uebersicht-fuehrungen-sehenswertes.html",
+        "score": 10
+      },
+      {
+        "titel": "Bad Grönenbach erleben",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/bad-groenenbach-erleben/uebersicht.html",
+        "score": 10
+      },
+      {
+        "titel": "Historischer Spaziergang",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/bad-groenenbach-erleben/historischer-spaziergang.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/sehenswertes/uebersicht.html",
+        "score": 10
+      },
+      {
+        "titel": "Hohes Schloss & Schlosskapelle",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/sehenswertes/hohesschlossschlosskapelle.html",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/sehenswertes/kirchen.html",
+        "score": 10
+      },
+      {
+        "titel": "Kornhofer Bänkle",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/sehenswertes/panoramschaukel.html",
+        "score": 10
+      },
+      {
+        "titel": "Kreislehrgarten",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/sehenswertes/kreislehrgarten.html",
+        "score": 10
+      },
+      {
+        "titel": "Kurpark",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/sehenswertes/kurpark.html",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Ausflugsziele",
+        "url": "https://www.bad-groenenbach.de/kultur-sehenswertes/ausflugsziele.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Heilbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01775432506",
+    "webseite": "http://www.bad-heilbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-heilbrunn.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Belegungsplan Turnhalle - Sportverein Bad Heilbrunn",
+        "url": "http://kalender.bad-heilbrunn.de/index.php?action=display_month&phpcid=1&month=5&year=2024",
+        "score": 10
+      },
+      {
+        "titel": "Kunst, Kultur und Brauchtum",
+        "url": "https://www.bad-heilbrunn.de/kunst-kultur-und-brauchtum-1",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Hindelang",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57775040590",
+    "webseite": "https://marktbadhindelang.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinekalender",
+        "url": "https://www.marktbadhindelang.de/freizeit-kultur/vereine/vereinekalender",
+        "score": 70
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.marktbadhindelang.de/freizeit-kultur/veranstaltungen/maerkte",
+        "score": 20
+      },
+      {
+        "titel": "Bad Hindelang genießen",
+        "url": "https://www.marktbadhindelang.de/freizeit-kultur/bad-hindelang-geniessen/essen-und-trinken",
+        "score": 20
+      },
+      {
+        "titel": "Einkaufen",
+        "url": "https://www.marktbadhindelang.de/freizeit-kultur/bad-hindelang-geniessen/einkaufen",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Bad Kissingen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09442395442",
+    "webseite": "https://www.badkissingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsdatenbank",
+        "url": "https://www.badkissingen.de/bildung-und-soziales/vereine/vereinsdatenbank",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.badkissingen.de/bildung-und-soziales/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Sportehrungen",
+        "url": "https://www.badkissingen.de/bildung-und-soziales/vereine/sportehrung",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.badkissingen.de/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Kultur und Freizeit",
+        "url": "https://www.badkissingen.de/stadt/behoerdenwegweiser/35583.Dienstleistungen-der-Stadt-Bad-Kissingen.html?kt%5Bcat%5D=35312",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.badkissingen.de/",
+        "score": 20
+      },
+      {
+        "titel": "KulturZSMM",
+        "url": "https://www.badkissingen.de/bildung-und-soziales/jugendfamilie/kulturzsmm",
+        "score": 10
+      },
+      {
+        "titel": "Jüdische Kulturtage",
+        "url": "https://www.badkissingen.de/kultur/juedische-kulturtage",
+        "score": 10
+      },
+      {
+        "titel": "Einrichtungen & Kulturangebote der Kirchen",
+        "url": "https://www.badkissingen.de/bildung-und-soziales/kirchliche-einrichtungen/einrichtungen--kulturangebote-der-kirchen",
+        "score": 10
+      },
+      {
+        "titel": "ALLE VERANSTALTUNGEN",
+        "url": "https://www.badkissingen.de/kultur/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Jazz in Bismarck's Basement",
+        "url": "https://www.badkissingen.de/kultur/jazz-in-bismarcks-basement",
+        "score": 10
+      },
+      {
+        "titel": "Museum Obere Saline",
+        "url": "https://www.badkissingen.de/kultur/museum-obere-saline",
+        "score": 10
+      },
+      {
+        "titel": "Informationen zum Besuch",
+        "url": "https://www.badkissingen.de/kultur/museum-obere-saline/besuch",
+        "score": 10
+      },
+      {
+        "titel": "Dauerausstellungen",
+        "url": "https://www.badkissingen.de/kultur/museum-obere-saline/dauerausstellungen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.badkissingen.de/kultur/museum-obere-saline/events",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Königshofen i.Grabfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56331189462",
+    "webseite": "https://www.bad-koenigshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://bad-koenigshofen.de/unsere-stadt/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur in der Schranne",
+        "url": "https://bad-koenigshofen.de/freizeit-kultur/bad-koenigshofen-umgebung/museen-in-der-schranne/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender (Tourismus)",
+        "url": "https://bad-koenigshofen.de/freizeit-kultur/veranstaltungen-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen und kirchliche Vereinigungen",
+        "url": "https://bad-koenigshofen.de/unsere-stadt/kirchen-und-kirchliche-vereinigungen/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus/Freizeit",
+        "url": "https://bad-koenigshofen.de/tourismus/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Kötzting",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37553426459",
+    "webseite": "http://www.bad-koetzting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://bad-koetzting.de/buergerinfo/leben-und-wohnen/vereine-und-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "FREIZEIT UND SPORT",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/",
+        "score": 10
+      },
+      {
+        "titel": "FREIZEIT UND SPORT",
+        "url": "https://bad-koetzting.de/startseite/",
+        "score": 10
+      },
+      {
+        "titel": "AQACUR Badewelt",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/aqacur-badewelt/",
+        "score": 10
+      },
+      {
+        "titel": "Wander-Angebote",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/wander-angebote/",
+        "score": 10
+      },
+      {
+        "titel": "Rad- und Bike-Angebote",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/rad-und-bike-angebote/",
+        "score": 10
+      },
+      {
+        "titel": "Bootswandern",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/bootswandern/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/freizeiteinrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/sportanlagen/",
+        "score": 10
+      },
+      {
+        "titel": "Bayerische Spielbank",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/bayerische-spielbank/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Interaktive Regionskarte",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/interaktive-regionskarte/",
+        "score": 10
+      },
+      {
+        "titel": "Waldlehrpfad",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/waldlehrpfad/",
+        "score": 10
+      },
+      {
+        "titel": "Dreifachturnhalle",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/dreifachturnhalle/",
+        "score": 10
+      },
+      {
+        "titel": "Turnhalle BZ Alte Kaserne",
+        "url": "https://bad-koetzting.de/tourismus/freizeit-und-sport/turnhalle-bz-alte-kaserne/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://bad-koetzting.de/kultur/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Kohlgrub",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18553209506",
+    "webseite": "http://www.gemeinde-bad-kohlgrub.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur im Kurpark",
+        "url": "https://www.kultur-bad-kohlgrub.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Neualbenreuth",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97774760650",
+    "webseite": "http://www.neualbenreuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neualbenreuth.de/gemeinde/leben-in-der-gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.neualbenreuth.de/zoigl-und-vatertagsfest-am-freizeitareal-bad-neualbenreuth-2/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Neustadt a.d.Saale",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26220172442",
+    "webseite": "https://www.bad-neustadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Kindertageseinrichtungen",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit/kindertageseinrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Spiel- und Sportplätze",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit/schulen/",
+        "score": 10
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit-sport/ehrenamt/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienfieber",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit/ferienfieber/",
+        "score": 10
+      },
+      {
+        "titel": "E-Sport-Stadtmeisterschaft",
+        "url": "https://www.bad-neustadt.de/unsere-stadt/familie-freizeit-sport/e-sport-stadtmeisterschaft/",
+        "score": 10
+      },
+      {
+        "titel": "Bücher und Schriften",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/bad-neustadt-erleben/buecher-rund-um-bad-neustadt-a-d-saale/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturkalender WIR! KULTUR",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/bad-neustadt-erleben/kulturkalender-wir-kulturbad-neustadt/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/bad-neustadt-erleben/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Marktplatzsommer",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/bad-neustadt-erleben/marktplatzsommer/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/orte-gebaeude/veranstaltungsraeume/",
+        "score": 10
+      },
+      {
+        "titel": "Museen, Galerien & Ausstellungen",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/orte-gebaeude/museen-galerien-ausstellungen/",
+        "score": 10
+      },
+      {
+        "titel": "Künstler",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/theater-kleinkunst/kuenstler/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.bad-neustadt.de/kultur-bildung/bibliothek-archiv/stadtarchiv/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Reichenhall",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75886841441",
+    "webseite": "http://www.stadt-bad-reichenhall.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturelle Vereine",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/kulturelle-vereine",
+        "score": 60
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Beruf, Industrie, Gewerbe",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/beruf-industrie-gewerbe",
+        "score": 50
+      },
+      {
+        "titel": "Heimat, Tradition & Brauchtum",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/heimat-tradition-brauchtum",
+        "score": 50
+      },
+      {
+        "titel": "Hobby",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/hobby",
+        "score": 50
+      },
+      {
+        "titel": "Natur und Landwirtschaft",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/natur-und-landwirtschaft",
+        "score": 50
+      },
+      {
+        "titel": "Politik",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/politik",
+        "score": 50
+      },
+      {
+        "titel": "Religion",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/religion",
+        "score": 50
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/sportvereine",
+        "score": 50
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.stadt-bad-reichenhall.de/vereine-verbaende/sonstige-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kinder, Bildung, Freizeit",
+        "url": "https://www.stadt-bad-reichenhall.de/amtswegweiser/kinder-bildung-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Bildung",
+        "url": "https://www.stadt-bad-reichenhall.de/kultur-bildung",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.stadt-bad-reichenhall.de/kultur-bildung/schulen",
+        "score": 10
+      },
+      {
+        "titel": "ReichenhallMuseum",
+        "url": "https://www.reichenhallmuseum.de/startseite",
+        "score": 10
+      },
+      {
+        "titel": "Kunstakademie",
+        "url": "https://www.kunstakademie-reichenhall.de/",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.stadt-bad-reichenhall.de/kultur-bildung/volkshochschule",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Rodach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48220018475",
+    "webseite": "https://www.bad-rodach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.bad-rodach.de/unsere-stadt/herzlich-willkommen/vereinsverzeichnis",
+        "score": 40
+      },
+      {
+        "titel": "Eintrag ins Vereinsverzeichnis",
+        "url": "https://www.bad-rodach.de/unsere-stadt/herzlich-willkommen/eintrag-ins-vereinsverzeichnis",
+        "score": 40
+      },
+      {
+        "titel": "04.07.ab 14:00 UhrTeichfest des Obst und Gartenbauvereins",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/teichfest-des-obst-und-gartenbauvereins-1/2026-07-04?cHash=49600ec920fad05595152c057c4ae36e",
+        "score": 40
+      },
+      {
+        "titel": "17.10.ab 18:00 UhrWeinfest des Marienvereins Heldritt",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/weinfest-des-marienvereins-heldritt-1-1/2026-10-17?cHash=70dc475bb83a454bba9c9c0e669e6bc8",
+        "score": 40
+      },
+      {
+        "titel": "05.07.10:30 - 11:30Kurkonzert mit dem Musikverein \"Schorkendorf-Lautertal\"",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/kurkonzert-mit-dem-musikverein-schorkendorf-lautertal-2/2026-07-05?cHash=e0aec40b5bbacc036ac8ad859e968564",
+        "score": 20
+      },
+      {
+        "titel": "09.08.10:30 - 11:30Kurkonzert mit dem Musikverein \"Schorkendorf-Lautertal\"",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/kurkonzert-mit-dem-musikverein-schorkendorf-lautertal-3/2026-08-09?cHash=fa20711594798cd3ba33e341133e3907",
+        "score": 20
+      },
+      {
+        "titel": "16.08.10:30 - 11:30Kurkonzert mit den Straufhain Musikanten",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/kurkonzert-mit-dem-musikverein-schorkendorf-lautertal-3-1/2026-08-16?cHash=a5f6f26ba7a0d29d9f7b3e1efe99815d",
+        "score": 20
+      },
+      {
+        "titel": "27.09.10:30 - 11:30Kurkonzert mit dem Musikverein Bad Königshofen",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/kurkonzert-mit-dem-musikverein-bad-koenigshofen-2/2026-09-27?cHash=457f8f9109a8876f499b8e48680996b8",
+        "score": 20
+      },
+      {
+        "titel": "04.10.10:30 - 11:30Kurkonzert mit dem Musikverein Heimatmusikanten Brattendorf",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/kurkonzert-mit-dem-musikverein-heimatmusikanten-brattendorf-1/2026-10-04?cHash=27ca930791f5c6f91b38113ca99dc310",
+        "score": 20
+      },
+      {
+        "titel": "11.10.10:30 - 11:30Kurkonzert mit dem Musikverein \"Schorkendorf-Lautertal\" am Brunnentempel",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/veranstaltungen/veranstaltung/kurkonzert-mit-dem-musikverein-schorkendorf-lautertal-am-brunnentempel/2026-10-11?cHash=dd411ea6ff6771d6ce38d7aa28a34b72",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/zu-gast-in-bad-rodach/gaesteinformation",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.bad-rodach.de/freizeit-tourismus/sport-freizeit/waldbad",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Staffelstein",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50220004478",
+    "webseite": "http://www.bad-staffelstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://bad-staffelstein.de/de/stadt/service/vereine.php?wt_campaign=short",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungen & Kultur",
+        "url": "https://bad-staffelstein.de/de/veranstaltungen/?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://bad-staffelstein.de/de/tourismus/veranstaltungen/kultur.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Kulturinitiative (KIS)",
+        "url": "https://bad-staffelstein.de/de/tourismus/veranstaltungen/kulturinitiative-kis.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Ausflüge",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/wandern.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Brauereiwanderwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/brauereiwanderwege.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Keltenwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/keltenwege.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Pilgerwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/pilgerweg.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Premium Touren",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/premium-touren.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Rundwege Dörfer",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/doerfer.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Terrainkurwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/terrainkurwege.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Fernwanderwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/fernwanderweg.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Geführte Wanderungen",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/gefuehrte_wanderungen.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Barrierefreie Spazierwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/wandern/wandern-barrierefreie-spazierwege.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Radeln",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/fahrrad/?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Brauerei-Touren",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/fahrrad/brauerei-touren.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Banz-Tour",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/fahrrad/banz-tour.php?wt_campaign=short",
+        "score": 10
+      },
+      {
+        "titel": "Fernradwege",
+        "url": "https://bad-staffelstein.de/de/tourismus/freizeit/fahrrad/fernradwege.php?wt_campaign=short",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Steben",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35330986506",
+    "webseite": "https://www.markt-badsteben.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-badsteben.de/gemeinde/vereine.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Bad Tölz",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91331294439",
+    "webseite": "https://stadt.bad-toelz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bad Weißenstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83775558478",
+    "webseite": "http://www.weissenstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ver­ei­ne und Organisationen",
+        "url": "https://www.weissenstadt.de/buerger/vereine-und-organisationen/",
+        "score": 50
+      },
+      {
+        "titel": "Not­ruf­num­mern",
+        "url": "https://www.weissenstadt.de/buerger/vereine-und-organisationen/hilfe-und-soziales/",
+        "score": 50
+      },
+      {
+        "titel": "Kul­tur",
+        "url": "https://www.weissenstadt.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Berg­werk Werra",
+        "url": "https://www.weissenstadt.de/kultur/bergwerk-werra/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeithäuser",
+        "url": "https://www.weissenstadt.de/weissenstadt-am-see/unterkuenfte/freizeithaeuser/",
+        "score": 10
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.weissenstadt.de/kultur/fuehrungen/",
+        "score": 10
+      },
+      {
+        "titel": "Das kleine Museum",
+        "url": "https://www.weissenstadt.de/kultur/pema-das-kleine-museum/",
+        "score": 10
+      },
+      {
+        "titel": "Felsenkeller",
+        "url": "https://www.weissenstadt.de/kultur/felsenkeller/",
+        "score": 10
+      },
+      {
+        "titel": "Pema Rogg-In",
+        "url": "https://www.weissenstadt.de/kultur/roggenmuseum-rogg-in/",
+        "score": 10
+      },
+      {
+        "titel": "Bierwerkstatt",
+        "url": "https://www.weissenstadt.de/kultur/bierwerkstatt-der-brauerei-michael/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bad Wiessee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52108763506",
+    "webseite": "https://gemeinde.bad-wiessee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
   }
 ]
