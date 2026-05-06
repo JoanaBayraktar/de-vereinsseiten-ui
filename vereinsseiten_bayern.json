@@ -22082,5 +22082,3178 @@
     "webseite": "http://www.hoehenkirchen-siegertsbrunn.de",
     "bundesland": "Bayern",
     "vereinsseiten": []
+  },
+  {
+    "name": "Hörgertshausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78552789596",
+    "webseite": "http://www.gemeinde-hoergertshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online Terminvereinbarung",
+        "url": "https://terminvereinbarung.vg-mauern.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hösbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95330566596",
+    "webseite": "https://www.hoesbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Höslwang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12108343597",
+    "webseite": "https://www.hoeslwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Höttingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28886120597",
+    "webseite": "https://www.hoettingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Arriba Göppersdorf",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/arriba-goeppersdorf.html",
+        "score": 50
+      },
+      {
+        "titel": "DJK Fiegenstall 1974 e.V.",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/djk-fiegenstall-1974-e-v.html",
+        "score": 50
+      },
+      {
+        "titel": "SpVgg Weiboldshausen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/spvgg-weiboldshausen.html",
+        "score": 50
+      },
+      {
+        "titel": "Gesangverein Höttingen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/gesangverein-hoettingen.html",
+        "score": 50
+      },
+      {
+        "titel": "Heimatverein Gemeinde Höttingen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/heimatverein-gemeinde-hoettingen.html",
+        "score": 50
+      },
+      {
+        "titel": "Heimatverein Wolke Göppersdorf",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/heimatverein-wolke-goeppersdorf.html",
+        "score": 50
+      },
+      {
+        "titel": "FFW Höttingen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/ffw-hoettingen.html",
+        "score": 50
+      },
+      {
+        "titel": "FFW Weiboldshausen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/ffw-weiboldshausen.html",
+        "score": 50
+      },
+      {
+        "titel": "FFW Fiegenstall",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/ffw-fiegenstall.html",
+        "score": 50
+      },
+      {
+        "titel": "Posaunenchor Höttingen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/posaunenchor-hoettingen.html",
+        "score": 50
+      },
+      {
+        "titel": "Posaunenchor Weiboldshausen",
+        "url": "https://www.hoettingen.de/leben-wohnen/vereine/posaunenchor-weiboldshausen.html",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.hoettingen.de/freizeit-kultur-tourismus.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Hof",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73442647387",
+    "webseite": "http://www.hof.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Digital und SchnellOnline-Termin-Vereinbarung",
+        "url": "https://termine-reservieren.de/termine/hof/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitgelände Eisteich",
+        "url": "https://www.eisteich.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hofheim i.UFr.",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43553384468",
+    "webseite": "http://www.stadt-hofheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hofkirchen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08775033592",
+    "webseite": "http://www.hofkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hofkirchen.de/index.php/buergerinfo/vereine.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Hofstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25552810592",
+    "webseite": "http://www.hofstetten-hagenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://hofstetten-hagenheim.de/freizeit-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://hofstetten-hagenheim.de/freizeit-kultur/uebernachten",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://hofstetten-hagenheim.de/freizeit-kultur/ausflugsziele",
+        "score": 20
+      },
+      {
+        "titel": "Schwimmbäder",
+        "url": "https://hofstetten-hagenheim.de/freizeit-kultur/schwimmbaeder",
+        "score": 20
+      },
+      {
+        "titel": "Kino",
+        "url": "https://hofstetten-hagenheim.de/freizeit-kultur/kino",
+        "score": 20
+      },
+      {
+        "titel": "Vereinstermine",
+        "url": "https://hofstetten-hagenheim.de/buergerservice/kalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hohenaltheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42330587592",
+    "webseite": "http://www.hohenaltheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59108364592",
+    "webseite": "https://www.hohenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenberg a.d.Eger",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16775677453",
+    "webseite": "http://www.hohenberg.info",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75886141592",
+    "webseite": "http://www.hohenbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Hallenbad, Spielplätze, Sportstätten",
+        "url": "https://hohenbrunn.de/leben-in-hohenbrunn/freizeit-kultur-sport/hallenbad-spielplaetze-sportstaetten/",
+        "score": 20
+      },
+      {
+        "titel": "Essen, Trinken, Übernachten",
+        "url": "https://hohenbrunn.de/leben-in-hohenbrunn/freizeit-kultur-sport/essen-trinken-uebernachten/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Naherholung",
+        "url": "https://hohenbrunn.de/leben-in-hohenbrunn/freizeit-kultur-sport/freizeit-naherholung/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienfreizeit Ammersee - 12-17 Jahre",
+        "url": "https://hohenbrunn.de/ferienfreizeit-ammersee-12-17-jahre-9409193/",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://hohenbrunn.de/imgsrv/deDE/113706/1/3439929943608/GALERIE_ZOOM__ZOOM/hohenbrunn-burschenverein.jpg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hohenburg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92663918592",
+    "webseite": "https://www.hohenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/veranstaltungskalender/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/ferienprogramm/",
+        "score": 10
+      },
+      {
+        "titel": "Sehensw�rdigkeiten",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Unterk�nfte / Gastronomie",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/unterkuenfte-gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Radeln & Wandern",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/radeln-wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/impressionen/",
+        "score": 10
+      },
+      {
+        "titel": "B�cher",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/buecher/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.hohenburg.de/tourismus-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hohenfels",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09441695593",
+    "webseite": "https://www.markt-hohenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenfurch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26219472593",
+    "webseite": "http://www.hohenfurch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Aktuelles Vereinsjahr",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/aktuelles-vereinsjahr",
+        "score": 70
+      },
+      {
+        "titel": "Vereinssatzung",
+        "url": "https://www.hohenfurch.de/vereine/obst-und-gartenbau/vereinssatzung",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsausflug",
+        "url": "https://www.hohenfurch.de/vereine/soldaten-und-veteranenverein/bilder/aktivitaeten-2018/vereinsausflug",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsausflug",
+        "url": "https://www.hohenfurch.de/vereine/soldaten-und-veteranenverein/bilder/aktivitaeten-2017/vereinsausflug",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.hohenfurch.de/vereine/eine-vielzahl-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Fischer",
+        "url": "https://www.hohenfurch.de/vereine/fischer",
+        "score": 50
+      },
+      {
+        "titel": "Frauenverein Hohenfurch",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/frauenverein",
+        "score": 50
+      },
+      {
+        "titel": "Über den Verein",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/ueber-den-verein",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/vorstandschaft",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft 2022-2025",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/vorstandschaft/vorstandschaft-2022-2025",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft 2019-2022",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/vorstandschaft/vorstandschaft-2019-2022",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft 2016-2019",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/vorstandschaft/vorstandschaft-2016-2019",
+        "score": 50
+      },
+      {
+        "titel": "Archiv",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/archiv",
+        "score": 50
+      },
+      {
+        "titel": "Aktionen 2025",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/archiv/aktionen-2025",
+        "score": 50
+      },
+      {
+        "titel": "Aktionen 2024",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/archiv/aktionen-2024",
+        "score": 50
+      },
+      {
+        "titel": "Aktionen 2022",
+        "url": "https://www.hohenfurch.de/vereine/frauenverein-hohenfurch/archiv/aktionen-2022",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Hohenkammer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42997249593",
+    "webseite": "https://www.hohenkammer.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Brauchtum und Kultur",
+        "url": "https://www.hohenkammer.de/unsere-gemeinde/vereine-brauchtum-und-kultur/",
+        "score": 60
+      },
+      {
+        "titel": "Sport, Freizeit und Vereine",
+        "url": "https://www.hohenkammer.de/unsere-gemeinde/sport-freizeit-und-vereine/",
+        "score": 30
+      },
+      {
+        "titel": "Terminabsprache der Vereine Herbst\n\t\t\t\t\t\t\t\t\t\t\t\tDatum: 02.09.2026 \n\n\t\t\t\t\t\t\t\t\t\t\t\tUhrzeit: \n\t\t\t\t\t\t\t\t\t\t\t\t19:00 Uhr\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tOrt: OHA- Vereinsheim\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tVeranstalter:",
+        "url": "https://www.hohenkammer.de/termine/terminabsprache-der-vereine-herbst/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturraum Ampertal",
+        "url": "https://kulturraum-ampertal.de/",
+        "score": 10
+      },
+      {
+        "titel": "Maiandacht des Kfd mit anschließender Jahreshauptversammlung\n\t\t\t\t\t\t\t\t\t\t\t\tDatum: 13.05.2026 \n\n\t\t\t\t\t\t\t\t\t\t\t\tUhrzeit: \n\t\t\t\t\t\t\t\t\t\t\t\t19:00 Uhr\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tOrt: Andacht - Kapelle Deutldorf / Versammlung - OHA Vereinsheim\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tVeranstalter: Kfd",
+        "url": "https://www.hohenkammer.de/termine/maiandacht-des-kfd-mit-anschliessender-jahreshauptversammlung/",
+        "score": 10
+      },
+      {
+        "titel": "Dorffest des Mädchenverein Hohenkammer\n\t\t\t\t\t\t\t\t\t\t\t\tDatum: 27.06.2026 \n\n\t\t\t\t\t\t\t\t\t\t\t\tUhrzeit: \n\t\t\t\t\t\t\t\t\t\t\t\t14:00 Uhr\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tOrt: Gemeindestadel Hohenkammer\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tVeranstalter: Mädchenverein Hohenkammer",
+        "url": "https://www.hohenkammer.de/termine/dorffest-des-maedchenverein-hohenkammer/",
+        "score": 10
+      },
+      {
+        "titel": "Weinfest\n\t\t\t\t\t\t\t\t\t\t\t\tDatum: 22.08.2026 \n\n\t\t\t\t\t\t\t\t\t\t\t\tUhrzeit: \n\t\t\t\t\t\t\t\t\t\t\t\t17:00 Uhr\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tOrt: Gemeindestadel\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tVeranstalter: Burschenverein Hohenkammer",
+        "url": "https://www.hohenkammer.de/termine/weinfest/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen und Termine\n\t\t\t\t\t\t\t\tEntdecken Sie aktuelle Events und Termine in Hohenkammer: von kulturellen Festen bis hin zu Bürgerversammlungen.",
+        "url": "https://www.hohenkammer.de/aktuelles/veranstaltungen-und-termine/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hohenlinden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76552803593",
+    "webseite": "https://www.hohenlinden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenpeißenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93330580593",
+    "webseite": "http://www.hohenpeissenberg.com",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenpolding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10108357594",
+    "webseite": "http://www.hohenpolding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hohenpolding.de/freizeit-und-sport/vereine/vereinsregister",
+        "score": 90
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.hohenpolding.de/freizeit-und-sport/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.hohenpolding.de/freizeit-und-sport/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.hohenpolding.de/freizeit-und-sport/freizeit-und-sport/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.hohenpolding.de/freizeit-und-sport/gastronomie-und-uebernachtung/essen-und-trinken",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hohenroth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26886134594",
+    "webseite": "http://www.hohenroth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hohenroth.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.hohenroth.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Übernachtungen",
+        "url": "https://www.hohenroth.de/freizeit-tourismus/gaststaetten-uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradwege & Wanderwege",
+        "url": "https://www.hohenroth.de/freizeit-tourismus/fahrradwege-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Veitsberg",
+        "url": "https://www.hohenroth.de/freizeit-tourismus/veitsberg",
+        "score": 10
+      },
+      {
+        "titel": "Kalter Rasen",
+        "url": "https://www.hohenroth.de/freizeit-tourismus/kalter-rasen",
+        "score": 10
+      },
+      {
+        "titel": "Dorfsee",
+        "url": "https://www.hohenroth.de/freizeit-tourismus/dorfsee",
+        "score": 10
+      },
+      {
+        "titel": "kulturelle Angebote",
+        "url": "https://www.hohenroth.de/veranstaltungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hohenthann",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43663911594",
+    "webseite": "http://www.hohenthann.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenwart",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60441688594",
+    "webseite": "https://www.markt-hohenwart.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenwarth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77219465594",
+    "webseite": "http://www.hohenwarth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hohenwarth.de/gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitangebot",
+        "url": "https://www.hohenwarth.de/tourismus/freizeitangebot/wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren, Biken, E-Bike",
+        "url": "https://www.hohenwarth.de/tourismus/freizeitangebot/radfahren-biken-e-bike/",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.hohenwarth.de/tourismus/freizeitangebot/wanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "interaktive Wanderkarte",
+        "url": "https://www.hohenwarth.de/tourismus/freizeitangebot/interaktive-wanderkarte/",
+        "score": 10
+      },
+      {
+        "titel": "interaktive Radkarte",
+        "url": "https://www.hohenwarth.de/tourismus/freizeitangebot/interaktive-radkarte/",
+        "score": 10
+      },
+      {
+        "titel": "interaktive Winterkarte",
+        "url": "https://www.hohenwarth.de/tourismus/freizeitangebot/interaktive-winterkarte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hollenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93997242594",
+    "webseite": "https://www.gemeinde-hollenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.gemeinde-hollenbach.de/freizeitangebote/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gemeinde-hollenbach.de/kultur/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hollfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79775586472",
+    "webseite": "http://www.hollfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hollstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10775019595",
+    "webseite": "http://www.hollstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine Hollstadt",
+        "url": "https://www.hollstadt.de/kultur-freizeit/vereine-hollstadt",
+        "score": 70
+      },
+      {
+        "titel": "Vereine Junkershausen",
+        "url": "https://www.hollstadt.de/kultur-freizeit/vereine-junkershausen",
+        "score": 70
+      },
+      {
+        "titel": "Vereine Wargolshausen",
+        "url": "https://www.hollstadt.de/kultur-freizeit/vereine-wargolshausen",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.hollstadt.de/kultur-freizeit/vereinsleben",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.hollstadt.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.hollstadt.de/kultur-freizeit/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.hollstadt.de/kultur-freizeit/unterkuenfte",
+        "score": 20
+      },
+      {
+        "titel": "Aktivitäten",
+        "url": "https://www.hollstadt.de/kultur-freizeit/aktivitaeten",
+        "score": 20
+      },
+      {
+        "titel": "Backhaus Hollstadt",
+        "url": "https://www.hollstadt.de/kultur-freizeit/backhaus-hollstadt",
+        "score": 20
+      },
+      {
+        "titel": "Dreschhalle Hollstadt",
+        "url": "https://www.hollstadt.de/kultur-freizeit/dreschhalle-hollstadt",
+        "score": 20
+      },
+      {
+        "titel": "Haus des Gastes Wargolshausen",
+        "url": "https://www.hollstadt.de/kultur-freizeit/haus-des-gastes-wargolshausen",
+        "score": 20
+      },
+      {
+        "titel": "Kommunikationshof Wargolshausen",
+        "url": "https://www.hollstadt.de/kultur-freizeit/kommunikationshof-wargolshausen",
+        "score": 20
+      },
+      {
+        "titel": "Schwimmbad Wargolshausen",
+        "url": "https://www.hollstadt.de/kultur-freizeit/schwimmbad-wargolshausen",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Holzgünz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27552796595",
+    "webseite": "http://www.holzguenz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.holzguenz.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "01.​01.​2026   Aktuelle Informationen aus der Gemeinde, den Vereinen und des Krisen- und Notfallteams sind über die GEMEINDE-APP. verfügbar",
+        "url": "https://www.holzguenz.de/news/1/662651",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender der Vereine",
+        "url": "https://www.holzguenz.de/veranstaltungen/index.php",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Holzheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77886127595",
+    "webseite": "http://www.gemeinde-holzheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.gemeinde-holzheim.de/wp-content/uploads/2024/07/vereinsfoerderrichtline_122016.pdf",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Holzheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61108350595",
+    "webseite": "http://www.holzheim-nu.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/vereinsleben/unsere-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    30\n                                                Dorffestsitzung mit anschließender Vereinsringsitzung\n                                                                Sitzungssaal",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/dorffestsitzung-mit-anschliessender-vereinsringsitzung/2026-06-30?cHash=1ce15866f96896c7c976d27985ccc93c",
+        "score": 40
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    26\n                                                Sommerfest Schützenverein\n                                                                Schützenheim",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/sommerfest-schuetzenverein-2/2026-06-26?cHash=b5362abb3b26c537c54351eaa77439f6",
+        "score": 20
+      },
+      {
+        "titel": "Aug\n                                                \n                                                    15\n                                                Sommerfest Veteranenverein\n                                                                Pietschmanns Wiese",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/sommerfest-veteranenverein/2026-08-15?cHash=d0b9ed8fac0cd61b1acf74c1b3879fa1",
+        "score": 20
+      },
+      {
+        "titel": "Aug\n                                                \n                                                    28\n                                                Mannschaftsbesprechung Schützenverein\n                                                                Schützenheim",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/mannschaftsbesprechung-schuetzenverein-1/2026-08-28?cHash=f219a006bec9e3f89c04a546b3d412b5",
+        "score": 20
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    29\n                                                Weihnachtsfeier Veteranen- und Soldatenverein\n                                                                Jungingers Scheune",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/weihnachtsfeier-veteranen-und-soldatenverein-4/2026-11-29?cHash=3596bb040f8ddf2a0343ba64f4c889d3",
+        "score": 20
+      },
+      {
+        "titel": "Jan\n                                                \n                                                    24\n                                                Jahreshauptversammlung Veteranen- und Soldatenverein\n                                                                Bärenbräu Neuhausen",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/jahreshauptversammlung-veteranen-und-soldatenverein-4/2027-01-24?cHash=dec1494abb06f0dd1df036f13cedcfea",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.holzheim-nu.de/wohnen-in-holzheim/senioren-menschen-mit-behinderung/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/sport-freizeit/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Spiel- & Bolzplätze",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/sport-freizeit/spiel-bolzplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.holzheim-nu.de/freizeit-geniessen/sport-freizeit/wandern-radfahren",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Holzheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44330573595",
+    "webseite": "http://www.holzheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sportvereine",
+        "url": "https://holzheim.de/freizeit-kultur/sportvereine/",
+        "score": 40
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://holzheim.de/freizeit-kultur/sonstige-vereine/",
+        "score": 40
+      },
+      {
+        "titel": "Alle Vereine der Gemeinde",
+        "url": "https://holzheim.de/freizeit-kultur/alle-vereine-der-gemeinde/",
+        "score": 40
+      },
+      {
+        "titel": "Musik-/ Gesangverein",
+        "url": "https://holzheim.de/freizeit-kultur/musik-gesangverein/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit / Kultur",
+        "url": "https://holzheim.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://holzheim.de/freizeit-kultur/feuerwehr/",
+        "score": 20
+      },
+      {
+        "titel": "Schützensport",
+        "url": "https://holzheim.de/freizeit-kultur/schuetzensport/",
+        "score": 20
+      },
+      {
+        "titel": "Fischereisport",
+        "url": "https://holzheim.de/freizeit-kultur/fischereisport/",
+        "score": 20
+      },
+      {
+        "titel": "Landjugend",
+        "url": "https://holzheim.de/freizeit-kultur/landjugend/",
+        "score": 20
+      },
+      {
+        "titel": "Fasching",
+        "url": "https://holzheim.de/freizeit-kultur/fasching/",
+        "score": 20
+      },
+      {
+        "titel": "Pferdesport",
+        "url": "https://holzheim.de/freizeit-kultur/pferdesport/",
+        "score": 20
+      },
+      {
+        "titel": "Schwimmbad",
+        "url": "https://holzheim.de/freizeit-kultur/schwimmbad/",
+        "score": 20
+      },
+      {
+        "titel": "Modellfliegen",
+        "url": "https://holzheim.de/freizeit-kultur/modellfliegen/",
+        "score": 20
+      },
+      {
+        "titel": "Umwelt und Natur",
+        "url": "https://holzheim.de/freizeit-kultur/umwelt-und-natur/",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://holzheim.de/freizeit-kultur/wandern/",
+        "score": 20
+      },
+      {
+        "titel": "Gleitschirmfliegen",
+        "url": "https://holzheim.de/freizeit-kultur/gleitschirmfliegen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Holzheim a.Forst",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94663904595",
+    "webseite": "http://www.holzheim-a-forst.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Holzkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28219458596",
+    "webseite": "http://www.holzkirchen-ufr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Holzkirchen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11441681596",
+    "webseite": "http://www.holzkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Für Vereine und Organisationen",
+        "url": "https://www.holzkirchen.de/Fuer-Vereine-Organisationen",
+        "score": 20
+      },
+      {
+        "titel": "Vereine und Gruppierungen",
+        "url": "https://www.holzkirchen.de/ehrenamt",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.holzkirchen.de/termin",
+        "score": 10
+      },
+      {
+        "titel": "KULTUR im Oberbräu",
+        "url": "https://www.holzkirchen.de/de/Ihr-Rathaus/Unsere-kommunalen-Betriebe/KULTUR-im-Oberbraeu",
+        "score": 10
+      },
+      {
+        "titel": "Spiel, Spaß und Freizeitbetreuung",
+        "url": "https://www.holzkirchen.de/Leben/Spiel,-Spass-und-Betreuung",
+        "score": 10
+      },
+      {
+        "titel": "Das JUZ",
+        "url": "https://www.holzkirchen.de/de/Leben/Spiel,-Spass-und-Betreuung/Freizeitstaette-JUZ",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.holzkirchen.de/de/Erleben/Aktiv-in-Holzkirchen",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitanlage",
+        "url": "https://www.holzkirchen.de/de/Erleben/Aktiv-in-Holzkirchen/Jugendfreizeitanlage",
+        "score": 10
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.holzkirchen.de/Erleben/Kunst-und-Kultur",
+        "score": 10
+      },
+      {
+        "titel": "KULTUR im Oberbräu",
+        "url": "https://www.holzkirchen.de/Erleben/Kultur-im-Oberbraeu",
+        "score": 10
+      },
+      {
+        "titel": "Kunst im öffentlichen Raum",
+        "url": "https://www.holzkirchen.de/Erleben/Kultur-im-oeffentlichen-Raum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hopferau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44997235596",
+    "webseite": "http://www.hopferau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Urlaubsregion",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Region & Gastgeber",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/region-gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Die fünf Gemeinden",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/region-gastgeber/die-fuenf-gemeinden",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten im Südlichen Allgäu",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/region-gastgeber/uebernachten-im-suedlichen-allgaeu",
+        "score": 10
+      },
+      {
+        "titel": "Gästekarten & Königscard",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/region-gastgeber/gaestekarten-koenigscard",
+        "score": 10
+      },
+      {
+        "titel": "Südliches Allgäu erleben",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv im Sommer",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben/aktiv-im-sommer",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv im Winter",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben/aktiv-im-winter",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben/kultur-sehenswuerdigkeiten/ausflugsziele-in-der-umgebung",
+        "score": 10
+      },
+      {
+        "titel": "Familienurlaub",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben/familienurlaub",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Kulinarik",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben/natuerlich-urlaub-mit-allen-sinnen/gastronomie-kulinarik",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Sehenswürdigkeiten",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/suedliches-allgaeu-erleben/kultur-sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Kontakt & Service",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/kontakt-service",
+        "score": 10
+      },
+      {
+        "titel": "Tourist-Informationen",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/kontakt-service/tourist-informationen",
+        "score": 10
+      },
+      {
+        "titel": "Webcams",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/kontakt-service/webcams",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnisse & Veranstaltungen",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/kontakt-service/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Prospekte & Infomaterial",
+        "url": "https://www.hopferau.de/hopferau/kultur-sehenswuerdigkeiten/kontakt-service/prospekte-infomaterial",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Horgau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61775012596",
+    "webseite": "https://www.horgau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.horgau.de/leben-wohnen/vereine-organisationen/vereinsliste",
+        "score": 80
+      },
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.horgau.de/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Spielen",
+        "url": "https://www.horgau.de/leben-wohnen/freizeit-spielen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Huglfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45663897597",
+    "webseite": "https://huglfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Huisheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62441674597",
+    "webseite": "https://www.huisheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.huisheim.de/vereineundverbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Bildung & Freizeit ›",
+        "url": "https://www.huisheim.de/bildungundfreitzeit/termine/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.huisheim.de/bildungundfreizeit/ferienprogrammhuisheim-gosheim/",
+        "score": 10
+      },
+      {
+        "titel": "LAG Monheimer Alb-AltmühlJura",
+        "url": "https://www.huisheim.de/bildungundfreizeit/lagmonheimeralbaltmuehljura/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hummeltal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79219451597",
+    "webseite": "http://www.hummeltal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.hummeltal.de/Vereine-und-Verbaende.n155.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.hummeltal.de/freizeit-und-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.markgrafenkultur.de/?suche",
+        "score": 10
+      },
+      {
+        "titel": "Markgrafenkultur",
+        "url": "https://www.markgrafenkultur.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hunderdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95997228597",
+    "webseite": "http://www.hunderdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hunderdorf.de/Vereine.n45.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.hunderdorf.de/Freizeit-Tourismus.n7.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.hunderdorf.de/Freizeiteinrichtungen.n111.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.hunderdorf.de/index.php?id=0,7",
+        "score": 10
+      },
+      {
+        "titel": "Chronik Bürger- und Vereinshaus Hunderdorf",
+        "url": "https://www.hunderdorf.de/index.php?id=8542,1?suche=",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hunding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12775005598",
+    "webseite": "http://www.hunding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hurlach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29552782598",
+    "webseite": "https://www.hurlach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.hurlach.de/gemeinde/vereine-organisationen/",
+        "score": 50
+      },
+      {
+        "titel": "Sport- und Kulturhalle",
+        "url": "https://www.hurlach.de/gemeinde/oeffentliche-einrichtungen/sport-und-kulturhalle/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Hutthurm",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46330559598",
+    "webseite": "https://www.hutthurm.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ichenhausen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73775628463",
+    "webseite": "http://www.ichenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Login/-out",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/vereinsadresse-melden/login/-out",
+        "score": 30
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/vereinsadresse-melden/registrieren",
+        "score": 30
+      },
+      {
+        "titel": "10.05.11:00 - 17:00Keltenfest, Förderverein Kultur und Naherholung Ichenhausen",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/was-ist-los-in-ichenhausen/veranstaltungen/veranstaltung/keltenfest-foerderverein-kultur-und-naherholung-ichenhausen/2026-05-10?cHash=b6c8127fefe869ff5af248d439d3f230",
+        "score": 20
+      },
+      {
+        "titel": "20.09.ab 09:00 Uhr275 Jahre, Pfarrgemeinde & Hochwanger Vereine",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/was-ist-los-in-ichenhausen/veranstaltungen/veranstaltung/275-jahre-pfarrgemeinde-hochwanger-vereine/2026-09-20?cHash=1a8bd67db5b58c474297114393304ab0",
+        "score": 20
+      },
+      {
+        "titel": "14.10.ab 19:30 UhrTreffen der Vereine, Hochwanger Vereine",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/was-ist-los-in-ichenhausen/veranstaltungen/veranstaltung/treffen-der-vereine-hochwanger-vereine/2026-10-14?cHash=b9d879d11b842fb5452fe6d5063a5462",
+        "score": 20
+      },
+      {
+        "titel": "Wirtschaftsvereinigung",
+        "url": "https://www.ichenhausen.de/in-ichenhausen-zuhause/gewerbe-und-handel/wirtschaftsvereinigung",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/sport-und-freizeit/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Minigolf",
+        "url": "https://www.ichenhausen.de/ichenhausen-erleben/sport-und-freizeit/minigolf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Icking",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63108336598",
+    "webseite": "http://www.icking.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vorkindergartengruppe des Fördervereins Kindergarten Dorfen",
+        "url": "https://www.icking.de/leben-in-icking/kinder-and-jugend/kinderbetreuung/vorkindergartengruppe-des-foerdervereins-kindergarten-dorfen",
+        "score": 30
+      },
+      {
+        "titel": "Förderverein",
+        "url": "https://www.icking.de/leben-in-icking/kinder-and-jugend/grundschule-icking/wir-ueber-uns/unsere-eltern/foerderverein",
+        "score": 10
+      },
+      {
+        "titel": "Bildung & Kultur",
+        "url": "https://www.icking.de/leben-in-icking/bildung-kultur",
+        "score": 10
+      },
+      {
+        "titel": "Kinder- & Jugendbücherei",
+        "url": "https://www.icking.de/leben-in-icking/bildung-kultur/kinder-jugendbuecherei",
+        "score": 10
+      },
+      {
+        "titel": "Bücherschrank",
+        "url": "https://www.icking.de/leben-in-icking/bildung-kultur/buecherschrank",
+        "score": 10
+      },
+      {
+        "titel": "Ausstellung in der Rathausgalerie",
+        "url": "https://www.icking.de/leben-in-icking/bildung-kultur/ausstellung-in-der-rathausgalerie",
+        "score": 10
+      },
+      {
+        "titel": "Treffpunkte",
+        "url": "https://www.icking.de/leben-in-icking/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Seniorenmittagstisch",
+        "url": "https://www.icking.de/leben-in-icking/senioren/freizeitangebote/mittagstisch",
+        "score": 10
+      },
+      {
+        "titel": "Kaffeestammtisch",
+        "url": "https://www.icking.de/leben-in-icking/senioren/freizeitangebote/kaffeestammtisch",
+        "score": 10
+      },
+      {
+        "titel": "Seniorenausflug",
+        "url": "https://www.icking.de/leben-in-icking/senioren/freizeitangebote/seniorenausflug",
+        "score": 10
+      },
+      {
+        "titel": "Isartalverein",
+        "url": "https://www.icking.de/leben-in-icking/mitmachen/ehrenamt-tiere-umweltschutz/isartalverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Iffeldorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79886113598",
+    "webseite": "http://www.iffeldorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Reges Vereinsleben",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/reges-vereinsleben/ortsvereine",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltung beantragen",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/reges-vereinsleben/veranstaltung-beantragen",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/reges-vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Meisterkonzerte",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/veranstaltungen/meisterkonzerte",
+        "score": 10
+      },
+      {
+        "titel": "Treffpunkt Bürgerzentrum",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/veranstaltungen/treffpunkt-buergerzentrum",
+        "score": 10
+      },
+      {
+        "titel": "Jugendzentrum",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/veranstaltungen/jugendzentrum",
+        "score": 10
+      },
+      {
+        "titel": "Geschirrmobil",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/veranstaltungen/feste-und-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Sportlich unterwegs",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/sportlich-unterwegs",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/sportlich-unterwegs/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Radeln und Wandern",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/sportlich-unterwegs/radeln-und-wandern",
+        "score": 10
+      },
+      {
+        "titel": "Badespaß",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/sportlich-unterwegs/badespass",
+        "score": 10
+      },
+      {
+        "titel": "Golf",
+        "url": "https://www.iffeldorf.de/freizeit-geniessen/sportlich-unterwegs/golf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Igensdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96663890598",
+    "webseite": "http://www.igensdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.igensdorf.de/Leben-in-Igensdorf/Vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Igensdorfer Kultursommer",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Igensdorfer-Kultursommer/",
+        "score": 20
+      },
+      {
+        "titel": "Datum: 09.05.2026Uhrzeit: 20:00 Uhr\t\t\t\t\t\t\t\t\tWenn nicht wann, dann jetzt\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tDie Igensdorfer Vereine präsentieren Rolf Miller... Mehr",
+        "url": "https://www.igensdorf.de/index.php?object=tx,3608.8&ModID=11&FID=3608.557.1",
+        "score": 20
+      },
+      {
+        "titel": "Lindelberg Kulturhalle",
+        "url": "https://www.igensdorf.de/Kommunales/Lindelberg-Kulturhalle/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & G�ste",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/",
+        "score": 10
+      },
+      {
+        "titel": "Brennereien",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Brennereien/",
+        "score": 10
+      },
+      {
+        "titel": "Burgstall Hainburg",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Burgstall-Hainburg/",
+        "score": 10
+      },
+      {
+        "titel": "Fachwerk",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Fachwerk/",
+        "score": 10
+      },
+      {
+        "titel": "Fr�nkische Schweiz",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Fr%c3%a4nkische-Schweiz/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Gastronomie-/",
+        "score": 10
+      },
+      {
+        "titel": "Geologischer Wanderweg",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Geologischer-Wanderweg/",
+        "score": 10
+      },
+      {
+        "titel": "Hofl�den",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Hofl%c3%a4den/",
+        "score": 10
+      },
+      {
+        "titel": "Planetenweg",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Planetenweg/",
+        "score": 10
+      },
+      {
+        "titel": "Jakobsweg",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Jakobsweg/",
+        "score": 10
+      },
+      {
+        "titel": "Kirschenbl�te",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Kirschenbl%c3%bcte-/",
+        "score": 10
+      },
+      {
+        "titel": "Marktfest",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Marktfest/",
+        "score": 10
+      },
+      {
+        "titel": "Osterbrunnen",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Osterbrunnen/",
+        "score": 10
+      },
+      {
+        "titel": "Teufelstisch",
+        "url": "https://www.igensdorf.de/Freizeit-G%c3%a4ste/Teufelstisch/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Iggensbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13441667599",
+    "webseite": "http://www.iggensbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.iggensbach.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Igling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30219444599",
+    "webseite": "https://www.igling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.igling.de/gemeinde/vereine-organisationen/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ihrlerstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46997221599",
+    "webseite": "http://www.ihrlerstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Illertissen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84553447454",
+    "webseite": "http://www.illertissen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Illesheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63774998599",
+    "webseite": "http://www.illesheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Illschwang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80552775599",
+    "webseite": "http://www.illschwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit und Gäste",
+        "url": "https://www.illschwang.de/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/sehenswuerdigkeiten/kirchen/",
+        "score": 10
+      },
+      {
+        "titel": "Hainsburg",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/sehenswuerdigkeiten/hainsburg/",
+        "score": 10
+      },
+      {
+        "titel": "Kuhfels",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/sehenswuerdigkeiten/kuhfels/",
+        "score": 10
+      },
+      {
+        "titel": "Hopfenmuseum",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/sehenswuerdigkeiten/hopfenmuseum/",
+        "score": 10
+      },
+      {
+        "titel": "Hopfengarten",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/sehenswuerdigkeiten/hopfengarten/",
+        "score": 10
+      },
+      {
+        "titel": "Historische Bauten",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/sehenswuerdigkeiten/historische-bauten/",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/aktiv-in-illschwang/freibad/",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/aktiv-in-illschwang/wanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/aktiv-in-illschwang/radwege/",
+        "score": 10
+      },
+      {
+        "titel": "Nordic Walking",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/aktiv-in-illschwang/nordic-walking/",
+        "score": 10
+      },
+      {
+        "titel": "Klettern",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/aktiv-in-illschwang/klettern/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/freizeit/veranstaltungskalender/",
+        "score": 10
+      },
+      {
+        "titel": "Kirwan, Brauchtum, Feste",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/freizeit/kirwan-brauchtum-und-feste/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/freizeit/ferienprogramm/",
+        "score": 10
+      },
+      {
+        "titel": "Tourist-Information",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/wichtige-informationen/tourist-information/",
+        "score": 10
+      },
+      {
+        "titel": "Lage & Anfahrt",
+        "url": "https://www.illschwang.de/freizeit-und-gaeste/wichtige-informationen/lage-anfahrt/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ilmmünster",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97330552599",
+    "webseite": "http://www.ilmmuenster.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.ilmmuenster.de/vereine-und-verbaende-ilmmuenster",
+        "score": 70
+      },
+      {
+        "titel": "Hospizverein Pfaffenhofen eV",
+        "url": "https://www.ilmmuenster.de/hospizverein-pfaffenhofen-ev",
+        "score": 10
+      },
+      {
+        "titel": "Kulturreferat",
+        "url": "https://www.ilmmuenster.de/kulturreferat",
+        "score": 10
+      },
+      {
+        "titel": "Kulturreferent",
+        "url": "https://www.ilmmuenster.de/kulturreferent-ilmmuenster",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Immenreuth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14108329600",
+    "webseite": "http://www.immenreuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.immenreuth.de/leben-wohnen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.immenreuth.de/leben-wohnen/freizeit-sport/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Immenstadt i.Allgäu",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81886799450",
+    "webseite": "http://www.stadt-immenstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/museen-ausstellungen/",
+        "score": 20
+      },
+      {
+        "titel": "Museum Hofmühle",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/museen-ausstellungen/museum-hofmuehle/",
+        "score": 20
+      },
+      {
+        "titel": "Allgäuer Bergbauernmuseum",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/museen-ausstellungen/allgaeuer-bergbauernmuseum/",
+        "score": 20
+      },
+      {
+        "titel": "Erlebnisausstellung im Naturparkzentrum Nagelfluhkette",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/museen-ausstellungen/erlebnisausstellung-im-naturparkzentrum-nagelfluhkette/",
+        "score": 20
+      },
+      {
+        "titel": "MuseoApp Immenstadt",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/museen-ausstellungen/museoapp-immenstadt/",
+        "score": 20
+      },
+      {
+        "titel": "Historischer Rundgang",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/museen-ausstellungen/historischer-rundgang/",
+        "score": 20
+      },
+      {
+        "titel": "Literaturhaus Allgäu",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/literaturhaus-allgaeu/",
+        "score": 20
+      },
+      {
+        "titel": "Karten",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/literaturhaus-allgaeu/karten/",
+        "score": 20
+      },
+      {
+        "titel": "Über uns",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/literaturhaus-allgaeu/ueber-uns/",
+        "score": 20
+      },
+      {
+        "titel": "Programm",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/literaturhaus-allgaeu/programm/",
+        "score": 20
+      },
+      {
+        "titel": "Unser Service für Sie",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/stadtbuecherei/unser-service-fuer-sie/",
+        "score": 20
+      },
+      {
+        "titel": "Gebühren",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/stadtbuecherei/gebuehren/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/freizeiteinrichtungen/",
+        "score": 20
+      },
+      {
+        "titel": "Kuhnigundenweg",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/freizeiteinrichtungen/kuhnigundenweg/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.stadt-immenstadt.de/freizeit-kultur/veranstaltungen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Inchenhofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30886106600",
+    "webseite": "http://www.inchenhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ingenried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47663883600",
+    "webseite": "http://www.ingenried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsfahnen",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/veteranenverein/vereinsfahnen",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.ingenried.de/vereine-und-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/freiwillige-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Kath. Landjugend",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/kath-landjugend",
+        "score": 50
+      },
+      {
+        "titel": "Kindergartenförderverein",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/kindergartenfoerderverein",
+        "score": 50
+      },
+      {
+        "titel": "Kurzinfo",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/kindergartenfoerderverein/kurzinfo",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/kindergartenfoerderverein/vorstandschaft",
+        "score": 50
+      },
+      {
+        "titel": "Spenden",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/kindergartenfoerderverein/spenden",
+        "score": 50
+      },
+      {
+        "titel": "Musikkapelle",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/musikkapelle",
+        "score": 50
+      },
+      {
+        "titel": "Pfarrgemeinde",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/pfarrgemeinde",
+        "score": 50
+      },
+      {
+        "titel": "Kirchenjubiläum",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/pfarrgemeinde/kirchenjubilaeum",
+        "score": 50
+      },
+      {
+        "titel": "Pfarrgemeinderat",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/pfarrgemeinde/pfarrgemeinderat",
+        "score": 50
+      },
+      {
+        "titel": "Kirchenverwaltung",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/pfarrgemeinde/kirchenverwaltung",
+        "score": 50
+      },
+      {
+        "titel": "Gottesdienstanzeiger",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/pfarrgemeinde/gottesdienstanzeiger",
+        "score": 50
+      },
+      {
+        "titel": "Traditionen",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/pfarrgemeinde/traditionen",
+        "score": 50
+      },
+      {
+        "titel": "Radfahrverein",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/radfahrverein",
+        "score": 50
+      },
+      {
+        "titel": "Schützenverein",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/schuetzenverein",
+        "score": 50
+      },
+      {
+        "titel": "Theatergruppe",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/theatergruppe",
+        "score": 50
+      },
+      {
+        "titel": "Baeckermeister_Striezl",
+        "url": "https://www.ingenried.de/vereine-und-verbaende/theatergruppe/baeckermeister-striezl",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ingolstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72109323385",
+    "webseite": "https://www.ingolstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Innernzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64441660600",
+    "webseite": "http://www.innernzell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.innernzell.de/gemeinde-leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.innernzell.de/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.innernzell.de/freizeit-erleben/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.innernzell.de/freizeit-erleben/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Tourist Information",
+        "url": "https://www.innernzell.de/freizeit-erleben/tourist-information",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff Z-Point",
+        "url": "https://www.innernzell.de/freizeit-erleben/jugendtreff",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.innernzell.de/freizeit-erleben",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Inning a.Ammersee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81219437600",
+    "webseite": "http://www.inning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Inning a.Holz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97997214600",
+    "webseite": "http://www.gemeinde-inning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-inning.de/freizeit-sport/vereine/vereinsregister",
+        "score": 90
+      },
+      {
+        "titel": "13.06.ab 13:00 UhrFC-Inning Vereinsmeisterschaft Stockschützen bei der Stockbahn Beginn 13.00 Uhr",
+        "url": "https://www.gemeinde-inning.de/freizeit-sport/veranstaltungen/veranstaltungskalender/veranstaltung/fc-inning-vereinsmeisterschaft-stockschuetzen-bei-der-stockbahn-beginn-1300-uhr-1217/2026-06-13?cHash=38de38ce04ed022c9f0cfb0057be0c11",
+        "score": 40
+      },
+      {
+        "titel": "16.09.ab 19:00 UhrKalendertreffen der Vereine",
+        "url": "https://www.gemeinde-inning.de/freizeit-sport/veranstaltungen/veranstaltungskalender/veranstaltung/kalendertreffen-der-vereine-1214/2026-09-16?cHash=1d88a01c8cf23fd8e2bcddc4a701d276",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.gemeinde-inning.de/freizeit-sport/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.gemeinde-inning.de/freizeit-sport/freizeit-und-sport/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.gemeinde-inning.de/freizeit-sport/gastronomie-und-uebernachtung/essen-und-trinken",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Insingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14774991601",
+    "webseite": "http://www.insingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Inzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31552768601",
+    "webseite": "https://www.gemeindeverwaltung-inzell.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeindeverwaltung-inzell.de/unsere-gemeinde/vereinsleben/vereinsregister",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.gemeindeverwaltung-inzell.de/unsere-gemeinde/vereinsleben/feuerwehr",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Iphofen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71775642460",
+    "webseite": "http://www.iphofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeittipps",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/",
+        "score": 10
+      },
+      {
+        "titel": "Einkaufen",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/einkaufen/",
+        "score": 10
+      },
+      {
+        "titel": "Knauf-Museum",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/knauf-museum/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchenburgmuseum",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/kirchenburg-museum/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtrundgänge & Besichtigung",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/stadtrundgaenge-besichtigung/",
+        "score": 10
+      },
+      {
+        "titel": "Iphofen-Tipps für Kinder",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/iphofen-tipps-kinder/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeittipps in und um Iphofen",
+        "url": "https://www.iphofen.de/vor-ort/freizeittipps/freizeittipps-um-iphofen.html",
+        "score": 10
+      },
+      {
+        "titel": "kulturelle und kulinarische Veranstaltungen",
+        "url": "https://www.iphofen.de/veranstaltungen/veranstaltungskalender/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ippesheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48330545601",
+    "webseite": "http://www.ippesheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.ippesheim.de/leben-und-erleben/vereine-und-verbaende/die-freiwilligen-feuerwehren",
+        "score": 50
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugstipps",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/ausflugstipps",
+        "score": 10
+      },
+      {
+        "titel": "Wein und Winzer",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/weinbau",
+        "score": 10
+      },
+      {
+        "titel": "Winzer und Weinstuben",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/winzer-und-weinstuben",
+        "score": 10
+      },
+      {
+        "titel": "Direktvermarker",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/direktvermarker",
+        "score": 10
+      },
+      {
+        "titel": "Weinfeste",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/weinfeste",
+        "score": 10
+      },
+      {
+        "titel": "Weinparadies Franken",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/weinparadies-franken",
+        "score": 10
+      },
+      {
+        "titel": "Weinparadiesscheune",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/weinparadiesscheune",
+        "score": 10
+      },
+      {
+        "titel": "Bocksbeutelexpress",
+        "url": "https://www.ippesheim.de/leben-und-erleben/freizeit-und-tourismus/wein-und-winzer/bocksbeutelexpress",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ipsheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65108322601",
+    "webseite": "https://www.ipsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Gemeinde",
+        "url": "https://www.ipsheim.de/gemeinde/freizeit-vereine",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Irchenrieth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81886099601",
+    "webseite": "http://www.irchenrieth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.irchenrieth.de/Sites/Freizeit/Vereine/Politische-Vereine",
+        "score": 30
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.irchenrieth.de/Sites/Freizeit/Vereine/Sportvereine",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.irchenrieth.de/Sites/Freizeit/Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.irchenrieth.de/Sites/Freizeit/Spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.irchenrieth.de/Sites/Freizeit/Wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.irchenrieth.de/Sites/Buergerservice/Termine",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Irlbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98663876601",
+    "webseite": "http://www.irlbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Informationspflicht Vereinsliste                                             \n                                            (200KB)",
+        "url": "https://www.irlbach.de/wp-content/uploads/2025/07/Datenschutz-Informationspflicht_Vereinsliste.pdf",
+        "score": 20
+      },
+      {
+        "titel": "Seniorenmobil – externer Link",
+        "url": "https://www.landkreis-straubing-bogen.de/kultur-bildung-sport-soziales/seniormobil/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Irschenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15441653602",
+    "webseite": "http://www.irschenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.irschenberg.de/index.php?id=0,36",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Irsee",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32219430602",
+    "webseite": "https://www.irsee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/freiwillige-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Katholischer Frauenbund",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/katholischer-frauenbund",
+        "score": 50
+      },
+      {
+        "titel": "Motorradfreunde Irsee",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/motorradfreunde-irsee",
+        "score": 50
+      },
+      {
+        "titel": "Musikverein",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/musikverein",
+        "score": 50
+      },
+      {
+        "titel": "Obst- und Gartenbauverein",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/obst-und-gartenbauverein",
+        "score": 50
+      },
+      {
+        "titel": "Partnerschaftsverein",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/partnerschaftsverein",
+        "score": 50
+      },
+      {
+        "titel": "Schützengesellschaft",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/schuetzengesellschaft",
+        "score": 50
+      },
+      {
+        "titel": "Turnverein",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/turnverein",
+        "score": 50
+      },
+      {
+        "titel": "Veteranenverein",
+        "url": "https://www.irsee.de/kirchen-pfarreien-und-vereine/vereine/veteranenverein",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Isen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48997207602",
+    "webseite": "http://www.isen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.markt-isen.de/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Sport- und Spielplätze",
+        "url": "https://www.markt-isen.de/kultur-freizeit/sport-und-spielplaetze/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.markt-isen.de/kultur-freizeit/sehenswuerdigkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.markt-isen.de/kultur-freizeit/radwege/",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.markt-isen.de/kultur-freizeit/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Alle Termine im Markt Isen",
+        "url": "https://www.markt-isen.de/kultur-freizeit/termine/",
+        "score": 20
+      },
+      {
+        "titel": "TERMINVEREINBARUNG MARKT ISEN",
+        "url": "https://tempus-termine.com/termine/index.php?anlagennr=126&anlagentoken=owtvqo",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ismaning",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65774984602",
+    "webseite": "http://www.ismaning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Issigau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82552761602",
+    "webseite": "http://www.issigau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.issigau.de/leben-in-issigau/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Politik",
+        "url": "https://www.issigau.de/leben-in-issigau/vereine/politik/",
+        "score": 50
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.issigau.de/freizeit-und-tourismus/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Angebote",
+        "url": "https://www.issigau.de/freizeit-und-tourismus/angebote/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie/Unterkünfte",
+        "url": "https://www.issigau.de/freizeit-und-tourismus/gastronomieunterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Die Region",
+        "url": "https://www.issigau.de/freizeit-und-tourismus/die-region/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Itzgrund",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99330538602",
+    "webseite": "https://www.itzgrund.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.itzgrund.de/freizeit/vereine.html",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.itzgrund.de/freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.itzgrund.de/freizeit/veranstaltungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.itzgrund.de/freizeit/tourismus.html",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.itzgrund.de/freizeit/wandern.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.itzgrund.de/freizeit/ausflugsziele.html",
+        "score": 10
+      },
+      {
+        "titel": "Itzgrundhalle",
+        "url": "https://www.itzgrund.de/freizeit/itzgrundhalle.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Jachenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16108315603",
+    "webseite": "http://www.jachenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.jachenau.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Walchensee erleben: Ruhe & Abenteuer vereint",
+        "url": "https://www.jachenau.de/unser-walchensee",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Jandelsbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32886092603",
+    "webseite": "http://www.jandelsbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "http://www.jandelsbrunn.de/Freizeit%20und%20Tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Kultur und Veranstaltungen",
+        "url": "http://www.jandelsbrunn.de/Kultur%20und%20Veranstaltungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Jengen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49663869603",
+    "webseite": "http://www.jengen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Jengen",
+        "url": "https://www.jengen.de/freizeit-tourismus/vereine/jengen/",
+        "score": 60
+      },
+      {
+        "titel": "Beckstetten",
+        "url": "https://www.jengen.de/freizeit-tourismus/vereine/beckstetten/",
+        "score": 60
+      },
+      {
+        "titel": "Eurishofen",
+        "url": "https://www.jengen.de/freizeit-tourismus/vereine/eurishofen/",
+        "score": 60
+      },
+      {
+        "titel": "Ummenhofen",
+        "url": "https://www.jengen.de/freizeit-tourismus/vereine/ummenhofen/",
+        "score": 60
+      },
+      {
+        "titel": "Weicht",
+        "url": "https://www.jengen.de/freizeit-tourismus/vereine/weicht/",
+        "score": 60
+      },
+      {
+        "titel": "Weinhausen",
+        "url": "https://www.jengen.de/freizeit-tourismus/vereine/weinhausen/",
+        "score": 60
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n        \n            Lagerhausfest des Musikvereins Weicht",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/detail/lagerhausfest-des-musikvereins-weicht/",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.jengen.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "mehr",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Heute\n                \n            \n        \n            Floriansmesse der Feuerwehr Ummenhofen",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/detail/floriansmesse-der-feuerwehr-ummenhofen/",
+        "score": 10
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n                \n            \n        \n            Inspirationen am Frühstückstisch",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/detail/inspirationen-am-fruehstueckstisch/",
+        "score": 10
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n                \n            \n        \n            Musikschul-Schnuppertag",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/detail/musikschul-schnuppertag/",
+        "score": 10
+      },
+      {
+        "titel": "Mo., 11.05.2026\n                    \n                \n            \n        \n            Jahreshauptversammlung des FC Jengen - Abt. Aikido",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/detail/jahreshauptversammlung-des-fc-jengen-abt-aikido/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/veranstaltung-melden/",
+        "score": 10
+      },
+      {
+        "titel": "Wissenswertes",
+        "url": "https://www.jengen.de/freizeit-tourismus/veranstaltungen/wissenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.jengen.de/freizeit-tourismus/gastronomie/uebernachtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.jengen.de/freizeit-tourismus/gastronomie/gaststaetten/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Jesenwang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66441646603",
+    "webseite": "https://www.jesenwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Jettenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83219423603",
+    "webseite": "https://www.jettenbach-am-inn.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Jettingen-Scheppach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99997200603",
+    "webseite": "https://www.jettingen-scheppach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.jettingen-scheppach.de/content/vereinsverzeichnis/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.jettingen-scheppach.de/content/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturelle und gesellschaftliche Veranstaltungen, Kulturreferat",
+        "url": "https://www.jettingen-scheppach.de/content/kultur-freizeit/kulturelle-und-gesellschaftliche-veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten, Natur und Landschaft",
+        "url": "https://www.jettingen-scheppach.de/content/kultur-freizeit/sehenswuerdigkeiten-natur-und-landschaft/",
+        "score": 20
+      },
+      {
+        "titel": "Torferlebnispfad Bremental",
+        "url": "https://www.jettingen-scheppach.de/content/kultur-freizeit/torferlebnispfad-bremental/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm 2026: Aufruf an die örtlichen Vereine, Organisationen und sonstigen Veranstalter zur Mitwirkung und Unterstützung",
+        "url": "https://www.jettingen-scheppach.de/content/aktuelles/meldungen/Ferienprogramm_Aufruf-an-Vereine.php",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Jetzendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16774977604",
+    "webseite": "http://www.jetzendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Johannesberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33552754604",
+    "webseite": "http://www.johannesberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.johannesberg.de/freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Vereine + Organisationen",
+        "url": "https://www.johannesberg.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Informationen für Vereine",
+        "url": "https://www.johannesberg.de/informationen-fuer-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Wandern und Radfahren",
+        "url": "https://www.johannesberg.de/freizeit/wandern-und-radfahren/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.johannesberg.de/freizeit/gaststaetten/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.johannesberg.de/freizeit/unterkuenfte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Johanniskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50330531604",
+    "webseite": "http://www.johanniskirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.johanniskirchen.de/Gemeinde/Vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "http://www.johanniskirchen.de/Gemeinde/Tourismus-Freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Julbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67108308604",
+    "webseite": "http://www.julbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.julbach.de/freizeit-und-sport/vereine/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.julbach.de/freizeit-und-sport/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.julbach.de/leben-in-julbach/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.julbach.de/freizeit-und-sport/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Feste und Märkte",
+        "url": "https://www.julbach.de/freizeit-und-sport/veranstaltungen/feste-und-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.julbach.de/freizeit-und-sport/sehenswuerdigkeiten/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.julbach.de/freizeit-und-sport/gastronomie-und-uebernachtung/essen-und-trinken",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kahl a.Main",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83886085604",
+    "webseite": "https://www.kahl-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur, Freizeit und Vereine",
+        "url": "https://www.kahl-main.de/seite/de/cms0605202616542724277720/014/-/Kultur_Freizeit_und_Vereine.html",
+        "score": 40
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.kahl-main.de/verein/de/cms0605202616542724277720/-/-/vereine_searchresult",
+        "score": 20
+      },
+      {
+        "titel": "Vereine und Ortsverb�nde",
+        "url": "https://www.kahl-main.de/seite/de/cms0605202616542724277720/014:2903/-/Vereine_und_Ortsverbaende.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitm�glichkeiten f�r Kinder u. Jugendliche",
+        "url": "https://www.kahl-main.de/seite/de/cms0605202616542724277720/03481:3482/-/Freizeitmoeglichkeiten_fuer_Kinder_u_Jugendliche.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitm�glichkeiten in Kahl und Umgebung",
+        "url": "https://www.kahl-main.de/seite/de/cms0605202616542724277720/014:84/-/Freizeitmoeglichkeiten_in_Kahl_und_Umgebung.html",
+        "score": 10
+      },
+      {
+        "titel": "Fundtiere: Kontaktdaten und �ffnungszeiten Tierschutzverein Aschaffenburg u. Umgebung e.V.",
+        "url": "https://www.kahl-main.de/eigene_dateien/aktuelles/2025/mai/tierschutzverein-informiert_60x100mm.pdf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kaisheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00663862605",
+    "webseite": "http://www.kaisheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/freizeit-sport/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/zu-gast-in-kaisheim/sehenswertes",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/zu-gast-in-kaisheim/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Mozart in Kaisheim",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/zu-gast-in-kaisheim/mozart-in-kaisheim",
+        "score": 20
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/freizeit-sport/feuerwehr",
+        "score": 20
+      },
+      {
+        "titel": "Jagdgenossenschaften",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/freizeit-sport/jagdgenossenschaften",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/freizeit-sport/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Golfpark Donauwörth-Gut Lederstatt",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/freizeit-sport/golfpark-donauwoerth-gut-lederstatt",
+        "score": 20
+      },
+      {
+        "titel": "Natur- und Umweltbildungszentrum",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/freizeit-sport/natur-und-umweltbildungszentrum",
+        "score": 20
+      },
+      {
+        "titel": "Badeweiher Kaisheim",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/badeweiher-kaisheim",
+        "score": 20
+      },
+      {
+        "titel": "Wandern & Radeln",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/wandern-radeln/monheimer-alb",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/wandern-radeln/wanderwege",
+        "score": 20
+      },
+      {
+        "titel": "Jakobus-Pilgerweg",
+        "url": "https://www.kaisheim.de/de/freizeit-kultur/wandern-radeln/jakobus-pilgerweg",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Kalchreuth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17441639605",
+    "webseite": "http://www.kalchreuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kallmünz",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34219416605",
+    "webseite": "http://www.kallmuenz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultureck",
+        "url": "https://www.kallmuenz.de/tourismus/kunst-und-kuenstler/kultureck/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kaltental",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50997193605",
+    "webseite": "http://www.markt-kaltental.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-kaltental.de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit, Kirche & Vereine",
+        "url": "https://www.markt-kaltental.de/freizeit-kirche-vereine.html",
+        "score": 30
+      },
+      {
+        "titel": "Zu den Vereinsinfos",
+        "url": "https://www.markt-kaltental.de/home.html",
+        "score": 30
+      },
+      {
+        "titel": "Kunst & Kultur",
+        "url": "https://www.markt-kaltental.de/kunst-kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes & Freizeit",
+        "url": "https://www.markt-kaltental.de/sehenswertes-freizeit.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kammeltal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67774970605",
+    "webseite": "https://www.kammeltal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kammerstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84552747605",
+    "webseite": "http://www.kammerstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/rad-und-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "KammerSTEINPILZpfad",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/projekte/kammersteinpilzpfad",
+        "score": 10
+      },
+      {
+        "titel": "VerWURZELt",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/projekte/verwurzelt",
+        "score": 10
+      },
+      {
+        "titel": "Infozentrum Reichsburg",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/projekte/infozentrum-reichsburg",
+        "score": 10
+      },
+      {
+        "titel": "Info-Zentrum Tabakanbau in Franken",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/projekte/info-zentrum-tabakanbau-in-franken",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitführer",
+        "url": "https://www.landratsamt-roth.de/themen/freizeit/tourismus/aktivunterwegs",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit für Kinder",
+        "url": "https://kammerstein.de/docs/Freizeittipps_fuer_Kids.pdf.pdf",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Gasthäuser",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/gasthaeuser",
+        "score": 10
+      },
+      {
+        "titel": "VHS",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/vhs",
+        "score": 10
+      },
+      {
+        "titel": "Haager Maifest",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/veranstaltungen/226-haager-maifest-2",
+        "score": 10
+      },
+      {
+        "titel": "150-Jähriges Jubiläum der Freiwilligen Feuerwehr Barthelmesaurach e. V.",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/veranstaltungen/488-150-jaehriges-jubilaeum-der-freiwilligen-feuerwehr-barthelmesaurach-e-v",
+        "score": 10
+      },
+      {
+        "titel": "Henning Pertiet Blues & Boogie Woogie",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/veranstaltungen/519-henning-pertiet-blues-boogie-woogie/2026-05-08-18-00",
+        "score": 10
+      },
+      {
+        "titel": "Beratungstermine der Unabhängigen EnergieBeratungsAgentur (ENA) des Landkreises Roth",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/veranstaltungen/482-beratungstermine-der-unabhaengigen-energieberatungsagentur-ena-des-landkreises-roth/2026-05-12-15-00",
+        "score": 10
+      },
+      {
+        "titel": "Konstituierende Sitzung des Gemeinderates",
+        "url": "https://www.kammerstein.de/index.php/freizeit-und-tourismus/veranstaltungen/522-konstituierende-sitzung-des-gemeinderates/2026-05-12-19-00",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kammlach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01330524606",
+    "webseite": "http://www.kammlach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Vereine",
+        "url": "https://www.kammlach.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 30
+      },
+      {
+        "titel": "Ausflug Krieger- und Soldatenverein Oberkammlach",
+        "url": "https://www.kammlach.de/veranstaltungen/2387693/2026/05/29/ausflug-krieger-und-soldatenverein-oberkammlach.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Karbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18108301606",
+    "webseite": "http://www.karbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.karbach.de/seite/de/cms0605202616554628772738/036/-/Freizeit_und_Kultur.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.karbach.de/mspbranche/de/cms0605202616554628772738/-/-/branche_searchresult",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Karlsfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34886078606",
+    "webseite": "http://www.karlsfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Verein Dachau AGIL",
+        "url": "https://www.dachau-agil.de/dachau-agil/startseite",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.verein-dachauer-moos.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Karlshuld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51663855606",
+    "webseite": "http://www.karlshuld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.karlshuld.de/Vereine.n46.html",
+        "score": 40
+      },
+      {
+        "titel": "Änderung Vereinsdaten",
+        "url": "https://www.karlshuld.de/aenderung-vereinsdaten",
+        "score": 30
+      },
+      {
+        "titel": "Sportstätten / Vereinsheime",
+        "url": "https://www.karlshuld.de/Sportstaetten-Vereinsheime.n48.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Karlskron",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68441632606",
+    "webseite": "http://www.karlskron.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Karlstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76442276467",
+    "webseite": "https://www.karlstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Zuschussantrag kulturelle und sonstige Vereine",
+        "url": "https://www.karlstadt.de/eigene_dateien/01-verwaltung/pdf-formulare_antraege/zuschussantrag_2014.pdf",
+        "score": 30
+      },
+      {
+        "titel": "Richtlinien zur Förderung von Vereinen, Verleihungsordnung",
+        "url": "https://www.karlstadt.de/eigene_dateien/01-verwaltung/pdf-formulare_antraege/zuschussrichtlinien_verleihungsordnung_2018.pdf",
+        "score": 20
+      },
+      {
+        "titel": "Zuschussantrag Sportvereine",
+        "url": "https://www.karlstadt.de/eigene_dateien/01-verwaltung/pdf-formulare_antraege/zuschussantrag_2026.pdf",
+        "score": 20
+      },
+      {
+        "titel": "Historischer Verein Karlstadt",
+        "url": "https://www.historischer-verein-karlstadt.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Karlstein a.Main",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85219409606",
+    "webseite": "https://www.karlstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine tabellarisch",
+        "url": "https://www.karlstein.de/vereine-tabellarisch/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.karlstein.de/freizeiteinrichtungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Karsbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01997186607",
+    "webseite": "http://www.karsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kasendorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18774963607",
+    "webseite": "https://www.kasendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Wandern im Markt Kasendorf und im Umland",
+        "url": "https://www.kasendorf.de/freizeit-vereine-wandern",
+        "score": 30
+      }
+    ]
   }
 ]
