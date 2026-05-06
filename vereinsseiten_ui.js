@@ -1,8 +1,22 @@
 const DATA_FILES = [
+  "vereinsseiten.json",
   "filtered-vereinsseiten.json",
   "filtered vereinsseiten.json",
   "filtered_vereinsseiten.json",
 ];
+const SEARCH_TERM = "verein";
+const PLURAL_SEARCH_TERM = "vereine";
+const LOW_CONFIDENCE_SCORE = 10;
+const EXCLUDED_TITLE_OR_URL_TERMS = [
+  "terminvereinbarung",
+  "turnhalle",
+  "hallenbelegung",
+  "sicherheitskonzept",
+  "förderrichtlinien",
+  "foerderrichtlinien",
+  "vermietung",
+];
+const EXCLUDED_URL_TERMS = ["event", "/veranstaltungen/"];
 
 const state = {
   rawData: [],
@@ -42,6 +56,82 @@ function normalize(value) {
   return String(value ?? "").toLocaleLowerCase("de-DE");
 }
 
+function containsVerein(value) {
+  return normalize(value).includes(SEARCH_TERM);
+}
+
+function containsPluralVereine(...values) {
+  return values.some((value) => normalize(value).includes(PLURAL_SEARCH_TERM));
+}
+
+function isLowConfidence(score) {
+  return Number(score) === LOW_CONFIDENCE_SCORE;
+}
+
+function hasExcludedUrlTerm(url) {
+  const normalizedUrl = normalize(url);
+
+  if (normalizedUrl.includes("veranstaltung") && !normalizedUrl.includes("veranstaltungskalender")) {
+    return true;
+  }
+
+  return EXCLUDED_URL_TERMS.some((term) => normalizedUrl.includes(term));
+}
+
+function hasExcludedTitleOrUrlTerm(title, url) {
+  const combinedText = `${title ?? ""} ${url ?? ""}`.toLocaleLowerCase("de-DE");
+  return EXCLUDED_TITLE_OR_URL_TERMS.some((term) => combinedText.includes(term));
+}
+
+function shouldExcludePage(page) {
+  const url = page.url ?? "";
+  const title = page.titel ?? "";
+  const score = page.score;
+  const hasExclusion = hasExcludedUrlTerm(url) || hasExcludedTitleOrUrlTerm(title, url);
+
+  if (!hasExclusion) {
+    return false;
+  }
+
+  if (containsPluralVereine(title, url)) {
+    return isLowConfidence(score);
+  }
+
+  return true;
+}
+
+function normalizeData(data) {
+  return (Array.isArray(data) ? data : [])
+    .map((entry) => {
+      const vereinsseiten = (entry.vereinsseiten || [])
+        .filter((page) => containsVerein(page.url))
+        .filter((page) => !shouldExcludePage(page))
+        .map((page) => ({
+          ...page,
+          titel_enthaelt_verein: Boolean(page.titel_enthaelt_verein ?? containsVerein(page.titel)),
+        }))
+        .sort((a, b) => {
+          if (a.titel_enthaelt_verein !== b.titel_enthaelt_verein) {
+            return a.titel_enthaelt_verein ? -1 : 1;
+          }
+
+          return (
+            String(a.titel ?? "").localeCompare(String(b.titel ?? ""), "de-DE") ||
+            String(a.url ?? "").localeCompare(String(b.url ?? ""), "de-DE")
+          );
+        });
+
+      return {
+        name: entry.name,
+        typ: entry.typ,
+        bundesland: entry.bundesland,
+        webseite: entry.webseite,
+        vereinsseiten,
+      };
+    })
+    .filter((entry) => entry.vereinsseiten.length > 0);
+}
+
 function numberOrNull(value) {
   if (value === "") {
     return null;
@@ -76,7 +166,7 @@ async function loadDefaultData() {
 }
 
 function setData(data, sourceName) {
-  state.rawData = Array.isArray(data) ? data : [];
+  state.rawData = normalizeData(data);
   state.sourceName = sourceName;
   state.selectedMunicipality = "";
   elements.sourceLabel.textContent = sourceName;
