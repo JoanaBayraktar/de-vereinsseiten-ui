@@ -43578,5 +43578,2775 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Reichertshofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25107902692",
+    "webseite": "http://www.reichertshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Reichling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41885679692",
+    "webseite": "http://www.gemeinde-reichling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.gemeinde-reichling.de/freizeit-vereine/",
+        "score": 30
+      },
+      {
+        "titel": "„Tag der Veteranen“ am Vereinestadl Ludenhausen",
+        "url": "https://www.gemeinde-reichling.de/termin/tag-der-veteranen-am-vereinestadl-ludenhausen/",
+        "score": 20
+      },
+      {
+        "titel": "Bustagesauflug Gartenbauverein ins Blaue Land",
+        "url": "https://www.gemeinde-reichling.de/termin/bustagesauflug-gartenbauverein-in-blaue-land/",
+        "score": 10
+      },
+      {
+        "titel": "Sprechzeiten des Bürgermeisters nach telefonsicher Vereinbarung",
+        "url": "https://www.gemeinde-reichling.de/kontakt-ortsplan/kontakte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Reimlingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58663456692",
+    "webseite": "http://www.reimlingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://reimlingen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine aufgepasst – Kontaktdaten bitte aktualisieren",
+        "url": "https://reimlingen.de/vereine-aufgepasst-kontaktdaten-bitte-aktualisieren/",
+        "score": 50
+      },
+      {
+        "titel": "Haus der Vereine / Feuerwehrhaus",
+        "url": "https://reimlingen.de/haus-der-vereine-feuerwehrhaus/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Reisbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75441233692",
+    "webseite": "http://www.reisbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.reisbach.de/vereine-und-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.reisbach.de/baeder",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Reischach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92219010692",
+    "webseite": "http://www.reischach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Reit im Winkl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08996787693",
+    "webseite": "https://www.reitimwinkl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Musik und Kultur im Winkl",
+        "url": "https://www.reitimwinkl.de/musik-kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Remlingen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25774564693",
+    "webseite": "http://www.remlingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rennertshofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42552341693",
+    "webseite": "http://www.rennertshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rentweinsdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59330118693",
+    "webseite": "http://www.rentweinsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereins- und Jugendförderung der Stadt erhöht",
+        "url": "https://www.ebern.de/index.php/rentweinsdorf",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Rettenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92885672693",
+    "webseite": "http://www.offingen.de/index.php?id=0,49",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://offingen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://offingen.de/?id=0%2C49",
+        "score": 20
+      },
+      {
+        "titel": "Förderantrag Vereinzuschüsse",
+        "url": "https://offingen.de/foerderantrag-vereinzuschuesse/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rettenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76107895693",
+    "webseite": "https://www.rettenbach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rettenbach.de/hier-leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Nachbarschaftshilfeverein",
+        "url": "https://www.rettenbach.de/buergerservice/nachbarschaftshilfeverein/",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.rettenbach.de/hier-leben/sport-und-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://www.rettenbach.de/hier-leben/sport-und-freizeit/angeln/",
+        "score": 10
+      },
+      {
+        "titel": "Winteraktivitäten",
+        "url": "https://www.rettenbach.de/hier-leben/sport-und-freizeit/winteraktivitaeten/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur in Rettenbach",
+        "url": "https://www.rettenbach.de/hier-leben/kultur-in-rettenbach/",
+        "score": 10
+      },
+      {
+        "titel": "Donau-Wald-Kultur",
+        "url": "https://donau-wald-kultur.de/veranstaltungen-rettenbach.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rettenbach a.Auerberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09663449694",
+    "webseite": "https://www.rettenbach-amauerberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rettenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26441226694",
+    "webseite": "https://www.gemeinde-rettenberg.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Retzstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43219003694",
+    "webseite": "https://www.retzstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.retzstadt.de/verein/rs/cms0605202618463523623251/-/-/vereine_searchresult",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsseiten",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01425:1315/-/Vereinsseiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereins�bersicht",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01425:3864/-/Vereinsuebersicht.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereinsseiten",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01032:1315/-/Vereinsseiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereins�bersicht",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01032:3864/-/Vereinsuebersicht.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01032:2440/-/Vereinsleben.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturelles Leben",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01032:1122/-/Kulturelles_Leben.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereins�bersicht",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/02053:3864/-/Vereinsuebersicht.html",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01031/-/Tourismus_und_Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereins�bersicht",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01031:3864/-/Vereinsuebersicht.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereinsseiten",
+        "url": "https://www.retzstadt.de/seite/rs/cms0605202618463523623251/01031:1315/-/Vereinsseiten.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Reut",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59996780694",
+    "webseite": "https://vg-tann.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Reuth b.Erbendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76774557694",
+    "webseite": "http://www.reuth-b-erb.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://reuth-b-erb.de/die-gemeinde/oeffentliches-leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://reuth-b-erb.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://reuth-b-erb.de/freizeit-tourismus/gaststatten/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://reuth-b-erb.de/freizeit-tourismus/unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://reuth-b-erb.de/freizeit-tourismus/ausflugsziele/",
+        "score": 10
+      },
+      {
+        "titel": "Rad- & Wanderwege",
+        "url": "https://reuth-b-erb.de/freizeit-tourismus/rad-wanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Badespaß",
+        "url": "https://reuth-b-erb.de/freizeit-tourismus/badespass/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93552334694",
+    "webseite": "http://www.gemeinde-ried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://gemeinde-ried.de/kultur-freizeit/vereine/",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Riedbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10330111695",
+    "webseite": "https://riedbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rieden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43885665695",
+    "webseite": "http://www.rieden-zellerberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Institutionen",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/vereine-und-institutionen",
+        "score": 70
+      },
+      {
+        "titel": "Kultur\n                                                                            & Freizeit",
+        "url": "https://www.rieden-zellerberg.de/",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten & Unterkünfte",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/gaststaetten-und-unterkuenfte",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote & Naherholung",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung",
+        "score": 20
+      },
+      {
+        "titel": "ArchäologieTour Wertachtal",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung/archaeologie-tour-wertachtal",
+        "score": 20
+      },
+      {
+        "titel": "Klosterspuren",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung/klosterspuren",
+        "score": 20
+      },
+      {
+        "titel": "Biodiversität",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung/biodiversitaet",
+        "score": 20
+      },
+      {
+        "titel": "Glückswege",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung/glueckswege",
+        "score": 20
+      },
+      {
+        "titel": "Schlosspark",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung/schlosspark",
+        "score": 20
+      },
+      {
+        "titel": "Golfclub Bad Wörishofen e. V.",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/freizeitangebote-und-naherholung/golfclub-bad-woerishofen-ev",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/kirchen",
+        "score": 20
+      },
+      {
+        "titel": "Rieden",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/kirchen/rieden",
+        "score": 20
+      },
+      {
+        "titel": "Zellerberg",
+        "url": "https://www.rieden-zellerberg.de/kultur-freizeit/kirchen/zellerberg",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rieden",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27107888695",
+    "webseite": "http://www.rieden.com",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rieden am Forggensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60663442695",
+    "webseite": "http://www.rieden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.rieden.de/unsere-urlaubsregion/suedliches-allgaeu-erleben/kultur-sehenswuerdigkeiten/ausflugsziele-in-der-umgebung",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Sehenswürdigkeiten",
+        "url": "https://www.rieden.de/unsere-urlaubsregion/suedliches-allgaeu-erleben/kultur-sehenswuerdigkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Riedenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77441219695",
+    "webseite": "http://www.riedenberg-rhoen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturwanderweges",
+        "url": "https://www.vgem-bad-brueckenau.de/media/www.vgem-bad-brueckenau.de/org/med_2735/6518_kulturwanderweg_riedenberg.pdf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Riedenburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66331119477",
+    "webseite": "http://www.riedenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Riedenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94218996695",
+    "webseite": "http://www.riedenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.riedenheim.de/de/wohnen-leben/vereine/vereinsliste/seite-1/suche-none",
+        "score": 80
+      },
+      {
+        "titel": "Vereinsmitteilungen",
+        "url": "https://www.riedenheim.de/de/wohnen-leben/vereine/vereinsmitteilungen/seite-1/suche-none",
+        "score": 70
+      },
+      {
+        "titel": "DJK-SV Riedenheim",
+        "url": "https://www.riedenheim.de/de/wohnen-leben/vereine/djk-sv-riedenheim",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Riedering",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10996773696",
+    "webseite": "http://www.riedering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Riegsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27774550696",
+    "webseite": "http://www.riegsee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Riekofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44552327696",
+    "webseite": "http://www.gemeinde-riekofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.gemeinde-riekofen.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-riekofen.de/freizeit-kultur/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Heimatpflege",
+        "url": "https://www.gemeinde-riekofen.de/freizeit-kultur/heimatpflege/",
+        "score": 20
+      },
+      {
+        "titel": "Via Nova",
+        "url": "https://www.gemeinde-riekofen.de/freizeit-kultur/via-nova/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rieneck",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69664429482",
+    "webseite": "https://www.rieneck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.rieneck.de/vereinsverzeichnis",
+        "score": 40
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.rieneck.de/touristinformation",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.rieneck.de/kultur",
+        "score": 10
+      },
+      {
+        "titel": "in der näheren Umgebung",
+        "url": "https://www.rieneck.de/kultur-der-naeheren-umgebung",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://rieneck.de/touristinformation",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rimbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61330104696",
+    "webseite": "https://www.vg-falkenberg.de/startseite-rimbach",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.vg-falkenberg.de/vereinsschule-rottal-inn?suche=",
+        "score": 30
+      },
+      {
+        "titel": "herunterladen",
+        "url": "https://www.vg-falkenberg.de/vereinsschule-rottal-inn",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Rimbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78107881696",
+    "webseite": "http://www.gemeinde-rimbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-rimbach.de/gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Aktivitäten",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/freizeiteinrichtungen-in-rimbach/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/wanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Rimbach digital erkunden",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/rimbach-digital-erkunden/",
+        "score": 10
+      },
+      {
+        "titel": "interaktive Wanderkarte",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/interaktive-wanderkarte/",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren, Mountainbiken, E-Bike",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/radfahren-mountainbiken-e-bike/",
+        "score": 10
+      },
+      {
+        "titel": "interaktive Radwanderkarte",
+        "url": "https://gemeinde-rimbach.de/tourismus/freizeit-aktivitaeten/interaktive-radwanderkarte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rimpar",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94885658696",
+    "webseite": "https://www.rimpar.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Belegungspläne Vereine",
+        "url": "https://www.rimpar.de/belegungsplaene-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.rimpar.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "PM des Landratsamtes WÜ vom 9.3.26: Mitmachen beim 36. Kulturherbst: Anmeldungen bis zum 31. Mai 2026",
+        "url": "https://www.rimpar.de/pm-des-landratsamtes-wue-vom-9-3-26-mitmachen-beim-36-kulturherbst-anmeldungen-bis-zum-31-mai-2026/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rimsting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11663435697",
+    "webseite": "http://www.rimsting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rimsting.de/ortsinfo/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.rimsting.de/ortsinfo/weitere-einrichtungen/freizeiteinrichtungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus und Freizeit",
+        "url": "https://urlaub-rimsting.de/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnung",
+        "url": "https://www.rimsting.de/component/content/category/71-tourismus-und-freizeit.html?Itemid=154",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rinchnach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28441212697",
+    "webseite": "http://www.rinchnach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ringelai",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45218989697",
+    "webseite": "http://www.ringelai.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ringelai.de/gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.ringelai.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.ringelai.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Heimatbuch \"Schmalz und Scherben\"",
+        "url": "https://www.ringelai.de/kultur/heimatbuch-schmalz-und-scherben/",
+        "score": 10
+      },
+      {
+        "titel": "\"Buchberger Leite\"",
+        "url": "https://www.ringelai.de/freizeit/buchberger-leite/",
+        "score": 10
+      },
+      {
+        "titel": "Strecken & Touren",
+        "url": "https://www.ringelai.de/freizeit/strecken-touren/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.ringelai.de/freizeit/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.ringelai.de/freizeit/veranstaltungskalender/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Roden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12330097698",
+    "webseite": "http://www.roden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Roding",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45553370471",
+    "webseite": "https://www.roding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Röckingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61996766697",
+    "webseite": "http://www.roeckingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online-Terminvereinbarung VG",
+        "url": "https://www.terminland.de/vg-hesselberg/?m=41297",
+        "score": 10
+      },
+      {
+        "titel": "LFL-Modellgebiet",
+        "url": "https://www.lfl.bayern.de/iab/kulturlandschaft/181625/index.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rödelmaier",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78774543697",
+    "webseite": "http://www.roedelmaier.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roedelmaier.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradwege & Wanderwege",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/fahrradwege-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Dorfplatz",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/dorfplatz",
+        "score": 10
+      },
+      {
+        "titel": "Dorfsee",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/dorfsee",
+        "score": 10
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/sport",
+        "score": 10
+      },
+      {
+        "titel": "Besinnungsweg",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/besinnungsweg",
+        "score": 10
+      },
+      {
+        "titel": "Engel am Weg Rödelmaier",
+        "url": "https://www.roedelmaier.de/freizeit-tourismus/engel-am-weg-roedelmaier",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rödelsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95552320697",
+    "webseite": "http://www.roedelsee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roedelsee.de/de/wohnen-leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Boule-Anlage",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/boule-anlage",
+        "score": 10
+      },
+      {
+        "titel": "Kontaktdaten",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/tourist-information/kontaktdaten",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/wanderwege-in-und-um-roedelsee/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Wein und Wahrheit",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/wanderwege-in-und-um-roedelsee/wein-und-wahrheit",
+        "score": 10
+      },
+      {
+        "titel": "Traumrunden",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/wanderwege-in-und-um-roedelsee/traumrunden",
+        "score": 10
+      },
+      {
+        "titel": "Weingüter",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/zum-thema-wein/weingueter",
+        "score": 10
+      },
+      {
+        "titel": "Lagen und Sorten",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/zum-thema-wein/lagen-und-sorten",
+        "score": 10
+      },
+      {
+        "titel": "Weinprinzessin",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/zum-thema-wein/weinprinzessin",
+        "score": 10
+      },
+      {
+        "titel": "Weinproben & Führungen",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/zum-thema-wein/weinproben-fuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Rödelseer Wegweiser",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/roedelseer-wegweiser",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/gastgeber-1/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/gastgeber-1/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/museen",
+        "score": 10
+      },
+      {
+        "titel": "ÖPNV",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/dorfschaetze-express",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Downloads und Links",
+        "url": "https://www.roedelsee.de/de/freizeit-tourismus/downloads-und-links",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rödental",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15331126476",
+    "webseite": "http://www.roedental.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.roedental.de/freizeit/vereine-und-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Rödenbad",
+        "url": "https://www.roedental.de/freizeit/roedenbad",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule (VHS)",
+        "url": "https://www.roedental.de/freizeit/volkshochschule-vhs",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röfingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29107874698",
+    "webseite": "http://www.roefingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roefingen.de/kultur/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.roefingen.de/wohnen-und-leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.roefingen.de/familien/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.roefingen.de/wohnen-und-leben/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.roefingen.de/kultur/bersicht",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.roefingen.de/kultur/kirchen",
+        "score": 10
+      },
+      {
+        "titel": "CHORazon",
+        "url": "https://www.roefingen.de/kultur/chorazon",
+        "score": 10
+      },
+      {
+        "titel": "Offener Bücherschrank",
+        "url": "https://www.roefingen.de/kultur/offener-bcherschrank",
+        "score": 10
+      },
+      {
+        "titel": "Leonhardiritt",
+        "url": "https://www.roefingen.de/kultur/leonhardiritt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rögling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62663428698",
+    "webseite": "http://www.roegling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Die Vereine Röglings",
+        "url": "http://www.roegling.de/Die-Vereine-Roeglings.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit / Kultur in der Region",
+        "url": "http://www.roegling.de/Freizeit-Kultur-in-der-Region.html",
+        "score": 20
+      },
+      {
+        "titel": "Krankenpflegeverein",
+        "url": "http://www.roegling.de/Krankenpflegeverein-2.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röhrmoos",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63330090699",
+    "webseite": "https://www.roehrmoos.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur Röhrmoos",
+        "url": "https://www.kultur-roehrmoos.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röhrnbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80107867699",
+    "webseite": "http://www.roehrnbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturverein Röhrnbach e. V.",
+        "url": "http://kulturvereinroehrnbach.de/",
+        "score": 20
+      },
+      {
+        "titel": "Urlaub & Freizeit",
+        "url": "https://www.roehrnbach-bayerischer-wald.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röllbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96885644699",
+    "webseite": "http://www.roellbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.roellbach.de/gemeinde-roellbach/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsmeldung",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/veranstaltungsmeldung/",
+        "score": 10
+      },
+      {
+        "titel": "Bartholomäusmarkt",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/bartholomaeusmarkt/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/freizeiteinrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Churfranken Tourismus",
+        "url": "https://churfranken.de/index.html",
+        "score": 10
+      },
+      {
+        "titel": "ProSpessart",
+        "url": "https://www.prospessart.de/",
+        "score": 10
+      },
+      {
+        "titel": "Mitfahrbank",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/mitfahrbank/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusinformation",
+        "url": "https://www.roellbach.de/markt-moenchberg/freizeit-tourismus/tourismusinformation/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://www.roellbach.de/markt-moenchberg/kultur-geschichte/",
+        "score": 10
+      },
+      {
+        "titel": "650jähriges Ortsjubiläum",
+        "url": "https://www.roellbach.de/markt-moenchberg/kultur-geschichte/650jaehriges-ortsjubilaeum/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röslau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30441198700",
+    "webseite": "https://www.roeslau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roeslau.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.roeslau.de/seite/145979/freizeit-und-sport.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitaktivitäten um Röslau",
+        "url": "https://www.roeslau.de/verzeichnis/index.php?kategorie=76",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röthenbach (Allgäu)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97552306700",
+    "webseite": "http://www.gemeinde-roethenbach-allgaeu.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Röthenbach a.d.Pegnitz",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11997816471",
+    "webseite": "http://www.roethenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roethenbach.de/vereine.htm",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.roethenbach.de/freizeit-erholung.html",
+        "score": 10
+      },
+      {
+        "titel": "Freibad Online",
+        "url": "https://www.roethenbach.de/freizeit-einrichtungen;staedtisches-freibad;1;1;1.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röthlein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31107860701",
+    "webseite": "http://www.roethlein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.roethlein.de/vereine-verbaende-03201.html",
+        "score": 50
+      },
+      {
+        "titel": "Hilfe für Vereine",
+        "url": "https://www.roethlein.de/hilfe-fuer-vereine-03313.html",
+        "score": 20
+      },
+      {
+        "titel": "Datenschutz Vereine",
+        "url": "https://www.roethlein.de/content/attachments/Kontaktdaten_von_Vereinen_1.pdf",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.roethlein.de/freizeit-03018.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.roethlein.de/freizeit-geniessen-03028.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röttenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14996745702",
+    "webseite": "http://www.roettenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roettenbach.de/kultur-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Förderverein",
+        "url": "https://www.roettenbach.de/kultur-tourismus/vereine-1",
+        "score": 60
+      },
+      {
+        "titel": "14.05.2026 // FischereivereinWeiherfestab 10 Uhr, FischerhütteDetails...",
+        "url": "https://www.roettenbach.de/kultur-tourismus/veranstaltungen/detail/weiherfest?cHash=9e2a5553f89e13ae1dfe1645d4544dd1",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.roettenbach.de/kultur-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.roettenbach.de/kultur-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radeln",
+        "url": "https://www.roettenbach.de/kultur-tourismus/wandern-radeln",
+        "score": 10
+      },
+      {
+        "titel": "Keuperweg",
+        "url": "https://www.roettenbach.de/kultur-tourismus/keuperweg",
+        "score": 10
+      },
+      {
+        "titel": "Kneip(p)entour",
+        "url": "https://www.roettenbach.de/kultur-tourismus/kneippentour",
+        "score": 10
+      },
+      {
+        "titel": "Kegelbahn",
+        "url": "https://www.roettenbach.de/kultur-tourismus/kegelbahn",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Röttenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98218968701",
+    "webseite": "http://www.roettenbach-erh.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereins-Verzeichnis",
+        "url": "https://www.roettenbach-erh.de/kultur-freizeit/vereins-verzeichnis/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.roettenbach-erh.de/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://www.roettenbach-erh.de/kultur-freizeit/freizeitgestaltung.php",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Röttingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53553314483",
+    "webseite": "http://www.roettingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.roettingen.de/buerger/de/leben-wohnen/vereine/seite-1/suche-none",
+        "score": 50
+      },
+      {
+        "titel": "Frankenwein trinkt man nicht allein",
+        "url": "https://www.roettingen.de/tourismus/de/roettingen-entdecken/kultur-geniessen/weinfest",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rötz",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46220032472",
+    "webseite": "http://www.roetz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.roetz.de/vereinsliste",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.roetz.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.roetz.de/sportvereine",
+        "score": 20
+      },
+      {
+        "titel": "Schützenvereine",
+        "url": "https://www.roetz.de/schuetzenvereine",
+        "score": 20
+      },
+      {
+        "titel": "Kirchliche Vereine",
+        "url": "https://www.roetz.de/kirchliche-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Weitere Vereine",
+        "url": "https://www.roetz.de/weitere-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.roetz.de/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Hallen- und Freibad",
+        "url": "https://www.roetz.de/hallen-und-freizeitbaeder",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote A-Z",
+        "url": "https://www.roetz.de/freizeitangebote-a-z-kopie",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.roetz.de/kultur",
+        "score": 10
+      },
+      {
+        "titel": "FreizeitWelle Rötz: geänderte Öffnungszeiten Sauna",
+        "url": "https://www.roetz.de/details/freizeitwelle-roetz-geaenderte-oeffnungszeiten-sauna",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Roggenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45885651698",
+    "webseite": "https://www.roggenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rohr",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79441205698",
+    "webseite": "http://www.rohr-mfr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/kalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/ausflugsziele",
+        "score": 20
+      },
+      {
+        "titel": "Kirchweihen",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/kirchweihen",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitführer",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/beach-volleyball",
+        "score": 20
+      },
+      {
+        "titel": "Golfspielen",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/golfspielen",
+        "score": 20
+      },
+      {
+        "titel": "Modellfliegen",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/modellfliegen",
+        "score": 20
+      },
+      {
+        "titel": "Schnupfclub Dechendorf",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/schnupfclub-dechendorf",
+        "score": 20
+      },
+      {
+        "titel": "Schießen",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/schiessen",
+        "score": 20
+      },
+      {
+        "titel": "Sommerstockbahnen",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/sommerstockbahnen",
+        "score": 20
+      },
+      {
+        "titel": "Tennispielen",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/freizeitfuehrer/tennispielen",
+        "score": 20
+      },
+      {
+        "titel": "Rohr aktiv",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/rohr-aktiv/radwandern",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/rohr-aktiv/wandern",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/kultur/theater",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Kinderferienprogramm",
+        "url": "https://www.rohr-mfr.de/freizeit-kultur/kinderferienprogramm",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rohr i.NB",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96218982698",
+    "webseite": "http://www.markt-rohr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/vereine_verbaende.php",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/veranstaltungskalender.php",
+        "score": 20
+      },
+      {
+        "titel": "Benediktinerabtei & Asamkirche",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/benediktinerabtei-asamkirche.php",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebot",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/freizeitangebot.php",
+        "score": 20
+      },
+      {
+        "titel": "Hotel & Gastronomie",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/hotel-und-gastronomie.php",
+        "score": 20
+      },
+      {
+        "titel": "Labertaler Storchenroute",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/labertaler-storchenroute.php",
+        "score": 20
+      },
+      {
+        "titel": "Pilgerweg Via Nova",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/pilgerweg-via-nova.php",
+        "score": 20
+      },
+      {
+        "titel": "Städtepartnerschaft",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/staedtepartnerschaft.php",
+        "score": 20
+      },
+      {
+        "titel": "Streuobstlehrpfad",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/streuobstlehrpfad.php",
+        "score": 20
+      },
+      {
+        "titel": "Napoleon-Runde",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/napoleon-runde.php",
+        "score": 20
+      },
+      {
+        "titel": "Wochenmarkt",
+        "url": "https://www.markt-rohr.de/kultur-freizeit/wochenmarkt.php",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rohrbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12996759699",
+    "webseite": "http://www.rohrbach-ilm.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.rohrbach-ilm.de/freizeit-kultur/vereine-ehrenamt/vereinsliste/",
+        "score": 100
+      },
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.rohrbach-ilm.de/freizeit-kultur/vereine-ehrenamt/",
+        "score": 70
+      },
+      {
+        "titel": "Gemeindemobil",
+        "url": "https://www.rohrbach-ilm.de/freizeit-kultur/vereine-ehrenamt/gemeinde-fahrzeug/",
+        "score": 70
+      },
+      {
+        "titel": "FREIZEIT & KULTUR",
+        "url": "https://www.rohrbach-ilm.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Sport & Erholung",
+        "url": "https://www.rohrbach-ilm.de/freizeit-kultur/sport-erholung/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rohrdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29774536699",
+    "webseite": "http://www.rohrdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismus, Freizeit, Kultur",
+        "url": "https://www.rohrdorf.de/seite/de/cms0605202618535523298839/0441/tn_441/Tourismus_Freizeit_Kultur.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.rohrdorf.de/verein/de/cms0605202618535523298839/-/-/vereine_searchresult",
+        "score": 20
+      },
+      {
+        "titel": "Eingeschr�nkter Sportbetrieb - April 2026 - Freizeitanlage Turner-H�lzl",
+        "url": "https://www.rohrdorf.de/eigene_dateien/aktuelles/2026/maerz/eingeschraenkter_sportbetrieb_04.2026.pdf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rohrenfels",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46552313699",
+    "webseite": "http://www.rohrenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rohrenfels.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.rohrenfels.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ronsberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13663421700",
+    "webseite": "http://www.ronsberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rosenheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05664877386",
+    "webseite": "http://www.rosenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Roßbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47218975700",
+    "webseite": "http://www.gemeinde-rossbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit, Kultur, Vereine",
+        "url": "https://www.gemeinde-rossbach.de/vereine-und-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "",
+        "url": "https://www.gemeinde-rossbach.de/tourismus-leerstandsbeseitigung-und-vereinsfoerderung-ile-klosterwinkel?suche=",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Roßhaupten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63996752700",
+    "webseite": "http://www.rosshaupten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.rosshaupten.de/unsere-urlaubsregion/suedliches-allgaeu-erleben/kultur-sehenswuerdigkeiten/ausflugsziele-in-der-umgebung",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Sehenswürdigkeiten",
+        "url": "https://www.rosshaupten.de/unsere-urlaubsregion/suedliches-allgaeu-erleben/kultur-sehenswuerdigkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Roßtal",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80774529700",
+    "webseite": "http://www.rosstal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/vereinsleben/vereine/seite-1/suche-none",
+        "score": 80
+      },
+      {
+        "titel": "Vereinsplakatwände",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/vereinsleben/vereinsplakatwaende",
+        "score": 40
+      },
+      {
+        "titel": "Martinimarkt",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/martinimarkt",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/veranstaltungen/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/veranstaltung-melden",
+        "score": 10
+      },
+      {
+        "titel": "Reservierung Veranstaltungsort",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/reservierung-veranstaltungsort",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/kinder-jugendliche/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Jugendhaus",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/kinder-jugendliche/jugendhaus",
+        "score": 10
+      },
+      {
+        "titel": "Die Spitzweed",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/die-spitzweed",
+        "score": 10
+      },
+      {
+        "titel": "Museumshof",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/museumshof",
+        "score": 10
+      },
+      {
+        "titel": "Filialkirche Maria Magdalena",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/filialkirche-maria-magdalena",
+        "score": 10
+      },
+      {
+        "titel": "Pfarrkirche St. Laurentius",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/pfarrkirche-st-laurentius",
+        "score": 10
+      },
+      {
+        "titel": "Kirche & Krypta",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/kirche-krypta",
+        "score": 10
+      },
+      {
+        "titel": "ev. Kirche zum Gottesfrieden Großweismannsdorf",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/ev-kirche-zum-gottesfrieden-grossweismannsdorf",
+        "score": 10
+      },
+      {
+        "titel": "Baudenkmäler",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/baudenkmaeler",
+        "score": 10
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/fuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Hohenzollern",
+        "url": "https://www.rosstal.de/freizeit-erlebnis/sehenswuerdigkeiten/hohenzollern",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Roth",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56997851463",
+    "webseite": "https://www.stadt-roth.de/startseite",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rothenbuch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14330083701",
+    "webseite": "http://www.rothenbuch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rothenburg ob der Tauber",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04553307485",
+    "webseite": "http://www.rothenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rothenfels",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19997760483",
+    "webseite": "https://www.rothenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Krimikeller",
+        "url": "https://krimikeller.de/",
+        "score": 20
+      },
+      {
+        "titel": "Kunstraum Monika Benge-Komoroswki",
+        "url": "https://www.rothenfels.de/freizeit-kultur/kunst-plus-kultur/kunstraum-monika-benge-komoroswki/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rott",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47885637701",
+    "webseite": "http://www.rott-lech.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.rott-lech.de/vereine/freizeit/",
+        "score": 60
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.rott-lech.de/vereine/freizeit/vereine-ausflugsziele/",
+        "score": 60
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.rott-lech.de/vereine/freizeit/vereine-gaststaetten/",
+        "score": 60
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.rott-lech.de/vereine/freizeit/vereine-rad-und-wanderwege/",
+        "score": 60
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.rott-lech.de/vereine/freizeit/vereine-uebernachtungen/",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.rott-lech.de/vereine/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Rott a.Inn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64663414701",
+    "webseite": "http://www.rottaminn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.rottinn.de/freizeit-geniessen/reges-vereinsleben/vereinsregister",
+        "score": 50
+      },
+      {
+        "titel": "Reges Vereinsleben",
+        "url": "https://www.rottinn.de/freizeit-geniessen/reges-vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Leitfaden Registrierung",
+        "url": "https://www.rottinn.de/freizeit-geniessen/reges-vereinsleben/leitfaden-registrierung",
+        "score": 40
+      },
+      {
+        "titel": "Vereinsadresse melden",
+        "url": "https://www.rottinn.de/freizeit-geniessen/vereinsadresse-melden/login/-out",
+        "score": 40
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.rottinn.de/freizeit-geniessen/vereinsadresse-melden/registrieren",
+        "score": 40
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.rottinn.de/zuhause-in-rott-a-inn/wissenswerte-fuer-senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.rottinn.de/freizeit-geniessen/was-ist-los-in-rott-a-inn/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Feste und Feiern",
+        "url": "https://www.rottinn.de/freizeit-geniessen/was-ist-los-in-rott-a-inn/feste-und-feiern",
+        "score": 10
+      },
+      {
+        "titel": "Rotter Bauernmarkt",
+        "url": "https://www.rottinn.de/freizeit-geniessen/was-ist-los-in-rott-a-inn/rotter-bauernmarkt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rottach-Egern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81441191701",
+    "webseite": "http://gemeinde.rottach-egern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Organisationen",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Vereinsleben/Vereine-und-Organisationen/",
+        "score": 30
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Vereinsleben/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Brauchtum",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Kultur-Brauchtum/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Termine & Veranstaltungen",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Veranstaltungen/Termine-Veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Seeforum Rottach-Egern",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Veranstaltungen/Seeforum-Rottach-Egern/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & �bernachtung",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Gastronomie-%C3%9Cbernachtung/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Gastronomie-%C3%9Cbernachtung/Gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "�bernachtung",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Gastronomie-%C3%9Cbernachtung/%C3%9Cbernachtung/",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeitangebote",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Sport-Freizeitangebote/",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv in Rottach-Egern",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Sport-Freizeitangebote/Aktiv-in-Rottach-Egern/",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren in Rottach-Egern",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Sport-Freizeitangebote/Radfahren-in-Rottach-Egern/",
+        "score": 10
+      },
+      {
+        "titel": "Museum Gsotthaber Hof",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Sport-Freizeitangebote/Museum-Gsotthaber-Hof/",
+        "score": 10
+      },
+      {
+        "titel": "See- und Warmbad",
+        "url": "https://www.gemeinde.rottach-egern.de/Freizeit-Erholung/Sport-Freizeitangebote/See-und-Warmbad/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rottenbuch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31774522702",
+    "webseite": "https://www.rottenbuch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rottenburg a.d.Laaber",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02553321482",
+    "webseite": "https://www.rottenburg-laaber.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rottendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48552299702",
+    "webseite": "https://www.rottendorf.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rotthalmünster",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65330076702",
+    "webseite": "http://www.rotthalmuenster.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rotthalmuenster.de/leben-wohnen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Termine / Veranstaltungen",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/termine-veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/essen-trinken/",
+        "score": 20
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/uebernachtungsmoeglichkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten / Ausflugsziele",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/sehenswuerdigkeiten-ausflugsziele/",
+        "score": 20
+      },
+      {
+        "titel": "Historischer Marktrundgang",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/historischer-marktrundgang/",
+        "score": 20
+      },
+      {
+        "titel": "Via Nova",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/via-nova/",
+        "score": 20
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/rad-und-wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.rotthalmuenster.de/freizeit-kultur/ferienprogramm-2022/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rudelzhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15663407703",
+    "webseite": "http://www.gemeinde-rudelzhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Leitfaden für Vereinsfeiern",
+        "url": "https://www.gemeinde-rudelzhausen.de/Leitfaden-fuer-Vereinsfeiern.n206.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ruderatshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65996738703",
+    "webseite": "https://www.ruderatshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ruderting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82774515703",
+    "webseite": "http://www.ruderting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rückersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82107853702",
+    "webseite": "https://www.rueckersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/vereine/vereinsliste",
+        "score": 100
+      },
+      {
+        "titel": "Vereine Aktuell",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/vereine/vereine-aktuell",
+        "score": 70
+      },
+      {
+        "titel": "Selbst inserieren",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/vereine/selbst-inserieren",
+        "score": 70
+      },
+      {
+        "titel": "Theaterverein",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/kunst-kultur/theaterverein",
+        "score": 30
+      },
+      {
+        "titel": "Vereins-News",
+        "url": "https://www.rueckersdorf.de/de/startseite",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Senioren- und Behindertenbeauftragte",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/senioren/senioren-und-behindertenbeauftragte",
+        "score": 20
+      },
+      {
+        "titel": "Seniorenangebote",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/senioren/seniorenangebote",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Basketballfeld",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/basketballfeld",
+        "score": 20
+      },
+      {
+        "titel": "Kunst & Kultur am Dachsberg",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/kunst-kultur/kunst-kultur-am-dachsberg",
+        "score": 20
+      },
+      {
+        "titel": "Dehnbergerhoftheater",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/kunst-kultur/dehnbergerhoftheater",
+        "score": 20
+      },
+      {
+        "titel": "Simmelsdorfer Mühle",
+        "url": "https://www.rueckersdorf.de/de/freizeit-kultur/kunst-kultur/simmelsdorfer-muehle",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Rückholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98885630702",
+    "webseite": "http://www.rueckholz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rüdenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32441184703",
+    "webseite": "http://www.ruedenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ruedenau.de/gemeinde/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.ruedenau.de/kultur--tourismus/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rüdenhausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49218961703",
+    "webseite": "http://www.ruedenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/marktgemeinde/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/kultur/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/kultur/geschichte/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Traditionen",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/kultur/traditionen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/kultur/sehenswertes/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Dorfschätze",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/kultur/dorfschtze/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Hotels und Gaststätten",
+        "url": "https://www.ruedenhausen.de/marktruedenhausen/kultur/hotels-und-gaststtten/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rügland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16330069704",
+    "webseite": "http://www.ruegland.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "VereineAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Vereine.html",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus & FreizeitAlt+6",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "VeranstaltungenAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Veranstaltungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Ortsplan & FahrpläneAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Ortsplan-Fahrplaene.html",
+        "score": 10
+      },
+      {
+        "titel": "FeuerwehrenAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Feuerwehren.html",
+        "score": 10
+      },
+      {
+        "titel": "Regionale AusflugszieleAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Regionale-Ausflugsziele.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze & LandschaftsweiherAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Spielplaetze-Landschaftsweiher.html",
+        "score": 10
+      },
+      {
+        "titel": "Wander- und RadwegeAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Wander-und-Radwege.html",
+        "score": 10
+      },
+      {
+        "titel": "AusflugstippsAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Ausflugstipps.html",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen & GastronomieAlt+",
+        "url": "https://www.ruegland.de/Tourismus-Freizeit/Uebernachtungen-Gastronomie.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Rugendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99552292703",
+    "webseite": "http://www.rugendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ruhmannsfelden",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33107846704",
+    "webseite": "http://www.ruhmannsfelden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ruhmannsfelden.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur Mobil",
+        "url": "https://www.ruhmannsfelden.de/veranstaltungen/kultur-mobil/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ruhpolding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49885623704",
+    "webseite": "http://www.ruhpolding-rathaus.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ruhpolding-rathaus.de/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ruhstorf a.d.Rott",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66663400704",
+    "webseite": "http://www.ruhstorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/aktives-vereinsleben/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Vereinsfeste",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/aktives-vereinsleben/vereinsfeste",
+        "score": 30
+      },
+      {
+        "titel": "Jugendförderung",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/aktives-vereinsleben/jugendfoerderung",
+        "score": 30
+      },
+      {
+        "titel": "Natur, Freizeit und Sport",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/natur-freizeit-und-sport/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Radeln",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/natur-freizeit-und-sport/radeln",
+        "score": 10
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/natur-freizeit-und-sport/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Kinderspielplätze",
+        "url": "https://www.ruhstorf.de/ruhstorf-erleben/natur-freizeit-und-sport/kinderspielplaetze",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Runding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83441177704",
+    "webseite": "https://www.runding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Saal a.d.Donau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00218954705",
+    "webseite": "http://www.saal-donau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Saal a.d.Saale",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16996731705",
+    "webseite": "https://www.saal-saale.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.saal-saale.de/freizeit-und-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.saal-saale.de/freizeit-und-kultur/vereine/sportvereine",
+        "score": 70
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.saal-saale.de/freizeit-und-kultur/sonstige-vereine",
+        "score": 40
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.saal-saale.de/freizeit-und-kultur/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.saal-saale.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Tourismusverband Haßberge",
+        "url": "https://www.saal-saale.de/freizeit-kultur/tourismusverband-hassberge",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten & Cafes",
+        "url": "https://www.saal-saale.de/freizeit-kultur/gaststaetten-cafes",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote",
+        "score": 20
+      },
+      {
+        "titel": "Flugplatz",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/flugplatz",
+        "score": 20
+      },
+      {
+        "titel": "Freibad Waltershausen",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/freibad-waltershausen",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/sportstaetten",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Quartier hinter`m Dorf",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/quartier-hinterm-dorf",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsmöglichkeiten",
+        "url": "https://www.saal-saale.de/freizeit-kultur/freizeitangebote/ausflugsmoeglichkeiten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Saaldorf-Surheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33774508705",
+    "webseite": "https://www.saaldorf-surheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.saaldorf-surheim.de/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen in Saaldorf-Surheim",
+        "url": "https://www.saaldorf-surheim.de/freizeit-kultur/veranstaltungen-2/",
+        "score": 20
+      },
+      {
+        "titel": "Kinderkino",
+        "url": "https://www.saaldorf-surheim.de/freizeit-kultur/kinderkino/",
+        "score": 20
+      },
+      {
+        "titel": "Vergünstigte Eintrittskarten",
+        "url": "https://www.saaldorf-surheim.de/freizeit-kultur/verguenstigte-eintrittskarten/",
+        "score": 20
+      },
+      {
+        "titel": "Heimatbuch",
+        "url": "https://www.saaldorf-surheim.de/freizeit-kultur/heimatbuch/",
+        "score": 20
+      },
+      {
+        "titel": "Kleindenkmäler",
+        "url": "https://www.saaldorf-surheim.de/freizeit-kultur/kleindenkmaeler/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchliche Gemeinschaften",
+        "url": "https://www.saaldorf-surheim.de/freizeit-kultur/kirchen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Sachsen b.Ansbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50552285705",
+    "webseite": "http://www.sachsen-b-ansbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Sachsenkam",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67330062705",
+    "webseite": "http://www.sachsenkam.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.sachsenkam.de/de/buerger/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.sachsenkam.de/de/buerger/freizeit/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Sailauf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84107839705",
+    "webseite": "http://www.sailauf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Salching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00885616706",
+    "webseite": "http://www.salching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.salching.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.salching.de/veroeffentlichung-von-vereins-und-gesellschaftsberichten-auf-der-gemeinde-homepage/",
+        "score": 30
+      },
+      {
+        "titel": "Bürger&Kultur-Treffpunkt",
+        "url": "https://www.salching.de/buergerkultur-treffpunkt/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Erholung",
+        "url": "https://www.salching.de/freizeit-und-erholung/",
+        "score": 10
+      },
+      {
+        "titel": "Sonniges Dressur-Highlight in Oberpiebing begeistert Teilnehmer und Publikum\n                                                \n                                                    Bei strahlendem Sommerwetter verwandelte sich das Gelände des Reit- und Fahrvereins Straubing-Oberpiebing am vergangenen Wochenende in einen Treffpunkt für hochklassigen…                                                \n                                                weiterlesen",
+        "url": "https://www.salching.de/aktuelles/sonniges-dressur-highlight-in-oberpiebing-begeistert-teilnehmer-und-publikum/",
+        "score": 10
+      },
+      {
+        "titel": "WLAN-Gastzugang im Bürger- & Kulturtreff verfügbar\n                                                \n                                                    Im Bürger- & Kulturtreff in Oberpiebing steht den Besuchern ab sofort ein WLAN-Gastzugang zur Verfügung. Besucherinnen und Besucher haben nun…                                                \n                                                weiterlesen",
+        "url": "https://www.salching.de/aktuelles/wlan-gastzugang-im-buerger-kulturtreff-verfuegbar/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Saldenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17663393706",
+    "webseite": "http://www.saldenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Salgen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34441170706",
+    "webseite": "http://www.salgen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://salgen.de/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Salz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51218947706",
+    "webseite": "https://www.salz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.salz.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kirche",
+        "url": "https://www.salz.de/freizeit-tourismus/kirche",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.salz.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Übernachtungen",
+        "url": "https://www.salz.de/freizeit-tourismus/gaststaetten-uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Restaurants",
+        "url": "https://www.salz.de/freizeit-tourismus/gaststaetten-restaurants",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen & Pensionen",
+        "url": "https://www.salz.de/freizeit-tourismus/gaststaetten/ferienwohnungen-pensionen",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradwege & Wanderwege",
+        "url": "https://www.salz.de/freizeit-tourismus/fahrradwege-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Elsbett-Museum",
+        "url": "https://www.salz.de/freizeit-tourismus/elsbett-museum",
+        "score": 10
+      },
+      {
+        "titel": "Aussichtspunkte",
+        "url": "https://www.salz.de/freizeit-tourismus/aussichtspunkte",
+        "score": 10
+      },
+      {
+        "titel": "Saalewiesen",
+        "url": "https://www.salz.de/freizeit-tourismus/saalewiesen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Salzweg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67996724706",
+    "webseite": "http://www.salzweg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Samerberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84774501706",
+    "webseite": "https://www.samerberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://samerberg.de/vereinsleben",
+        "score": 30
+      },
+      {
+        "titel": "Baukulturregion",
+        "url": "https://samerberg.de/baukulturregion",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Brauchtum",
+        "url": "https://samerberg.de/besonderes/kultur-brauchtum",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://samerberg.de/freizeitspass",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugtipps",
+        "url": "https://samerberg.de/freizeitspass/ausflugtipps",
+        "score": 10
+      },
+      {
+        "titel": "Schlecht-Wetter-Tipps",
+        "url": "https://samerberg.de/freizeitspass/schlecht-wetter-tipps",
+        "score": 10
+      },
+      {
+        "titel": "Buchbare Erlebnisse",
+        "url": "https://samerberg.de/freizeitspass/buchbare-erlebnisse",
+        "score": 10
+      },
+      {
+        "titel": "Spiel & Spaß",
+        "url": "https://samerberg.de/freizeitspass/spiel-spass",
+        "score": 10
+      },
+      {
+        "titel": "Baden",
+        "url": "https://samerberg.de/freizeitspass/baden",
+        "score": 10
+      },
+      {
+        "titel": "Sperrungen durch Hochwasser",
+        "url": "https://samerberg.de/freizeitspass/sperrungen-durch-hochwasser",
+        "score": 10
+      }
+    ]
   }
 ]
