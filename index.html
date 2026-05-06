@@ -87,11 +87,19 @@
                 <option value="score">Hoechster Score</option>
               </select>
             </label>
+            <label>
+              Treffer
+              <select id="pageSizeSelect">
+                <option value="10">10</option>
+                <option value="50" selected>50</option>
+                <option value="100">100</option>
+              </select>
+            </label>
             <label class="switch-row">
               <input id="withClubsOnlyInput" type="checkbox">
               <span>Nur mit Vereinsseite</span>
             </label>
-            <button id="expandGroupsButton" class="ghost-button" type="button">Alle Gruppen öffnen</button>
+            <button id="expandGroupsButton" class="ghost-button small-button" type="button">Ergebnisse ausklappen</button>
           </section>
 
           <section class="tab-card" aria-label="Ansichten">
@@ -106,7 +114,13 @@
                 <p id="activeTabLabel" class="eyebrow">Vereine</p>
                 <h2 id="resultsTitle">Alle Bundeslaender</h2>
               </div>
-              <div class="results-meta">
+            <div class="results-meta">
+                <label class="inline-filter">
+                  Bundesland
+                  <select id="resultStateSelect">
+                    <option value="">Alle</option>
+                  </select>
+                </label>
                 <strong id="summaryText">0 Ergebnisse</strong>
                 <div id="paginationTop" class="pagination compact"></div>
               </div>

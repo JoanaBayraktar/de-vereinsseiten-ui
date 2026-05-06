@@ -189,6 +189,13 @@ button {
   color: var(--accent-strong);
 }
 
+.small-button {
+  min-height: 34px;
+  align-self: center;
+  padding: 6px 10px;
+  font-size: 13px;
+}
+
 .metric-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -265,7 +272,7 @@ button {
 
 .filter-card {
   display: grid;
-  grid-template-columns: minmax(120px, 0.7fr) minmax(150px, 0.8fr) auto auto;
+  grid-template-columns: minmax(120px, 0.7fr) minmax(150px, 0.8fr) minmax(90px, 0.45fr) auto auto;
   gap: 12px;
   align-items: end;
   padding: 14px;
@@ -341,6 +348,24 @@ button {
   color: var(--accent-strong);
 }
 
+.inline-filter {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 850;
+}
+
+.inline-filter select {
+  min-height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface-soft);
+  color: var(--text);
+  padding: 6px 9px;
+}
+
 .results-list {
   display: grid;
 }
@@ -414,6 +439,8 @@ button {
 .club-row a,
 .homepage-row a,
 .municipality-card a {
+  display: block;
+  margin-top: 5px;
   color: var(--accent-strong);
   overflow-wrap: anywhere;
   text-decoration: none;
@@ -726,7 +753,17 @@ button {
     grid-template-columns: 1fr;
   }
 
+  .group-score {
+    display: none;
+  }
+
   .results-head {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .results-meta,
+  .inline-filter {
     align-items: flex-start;
     flex-direction: column;
   }

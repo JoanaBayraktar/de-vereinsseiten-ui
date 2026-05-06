@@ -18,7 +18,6 @@ const MUNICIPALITY_SOURCES = [
 ];
 const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json"];
 const SEARCH_TERM = "verein";
-const PAGE_SIZE = 18;
 const EXCLUDED_TITLE_OR_URL_TERMS = [
   "terminvereinbarung",
   "förderverein",
@@ -62,6 +61,8 @@ const elements = {
   searchInput: document.querySelector("#searchInput"),
   minScoreInput: document.querySelector("#minScoreInput"),
   sortSelect: document.querySelector("#sortSelect"),
+  pageSizeSelect: document.querySelector("#pageSizeSelect"),
+  resultStateSelect: document.querySelector("#resultStateSelect"),
   withClubsOnlyInput: document.querySelector("#withClubsOnlyInput"),
   expandGroupsButton: document.querySelector("#expandGroupsButton"),
   clearStateButton: document.querySelector("#clearStateButton"),
@@ -234,7 +235,22 @@ async function loadDefaultData() {
   state.municipalities = mergeData(municipalitySources, clubSources);
   state.sourceName = `${municipalitySources.length} Gemeindelisten · ${clubSources.length} Vereinslisten`;
   elements.sourceLabel.textContent = state.sourceName;
+  fillStateSelect();
   render();
+}
+
+function fillStateSelect() {
+  const states = [...new Set(state.municipalities.map((entry) => entry.bundesland).filter(Boolean))].sort((a, b) =>
+    a.localeCompare(b, "de-DE")
+  );
+
+  elements.resultStateSelect.innerHTML = '<option value="">Alle</option>';
+  for (const stateName of states) {
+    const option = document.createElement("option");
+    option.value = stateName;
+    option.textContent = stateName;
+    elements.resultStateSelect.append(option);
+  }
 }
 
 function getFilters() {
@@ -245,6 +261,11 @@ function getFilters() {
     sort: elements.sortSelect.value,
     withClubsOnly: elements.withClubsOnlyInput.checked,
   };
+}
+
+function getPageSize() {
+  const size = Number(elements.pageSizeSelect.value);
+  return Number.isFinite(size) ? size : 50;
 }
 
 function municipalityMatchesSearch(entry, search) {
@@ -312,7 +333,7 @@ function getStateStats() {
 
 function render() {
   const filtered = getFilteredMunicipalities();
-  const pageCount = Math.max(1, Math.ceil(getResultCount(filtered) / PAGE_SIZE));
+  const pageCount = Math.max(1, Math.ceil(getResultCount(filtered) / getPageSize()));
   state.page = Math.min(state.page, pageCount);
 
   renderMetrics(filtered);
@@ -320,7 +341,7 @@ function render() {
   renderResults(filtered);
   syncTabButtons();
   elements.expandGroupsButton.hidden = state.activeTab !== "clubs";
-  elements.expandGroupsButton.textContent = state.allGroupsOpen ? "Alle Gruppen schließen" : "Alle Gruppen öffnen";
+  elements.expandGroupsButton.textContent = state.allGroupsOpen ? "Ergebnisse einklappen" : "Ergebnisse ausklappen";
 }
 
 function renderMetrics(filtered) {
@@ -349,6 +370,7 @@ function renderStateSidebar() {
     button.append(createStateHead(stat), createStateProgress(stat));
     button.addEventListener("click", () => {
       state.selectedState = state.selectedState === stat.name ? "" : stat.name;
+      elements.resultStateSelect.value = state.selectedState;
       state.page = 1;
       closeMenu();
       render();
@@ -390,8 +412,9 @@ function getResultCount(entries) {
 }
 
 function paginate(items) {
-  const start = (state.page - 1) * PAGE_SIZE;
-  return items.slice(start, start + PAGE_SIZE);
+  const pageSize = getPageSize();
+  const start = (state.page - 1) * pageSize;
+  return items.slice(start, start + pageSize);
 }
 
 function renderResults(entries) {
@@ -420,7 +443,8 @@ function createClubGroup(entry) {
   const head = document.createElement("button");
   head.className = "club-group-head";
   head.type = "button";
-  head.innerHTML = `<span class="club-group-title"><strong>${entry.name}</strong><span>${entry.typ || "Gemeinde"} · ${entry.bundesland} · ${entry.webseite || "keine Homepage"}</span></span><span class="pill orange">${entry.visibleVereinsseiten.length} Links</span><span class="pill">Score ${getMaxScore(entry)}</span>`;
+  const maxScore = getMaxScore(entry);
+  head.innerHTML = `<span class="club-group-title"><strong>${entry.name}</strong><span>${entry.typ || "Gemeinde"} · ${entry.bundesland} · ${entry.webseite || "keine Homepage"}</span></span><span class="pill ${scoreTone(maxScore)}">${entry.visibleVereinsseiten.length} Links</span><span class="pill group-score">Score ${maxScore}</span>`;
   head.addEventListener("click", () => toggleGroup(entry.id));
   const body = document.createElement("div");
   body.className = "club-group-body";
@@ -433,8 +457,14 @@ function createClubRow(page) {
   const row = document.createElement("div");
   row.className = "club-row";
   const score = Math.max(0, Math.min(100, Number(page.score ?? 0)));
-  row.innerHTML = `<div><strong>${page.titel}</strong><a href="${page.url}" target="_blank" rel="noopener noreferrer">${page.url}</a></div><div class="score-block"><div class="score-top"><span>Score</span><strong>${page.score ?? "-"}</strong></div><div class="score-track"><div class="score-fill" style="width:${score}%"></div></div></div>`;
+  row.innerHTML = `<div class="club-link-cell"><strong>${page.titel}</strong><a href="${page.url}" target="_blank" rel="noopener noreferrer">${page.url}</a></div><div class="score-block"><div class="score-top"><span>Score</span><strong>${page.score ?? "-"}</strong></div><div class="score-track"><div class="score-fill" style="width:${score}%"></div></div></div>`;
   return row;
+}
+
+function scoreTone(score) {
+  if (score >= 70) return "green";
+  if (score >= 40) return "orange";
+  return "";
 }
 
 function renderHomepageResults(entries) {
@@ -473,7 +503,7 @@ function createMunicipalityCard(entry) {
 }
 
 function renderPagination(totalItems) {
-  const pageCount = Math.max(1, Math.ceil(totalItems / PAGE_SIZE));
+  const pageCount = Math.max(1, Math.ceil(totalItems / getPageSize()));
   const renderTarget = (target) => {
     target.replaceChildren();
     if (pageCount <= 1) return;
@@ -523,6 +553,8 @@ function resetFilters() {
   elements.searchInput.value = "";
   elements.minScoreInput.value = "";
   elements.sortSelect.value = "state";
+  elements.pageSizeSelect.value = "50";
+  elements.resultStateSelect.value = "";
   elements.withClubsOnlyInput.checked = false;
   state.selectedState = "";
   state.page = 1;
@@ -558,6 +590,7 @@ elements.fileInput.addEventListener("change", async (event) => {
 elements.resetButton.addEventListener("click", resetFilters);
 elements.clearStateButton.addEventListener("click", () => {
   state.selectedState = "";
+  elements.resultStateSelect.value = "";
   state.page = 1;
   render();
 });
@@ -573,7 +606,19 @@ for (const button of document.querySelectorAll("[data-tab-target]")) {
   button.addEventListener("click", () => setActiveTab(button.dataset.tabTarget));
 }
 
-for (const input of [elements.searchInput, elements.minScoreInput, elements.sortSelect, elements.withClubsOnlyInput]) {
+elements.resultStateSelect.addEventListener("change", () => {
+  state.selectedState = elements.resultStateSelect.value;
+  state.page = 1;
+  render();
+});
+
+for (const input of [
+  elements.searchInput,
+  elements.minScoreInput,
+  elements.sortSelect,
+  elements.pageSizeSelect,
+  elements.withClubsOnlyInput,
+]) {
   input.addEventListener("input", () => {
     state.page = 1;
     render();
