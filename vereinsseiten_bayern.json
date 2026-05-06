@@ -28088,5 +28088,2573 @@
     "webseite": "https://www.kutzenhausen.de/",
     "bundesland": "Bayern",
     "vereinsseiten": []
+  },
+  {
+    "name": "Laaber",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78441562621",
+    "webseite": "http://www.vg-laaber.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Laberweinting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95219339621",
+    "webseite": "https://www.laberweinting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lachen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11997116622",
+    "webseite": "https://www.gemeinde-lachen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-lachen.de/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Lalling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28774893622",
+    "webseite": "http://www.lalling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lam",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45552670622",
+    "webseite": "http://www.markt-lam.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-lam.de/einrichtungen/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Lamerdingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62330447622",
+    "webseite": "http://www.lamerdingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Lamerdingen",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/vereine/lamerdingen/",
+        "score": 60
+      },
+      {
+        "titel": "Dillishausen",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/vereine/dillishausen/",
+        "score": 60
+      },
+      {
+        "titel": "Großkitzighofen",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/vereine/grosskitzighofen/",
+        "score": 60
+      },
+      {
+        "titel": "Kleinkitzighofen",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/vereine/kleinkitzighofen/",
+        "score": 60
+      },
+      {
+        "titel": "Sa., 16.05.2026\n                    \n                \n            \n                \n                    \n                            bis\n                        \n                    \n                            So., 17.05.2026\n                        \n                \n            \n        \n            Sommerfest Türkisch Islamischer Kulturverein",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/detail/sommerfest-tuerkisch-islamischer-kulturverein/",
+        "score": 30
+      },
+      {
+        "titel": "Kulturportal Ostallgäu",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/kulturportal-ostallgaeu/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Mehr lesen",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/ruhebaenke-fuer-unsere-gemeinde-ein-foerderprojekt-der-ile/",
+        "score": 10
+      },
+      {
+        "titel": "mehr",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n                \n            \n        \n            Inspirationen am Frühstückstisch",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/detail/inspirationen-am-fruehstueckstisch/",
+        "score": 10
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n                \n            \n        \n            Musikschul-Schnuppertag",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/detail/musikschul-schnuppertag/",
+        "score": 10
+      },
+      {
+        "titel": "Di., 12.05.2026\n                    \n                \n            \n                \n            \n        \n            Tanznachmittag in der Alp Villa",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/detail/tanznachmittag-in-der-alp-villa-1/",
+        "score": 10
+      },
+      {
+        "titel": "mehr",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender-ile/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/veranstaltung-melden/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden ILE",
+        "url": "https://www.lamerdingen.de/freizeit-tourismus/veranstaltungen/veranstaltung-melden-ile/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Landau a.d.Isar",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80553475448",
+    "webseite": "http://www.landau-isar.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Landensberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79108224622",
+    "webseite": "http://www.landensberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://landensberg.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Leben & Freizeit",
+        "url": "https://landensberg.de/leben%26freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://landensberg.de/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Gemeinde-/Vereinstermine 2025 - Übersicht",
+        "url": "https://landensberg.de/blog/neuer-beitrag-5",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Landsberg am Lech",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18109001455",
+    "webseite": "https://www.landsberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.landsberg.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur21.04.2026Auf den Spuren der VergangenheitFotoausstellung von Michael Shubitz kommt zum Jahrestag der Befreiung nach Landsberg",
+        "url": "https://www.landsberg.de/rathaus/aktuelles/pressemitteilungen/auf-den-spuren-der-vergangenheit/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur30.04.2026Eine musikalische Reise von Paris nach Budapest im RathausfestsaalZu einer außergewöhnlichen musikalischen Reise laden im Juni die Landsberger Salonmusik gemeinsam mit dem Trio WellCaru ein.",
+        "url": "https://www.landsberg.de/rathaus/aktuelles/pressemitteilungen/eine-musikalische-reise-von-paris-nach-budapest-im-rathausfestsaal/",
+        "score": 10
+      },
+      {
+        "titel": "Rathaus28.04.2026JuZe: Erlebnisreiche Jugendfreizeiten Auch im Jahr 2026 bietet das Jugendzentrum Landsberg am Lech wieder zwei abwechslungsreiche und erlebnisreiche Jugendfreizeiten für Jugendliche ab 13 Jahren an.",
+        "url": "https://www.landsberg.de/rathaus/aktuelles/pressemitteilungen/juze-erlebnisreiche-jugendfreizeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur20.04.2026Kinderprogramm der Stadtbibliothek Die Stadtbibliothek Landsberg am Lech lädt im Mai und Juni wieder zu einem abwechslungsreichen Kinderprogramm ein.",
+        "url": "https://www.landsberg.de/rathaus/aktuelles/pressemitteilungen/kinderprogramm-der-stadtbibliothek/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur18.03.2026Lange Kunstnacht Für die „Lange Kunstnacht“, die in diesem Jahr am Samstag, 19. September von 18 bis 23 Uhr stattfindet, sind ab sofort die Anmeldungen möglich.",
+        "url": "https://www.landsberg.de/rathaus/aktuelles/pressemitteilungen/lange-kunstnacht/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Landsberied",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95886001622",
+    "webseite": "http://www.landsberied.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.landsberied.de/freizeit-und-kultur-landsberied",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Landshut",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22442654386",
+    "webseite": "http://www.landshut.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Langdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12663778623",
+    "webseite": "http://www.langdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.langdorf.de/branchenbuch/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Aktuelle Informationen jetzt auch per App!                    \n                \n                \n                     \n                \n                \n                    \n                        \n                            Bleiben Sie informiert!\n                        \n                        \n                            Aktuelle Informationen jetzt auch per App!                        \n                        \n                            Die Gemeinde Langdorf gibt es jetzt auch als App! Aktuelle Informationen aus dem Rathaus, von den Langdorfer Vereinen und vieles mehr finden Sie in der neuen Heimat-Info-App.",
+        "url": "https://www.langdorf.de/aktuelles/291-die-gemeinde-langdorf-jetzt-als-app",
+        "score": 20
+      },
+      {
+        "titel": "WanderKultur",
+        "url": "https://www.langdorf.de/aktiv-outdoor/wanderkultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langenaltheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29441555623",
+    "webseite": "https://www.langenaltheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.langenaltheim.de/index.php/vereine-und-verbaende.html",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit / Tourismus",
+        "url": "https://www.langenaltheim.de/index.php/freibad.html",
+        "score": 10
+      },
+      {
+        "titel": "(Rad-)Wanderwege",
+        "url": "https://www.langenaltheim.de/index.php/freizeit-und-naherholung.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46219332623",
+    "webseite": "https://www.gemeinde-langenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-langenbach.de/unsere-gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Unsere Gemeinde\n\t\t\t\t\t\tWillkommen in unserer Gemeinde! Hier finden Sie alles, was unser Dorf zu bieten hat: von der gut ausgebauten Infrastruktur über das lebendige Dorfleben bis hin zu einem umfassenden Überblick über alle Institutionen, Gewerbe und Vereine.\t\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tMehr erfahren",
+        "url": "https://www.gemeinde-langenbach.de/unsere-gemeinde/zahlen-daten-fakten-geschichte/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturraum Ampertal e.V.",
+        "url": "https://kulturraum-ampertal.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langenfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62997109623",
+    "webseite": "http://www.langenfeld-mfr.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.langenfeld-mfr.de/index.php/vereine-und-einrichtungen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kirche und Kindergarten",
+        "url": "https://www.langenfeld-mfr.de/index.php/vereine-und-einrichtungen/kirche-und-kindergarten",
+        "score": 50
+      },
+      {
+        "titel": "Politische Gruppierungen",
+        "url": "https://www.langenfeld-mfr.de/index.php/vereine-und-einrichtungen/politische-gruppierungen",
+        "score": 50
+      },
+      {
+        "titel": "Dorflinde",
+        "url": "https://www.langenfeld-mfr.de/index.php/vereine-und-einrichtungen/dorflinde",
+        "score": 50
+      },
+      {
+        "titel": "Rad und Wanderwege",
+        "url": "https://www.langenfeld-mfr.de/index.php/freizeitangebot/rad-und-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Kinder und Jugendliche",
+        "url": "https://www.langenfeld-mfr.de/index.php/freizeitangebot/kinder-und-jugendliche",
+        "score": 10
+      },
+      {
+        "titel": "Trimm-Dich-Pfad",
+        "url": "https://www.langenfeld-mfr.de/index.php/freizeitangebot/trimm-dich-pfad",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.langenfeld-mfr.de/index.php/kultur-und-geschichte/geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.langenfeld-mfr.de/index.php/kultur-und-geschichte/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Rundgang zur Ortsgeschichte",
+        "url": "https://www.langenfeld-mfr.de/index.php/kultur-und-geschichte/rundgang-zur-ortsgeschichte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langenmosen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79774886623",
+    "webseite": "http://www.langenmosen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.langenmosen.de/vereine-langenmosen",
+        "score": 50
+      },
+      {
+        "titel": "Änderung Vereinsdaten",
+        "url": "https://www.langenmosen.de/aenderung-vereinsdaten-4",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Langenneufnach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96552663623",
+    "webseite": "http://www.langenneufnach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Langenpreising",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13330440624",
+    "webseite": "http://www.langenpreising.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Langensendelbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30108217624",
+    "webseite": "https://www.langensendelbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Langenzenn",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29553482447",
+    "webseite": "https://www.langenzenn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Kultur & Theater",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/kultur-theater/bildungs-und-kulturscheune",
+        "score": 20
+      },
+      {
+        "titel": "Hans-Sachs-Spielgruppe Langenzenn",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/kultur-theater/hans-sachs-spielgruppe-langenzenn",
+        "score": 20
+      },
+      {
+        "titel": "Klosterhofspiele Langenzenn",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/kultur-theater/klosterhofspiele-langenzenn",
+        "score": 20
+      },
+      {
+        "titel": "Stadtkapelle Langenzenn",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/kultur-theater/stadtkapelle-langenzenn",
+        "score": 20
+      },
+      {
+        "titel": "Termine und VeranstaltungenHier finden Sie die kulturellen Veranstaltungen sowie die Termine der Stadt Langenzenn",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/maerkte-feste-veranstaltungen/termine-auf-einen-blick",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.langenzenn.de/rathaus-verwaltung/verwaltung-team/terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.langenzenn.de/rathaus-verwaltung/buergerbuero/terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/zennoase",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/radwege",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmen & mehr",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/schwimmen-mehr",
+        "score": 10
+      },
+      {
+        "titel": "Spielen & Skaten",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/spielen-skaten",
+        "score": 10
+      },
+      {
+        "titel": "Swin- und Fußball-Golf",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/swin-und-fussball-golf",
+        "score": 10
+      },
+      {
+        "titel": "Trampolinpark",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/trampolinpark",
+        "score": 10
+      },
+      {
+        "titel": "Im Winter",
+        "url": "https://www.langenzenn.de/freizeit-tourismus/aktiv-sein/im-winter",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langerringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46885994624",
+    "webseite": "http://www.langerringen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://langerringen.de/freizeit-kultur/vereine/vereine-langerringen/",
+        "score": 70
+      },
+      {
+        "titel": "Vereine Gennach",
+        "url": "https://langerringen.de/freizeit-kultur/vereine/vereine-gennach/",
+        "score": 70
+      },
+      {
+        "titel": "Vereine Schwabmühlhausen",
+        "url": "https://langerringen.de/freizeit-kultur/vereine/vereine-schwabmuehlhausen/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://langerringen.de/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://langerringen.de/freizeit-kultur/veranstaltungen/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen melden",
+        "url": "https://langerringen.de/freizeit-kultur/veranstaltungen/veranstaltungen-melden/",
+        "score": 20
+      },
+      {
+        "titel": "Buchung Gemeindezentrum",
+        "url": "https://langerringen.de/freizeit-kultur/veranstaltungen/buchung-gemeindezentrum/",
+        "score": 20
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://langerringen.de/freizeit-kultur/maerkte/langerringer-markttreiben/",
+        "score": 20
+      },
+      {
+        "titel": "Garagenflohmarkt",
+        "url": "https://langerringen.de/freizeit-kultur/maerkte/garagenflohmarkt/",
+        "score": 20
+      },
+      {
+        "titel": "Adventsmarkt",
+        "url": "https://langerringen.de/freizeit-kultur/maerkte/adventsmarkt/",
+        "score": 20
+      },
+      {
+        "titel": "KulturGUT",
+        "url": "https://langerringen.de/freizeit-kultur/kulturgut/",
+        "score": 20
+      },
+      {
+        "titel": "Gallusfrauen",
+        "url": "https://langerringen.de/freizeit-kultur/gallusfrauen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Langfurth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63663771624",
+    "webseite": "http://www.langfurth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.langfurth.de/kultur-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.langfurth.de/Vereine-und-Verbaende.n45.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.langfurth.de/Freizeiteinrichtungen.n48.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langquaid",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80441548624",
+    "webseite": "http://www.langquaid.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://langquaid.de/leben-und-tourismus/freizeit/vereine-a-z/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://langquaid.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit in Langquaid",
+        "url": "https://langquaid.de/leben-und-tourismus/freizeit/freizeit-in-langquaid/",
+        "score": 10
+      },
+      {
+        "titel": "Feste in Langquaid",
+        "url": "https://langquaid.de/leben-und-tourismus/freizeit/feste-in-langquaid/",
+        "score": 10
+      },
+      {
+        "titel": "Märkte in Langquaid",
+        "url": "https://langquaid.de/leben-und-tourismus/freizeit/maerkte-in-langquaid/",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://langquaid.de/leben-und-tourismus/freizeit/essen-trinken/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit- und Sportanlagen",
+        "url": "https://langquaid.de/leben-und-tourismus/freizeit/freizeit-und-sportanlagen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langweid a.Lech",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97219325624",
+    "webseite": "https://www.langweid.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Parteien",
+        "url": "https://www.langweid.de/de/leben-wohnen/vereine-und-parteien/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.langweid.de/de/leben-wohnen/vereine-und-parteien/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Parteien",
+        "url": "https://www.langweid.de/de/leben-wohnen/vereine-und-parteien/parteien/",
+        "score": 50
+      },
+      {
+        "titel": "Organisationen",
+        "url": "https://www.langweid.de/de/leben-wohnen/vereine-und-parteien/organisationen/",
+        "score": 50
+      },
+      {
+        "titel": "Gaststättenerlaubnis für die Ortsvereine",
+        "url": "https://www.langweid.de/de/aktuelles/bekanntmachungen-allgemein/gaststaettenerlaubnis-fuer-die-ortsvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.langweid.de/de/leben-wohnen/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Herzlich Willkommen im Augsburger Land",
+        "url": "https://www.langweid.de/de/leben-wohnen/freizeit/herzlich-willkommen-im-augsburger-land/",
+        "score": 10
+      },
+      {
+        "titel": "Natur erleben an Lech und Wertach",
+        "url": "https://www.langweid.de/de/leben-wohnen/freizeit/natur-erleben-an-lech-und-wertach/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lappersdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13997102625",
+    "webseite": "https://www.lappersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.lappersdorf.de/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Wandertouren",
+        "url": "https://www.lappersdorf.de/kultur-freizeit/wandertouren/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.lappersdorf.de/kultur-freizeit/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Lappersdorf erleben",
+        "url": "https://www.lappersdorf.de/kultur-freizeit/lappersdorf-erleben/",
+        "score": 20
+      },
+      {
+        "titel": "AURELIUM\n\n                                            \n                                                \n                                                    Kulturzentrum des Marktes Lappersdorf\n                                                \n                                        \n                                                Mehr erfahren",
+        "url": "https://aurelium.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lauben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47552656625",
+    "webseite": "http://www.lauben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30774879625",
+    "webseite": "https://www.gemeinde-lauben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Laudenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64330433625",
+    "webseite": "http://www.laudenbach-am-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.laudenbach-am-main.de/gemeinde/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.laudenbach-am-main.de/kultur-tourismus/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lauf a.d.Pegnitz",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87886757459",
+    "webseite": "https://www.lauf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://lauf.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitangebot",
+        "url": "https://lauf.de/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur und Tourismus\n\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\t.cls-1 {\n\t\t\t\tfill: none;\n\t\t\t\tstroke: var(--blue);\n\t\t\t\tstroke-linecap: round;\n\t\t\t\tstroke-width: 2px;\n\t\t\t}",
+        "url": "https://lauf.de/kultur-und-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Stadtportrait",
+        "url": "https://lauf.de/kultur-und-tourismus/stadtportrait",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte der Stadt",
+        "url": "https://lauf.de/kultur-und-tourismus/stadtportrait/geschichte-der-stadt",
+        "score": 10
+      },
+      {
+        "titel": "Ortsteile",
+        "url": "https://lauf.de/kultur-und-tourismus/stadtportrait/ortsteile",
+        "score": 10
+      },
+      {
+        "titel": "Kultureinrichtungen in Lauf",
+        "url": "https://lauf.de/kultur-und-tourismus/kultureinrichtungen-in-lauf",
+        "score": 10
+      },
+      {
+        "titel": "PZ-Kulturraum",
+        "url": "https://lauf.de/kultur-und-tourismus/kultureinrichtungen-in-lauf/pz-kulturraum",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://lauf.de/kultur-und-tourismus/veranstaltungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Laufach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81108210625",
+    "webseite": "http://www.laufach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Laufen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30220144448",
+    "webseite": "https://stadtlaufen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://laufen.bayern/willkommen.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Laugna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97885987625",
+    "webseite": "https://www.laugna.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://laugna.de/familie-leben/familie/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Der Ort Laugna",
+        "url": "https://laugna.de/kultur-geschichte/der-ort-laugna/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://laugna.de/familie-leben/familie/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lauingen (Donau)",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40886736464",
+    "webseite": "https://www.lauingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lauingen.de/kultur/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kultur\n                                \n                            \n                            \n                                \n                            \n\n                            \n                                Vereine & Freizeit",
+        "url": "https://www.lauingen.de/",
+        "score": 40
+      },
+      {
+        "titel": "Auwaldsee",
+        "url": "https://www.lauingen.de/kultur/freizeit/auwaldsee",
+        "score": 20
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://www.lauingen.de/kultur/freizeit/hallenbad",
+        "score": 20
+      },
+      {
+        "titel": "Stadthalle",
+        "url": "https://www.lauingen.de/kultur/freizeit/stadthalle",
+        "score": 20
+      },
+      {
+        "titel": "Luitpoldhain",
+        "url": "https://www.lauingen.de/kultur/freizeit/luitpoldhain",
+        "score": 20
+      },
+      {
+        "titel": "Pfannental",
+        "url": "https://www.lauingen.de/kultur/freizeit/pfannental",
+        "score": 20
+      },
+      {
+        "titel": "Radwandern",
+        "url": "https://www.lauingen.de/kultur/freizeit/radwandern",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.lauingen.de/kultur/freizeit/wandern",
+        "score": 20
+      },
+      {
+        "titel": "Wirtschaftsförderverein",
+        "url": "https://www.lauingen.de/leben/wirtschaft/wirtschaftsfoerderverein",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.lauingen.de/kultur/erlebnis/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Stadtführungen",
+        "url": "https://www.lauingen.de/kultur/erlebnis/stadtfuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Kinderferienprogramm",
+        "url": "https://www.lauingen.de/kultur/erlebnis/kinderferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Storchennest",
+        "url": "https://www.lauingen.de/kultur/erlebnis/storchennest",
+        "score": 10
+      },
+      {
+        "titel": "Rathauskonzerte",
+        "url": "https://www.lauingen.de/kultur/kultur/rathauskonzerte",
+        "score": 10
+      },
+      {
+        "titel": "Stadeltheater",
+        "url": "https://www.lauingen.de/kultur/kultur/stadeltheater",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lauter",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14663764626",
+    "webseite": "http://www.gemeinde-lauter.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauterhofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31441541626",
+    "webseite": "http://www.lauterhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Verbände, aktive Kreise",
+        "url": "https://www.lauterhofen.de/vereine-verbaende-kreise.php",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Lautertal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48219318626",
+    "webseite": "https://www.gemeindelautertal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsbroschüre",
+        "url": "https://www.gemeindelautertal.de/vereinstaler/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Lautrach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64997095626",
+    "webseite": "http://www.lautrach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.vg-illerwinkel.de/erleben/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.vg-illerwinkel.de/erleben/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Standesamt der VG Illerwinkel - Bitte um Terminvereinbarung30.04.2026",
+        "url": "https://www.vg-illerwinkel.de/aktuelles/standesamt-der-vg-illerwinkel---bitte-um-terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Steuererklärung im Verein",
+        "url": "https://www.vg-illerwinkel.de/termine/termine",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lechbruck am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81774872626",
+    "webseite": "http://www.gemeinde.lechbruck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde.lechbruck.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Alphornbläser",
+        "url": "https://gemeinde.lechbruck.de/vereine/alphornblaeser",
+        "score": 50
+      },
+      {
+        "titel": "BBV Ortsverband",
+        "url": "https://gemeinde.lechbruck.de/vereine/bbv-ortsverband",
+        "score": 50
+      },
+      {
+        "titel": "Bgm. Helmut Angl Stiftung",
+        "url": "https://gemeinde.lechbruck.de/vereine/buergermeister-helmut-angl-stiftung",
+        "score": 50
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://gemeinde.lechbruck.de/vereine/feuerwehr-lechbruck",
+        "score": 50
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://gemeinde.lechbruck.de/vereine/jugendhaus",
+        "score": 50
+      },
+      {
+        "titel": "Kampfplatzverein",
+        "url": "https://gemeinde.lechbruck.de/vereine/kampfplatzverein",
+        "score": 50
+      },
+      {
+        "titel": "Kath. Frauenbund",
+        "url": "https://gemeinde.lechbruck.de/vereine/kath-frauenbund",
+        "score": 50
+      },
+      {
+        "titel": "Veteranenverein",
+        "url": "https://gemeinde.lechbruck.de/vereine/veteranen",
+        "score": 50
+      },
+      {
+        "titel": "Alpenverein",
+        "url": "http://alpenverein-lechbruck.de/",
+        "score": 10
+      },
+      {
+        "titel": "Schützenverein",
+        "url": "https://www.schuetzenverein-lechbruck.de/",
+        "score": 10
+      },
+      {
+        "titel": "Trachtenverein",
+        "url": "https://www.oberer-lechgau.de/lechbruck/dahoam.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Legau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98552649626",
+    "webseite": "http://www.legau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.vg-illerwinkel.de/erleben/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.vg-illerwinkel.de/erleben/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Standesamt der VG Illerwinkel - Bitte um Terminvereinbarung30.04.2026",
+        "url": "https://www.vg-illerwinkel.de/aktuelles/standesamt-der-vg-illerwinkel---bitte-um-terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Steuererklärung im Verein",
+        "url": "https://www.vg-illerwinkel.de/termine/termine",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lehrberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15330426627",
+    "webseite": "http://www.lehrberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Leiblfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32108203627",
+    "webseite": "http://www.leiblfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.leiblfing.de/unsere-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Max Frank – Kultur",
+        "url": "https://www.leiblfing.de/max-frank-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "<img decoding=\"async\" width=\"399\" height=\"260\" src=\"https://www.leiblfing.de/wp-content/uploads/2026/04/Akt-2026-Kulturmobil-Plakat-mit-Datum-399x260.jpg\" class=\"attachment-post-img size-post-img wp-post-image\" alt=\"\" srcset=\"https://www.leiblfing.de/wp-content/uploads/2026/04/Akt-2026-Kulturmobil-Plakat-mit-Datum-399x260.jpg 399w, https://www.leiblfing.de/wp-content/uploads/2026/04/Akt-2026-Kulturmobil-Plakat-mit-Datum-730x476.jpg 730w\" sizes=\"(max-width: 399px) 100vw, 399px\" />                                                    \n                                                                                                \n                                                    Kulturmobil in der Gemeinde Straßkirchen\n                                                    \n                                                        Auch im Jahr 2026 ist das „Kulturmobil“ wieder in ganz Niederbayern unterwegs. Am Freitag, 24. Juli, macht es in der…                                                    \n                                                    weiterlesen",
+        "url": "https://www.leiblfing.de/aktuelles/kulturmobil-in-der-gemeinde-strasskirchen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leidersbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48885980627",
+    "webseite": "http://www.leidersbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Leinach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65663757627",
+    "webseite": "http://www.leinach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leinach.de/freizeit-familie-senioren/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit, Familie & Senioren",
+        "url": "https://www.leinach.de/freizeit-familie-senioren/",
+        "score": 10
+      },
+      {
+        "titel": "Kindergärten",
+        "url": "https://www.leinach.de/freizeit-familie-senioren/kindergaerten/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.leinach.de/freizeit-familie-senioren/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.leinach.de/freizeit-familie-senioren/senioren/",
+        "score": 10
+      },
+      {
+        "titel": "Gemeindliche Mietobjekte",
+        "url": "https://www.leinach.de/freizeit-familie-senioren/gemeindliche-mietobjekte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leinburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82441534627",
+    "webseite": "http://www.leinburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leinburg.de/seite/de/cms0605202617184721912108/0744:61/tn_61/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.leinburg.de/seite/de/cms0605202617184721912108/014/tn_14/Kultur_und_Freizeit.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Leipheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46886694473",
+    "webseite": "http://www.leipheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leipheim.de/de/leben/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.leipheim.de/de/freizeit/kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Zehntstadel",
+        "url": "https://www.leipheim.de/de/freizeit/kultur/zehntstadel",
+        "score": 20
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.leipheim.de/de/freizeit/kultur/museum",
+        "score": 20
+      },
+      {
+        "titel": "Musik-Stunden",
+        "url": "https://www.leipheim.de/de/freizeit/kultur/musik-stunden",
+        "score": 20
+      },
+      {
+        "titel": "Donaumoos",
+        "url": "https://www.leipheim.de/de/freizeit/leipheim-aktiv/donaumoos",
+        "score": 10
+      },
+      {
+        "titel": "Radwege & Wandern",
+        "url": "https://www.leipheim.de/de/freizeit/leipheim-erleben/radwege-wandern",
+        "score": 10
+      },
+      {
+        "titel": "Stadtrundweg",
+        "url": "https://www.leipheim.de/de/freizeit/leipheim-erleben/stadtrundweg",
+        "score": 10
+      },
+      {
+        "titel": "Stadtführungen",
+        "url": "https://www.leipheim.de/de/freizeit/leipheim-erleben/stadtfuehrungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lengdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99219311627",
+    "webseite": "https://www.lengdorf.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.lengdorf.de/leben/freizeit-und-sport/vereine-verbaende-und-institutionen",
+        "score": 60
+      },
+      {
+        "titel": "13.06.ab 07:30 UhrGartenbauverein Lengdorf: Vereinsausflug nach Diessen am Ammersee",
+        "url": "https://www.lengdorf.de/buergerservice/aktuelles/veranstaltungen/veranstaltungskalender/veranstaltung/gartenbauverein-lengdorf-vereinsausflug-nach-diessen-am-ammersee/2026-06-13?cHash=a7eeb1a8d66a1d511853608927caa2f9",
+        "score": 30
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.lengdorf.de/leben/freizeit-und-sport/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit, Pflege und Beratung",
+        "url": "https://www.lengdorf.de/leben/senioren/pflege-und-beratung",
+        "score": 10
+      },
+      {
+        "titel": "19.09.08:30 - 12:00Gartenbauverein Lengdorf: Arbeitseinsatz im Obstlehrgarten in St. Wolfgang",
+        "url": "https://www.lengdorf.de/buergerservice/aktuelles/veranstaltungen/veranstaltungskalender/veranstaltung/gartenbauverein-lengdorf-arbeitseinsatz-im-obstlehrgarten-in-st-wolfgang/2026-09-19?cHash=8d4e29f87de551b5fe2471a452d446c6",
+        "score": 10
+      },
+      {
+        "titel": "06.11.ab 19:30 UhrGartenbauverein Lengdorf: Jahreshauptversammlung mit Neuwahlen und Vortrag",
+        "url": "https://www.lengdorf.de/buergerservice/aktuelles/veranstaltungen/veranstaltungskalender/veranstaltung/gartenbauverein-lengdorf-jahreshauptversammlung-mit-neuwahlen-und-vortrag/2026-11-06?cHash=d471ab78b8b584e589f6e703324eb063",
+        "score": 10
+      },
+      {
+        "titel": "15.11.ab 10:00 UhrGartenbauverein Lengdorf: Jahramt für verstorbene Mitglieder beim Volkstrauertag",
+        "url": "https://www.lengdorf.de/buergerservice/aktuelles/veranstaltungen/veranstaltungskalender/veranstaltung/gartenbauverein-lengdorf-jahramt-fuer-verstorbene-mitglieder-1/2026-11-15?cHash=932eafac650239a500570236539a258c",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lengenwang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15997088628",
+    "webseite": "http://www.lengenwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lengenwang.de/leben-in-lengenwang/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Lenggries",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32774865628",
+    "webseite": "https://www.rathaus-lenggries.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Förderverein für Kinder",
+        "url": "https://www.foerderverein-isarwinkel.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lenting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49552642628",
+    "webseite": "http://www.lenting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.lenting.de/vereine-und-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "Hier geht´s zur Online-Terminvereinbarung",
+        "url": "https://book.timify.com/?accountId=6232f9079d676ee47d2b5102&hideCloseButton=true",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leonberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66330419628",
+    "webseite": "https://www.gemeinde-leonberg.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-leonberg.de/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Anfahrt",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/anfahrt",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes von A-Z",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/sehenswertes-von-a-z",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Ausflugsziele",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/weitere-ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Radeln",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-erlebnis/radeln",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/essen-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Prospekte & Imagefilm",
+        "url": "https://www.gemeinde-leonberg.de/freizeit-tourismus/prospekte-imagefilm",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leuchtenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83108196628",
+    "webseite": "http://www.leuchtenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leuchtenberg.de/leben-in-leuchtenberg/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.leuchtenberg.de/freizeit-tourismus/lerautal/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.leuchtenberg.de/freizeit-tourismus/unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.leuchtenberg.de/freizeit-tourismus/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.leuchtenberg.de/freizeit-tourismus/wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Naturpark NOW",
+        "url": "https://www.leuchtenberg.de/freizeit-tourismus/naturpark-now/",
+        "score": 10
+      },
+      {
+        "titel": "Radtouren",
+        "url": "https://www.leuchtenberg.de/freizeit-tourismus/radtouren/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leupoldsgrün",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99885973628",
+    "webseite": "http://www.leupoldsgruen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leupoldsgruen.de/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Bildung, Feste und Kultur",
+        "url": "https://www.leupoldsgruen.de/leben/bildung-feste-und-kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leutenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16663750629",
+    "webseite": "https://www.gemeinde-leutenbach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Leutershausen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52219990481",
+    "webseite": "http://www.leutershausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lichtenau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33441527629",
+    "webseite": "http://www.markt-lichtenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lichtenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41553398465",
+    "webseite": "https://stadt-lichtenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bezirks Oberfranken",
+        "url": "https://www.bezirk-oberfranken.de/kultur/detailseite/enge-zusammenarbeit-zwischenhaus-marteau-und-stadt-lichtenberg/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lichtenfels",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54997865460",
+    "webseite": "https://www.lichtenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lindau (Bodensee)",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61109050444",
+    "webseite": "https://www.stadtlindau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadtlindau.de/B%C3%BCrger-Politik-Verwaltung/Freizeit-Sport-Vereine/Vereine/",
+        "score": 30
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.stadtlindau.de/B%C3%BCrger-Politik-Verwaltung/Freizeit-Sport-Vereine/Sportanlagen/",
+        "score": 30
+      },
+      {
+        "titel": "Stadtgestalt und Baukultur",
+        "url": "https://www.stadtlindau.de/B%C3%BCrger-Politik-Verwaltung/Planen-Bauen/Stadtgestalt-und-Baukultur/",
+        "score": 10
+      },
+      {
+        "titel": "Gestaltungsbeirat",
+        "url": "https://www.stadtlindau.de/B%C3%BCrger-Politik-Verwaltung/Planen-Bauen/Stadtgestalt-und-Baukultur/Gestaltungsbeirat/",
+        "score": 10
+      },
+      {
+        "titel": "Gestaltungsrichtlinien Sondernutzung",
+        "url": "https://www.stadtlindau.de/B%C3%BCrger-Politik-Verwaltung/Planen-Bauen/Stadtgestalt-und-Baukultur/Gestaltungsrichtlinien-Sondernutzung/",
+        "score": 10
+      },
+      {
+        "titel": "Kunst & Kultur",
+        "url": "https://www.stadtlindau.de/Kunst-Kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Reichsst�dtische Bibliothek",
+        "url": "https://www.stadtlindau.de/Kunst-Kultur/Reichsst%C3%A4dtische-Bibliothek/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtb�cherei",
+        "url": "https://www.stadtlindau.de/Kunst-Kultur/Stadtb%C3%BCcherei/",
+        "score": 10
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://www.stadtlindau.de/Kunst-Kultur/Musikschule/",
+        "score": 10
+      },
+      {
+        "titel": "Marionettenoper",
+        "url": "https://www.stadtlindau.de/Kunst-Kultur/Marionettenoper/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lindberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50219304629",
+    "webseite": "https://www.gemeinde-lindberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-lindberg.de/buerger/gemeinde/vereine.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Lindenberg i.Allgäu",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78553489445",
+    "webseite": "http://www.lindenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lisberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66997081629",
+    "webseite": "http://www.lisberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Litzendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83774858629",
+    "webseite": "http://www.litzendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lohberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00552635630",
+    "webseite": "https://www.gemeinde-lohberg.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lohkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17330412630",
+    "webseite": "http://www.oberbergkirchen.de/lohkirchen/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lohr a.Main",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30108917473",
+    "webseite": "http://www.lohr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine für Senioren",
+        "url": "https://www.lohr.de/leben-und-arbeiten/leben-in-lohr/mein-ruhestand/vereine-fuer-senioren",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus und Kultur",
+        "url": "https://www.lohr.de/tourismus-und-kultur",
+        "score": 10
+      },
+      {
+        "titel": "Ferien- und Freizeitangebote",
+        "url": "https://www.lohr.de/leben-und-arbeiten/leben-in-lohr/meine-familie/ferien-und-freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Hundehaltung",
+        "url": "https://www.lohr.de/leben-und-arbeiten/leben-in-lohr/meine-freizeit/hundehaltung",
+        "score": 10
+      },
+      {
+        "titel": "Bildung und Freizeit",
+        "url": "https://www.lohr.de/leben-und-arbeiten/leben-in-lohr/fuer-buerger/rathaus-service-center/bildung-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Fischereischeine",
+        "url": "https://www.lohr.de/leben-und-arbeiten/leben-in-lohr/meine-freizeit/fischereischeine",
+        "score": 10
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.lohr.de/leben-und-arbeiten/leben-in-lohr/meine-freizeit/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Entdecken & Erleben",
+        "url": "https://www.lohr.de/tourismus-und-kultur/entdecken-erleben/sehenswuerdigkeiten/unsere-altstadt",
+        "score": 10
+      },
+      {
+        "titel": "Unsere Stadtteile",
+        "url": "https://www.lohr.de/tourismus-und-kultur/entdecken-erleben/sehenswuerdigkeiten/unsere-stadtteile",
+        "score": 10
+      },
+      {
+        "titel": "Kunst, Kultur & Stadtgeschichte",
+        "url": "https://www.lohr.de/tourismus-und-kultur/entdecken-erleben/kunst-kultur/stadtgeschichte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Loiching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34108189630",
+    "webseite": "http://www.loiching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Loitzendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50885966630",
+    "webseite": "http://www.loitzendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://loitzendorf.de/index.php/vereine-loi",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Lonnerstadt",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67663743630",
+    "webseite": "https://markt-lonnerstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ludwigschorgast",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84441520630",
+    "webseite": "https://www.ludwigschorgast.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ludwigsstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78442262470",
+    "webseite": "https://www.ludwigsstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.ludwigsstadt.de/unsere-stadt/lebenswertes-ludwigsstadt/unsere-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.ludwigsstadt.de/unsere-stadt/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/was-ist-los-in-ludwigsstadt/maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Mobilität",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/mobilitaet/mobilitaet-im-landkreis-kronach",
+        "score": 10
+      },
+      {
+        "titel": "Mobilität in Ludwigsstadt",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/mobilitaet/mobilitaet-in-ludwigsstadt",
+        "score": 10
+      },
+      {
+        "titel": "Shakespeare-Spiele",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/shakespeare-spiele",
+        "score": 10
+      },
+      {
+        "titel": "aktuelles Jahr",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/shakespeare-spiele/aktuelles-jahr",
+        "score": 10
+      },
+      {
+        "titel": "Archiv",
+        "url": "https://www.ludwigsstadt.de/freizeit-tourismus/shakespeare-spiele/archiv",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lülsfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17997074631",
+    "webseite": "https://www.luelsfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Luhe-Wildenau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01219297631",
+    "webseite": "http://www.luhe-wildenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lupburg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34774851631",
+    "webseite": "http://www.lupburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.lupburg.de/index.php/vereinsleben",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Lutzingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51552628631",
+    "webseite": "https://www.vg-hoechstaedt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Schwenningen | 17. April 2026        \n                                        Donautal-Aktiv e.V.: Kulturjahr 2027 nimmt Fahrt auf",
+        "url": "https://www.vg-hoechstaedt.de/?view=article&id=2248:donautal-aktiv-e-v-kulturjahr-2027-nimmt-fahrt-auf&catid=11",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mähring",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68330405631",
+    "webseite": "http://www.maehring.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maierhöfen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85108182631",
+    "webseite": "http://www.maierhoefen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maihingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01885959632",
+    "webseite": "http://www.maihingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://maihingen.de/index.php/gemeinde/gemeinde/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kita",
+        "url": "https://maihingen.de/index.php/freizeit/kita",
+        "score": 10
+      },
+      {
+        "titel": "Grundschule",
+        "url": "https://maihingen.de/index.php/freizeit/grundschule",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mainaschaff",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18663736632",
+    "webseite": "http://www.mainaschaff.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mainbernheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24108959464",
+    "webseite": "http://www.mainbernheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur, Freizeit und Bildung",
+        "url": "https://mainbernheim.de/page/cat.php?k=6",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mainburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75108952465",
+    "webseite": "http://www.mainburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mainleus",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35441513632",
+    "webseite": "http://www.mainleus.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Nov\n                                                \n                                                    14\n                                                –\n                                                        15\n                                                    Lokalschau des Kaninchen- und Geflügelzuchtvereins\n                                                                Sommerhalle Mainleus",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/lokalschau-des-kaninchen-und-gefluegelzuchtvereins/2026-11-14?cHash=a3f16a8635b94ec6b62bbbb032be6277",
+        "score": 30
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    11\n                                                Weihnachtsfeier des Mainchors und des Gartenbauvereins\n                                                                Gemeindestuben Willmersreuth",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/weihnachtsfeier-des-mainchors-und-des-gartenbauvereins/2026-12-11?cHash=b355a4ca2ef49dd36ac3c83d042b0874",
+        "score": 30
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    06\n                                                Nikolausfeier der Willmersreuther Vereine\n                                                                Willmersreuther Gemeindestuben",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/nikolausfeier-der-willmersreuther-vereine-386/2026-12-06?cHash=2c4f154e60d2ec7bf2a722450b95afd4",
+        "score": 20
+      },
+      {
+        "titel": "Förderverein",
+        "url": "https://www.mainleus.de/kinderbetreuung/sonnenkinder-rothwind/foerderverein",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    25\n                                                Waldgottesdienst am Patersberg Veitlahm mit dem Posaunenchor + Gesangverein\n                                                                Patersberg",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/waldgottesdienst-am-patersberg-veitlahm-mit-dem-posaunenchor-gesangverein/2026-05-25?cHash=dbb3180e0b6c795abd4fca1415c056ca",
+        "score": 10
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    19\n                                                100 Jahre Gartenbauverein Buchau in der FFW Halle",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/100-jahre-gartenbauverein-buchau-in-der-ffw-halle/2026-06-19?cHash=7e406d61482e914b140b464de7d15fe0",
+        "score": 10
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    26\n                                                Gottesdienst zum Brunnenfest in Veitlahm mit dem Posaunenchor + Gesangverein",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/gottesdienst-zum-brunnenfest-in-veitlahm-mit-dem-posaunenchor-gesangverein/2026-07-26?cHash=7821a623becca9e73c9318fe748cb2df",
+        "score": 10
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    11\n                                                Weihnachtsfeier Gesangverein Liederhort Willmersreuth - Mainchor\n                                                                Willmersreuther Gemeindestuben",
+        "url": "https://www.mainleus.de/unsere-gemeinde/herzlich-willkommen/veranstaltungskalender/veranstaltung/weihnachtsfeier-gesangverein-liederhort-willmersreuth-mainchor-387/2026-12-11?cHash=b355a4ca2ef49dd36ac3c83d042b0874",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mainstockheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52219290632",
+    "webseite": "http://www.mainstockheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Die Mehrzweckhalle Mainstockheim wird in der Gemeinde von den verschiedenen Vereinen und Verbänden für...",
+        "url": "https://www.mainstockheim.de/pages/gemeinde/halle.php",
+        "score": 20
+      },
+      {
+        "titel": "mit\n--> Maiwanderung der Schützen\n--> Maifest der Sangesfreunde und des Turnvereins\n--> Gospelkonzert\n-->...",
+        "url": "https://www.mainstockheim.de/pages/gemeinde/bladla.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Maisach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68997067632",
+    "webseite": "https://www.maisach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maitenbeth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85774844632",
+    "webseite": "http://www.maitenbeth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.maitenbeth.de/freizeit-geniessen/reges-vereinsleben/vereinsregister",
+        "score": 60
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.maitenbeth.de/freizeit-geniessen/reges-vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.maitenbeth.de/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.maitenbeth.de/freizeit-geniessen/was-ist-los-in-maitenbeth/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.maitenbeth.de/freizeit-geniessen/freizeitangebote/alte-post",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.maitenbeth.de/freizeit-geniessen/gastronomie-und-uebernachtung/uebernachten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Malching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02552621633",
+    "webseite": "https://www.malching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.malching.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.malching.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Termine / Veranstaltungen",
+        "url": "https://www.malching.de/freizeit-kultur/termine-/-veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.malching.de/freizeit-kultur/sport",
+        "score": 20
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.malching.de/freizeit-kultur/uebernachtungsmoeglichkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten / Ausflugziele",
+        "url": "https://www.malching.de/freizeit-kultur/sehenswuerdigkeiten-/-ausflugziele",
+        "score": 20
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.malching.de/freizeit-kultur/rad-und-wanderwege",
+        "score": 20
+      },
+      {
+        "titel": "Bürgerservice-Online und Terminvereinbarung",
+        "url": "https://www.malching.de/rathaus-buerger/buergerservice-online",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Malgersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19330398633",
+    "webseite": "https://www.vg-falkenberg.de/startseite-malgersdorf",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.vg-falkenberg.de/vereinsschule-rottal-inn?suche=",
+        "score": 30
+      },
+      {
+        "titel": "herunterladen",
+        "url": "https://www.vg-falkenberg.de/vereinsschule-rottal-inn",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Mallersdorf-Pfaffenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36108175633",
+    "webseite": "http://www.mallersdorf-pfaffenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ascholtshausen",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/ascholtshausen/",
+        "score": 70
+      },
+      {
+        "titel": "Holztraubach",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/holztraubach/",
+        "score": 70
+      },
+      {
+        "titel": "Mallersdorf",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/mallersdorf/",
+        "score": 70
+      },
+      {
+        "titel": "Niederlindhart",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/niederlindhart/",
+        "score": 70
+      },
+      {
+        "titel": "Oberellenbach",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/oberellenbach/",
+        "score": 70
+      },
+      {
+        "titel": "Oberhaselbach",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/oberhaselbach/",
+        "score": 70
+      },
+      {
+        "titel": "Oberlindhart",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/oberlindhart/",
+        "score": 70
+      },
+      {
+        "titel": "Pfaffenberg",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/pfaffenberg/",
+        "score": 70
+      },
+      {
+        "titel": "Upfkofen",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/upfkofen/",
+        "score": 70
+      },
+      {
+        "titel": "Überortliche Vereine",
+        "url": "https://www.mallersdorf-pfaffenberg.de/freizeit-kultur/vereine/ueberortliche-vereine/",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Mammendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52885952633",
+    "webseite": "http://www.mammendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.mammendorf.de/vereine-mammendorf",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Mamming",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69663729633",
+    "webseite": "http://www.mamming.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Verbände, politische Parteien und Inter­essen­ver­tretungen",
+        "url": "https://www.mamming.de/bereich/vereine-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit, Sport & Kultur",
+        "url": "https://www.mamming.de/bereich/freizeit-sport-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote für Kinder & Jugend",
+        "url": "https://www.mamming.de/bereich/freizeitangebote-fuer-kinder-jugend/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.mamming.de/bereich/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Manching",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86441506633",
+    "webseite": "https://www.manching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mantel",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03219283634",
+    "webseite": "http://www.markt-mantel.com",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/vereine-und-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus und Freizeit",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/tourismus-und-freizeit/sehenswerte-denkmaeler",
+        "score": 10
+      },
+      {
+        "titel": "Lehrwanderweg Beckenweiher",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/tourismus-und-freizeit/lehrwanderweg-beckenweiher",
+        "score": 10
+      },
+      {
+        "titel": "Radwanderweg R4",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/tourismus-und-freizeit/radwanderweg-r4",
+        "score": 10
+      },
+      {
+        "titel": "Walderlebnispfad",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/tourismus-und-freizeit/walderlebnispfad",
+        "score": 10
+      },
+      {
+        "titel": "Waldforum",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/tourismus-und-freizeit/waldforum",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege OWV",
+        "url": "https://www.markt-mantel.com/index.php/ortsleben/tourismus-und-freizeit/wanderwege-owv",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Margetshöchheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19997060634",
+    "webseite": "http://www.margetshoechheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.margetshoechheim.de/leben-erleben/sport-freizeit-und-kultur/vereine-und-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    15\n                                                Vereins-Preisschafkopf\n                                                                Kath. Pfarrheim",
+        "url": "https://www.margetshoechheim.de/veranstaltungen/veranstaltung/vereins-preisschafkopf/2026-10-15?cHash=9cc3e62e6453a4f2990f63f70bca83e9",
+        "score": 30
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    19\n                                                Adventsfeier des Obst- und Gartenbauvereins\n                                                                Margarethenhalle",
+        "url": "https://www.margetshoechheim.de/veranstaltungen/veranstaltung/adventsfeier-des-obst-und-gartenbauvereins/2026-12-19?cHash=697608b9973f6024cc907032304f8aca",
+        "score": 30
+      },
+      {
+        "titel": "Sport, Freizeit und Kultur",
+        "url": "https://www.margetshoechheim.de/leben-erleben/sport-freizeit-und-kultur/kulturelle-angebote",
+        "score": 20
+      },
+      {
+        "titel": "Margarethenhalle",
+        "url": "https://www.margetshoechheim.de/leben-erleben/sport-freizeit-und-kultur/margarethenhalle",
+        "score": 20
+      },
+      {
+        "titel": "Repair-Café",
+        "url": "https://www.margetshoechheim.de/leben-erleben/sport-freizeit-und-kultur/repair-cafe",
+        "score": 20
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.margetshoechheim.de/leben-erleben/sport-freizeit-und-kultur/grillplatz",
+        "score": 20
+      },
+      {
+        "titel": "Badesee Erlabrunn",
+        "url": "https://www.margetshoechheim.de/leben-erleben/sport-freizeit-und-kultur/badesee-erlabrunn",
+        "score": 20
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    23\n                                                Terminabsprache der Vereine\n                                                                M-Halle - Schulungsraum",
+        "url": "https://www.margetshoechheim.de/veranstaltungen/veranstaltung/terminabsprache-der-vereine/2026-09-23?cHash=7abedbf8ac36a4d430d79043cb3a5884",
+        "score": 20
+      },
+      {
+        "titel": "Leben & Erleben",
+        "url": "https://www.margetshoechheim.de/leben-erleben/kinderbetreuung-bildung-und-freizeitangebote/kinderbetreuung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mariaposching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36774837634",
+    "webseite": "https://www.mariaposching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.mariaposching.de/freizeiterholung/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.mariaposching.de/freizeiterholung/gastgeber/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.mariaposching.de/freizeiterholung/gastronomie/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.mariaposching.de/freizeiterholung/sehenswuerdigkeiten/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.mariaposching.de/freizeiterholung/veranstaltungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.mariaposching.de/freizeiterholung/volkshochschule/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marklkofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53552614634",
+    "webseite": "https://www.marklkofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.marklkofen.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.marklkofen.de/Vereine.n48.html",
+        "score": 20
+      },
+      {
+        "titel": "Datenschutz für Vereine",
+        "url": "https://www.marklkofen.de/datenschutz-fuer-vereine",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Markt Berolzheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70330391634",
+    "webseite": "http://www.markt.berolzheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Markt Bibart",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87108168634",
+    "webseite": "http://www.markt-bibart.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-bibart.de/index.php/freizeit-menu/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.markt-bibart.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.markt-bibart.de/index.php/freizeit-menu/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.markt-bibart.de/index.php/freizeit-menu/veranstaltungen-in-markt-bibart-und-ortsteilen",
+        "score": 10
+      },
+      {
+        "titel": "Rundweg im Blickwinkel der Zeit",
+        "url": "https://www.markt-bibart.de/index.php/freizeit-menu/rundweg-im-blickwinkel-der-zeit",
+        "score": 10
+      },
+      {
+        "titel": "Fitnesswege",
+        "url": "https://www.markt-bibart.de/index.php/freizeit-menu/fitnesswege",
+        "score": 10
+      },
+      {
+        "titel": "Naturschauplätze",
+        "url": "https://www.markt-bibart.de/index.php/freizeit-menu/naturschauplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen\t\t\t\t\t\t\t\t\t\t in Markt Bibart",
+        "url": "https://markt-bibart.de/index.php/freizeit-menu/veranstaltungen-in-markt-bibart-und-ortsteilen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Markt Einersheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03885945635",
+    "webseite": "http://www.markt-einersheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsheim",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/gastronomie/vereinsheim",
+        "score": 40
+      },
+      {
+        "titel": "Vereinsheim",
+        "url": "https://www.markt-einersheim.de/de/leben-wohnen/gasthaeuser-weinstuben/vereinsheim",
+        "score": 30
+      },
+      {
+        "titel": "Informationszentrum Grafschaft Limpurg-Speckfeld",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/informationszentrum-grafschaft-limpurg-speckfeld",
+        "score": 10
+      },
+      {
+        "titel": "Höhepunkte",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/feste-veranstaltungen/hoehepunkte",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/feste-veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Nikolaus-Knauf-Terrassenbad",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/terrassenbad",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/sport-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Fotoalbum",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/fotoalbum",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber Übersicht",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/gastronomie/gastgeber-uebersicht",
+        "score": 10
+      },
+      {
+        "titel": "Gasthof „Rotes Ross“",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/gastronomie/gasthof-rotes-ross",
+        "score": 10
+      },
+      {
+        "titel": "Taverna bei Stelios",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/gastronomie/taverna-bei-stelios",
+        "score": 10
+      },
+      {
+        "titel": "Weingut Gamm",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/gastronomie/weingut-gamm",
+        "score": 10
+      },
+      {
+        "titel": "Weingut und Häckerstube am Vogelsang",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/gastronomie/weingut-und-haeckerstube-am-vogelsang",
+        "score": 10
+      },
+      {
+        "titel": "Gasthof „Rotes Ross“",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/uebernachtungen/gasthof-rotes-ross",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnung am Kirschbaum",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/uebernachtungen/ferienwohnung-am-kirschbaum",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnung \"Weinberg\"",
+        "url": "https://www.markt-einersheim.de/de/freizeit-tourismus/uebernachtungen/ferienwohnung-elena-und-friedrich-miller",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Markt Erlbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20663722635",
+    "webseite": "http://www.markt-erlbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Bilder für Veranstaltungskalender",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/bilder-fuer-veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Fränkischer Kulturrausch",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/fraenkischer-kulturrausch",
+        "score": 20
+      },
+      {
+        "titel": "Das Bürgerhaus zum Löwen",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/das-buergerhaus-zum-loewen",
+        "score": 20
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/feste-maerkte",
+        "score": 20
+      },
+      {
+        "titel": "06.05.ab 11:30 UhrOffener Mittagstisch für Seniorinnen und Senioren",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/veranstaltungskalender/veranstaltung/offener-mittagstisch-fuer-seniorinnen-und-senioren-225/2026-05-06?cHash=4515bbc0d2058e203b971753cce91cd0",
+        "score": 20
+      },
+      {
+        "titel": "07.05.10:00 - 12:00Spieletreff im Bürgerhaus",
+        "url": "https://www.markt-erlbach.de/freizeit-tourismus/kunst-kultur/veranstaltungskalender/veranstaltung/spieletreff-im-buergerhaus-8/2026-05-07?cHash=76ecaabd3ca26f02f7eeb109ce8adeac",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Markt Indersdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37441499635",
+    "webseite": "https://www.markt-indersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Markt Nordheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54219276635",
+    "webseite": "http://www.markt-nordheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
   }
 ]
