@@ -1,0 +1,2774 @@
+[
+  {
+    "name": "Aachen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Aachen",
+    "webseite": "https://www.aachen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ahaus",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahaus",
+    "webseite": "https://www.stadt-ahaus.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ahlen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahlen",
+    "webseite": "https://www.ahlen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Aldenhoven",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Aldenhoven",
+    "webseite": "https://aldenhoven.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Alfter",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alfter",
+    "webseite": "https://www.alfter.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Alpen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alpen_(Niederrhein)",
+    "webseite": "https://www.alpen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Alsdorf",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alsdorf",
+    "webseite": "https://alsdorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Altena",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altena",
+    "webseite": "http://www.altena.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Altenbeken",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenbeken",
+    "webseite": "https://www.altenbeken.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Altenberge",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenberge",
+    "webseite": "https://altenberge.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Anröchte",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Anröchte",
+    "webseite": "https://www.anroechte.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Arnsberg",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Arnsberg",
+    "webseite": "https://www.arnsberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ascheberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ascheberg_(Westfalen)",
+    "webseite": "https://www.ascheberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Attendorn",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Attendorn",
+    "webseite": "https://www.attendorn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Augustdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Augustdorf",
+    "webseite": "https://www.augustdorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Berleburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Berleburg",
+    "webseite": "https://www.bad-berleburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Driburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Driburg",
+    "webseite": "https://www.bad-driburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Honnef",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Honnef",
+    "webseite": "https://meinbadhonnef.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Laasphe",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Laasphe",
+    "webseite": "https://www.stadt-badlaasphe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Lippspringe",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Lippspringe",
+    "webseite": "https://www.bad-lippspringe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Münstereifel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Münstereifel",
+    "webseite": "https://www.bad-muenstereifel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Oeynhausen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Oeynhausen",
+    "webseite": "https://www.badoeynhausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Salzuflen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Salzuflen",
+    "webseite": "https://www.stadt-bad-salzuflen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Sassendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Sassendorf",
+    "webseite": "https://rathaus.bad-sassendorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bad Wünnenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Wünnenberg",
+    "webseite": "https://www.bad-wuennenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Baesweiler",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Baesweiler",
+    "webseite": "https://www.baesweiler.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Balve",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Balve",
+    "webseite": "https://www.balve.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Barntrup",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barntrup",
+    "webseite": "https://www.barntrup.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Beckum",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beckum",
+    "webseite": "https://www.beckum.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bedburg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bedburg",
+    "webseite": "https://www.bedburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bedburg-Hau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bedburg-Hau",
+    "webseite": "https://www.bedburg-hau.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Beelen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beelen",
+    "webseite": "https://www.beelen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bergheim",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergheim",
+    "webseite": "https://www.bergheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bergisch Gladbach",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergisch_Gladbach",
+    "webseite": "https://www.bergischgladbach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bergkamen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergkamen",
+    "webseite": "https://www.bergkamen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bergneustadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergneustadt",
+    "webseite": "https://www.bergneustadt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bestwig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bestwig",
+    "webseite": "https://bestwig.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Beverungen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beverungen",
+    "webseite": "https://www.beverungen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bielefeld",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bielefeld",
+    "webseite": "https://www.bielefeld.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Billerbeck",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Billerbeck",
+    "webseite": "https://www.billerbeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Blankenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenheim_(Ahr)",
+    "webseite": "https://www.blankenheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Blomberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blomberg",
+    "webseite": "https://www.blomberg-lippe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bocholt",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bocholt",
+    "webseite": "https://www.bocholt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bochum",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bochum",
+    "webseite": "https://www.bochum.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bonn",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bonn",
+    "webseite": "https://www.bonn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Borchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borchen",
+    "webseite": "https://www.borchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Borgentreich",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borgentreich",
+    "webseite": "https://www.borgentreich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Borgholzhausen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borgholzhausen",
+    "webseite": "https://www.borgholzhausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Borken",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borken",
+    "webseite": "https://www.borken.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bornheim",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bornheim_(Rheinland)",
+    "webseite": "https://www.bornheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bottrop",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bottrop",
+    "webseite": "https://www.bottrop.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Brakel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brakel",
+    "webseite": "https://www.brakel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Breckerfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breckerfeld",
+    "webseite": "https://www.breckerfeld.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Brilon",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brilon",
+    "webseite": "https://www.brilon.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Brüggen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brüggen",
+    "webseite": "https://www.brueggen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Brühl",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brühl_(Rheinland)",
+    "webseite": "https://www.bruehl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Burbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burbach_(Siegerland)",
+    "webseite": "https://www.burbach-siegerland.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Burscheid",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burscheid",
+    "webseite": "https://www.burscheid.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bönen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bönen",
+    "webseite": "https://www.boenen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Bünde",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bünde",
+    "webseite": "https://www.buende.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Büren",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Büren_(Westfalen)",
+    "webseite": "https://www.bueren.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Castrop-Rauxel",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Castrop-Rauxel",
+    "webseite": "https://www.castrop-rauxel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Coesfeld",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Coesfeld",
+    "webseite": "https://www.coesfeld.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dahlem",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dahlem_(Nordeifel)",
+    "webseite": "https://www.dahlem.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Datteln",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Datteln",
+    "webseite": "https://www.datteln.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Delbrück",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Delbrück",
+    "webseite": "https://www.stadt-delbrueck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Detmold",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Detmold",
+    "webseite": "https://www.detmold.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dinslaken",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dinslaken",
+    "webseite": "https://www.dinslaken.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dormagen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dormagen",
+    "webseite": "https://www.dormagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dorsten",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dorsten",
+    "webseite": "https://www.dorsten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dortmund",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dortmund",
+    "webseite": "https://www.dortmund.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Drensteinfurt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drensteinfurt",
+    "webseite": "https://www.drensteinfurt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Drolshagen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drolshagen",
+    "webseite": "https://www.drolshagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Duisburg",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Duisburg",
+    "webseite": "https://www.duisburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dörentrup",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dörentrup",
+    "webseite": "https://www.doerentrup-lippe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Dülmen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dülmen",
+    "webseite": "https://www.duelmen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Düren",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Düren",
+    "webseite": "https://www.dueren.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Düsseldorf",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Düsseldorf",
+    "webseite": "https://www.duesseldorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Eitorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eitorf",
+    "webseite": "https://www.eitorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Elsdorf",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elsdorf_(Rheinland)",
+    "webseite": "https://www.elsdorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Emmerich am Rhein",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Emmerich_am_Rhein",
+    "webseite": "https://www.emmerich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Emsdetten",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Emsdetten",
+    "webseite": "https://www.emsdetten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Engelskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Engelskirchen",
+    "webseite": "https://www.engelskirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Enger",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Enger",
+    "webseite": "https://www.enger.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ennepetal",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ennepetal",
+    "webseite": "http://www.ennepetal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ennigerloh",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ennigerloh",
+    "webseite": "https://www.ennigerloh.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ense",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ense",
+    "webseite": "https://www.gemeinde-ense.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Erftstadt",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erftstadt",
+    "webseite": "https://www.erftstadt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Erkelenz",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erkelenz",
+    "webseite": "https://www.erkelenz.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Erkrath",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erkrath",
+    "webseite": "https://www.erkrath.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Erndtebrück",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erndtebrück",
+    "webseite": "https://www.erndtebrueck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Erwitte",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erwitte",
+    "webseite": "https://www.erwitte.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Eschweiler",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eschweiler",
+    "webseite": "https://www.eschweiler.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Eslohe (Sauerland)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eslohe_(Sauerland)",
+    "webseite": "https://www.eslohe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Espelkamp",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Espelkamp",
+    "webseite": "https://www.espelkamp.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Essen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Essen",
+    "webseite": "https://www.essen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Euskirchen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Euskirchen",
+    "webseite": "https://www.euskirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Everswinkel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Everswinkel",
+    "webseite": "https://www.everswinkel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Extertal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Extertal",
+    "webseite": "https://www.extertal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Finnentrop",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Finnentrop",
+    "webseite": "https://www.finnentrop.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Frechen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frechen",
+    "webseite": "https://www.stadt-frechen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Freudenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Freudenberg_(Siegerland)",
+    "webseite": "https://www.freudenberg-stadt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Fröndenberg/Ruhr",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fröndenberg/Ruhr",
+    "webseite": "https://www.froendenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gangelt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gangelt",
+    "webseite": "https://www.gangelt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Geilenkirchen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Geilenkirchen",
+    "webseite": "https://www.geilenkirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Geldern",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Geldern",
+    "webseite": "https://www.geldern.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gelsenkirchen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gelsenkirchen",
+    "webseite": "https://www.gelsenkirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gescher",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gescher",
+    "webseite": "https://www.gescher.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Geseke",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Geseke",
+    "webseite": "https://www.geseke.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gevelsberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gevelsberg",
+    "webseite": "https://www.gevelsberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gladbeck",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gladbeck",
+    "webseite": "https://www.gladbeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Goch",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Goch",
+    "webseite": "https://www.goch.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Grefrath",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grefrath",
+    "webseite": "https://www.grefrath.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Greven",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Greven",
+    "webseite": "https://www.greven.net/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Grevenbroich",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grevenbroich",
+    "webseite": "https://www.grevenbroich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gronau (Westf.)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gronau_(Westf.)",
+    "webseite": "https://www.gronau.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gummersbach",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gummersbach",
+    "webseite": "https://www.gummersbach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Gütersloh",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gütersloh",
+    "webseite": "https://www.guetersloh.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Haan",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Haan",
+    "webseite": "https://www.haan.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hagen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hagen",
+    "webseite": "https://www.hagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Halle (Westf.)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halle_(Westf.)",
+    "webseite": "https://www.hallewestfalen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hallenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hallenberg",
+    "webseite": "https://www.stadt-hallenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Haltern am See",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Haltern_am_See",
+    "webseite": "https://www.haltern-am-see.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Halver",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halver",
+    "webseite": "https://www.halver.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hamm",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hamm",
+    "webseite": "https://www.hamm.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hamminkeln",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hamminkeln",
+    "webseite": "https://www.hamminkeln.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Harsewinkel",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Harsewinkel",
+    "webseite": "https://www.harsewinkel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hattingen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hattingen",
+    "webseite": "https://www.hattingen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Havixbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Havixbeck",
+    "webseite": "https://www.havixbeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Heek",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heek",
+    "webseite": "https://www.heek.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Heiden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heiden_(Münsterland)",
+    "webseite": "https://www.heiden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Heiligenhaus",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heiligenhaus",
+    "webseite": "https://www.heiligenhaus.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Heimbach",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heimbach_(Eifel)",
+    "webseite": "https://www.heimbach-eifel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Heinsberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heinsberg",
+    "webseite": "https://www.heinsberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hellenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hellenthal",
+    "webseite": "https://www.hellenthal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hemer",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hemer",
+    "webseite": "https://www.hemer.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hennef (Sieg)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hennef_(Sieg)",
+    "webseite": "https://www.hennef.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herdecke",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herdecke",
+    "webseite": "https://www.herdecke.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herford",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herford",
+    "webseite": "https://www.herford.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herne",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herne",
+    "webseite": "https://www.herne.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herscheid",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herscheid",
+    "webseite": "https://www.herscheid.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herten",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herten",
+    "webseite": "https://www.herten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herzebrock-Clarholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herzebrock-Clarholz",
+    "webseite": "https://www.herzebrock-clarholz.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Herzogenrath",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herzogenrath",
+    "webseite": "https://www.herzogenrath.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hiddenhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hiddenhausen",
+    "webseite": "https://www.hiddenhausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hilchenbach",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hilchenbach",
+    "webseite": "https://hilchenbach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hilden",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hilden",
+    "webseite": "https://www.hilden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hille",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hille",
+    "webseite": "https://www.hille.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Holzwickede",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Holzwickede",
+    "webseite": "https://www.holzwickede.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hopsten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hopsten",
+    "webseite": "https://www.hopsten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Horn-Bad Meinberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Horn-Bad_Meinberg",
+    "webseite": "https://www.horn-badmeinberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Horstmar",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Horstmar",
+    "webseite": "https://www.horstmar.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hörstel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hörstel",
+    "webseite": "https://www.hoerstel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hövelhof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hövelhof",
+    "webseite": "https://www.hoevelhof.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Höxter",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Höxter",
+    "webseite": "https://www.hoexter.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hückelhoven",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hückelhoven",
+    "webseite": "https://www.hueckelhoven.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hückeswagen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hückeswagen",
+    "webseite": "https://www.hueckeswagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hüllhorst",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hüllhorst",
+    "webseite": "https://www.huellhorst.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hünxe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hünxe",
+    "webseite": "https://www.huenxe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hürtgenwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hürtgenwald",
+    "webseite": "https://www.huertgenwald.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Hürth",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hürth",
+    "webseite": "https://www.huerth.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ibbenbüren",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ibbenbüren",
+    "webseite": "https://www.ibbenbueren.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Inden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Inden_(Rheinland)",
+    "webseite": "https://www.gemeinde-inden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Iserlohn",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Iserlohn",
+    "webseite": "https://www.iserlohn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Isselburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Isselburg",
+    "webseite": "https://www.isselburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Issum",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Issum",
+    "webseite": "https://www.issum.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Jüchen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jüchen",
+    "webseite": "https://www.juechen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Jülich",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jülich",
+    "webseite": "https://www.juelich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kaarst",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kaarst",
+    "webseite": "https://www.kaarst.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kalkar",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kalkar",
+    "webseite": "https://www.kalkar.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kall",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kall",
+    "webseite": "https://www.kall.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kalletal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kalletal",
+    "webseite": "https://www.kalletal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kamen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kamen",
+    "webseite": "https://www.stadt-kamen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kamp-Lintfort",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kamp-Lintfort",
+    "webseite": "https://www.kamp-lintfort.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kempen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kempen",
+    "webseite": "https://www.kempen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kerken",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kerken",
+    "webseite": "https://www.kerken.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kerpen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kerpen",
+    "webseite": "https://www.stadt-kerpen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kevelaer",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kevelaer",
+    "webseite": "https://www.kevelaer.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kierspe",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kierspe",
+    "webseite": "https://www.kierspe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kirchhundem",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kirchhundem",
+    "webseite": "https://www.kirchhundem.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kirchlengern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kirchlengern",
+    "webseite": "https://www.kirchlengern.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kleve",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kleve",
+    "webseite": "https://www.kleve.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Korschenbroich",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Korschenbroich",
+    "webseite": "https://korschenbroich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kranenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kranenburg_(Niederrhein)",
+    "webseite": "https://www.kranenburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Krefeld",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krefeld",
+    "webseite": "https://www.krefeld.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kreuzau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kreuzau",
+    "webseite": "https://kreuzau.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kreuztal",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kreuztal",
+    "webseite": "https://www.kreuztal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Köln",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Köln",
+    "webseite": "https://www.stadt-koeln.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Königswinter",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königswinter",
+    "webseite": "https://www.koenigswinter.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Kürten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kürten",
+    "webseite": "https://www.kuerten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ladbergen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ladbergen",
+    "webseite": "https://www.ladbergen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Laer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Laer",
+    "webseite": "https://www.laer.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lage",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lage_(Lippe)",
+    "webseite": "https://www.lage.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Langenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langenberg_(Kreis_Gütersloh)",
+    "webseite": "https://www.langenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Langenfeld (Rheinland)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langenfeld_(Rheinland)",
+    "webseite": "https://www.langenfeld.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Langerwehe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langerwehe",
+    "webseite": "https://www.langerwehe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Legden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Legden",
+    "webseite": "https://www.legden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Leichlingen (Rheinland)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leichlingen_(Rheinland)",
+    "webseite": "https://www.leichlingen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lemgo",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lemgo",
+    "webseite": "https://www.lemgo.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lengerich",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lengerich_(Westfalen)",
+    "webseite": "https://www.lengerich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lennestadt",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lennestadt",
+    "webseite": "https://www.lennestadt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Leopoldshöhe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leopoldshöhe",
+    "webseite": "https://www.leopoldshoehe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Leverkusen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leverkusen",
+    "webseite": "https://www.leverkusen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lichtenau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichtenau_(Westfalen)",
+    "webseite": "https://www.lichtenau.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lienen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lienen",
+    "webseite": "https://www.lienen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lindlar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindlar",
+    "webseite": "https://www.lindlar.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Linnich",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Linnich",
+    "webseite": "https://www.linnich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lippetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lippetal",
+    "webseite": "http://www.lippetal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lippstadt",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lippstadt",
+    "webseite": "https://www.lippstadt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lohmar",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lohmar",
+    "webseite": "https://www.lohmar.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lotte",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lotte_(Westfalen)",
+    "webseite": "https://www.lotte.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Löhne",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Löhne",
+    "webseite": "https://www.loehne.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lübbecke",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübbecke",
+    "webseite": "https://www.luebbecke.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lüdenscheid",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüdenscheid",
+    "webseite": "https://www.luedenscheid.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lüdinghausen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüdinghausen",
+    "webseite": "https://www.luedinghausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lügde",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lügde",
+    "webseite": "https://luegde.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Lünen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lünen",
+    "webseite": "https://www.luenen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Marienheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marienheide",
+    "webseite": "https://www.marienheide.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Marienmünster",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marienmünster",
+    "webseite": "https://www.marienmuenster.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Marl",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marl",
+    "webseite": "https://www.marl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Marsberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marsberg",
+    "webseite": "https://www.marsberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Mechernich",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mechernich",
+    "webseite": "https://www.mechernich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Meckenheim",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meckenheim_(Rheinland)",
+    "webseite": "https://www.meckenheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Medebach",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Medebach",
+    "webseite": "https://www.medebach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Meerbusch",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meerbusch",
+    "webseite": "https://meerbusch.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Meinerzhagen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meinerzhagen",
+    "webseite": "https://www.meinerzhagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Menden (Sauerland)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Menden_(Sauerland)",
+    "webseite": "https://www.menden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Merzenich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Merzenich",
+    "webseite": "https://www.gemeinde-merzenich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Meschede",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meschede",
+    "webseite": "https://www.meschede.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Metelen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Metelen",
+    "webseite": "https://www.metelen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Mettingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mettingen",
+    "webseite": "https://www.mettingen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Mettmann",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mettmann",
+    "webseite": "https://www.mettmann.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Minden",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Minden",
+    "webseite": "https://www.minden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Moers",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Moers",
+    "webseite": "https://www.moers.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Monheim am Rhein",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Monheim_am_Rhein",
+    "webseite": "https://www.monheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Monschau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Monschau",
+    "webseite": "https://www.monschau.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Morsbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Morsbach",
+    "webseite": "https://www.morsbach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Much",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Much",
+    "webseite": "https://www.much.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Möhnesee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Möhnesee_(Gemeinde)",
+    "webseite": "https://www.gemeinde-moehnesee.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Mönchengladbach",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mönchengladbach",
+    "webseite": "https://www.moenchengladbach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Mülheim an der Ruhr",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mülheim_an_der_Ruhr",
+    "webseite": "https://www.muelheim-ruhr.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Münster",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Münster",
+    "webseite": "https://www.stadt-muenster.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nachrodt-Wiblingwerde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nachrodt-Wiblingwerde",
+    "webseite": "https://www.nachrodt-wiblingwerde.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Netphen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Netphen",
+    "webseite": "https://www.netphen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nettersheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nettersheim",
+    "webseite": "https://www.nettersheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nettetal",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nettetal",
+    "webseite": "https://www.nettetal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Neuenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenkirchen_(Münsterland)",
+    "webseite": "https://www.neuenkirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Neuenrade",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenrade",
+    "webseite": "https://www.neuenrade.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Neukirchen-Vluyn",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukirchen-Vluyn",
+    "webseite": "https://www.neukirchen-vluyn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Neunkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neunkirchen_(Siegerland)",
+    "webseite": "https://www.neunkirchen-siegerland.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Neunkirchen-Seelscheid",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neunkirchen-Seelscheid",
+    "webseite": "https://www.nk-se.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Neuss",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuss",
+    "webseite": "https://www.neuss.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nideggen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nideggen",
+    "webseite": "https://www.nideggen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Niederkassel",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederkassel",
+    "webseite": "https://www.niederkassel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Niederkrüchten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederkrüchten",
+    "webseite": "https://www.niederkruechten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Niederzier",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederzier",
+    "webseite": "https://www.niederzier.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nieheim",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nieheim",
+    "webseite": "https://www.nieheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nordkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nordkirchen",
+    "webseite": "https://www.nordkirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nordwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nordwalde",
+    "webseite": "https://www.nordwalde.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nottuln",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nottuln",
+    "webseite": "https://www.nottuln.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nörvenich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nörvenich",
+    "webseite": "https://www.noervenich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Nümbrecht",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nümbrecht",
+    "webseite": "https://www.nuembrecht.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Oberhausen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberhausen",
+    "webseite": "https://www.oberhausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ochtrup",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ochtrup",
+    "webseite": "https://www.ochtrup.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Odenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Odenthal",
+    "webseite": "https://www.odenthal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Oelde",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oelde",
+    "webseite": "https://www.oelde.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Oer-Erkenschwick",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oer-Erkenschwick",
+    "webseite": "https://www.oer-erkenschwick.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Oerlinghausen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oerlinghausen",
+    "webseite": "https://www.oerlinghausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Olfen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Olfen",
+    "webseite": "https://www.olfen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Olpe",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Olpe",
+    "webseite": "https://olpe.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Olsberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Olsberg",
+    "webseite": "https://www.olsberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ostbevern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ostbevern",
+    "webseite": "https://www.ostbevern.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Overath",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Overath",
+    "webseite": "https://www.overath.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Paderborn",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Paderborn",
+    "webseite": "https://www.paderborn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Petershagen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Petershagen",
+    "webseite": "https://www.petershagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Plettenberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plettenberg",
+    "webseite": "https://www.plettenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Porta Westfalica",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Porta_Westfalica_(Stadt)",
+    "webseite": "https://www.portawestfalica.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Preußisch Oldendorf",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Preußisch_Oldendorf",
+    "webseite": "https://www.preussischoldendorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Pulheim",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pulheim",
+    "webseite": "https://www.pulheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Radevormwald",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Radevormwald",
+    "webseite": "https://www.radevormwald.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Raesfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Raesfeld",
+    "webseite": "https://www.raesfeld.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rahden",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rahden",
+    "webseite": "https://www.rahden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ratingen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ratingen",
+    "webseite": "https://www.stadt-ratingen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Recke",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Recke_(Westfalen)",
+    "webseite": "https://www.recke.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Recklinghausen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Recklinghausen",
+    "webseite": "https://www.recklinghausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rees",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rees",
+    "webseite": "https://www.stadt-rees.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Reichshof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reichshof",
+    "webseite": "https://www.reichshof.org/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Reken",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reken",
+    "webseite": "https://www.reken.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Remscheid",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Remscheid",
+    "webseite": "https://www.remscheid.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rheda-Wiedenbrück",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rheda-Wiedenbrück",
+    "webseite": "https://www.rheda-wiedenbrueck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rhede",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rhede",
+    "webseite": "https://www.rhede.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rheinbach",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rheinbach",
+    "webseite": "https://www.rheinbach.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rheinberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rheinberg",
+    "webseite": "https://www.rheinberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rheine",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rheine",
+    "webseite": "https://www.rheine.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rheurdt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rheurdt",
+    "webseite": "https://www.rheurdt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rietberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rietberg",
+    "webseite": "https://www.rietberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Roetgen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roetgen",
+    "webseite": "https://roetgen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rommerskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rommerskirchen",
+    "webseite": "https://www.rommerskirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rosendahl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rosendahl",
+    "webseite": "https://www.rosendahl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Ruppichteroth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ruppichteroth",
+    "webseite": "https://www.ruppichteroth.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rödinghausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rödinghausen",
+    "webseite": "https://www.roedinghausen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rösrath",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rösrath",
+    "webseite": "https://www.roesrath.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Rüthen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rüthen",
+    "webseite": "https://www.ruethen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Saerbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Saerbeck",
+    "webseite": "https://www.saerbeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Salzkotten",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Salzkotten",
+    "webseite": "https://www.salzkotten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Sankt Augustin",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sankt_Augustin",
+    "webseite": "https://www.sankt-augustin.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Sassenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sassenberg",
+    "webseite": "https://www.sassenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schalksmühle",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schalksmühle",
+    "webseite": "https://www.schalksmuehle.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schermbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schermbeck",
+    "webseite": "https://www.schermbeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schieder-Schwalenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schieder-Schwalenberg",
+    "webseite": "https://www.schieder-schwalenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schlangen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlangen_(Gemeinde)",
+    "webseite": "https://www.gemeinde-schlangen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schleiden",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schleiden",
+    "webseite": "https://www.schleiden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schloß Holte-Stukenbrock",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schloß_Holte-Stukenbrock",
+    "webseite": "https://www.schlossholtestukenbrock.de",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schmallenberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schmallenberg",
+    "webseite": "https://www.schmallenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schwalmtal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwalmtal_(Niederrhein)",
+    "webseite": "https://www.schwalmtal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schwelm",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwelm",
+    "webseite": "https://www.schwelm.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schwerte",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwerte",
+    "webseite": "https://www.schwerte.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Schöppingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schöppingen",
+    "webseite": "https://www.schoeppingen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Selfkant",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Selfkant",
+    "webseite": "https://selfkant.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Selm",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Selm",
+    "webseite": "https://www.selm.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Senden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Senden_(Westfalen)",
+    "webseite": "https://www.senden-westfalen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Sendenhorst",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sendenhorst",
+    "webseite": "https://www.sendenhorst.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Siegburg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siegburg",
+    "webseite": "https://siegburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Siegen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siegen",
+    "webseite": "https://www.siegen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Simmerath",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Simmerath",
+    "webseite": "https://www.simmerath.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Soest",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Soest",
+    "webseite": "https://www.soest.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Solingen",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Solingen",
+    "webseite": "https://www.solingen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Sonsbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sonsbeck",
+    "webseite": "https://www.sonsbeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Spenge",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spenge",
+    "webseite": "https://www.spenge.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Sprockhövel",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sprockhövel",
+    "webseite": "https://www.stadt-sprockhoevel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Stadtlohn",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stadtlohn",
+    "webseite": "https://www.stadtlohn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Steinfurt",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinfurt",
+    "webseite": "https://www.steinfurt.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Steinhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinhagen_(Westfalen)",
+    "webseite": "https://www.steinhagen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Steinheim",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinheim_(Westfalen)",
+    "webseite": "https://www.steinheim.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Stemwede",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stemwede",
+    "webseite": "https://www.stemwede.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Stolberg (Rheinland)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stolberg_(Rheinland)",
+    "webseite": "https://www.stolberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Straelen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Straelen",
+    "webseite": "https://www.straelen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Sundern (Sauerland)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sundern_(Sauerland)",
+    "webseite": "https://www.sundern.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Swisttal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Swisttal",
+    "webseite": "https://www.swisttal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Südlohn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Südlohn",
+    "webseite": "https://www.suedlohn.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Tecklenburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tecklenburg",
+    "webseite": "https://tecklenburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Telgte",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Telgte",
+    "webseite": "https://www.telgte.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Titz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Titz",
+    "webseite": "https://landgemeinde.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Troisdorf",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Troisdorf",
+    "webseite": "https://www.troisdorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Tönisvorst",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tönisvorst",
+    "webseite": "http://www.toenisvorst.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Uedem",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Uedem",
+    "webseite": "https://www.uedem.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Unna",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Unna",
+    "webseite": "https://www.unna.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Velbert",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Velbert",
+    "webseite": "https://www.velbert.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Velen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Velen",
+    "webseite": "https://www.velen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Verl",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Verl",
+    "webseite": "https://www.verl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Versmold",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Versmold",
+    "webseite": "https://www.versmold.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Vettweiß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vettweiß",
+    "webseite": "https://www.vettweiss.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Viersen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Viersen",
+    "webseite": "https://www.viersen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Vlotho",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vlotho",
+    "webseite": "https://www.vlotho.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Voerde (Niederrhein)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Voerde_(Niederrhein)",
+    "webseite": "https://www.voerde.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Vreden",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vreden",
+    "webseite": "https://www.vreden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wachtberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wachtberg",
+    "webseite": "https://www.wachtberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wachtendonk",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wachtendonk",
+    "webseite": "https://www.wachtendonk.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wadersloh",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wadersloh",
+    "webseite": "https://www.wadersloh.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Waldbröl",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waldbröl",
+    "webseite": "https://www.waldbroel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Waldfeucht",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waldfeucht",
+    "webseite": "http://www.waldfeucht.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Waltrop",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waltrop",
+    "webseite": "https://www.waltrop.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Warburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warburg",
+    "webseite": "https://www.warburg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Warendorf",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warendorf",
+    "webseite": "https://www.warendorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Warstein",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warstein",
+    "webseite": "https://warstein.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wassenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wassenberg",
+    "webseite": "https://www.wassenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Weeze",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weeze",
+    "webseite": "https://www.weeze.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wegberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wegberg",
+    "webseite": "https://www.wegberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Weilerswist",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weilerswist",
+    "webseite": "https://www.weilerswist.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Welver",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Welver",
+    "webseite": "https://www.welver.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wenden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wenden_(Sauerland)",
+    "webseite": "https://www.wenden.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Werdohl",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werdohl",
+    "webseite": "https://www.werdohl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Werl",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werl",
+    "webseite": "https://www.werl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wermelskirchen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wermelskirchen",
+    "webseite": "https://www.wermelskirchen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Werne",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werne",
+    "webseite": "https://www.werne.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Werther (Westf.)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werther_(Westf.)",
+    "webseite": "https://www.stadt-werther.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wesel",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wesel",
+    "webseite": "https://www.wesel.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wesseling",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wesseling",
+    "webseite": "https://www.wesseling.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Westerkappeln",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Westerkappeln",
+    "webseite": "https://www.gemeinde-westerkappeln.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wetter (Ruhr)",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wetter_(Ruhr)",
+    "webseite": "https://www.stadt-wetter.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wettringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wettringen_(Münsterland)",
+    "webseite": "https://www.wettringen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wickede (Ruhr)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wickede_(Ruhr)",
+    "webseite": "https://www.wickede.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wiehl",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiehl",
+    "webseite": "https://www.wiehl.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Willebadessen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Willebadessen",
+    "webseite": "https://www.willebadessen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Willich",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Willich",
+    "webseite": "https://www.stadt-willich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wilnsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wilnsdorf",
+    "webseite": "https://www.wilnsdorf.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Windeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Windeck",
+    "webseite": "https://gemeinde-windeck.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Winterberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Winterberg",
+    "webseite": "https://www.rathaus-winterberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wipperfürth",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wipperfürth",
+    "webseite": "https://www.wipperfuerth.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Witten",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Witten",
+    "webseite": "https://www.witten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wuppertal",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wuppertal",
+    "webseite": "https://www.wuppertal.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Wülfrath",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wülfrath",
+    "webseite": "https://www.wuelfrath.net/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Würselen",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Würselen",
+    "webseite": "https://wuerselen.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Xanten",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Xanten",
+    "webseite": "https://www.xanten.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Zülpich",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zülpich",
+    "webseite": "https://www.zuelpich.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "Übach-Palenberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Übach-Palenberg",
+    "webseite": "https://www.uebach-palenberg.de/",
+    "bundesland": "Nordrhein-Westfalen"
+  }
+]

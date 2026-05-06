@@ -1,0 +1,765 @@
+[
+  {
+    "name": "Adlershof",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Adlershof",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Alt-Hohenschönhausen",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Alt-Hohenschönhausen",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Alt-Treptow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Alt-Treptow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Altglienicke",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Altglienicke",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Baumschulenweg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Baumschulenweg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Biesdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Biesdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Blankenburg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Blankenburg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Blankenfelde",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Blankenfelde",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Bohnsdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Bohnsdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Borsigwalde",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Borsigwalde",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Britz",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Britz",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Buch",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Buch",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Buckow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Buckow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Charlottenburg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Charlottenburg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Charlottenburg-Nord",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Charlottenburg-Nord",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Charlottenburg-Wilmersdorf",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Charlottenburg-Wilmersdorf",
+    "webseite": "https://www.berlin.de/ba-charlottenburg-wilmersdorf",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Dahlem",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Dahlem",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Falkenberg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Falkenberg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Falkenhagener Feld",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Falkenhagener_Feld",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Fennpfuhl",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Fennpfuhl",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Französisch Buchholz",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Französisch_Buchholz",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Friedenau",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Friedenau",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Friedrichsfelde",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Friedrichsfelde",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Friedrichshagen",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Friedrichshagen",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Friedrichshain",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Friedrichshain",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Friedrichshain-Kreuzberg",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Friedrichshain-Kreuzberg",
+    "webseite": "https://www.berlin.de/ba-friedrichshain-kreuzberg/",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Frohnau",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Frohnau",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Gatow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Gatow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Gesundbrunnen",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Gesundbrunnen",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Gropiusstadt",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Gropiusstadt",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Grunewald",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Grunewald",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Grünau",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Grünau",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Hakenfelde",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Hakenfelde",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Halensee",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Halensee",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Hansaviertel",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Hansaviertel",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Haselhorst",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Haselhorst",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Heiligensee",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Heiligensee",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Heinersdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Heinersdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Hellersdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Hellersdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Hermsdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Hermsdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Johannisthal",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Johannisthal",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Karlshorst",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Karlshorst",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Karow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Karow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Kaulsdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Kaulsdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Kladow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Kladow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Konradshöhe",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Konradshöhe",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Kreuzberg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Kreuzberg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Köpenick",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Köpenick",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Lankwitz",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Lankwitz",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Lichtenberg",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Lichtenberg",
+    "webseite": "http://www.berlin.de/ba-lichtenberg",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Lichtenberg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Lichtenberg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Lichtenrade",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Lichtenrade",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Lichterfelde",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Lichterfelde",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Lübars",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Lübars",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Mahlsdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Mahlsdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Malchow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Malchow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Mariendorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Mariendorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Marienfelde",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Marienfelde",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Marzahn",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Marzahn",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Marzahn-Hellersdorf",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Marzahn-Hellersdorf",
+    "webseite": "https://www.berlin.de/ba-marzahn-hellersdorf",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Mitte",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Mitte",
+    "webseite": "https://www.berlin.de/ba-mitte/",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Mitte",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Mitte",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Moabit",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Moabit",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Märkisches Viertel",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Märkisches_Viertel",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Müggelheim",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Müggelheim",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Neu-Hohenschönhausen",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Neu-Hohenschönhausen",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Neukölln",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Neukölln",
+    "webseite": "https://www.berlin.de/ba-neukoelln",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Neukölln",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Neukölln",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Niederschöneweide",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Niederschöneweide",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Niederschönhausen",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Niederschönhausen",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Nikolassee",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Nikolassee",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Oberschöneweide",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Oberschöneweide",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Pankow",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Pankow",
+    "webseite": "http://www.berlin.de/ba-pankow/",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Pankow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Pankow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Plänterwald",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Plänterwald",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Prenzlauer Berg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Prenzlauer_Berg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Rahnsdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Rahnsdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Reinickendorf",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Reinickendorf",
+    "webseite": "https://www.berlin.de/ba-reinickendorf",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Reinickendorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Reinickendorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Rosenthal",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Rosenthal",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Rudow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Rudow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Rummelsburg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Rummelsburg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Schlachtensee",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Schlachtensee",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Schmargendorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Schmargendorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Schmöckwitz",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Schmöckwitz",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Schöneberg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Schöneberg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Siemensstadt",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Siemensstadt",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Spandau",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Spandau",
+    "webseite": "http://www.berlin.de/ba-spandau",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Spandau",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Spandau",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Staaken",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Staaken",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Stadtrandsiedlung Malchow",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Stadtrandsiedlung_Malchow",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Steglitz",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Steglitz",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Steglitz-Zehlendorf",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Steglitz-Zehlendorf",
+    "webseite": "https://www.berlin.de/ba-steglitz-zehlendorf/",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Tegel",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Tegel",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Tempelhof",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Tempelhof",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Tempelhof-Schöneberg",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Tempelhof-Schöneberg",
+    "webseite": "https://www.berlin.de/ba-tempelhof-schoeneberg",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Tiergarten",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Tiergarten",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Treptow-Köpenick",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Treptow-Köpenick",
+    "webseite": "http://www.berlin.de/ba-treptow-koepenick",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Waidmannslust",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Waidmannslust",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wannsee",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wannsee",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wartenberg",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wartenberg",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wedding",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wedding",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Weißensee",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Weißensee",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Westend",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Westend",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wilhelmsruh",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wilhelmsruh",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wilhelmstadt",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wilhelmstadt",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wilmersdorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wilmersdorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Wittenau",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Wittenau",
+    "webseite": "",
+    "bundesland": "Berlin"
+  },
+  {
+    "name": "Zehlendorf",
+    "typ": "Ortsteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berlin-Zehlendorf",
+    "webseite": "",
+    "bundesland": "Berlin"
+  }
+]

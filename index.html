@@ -8,30 +8,42 @@
   </head>
   <body>
     <main class="dashboard-shell">
-      <aside class="side-nav" aria-label="Dashboard Navigation">
+      <aside id="sideNav" class="side-nav" aria-label="Dashboard Navigation">
         <div class="brand-block">
           <span class="brand-mark">VR</span>
           <div>
             <strong>Vereinsradar</strong>
-            <span>DE Kommunen</span>
+            <span>Kommunen & Vereinsseiten</span>
           </div>
         </div>
         <nav class="nav-stack" aria-label="Ansichten">
-          <a class="active" href="#overview">Overview</a>
-          <a href="#results">Ergebnisse</a>
-          <a href="#quality">Qualitaet</a>
+          <button class="nav-link active" type="button" data-tab-target="clubs">Vereine</button>
+          <button class="nav-link" type="button" data-tab-target="homepages">Gemeindeseiten</button>
+          <button class="nav-link" type="button" data-tab-target="municipalities">Gemeinden</button>
         </nav>
         <div class="source-box">
-          <span>Datenquelle</span>
+          <span>Datenquellen</span>
           <strong id="sourceLabel">Lade Daten...</strong>
         </div>
       </aside>
 
       <section class="main-area">
+        <header class="mobile-header">
+          <button id="menuButton" class="icon-button" type="button" aria-label="Menue oeffnen" aria-expanded="false">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+          <div class="brand-block compact-brand">
+            <span class="brand-mark">VR</span>
+            <strong>Vereinsradar</strong>
+          </div>
+        </header>
+
         <header class="topbar">
           <div>
-            <p class="eyebrow">Admin Dashboard</p>
-            <h1>Vereinsseiten Review</h1>
+            <p class="eyebrow">Deutschland Dashboard</p>
+            <h1>Gemeinden, Homepages und Vereinsseiten</h1>
           </div>
           <div class="topbar-actions">
             <label class="ghost-button" title="JSON-Datei laden">
@@ -44,39 +56,31 @@
 
         <section id="overview" class="metric-grid" aria-label="Kennzahlen">
           <article class="metric-tile">
-            <span>Gemeinden</span>
+            <span>Gemeinden gesamt</span>
             <strong id="municipalityMetric">0</strong>
             <small id="municipalitySubMetric">0 sichtbar</small>
           </article>
           <article class="metric-tile">
-            <span>URLs</span>
-            <strong id="urlMetric">0</strong>
-            <small id="urlSubMetric">0 sichtbar</small>
+            <span>Gemeindehomepages</span>
+            <strong id="homepageMetric">0%</strong>
+            <small id="homepageSubMetric">0 von 0</small>
           </article>
           <article class="metric-tile">
-            <span>Titel-Treffer</span>
-            <strong id="titleHitMetric">0%</strong>
-            <small id="titleHitSubMetric">0 Treffer</small>
+            <span>Vereinsseiten gefunden</span>
+            <strong id="clubCoverageMetric">0%</strong>
+            <small id="clubCoverageSubMetric">0 Gemeinden</small>
           </article>
           <article class="metric-tile">
-            <span>Durchschnittsscore</span>
-            <strong id="scoreMetric">0</strong>
-            <small id="scoreSubMetric">Score-Mix</small>
+            <span>Vereinslinks</span>
+            <strong id="clubLinkMetric">0</strong>
+            <small id="clubLinkSubMetric">0 sichtbar</small>
           </article>
         </section>
 
         <section class="filter-bar" aria-label="Filter">
           <label class="wide-control">
             Suche
-            <input id="searchInput" type="search" placeholder="Gemeinde, Titel, URL, Bundesland">
-          </label>
-          <label>
-            Mindestscore
-            <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
-          </label>
-          <label>
-            Hoechstscore
-            <input id="maxScoreInput" type="number" min="0" step="10" placeholder="egal">
+            <input id="searchInput" type="search" placeholder="Gemeinde, Bundesland, Homepage oder Vereinslink">
           </label>
           <label>
             Bundesland
@@ -87,37 +91,37 @@
           <label>
             Sortierung
             <select id="sortSelect">
+              <option value="state">Bundesland</option>
               <option value="name">Gemeinde A-Z</option>
-              <option value="count">Meiste URLs</option>
+              <option value="clubs">Vereinslinks</option>
               <option value="score">Hoechster Score</option>
             </select>
           </label>
+          <label>
+            Mindestscore
+            <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
+          </label>
           <label class="switch-row">
-            <input id="titleOnlyInput" type="checkbox">
-            <span>Nur Titel-Treffer</span>
+            <input id="withClubsOnlyInput" type="checkbox">
+            <span>Nur mit Vereinsseite</span>
           </label>
         </section>
 
-        <section id="quality" class="insight-grid">
-          <article class="insight-panel">
-            <div class="section-head">
-              <div>
-                <p class="eyebrow">Verteilung</p>
-                <h2>Score-Buckets</h2>
-              </div>
+        <section class="progress-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Abdeckung</p>
+              <h2>Stand je Bundesland</h2>
             </div>
-            <div id="scoreDistribution" class="bar-list"></div>
-          </article>
+            <strong id="progressSummary" class="result-count">0 Bundeslaender</strong>
+          </div>
+          <div id="stateProgressList" class="state-progress-list"></div>
+        </section>
 
-          <article class="insight-panel">
-            <div class="section-head">
-              <div>
-                <p class="eyebrow">Hotspots</p>
-                <h2>Top Gemeinden</h2>
-              </div>
-            </div>
-            <ol id="topMunicipalities" class="top-list"></ol>
-          </article>
+        <section class="tab-strip" aria-label="Tab-Auswahl">
+          <button class="tab-button active" type="button" data-tab-target="clubs">Vereine</button>
+          <button class="tab-button" type="button" data-tab-target="homepages">Gemeindeseiten</button>
+          <button class="tab-button" type="button" data-tab-target="municipalities">Gemeinden</button>
         </section>
 
         <section id="results" class="results-layout">
@@ -135,10 +139,10 @@
           <section class="result-panel" aria-label="Gefilterte Ergebnisse">
             <div class="section-head">
               <div>
-                <p class="eyebrow">Review Queue</p>
+                <p class="eyebrow" id="activeTabLabel">Vereine</p>
                 <h2 id="selectedText">Alle Gemeinden</h2>
               </div>
-              <strong id="summaryText" class="result-count">0 URLs</strong>
+              <strong id="summaryText" class="result-count">0 Ergebnisse</strong>
             </div>
             <div id="emptyState" class="empty-state" hidden>Keine passenden Ergebnisse.</div>
             <div id="resultsList" class="result-table"></div>
@@ -146,6 +150,7 @@
         </section>
       </section>
     </main>
+    <div id="navBackdrop" class="nav-backdrop" hidden></div>
 
     <script src="vereinsseiten_ui.js"></script>
   </body>

@@ -1,0 +1,2893 @@
+[
+  {
+    "name": "Ahrensfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahrensfelde",
+    "webseite": "https://www.ahrensfelde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Alt Tucheband",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Tucheband",
+    "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52504",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Alt Zauche-Wußwerk",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Zauche-Wußwerk",
+    "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Alt-Zauche-Wusswerk",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Altdöbern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altdöbern",
+    "webseite": "https://www.gemeinde-altdoebern.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Althüttendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Althüttendorf",
+    "webseite": "https://www.amt-joachimsthal.de/texte/seite.php?id=73155",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Altlandsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altlandsberg",
+    "webseite": "https://www.altlandsberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Am Mellensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Am_Mellensee",
+    "webseite": "https://www.gemeinde-am-mellensee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Angermünde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Angermünde",
+    "webseite": "https://www.angermuende.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bad Belzig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Belzig",
+    "webseite": "https://www.bad-belzig.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bad Freienwalde (Oder)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Freienwalde_(Oder)",
+    "webseite": "https://bad-freienwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bad Liebenwerda",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Liebenwerda",
+    "webseite": "https://www.badliebenwerda.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bad Saarow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Saarow",
+    "webseite": "https://www.bad-saarow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bad Wilsnack",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Wilsnack",
+    "webseite": "https://bad-wilsnack.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Baruth/Mark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Baruth/Mark",
+    "webseite": "https://www.stadt-baruth-mark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Beelitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beelitz",
+    "webseite": "https://beelitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Beeskow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beeskow",
+    "webseite": "https://www.beeskow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Beetzsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beetzsee_(Gemeinde)",
+    "webseite": "https://www.amt-beetzsee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Beetzseeheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beetzseeheide",
+    "webseite": "https://www.beetzseeheide.org/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Beiersdorf-Freudenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beiersdorf-Freudenberg",
+    "webseite": "https://www.amt-fahoe.de/seite/373816/beiersdorf-freudenberg.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bensdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bensdorf",
+    "webseite": "https://www.amt-wusterwitz.de/verzeichnis/objekt.php?mandat=74258",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Berge",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berge_(Prignitz)",
+    "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55442",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Berkenbrück",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berkenbrück",
+    "webseite": "https://www.amt-odervorland.de/index.php_id=102",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bernau bei Berlin",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernau_bei_Berlin",
+    "webseite": "https://www.bernau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bersteland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bersteland",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Bersteland.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bestensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bestensee",
+    "webseite": "https://www.bestensee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Biesenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Biesenthal",
+    "webseite": "https://www.stadt-biesenthal.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Birkenwerder",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Birkenwerder",
+    "webseite": "https://www.birkenwerder.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Blankenfelde-Mahlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenfelde-Mahlow",
+    "webseite": "https://www.blankenfelde-mahlow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bleyen-Genschmar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bleyen-Genschmar",
+    "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52507",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bliesdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bliesdorf",
+    "webseite": "https://www.barnim-oderbruch.de/leben/gemeinden/bliesdorf",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Boitzenburger Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boitzenburger_Land",
+    "webseite": "https://www.gemeinde-boitzenburger-land.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Borkheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borkheide",
+    "webseite": "https://borkheide.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Borkwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borkwalde",
+    "webseite": "https://borkwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Brandenburg an der Havel",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brandenburg_an_der_Havel",
+    "webseite": "https://www.stadt-brandenburg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Breddin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breddin",
+    "webseite": "https://www.amt-neustadt-dosse.de/verzeichnis/objekt.php?mandat=27190",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Breese",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breese",
+    "webseite": "https://www.amtbww.de/ris/ti_3/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Breydin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breydin",
+    "webseite": "https://www.amt-biesenthal-barnim.de/gemeinde-breydin",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Brieselang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brieselang",
+    "webseite": "https://www.gemeindebrieselang.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Briesen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Briesen_(Spreewald)",
+    "webseite": "https://amt-burg-spreewald.de/de/amt-gemeinden/gemeinden/briesen-brjazyna.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Briesen (Mark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Briesen_(Mark)",
+    "webseite": "https://www.briesen-mark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Brieskow-Finkenheerd",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brieskow-Finkenheerd",
+    "webseite": "http://www.brieskow-finkenheerd.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Britz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Britz_(bei_Eberswalde)",
+    "webseite": "https://britz-chorin-oderberg.de/amtliches-ortsrecht/gemeinden/britz-gemeinde",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Bronkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bronkow",
+    "webseite": "https://www.amt-altdoebern.de/verzeichnis/objekt.php?mandat=22108",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Brück",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brück",
+    "webseite": "https://www.amt-brueck.de/verzeichnis/objekt.php?mandat=56903",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Brüssow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brüssow",
+    "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=39620",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Buckautal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Buckautal",
+    "webseite": "https://www.amt-ziesar.de/unser-amt/gemeinden/buckautal.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Buckow (Märkische Schweiz)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Buckow_(Märkische_Schweiz)",
+    "webseite": "https://kurstadt-buckow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Burg (Spreewald)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burg_(Spreewald)",
+    "webseite": "https://amt-burg-spreewald.de/de/amt-gemeinden/gemeinden/burg-spreewald-borkowy-blota.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Byhleguhre-Byhlen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Byhleguhre-Byhlen",
+    "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Byhleguhre-Byhlen",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Calau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Calau",
+    "webseite": "https://www.calau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Carmzow-Wallmow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Carmzow-Wallmow",
+    "webseite": "https://www.amt-bruessow.de/verzeichnis/objekt.php?mandat=23646",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Casekow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Casekow",
+    "webseite": "https://www.gartz.de/verzeichnis/objekt.php?mandat=18336",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Chorin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Chorin",
+    "webseite": "https://britz-chorin-oderberg.de/amtliches-ortsrecht/gemeinden/chorin-gemeinde",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Cottbus",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cottbus",
+    "webseite": "https://cottbus.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Crinitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Crinitz",
+    "webseite": "https://www.amt-kleine-elster.de/gemeinden/crinitz",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Cumlosen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cumlosen",
+    "webseite": "http://www.cumlosen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Dabergotz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dabergotz",
+    "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87426",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Dahme/Mark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dahme/Mark",
+    "webseite": "https://www.dahme.de/verzeichnis/objekt.php?mandat=28830",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Dahmetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dahmetal",
+    "webseite": "https://www.dahme.de/verzeichnis/objekt.php?mandat=4712",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Dallgow-Döberitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dallgow-Döberitz",
+    "webseite": "https://www.dallgow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Diensdorf-Radlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Diensdorf-Radlow",
+    "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=154445",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Dissen-Striesow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dissen-Striesow",
+    "webseite": "http://www.dissen-striesow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Doberlug-Kirchhain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Doberlug-Kirchhain",
+    "webseite": "https://www.doberlug-kirchhain.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Drachhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drachhausen",
+    "webseite": "https://www.peitz.de/gemeinde/drachhausen",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Drahnsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drahnsdorf",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Drahnsdorf.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Drebkau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drebkau",
+    "webseite": "https://www.drebkau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Dreetz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dreetz_(Brandenburg)",
+    "webseite": "https://www.gemeinde-dreetz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Drehnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drehnow",
+    "webseite": "https://www.peitz.de/gemeinde/drehnow",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Döbern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Döbern",
+    "webseite": "http://www.doebern.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Eberswalde",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eberswalde",
+    "webseite": "https://www.eberswalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Eichwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eichwalde",
+    "webseite": "https://www.eichwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Eisenhüttenstadt",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eisenhüttenstadt",
+    "webseite": "https://www.eisenhuettenstadt.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Elsterwerda",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elsterwerda",
+    "webseite": "https://www.elsterwerda.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Erkner",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erkner",
+    "webseite": "https://www.erkner.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Falkenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Falkenberg_(Mark)",
+    "webseite": "https://www.amt-fahoe.de/seite/373817/falkenberg.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Falkenberg/Elster",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Falkenberg/Elster",
+    "webseite": "https://www.falkenberg-elster.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Falkenhagen (Mark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Falkenhagen_(Mark)",
+    "webseite": "https://www.falkenhagen-mark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Falkensee",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Falkensee",
+    "webseite": "https://www.falkensee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Fehrbellin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fehrbellin",
+    "webseite": "https://www.fehrbellin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Felixsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Felixsee_(Gemeinde)",
+    "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=86498",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Fichtenhöhe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fichtenhöhe",
+    "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52834",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Fichtwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fichtwald",
+    "webseite": "https://www.amt-schlieben.de/gemeinden/fichtwald/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Finsterwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Finsterwalde",
+    "webseite": "https://www.finsterwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Flieth-Stegelitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Flieth-Stegelitz",
+    "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=18929",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Forst (Lausitz)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Forst_(Lausitz)",
+    "webseite": "https://www.forst-lausitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Frankfurt (Oder)",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frankfurt_(Oder)",
+    "webseite": "https://www.frankfurt-oder.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Frauendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frauendorf_(Amt_Ortrand)",
+    "webseite": "https://www.gemeinde-frauendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Fredersdorf-Vogelsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fredersdorf-Vogelsdorf",
+    "webseite": "https://www.fredersdorf-vogelsdorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Friedland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Friedland_(Niederlausitz)",
+    "webseite": "https://www.friedland-nl.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Friedrichswalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Friedrichswalde",
+    "webseite": "https://www.amt-joachimsthal.de/texte/seite.php?id=73149",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Friesack",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Friesack",
+    "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=130829",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Fürstenberg/Havel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fürstenberg/Havel",
+    "webseite": "https://www.fuerstenberg-havel.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Fürstenwalde/Spree",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fürstenwalde/Spree",
+    "webseite": "https://www.fuerstenwalde-spree.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gartz (Oder)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gartz_(Oder)",
+    "webseite": "https://www.gartz.de/verzeichnis/objekt.php?mandat=18265",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Garzau-Garzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Garzau-Garzin",
+    "webseite": "https://www.amt-maerkische-schweiz.de/gemeinden/gemeinde-garzau-garzin/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gerdshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gerdshagen",
+    "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=38437",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gerswalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gerswalde",
+    "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=9679",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Glienicke/Nordbahn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glienicke/Nordbahn",
+    "webseite": "https://www.glienicke.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gollenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gollenberg_(Havelland)",
+    "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54071",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Golßen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Golßen",
+    "webseite": "https://www.golssen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Golzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Golzow_(Mittelmark)",
+    "webseite": "https://www.amt-brueck.de/verzeichnis/objekt.php?mandat=56002",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Golzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Golzow_(Oderbruch)",
+    "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52510",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gorden-Staupitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gorden-Staupitz",
+    "webseite": "https://www.plessa.de/verzeichnis/objekt.php?mandat=18394",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gosen-Neu Zittau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gosen-Neu_Zittau",
+    "webseite": "https://www.amt-spreenhagen.de/verzeichnis/objekt.php?mandat=131797",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gramzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gramzow",
+    "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27361",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gransee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gransee",
+    "webseite": "https://www.gransee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Groß Kreutz (Havel)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Kreutz_(Havel)",
+    "webseite": "https://www.gross-kreutz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Groß Köris",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Köris",
+    "webseite": "https://www.amt-schenkenlaendchen.de/verzeichnis/objekt.php?mandat=18781",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Groß Lindow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Lindow",
+    "webseite": "http://www.gross-lindow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Groß Pankow (Prignitz)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Pankow_(Prignitz)",
+    "webseite": "http://www.grosspankow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Groß Schacksdorf-Simmersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Schacksdorf-Simmersdorf",
+    "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=58670",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Großbeeren",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großbeeren",
+    "webseite": "https://www.grossbeeren.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Großderschau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großderschau",
+    "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54072",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Großkmehlen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großkmehlen",
+    "webseite": "https://www.grosskmehlen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Großräschen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großräschen",
+    "webseite": "https://www.grossraeschen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Großthiemig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großthiemig",
+    "webseite": "https://www.grossthiemig.info/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Großwoltersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großwoltersdorf",
+    "webseite": "https://www.gransee.de/politik-verwaltung/grosswoltersdorf/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Grunow-Dammendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grunow-Dammendorf",
+    "webseite": "http://www.grunow-dammendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gräben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gräben",
+    "webseite": "https://www.amt-ziesar.de/unser-amt/gemeinden/graeben.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gröden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gröden_(Brandenburg)",
+    "webseite": "https://www.amt-schradenland.de/verzeichnis/objekt.php?mandat=18587",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Grünewald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünewald",
+    "webseite": "https://www.amt-ruhland.de/amtsgemeinden/gruenewald/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Grünheide (Mark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünheide_(Mark)",
+    "webseite": "https://www.gruenheide-mark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Grünow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünow_(bei_Prenzlau)",
+    "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27362",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Guben",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Guben",
+    "webseite": "https://www.guben.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Guhrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Guhrow",
+    "webseite": "https://amt-burg-spreewald.de/de/amt-gemeinden/gemeinden/guhrow-gory.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gumtow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gumtow",
+    "webseite": "https://www.gemeindegumtow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gusow-Platkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gusow-Platkow",
+    "webseite": "https://www.amt-seelow-land.de/verzeichnis/visitenkarte.php?mandat=50643",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Guteborn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Guteborn",
+    "webseite": "https://www.amt-ruhland.de/amtsgemeinden/guteborn/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Göritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Göritz",
+    "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=23649",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Görzke",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Görzke",
+    "webseite": "https://www.amt-ziesar.de/unser-amt/gemeinden/goerzke.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Gülitz-Reetz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gülitz-Reetz",
+    "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55514",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Halbe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halbe",
+    "webseite": "https://www.amt-schenkenlaendchen.de/verzeichnis/objekt.php?mandat=18864",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Halenbeck-Rohlsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halenbeck-Rohlsdorf",
+    "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=53512",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Havelaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Havelaue",
+    "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54073",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Havelsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Havelsee",
+    "webseite": "https://havelsee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Heckelberg-Brunow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heckelberg-Brunow",
+    "webseite": "https://www.amt-fahoe.de/seite/373818/heckelberg-brunow.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Heideblick",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heideblick",
+    "webseite": "https://www.heideblick.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Heideland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heideland_(Brandenburg)",
+    "webseite": "",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Heidesee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heidesee",
+    "webseite": "https://gemeinde-heidesee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Heiligengrabe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heiligengrabe",
+    "webseite": "https://www.heiligengrabe.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Heinersbrück",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heinersbrück",
+    "webseite": "https://heinersbrueck-most.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hennigsdorf",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hennigsdorf",
+    "webseite": "https://www.hennigsdorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hermsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hermsdorf_(bei_Ruhland)",
+    "webseite": "https://www.amt-ruhland.de/amtsgemeinden/hermsdorf/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Herzberg (Elster)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herzberg_(Elster)",
+    "webseite": "https://www.herzberg-elster.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Herzberg (Mark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herzberg_(Mark)",
+    "webseite": "http://www.herzberg-mark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hirschfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hirschfeld_(Brandenburg)",
+    "webseite": "http://www.hirschfeld-im-schraden.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hohen Neuendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Neuendorf",
+    "webseite": "https://hohen-neuendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hohenbocka",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenbocka",
+    "webseite": "https://www.amt-ruhland.de/amtsgemeinden/hohenbocka/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hohenbucko",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenbucko",
+    "webseite": "https://www.amt-schlieben.de/gemeinden/hohenbucko/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hohenfinow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenfinow",
+    "webseite": "https://hohenfinow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hohenleipisch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenleipisch",
+    "webseite": "http://www.hohenleipisch.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hohenselchow-Groß Pinnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenselchow-Groß_Pinnow",
+    "webseite": "https://www.gartz.de/verzeichnis/objekt.php?mandat=18333",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Hoppegarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hoppegarten",
+    "webseite": "https://www.gemeinde-hoppegarten.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Höhenland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Höhenland",
+    "webseite": "https://www.amt-fahoe.de/seite/373819/h%C3%B6henland.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ihlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ihlow_(Fläming)",
+    "webseite": "https://www.dahme.de/verzeichnis/objekt.php?mandat=28324",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Jacobsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jacobsdorf",
+    "webseite": "https://www.amt-odervorland.de/index.php_id=94",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Jamlitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jamlitz",
+    "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Jamlitz",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Joachimsthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Joachimsthal",
+    "webseite": "https://www.amt-joachimsthal.de/texte/seite.php?id=73163",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Jämlitz-Klein Düben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jämlitz-Klein_Düben",
+    "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=91934",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Jänschwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jänschwalde",
+    "webseite": "https://www.peitz.de/gemeinde/jaenschwalde",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Jüterbog",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jüterbog",
+    "webseite": "https://www.jueterbog.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Karstädt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karstädt_(Prignitz)",
+    "webseite": "https://www.gemeinde-karstaedt.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kasel-Golzig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kasel-Golzig",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Kasel-Golssig.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ketzin/Havel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ketzin/Havel",
+    "webseite": "https://www.ketzin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kleinmachnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kleinmachnow",
+    "webseite": "https://www.kleinmachnow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kleßen-Görne",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kleßen-Görne",
+    "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54074",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kloster Lehnin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kloster_Lehnin_(Gemeinde)",
+    "webseite": "https://www.klosterlehnin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kolkwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kolkwitz",
+    "webseite": "https://gemeinde-kolkwitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kotzen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kotzen_(Havelland)",
+    "webseite": "https://www.amt-nennhausen.de/verzeichnis/objekt.php?mandat=67586",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Krausnick-Groß Wasserburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krausnick-Groß_Wasserburg",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Krausnick-Gross-Wasserburg.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kremitzaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kremitzaue",
+    "webseite": "https://www.amt-schlieben.de/gemeinden/kremitzaue/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kremmen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kremmen",
+    "webseite": "https://www.kremmen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kroppen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kroppen",
+    "webseite": "https://www.kroppen-osl.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kyritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kyritz",
+    "webseite": "https://www.kyritz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Königs Wusterhausen",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königs_Wusterhausen",
+    "webseite": "https://www.koenigs-wusterhausen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Kümmernitztal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kümmernitztal",
+    "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=20313",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Küstriner Vorland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Küstriner_Vorland",
+    "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52511",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Langewahl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langewahl",
+    "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=112815",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lanz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lanz_(Prignitz)",
+    "webseite": "https://www.amtlenzen.de/verzeichnis/objekt.php?mandat=65380",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lauchhammer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lauchhammer",
+    "webseite": "https://www.lauchhammer.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lawitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lawitz",
+    "webseite": "https://www.neuzelle.de/verzeichnis/visitenkarte.php?mandat=89481",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lebus",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lebus",
+    "webseite": "http://www.lebus.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lebusa",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lebusa",
+    "webseite": "https://www.amt-schlieben.de/gemeinden/lebusa/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Leegebruch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leegebruch",
+    "webseite": "https://www.leegebruch.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Legde/Quitzöbel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Legde/Quitzöbel",
+    "webseite": "https://www.amtbww.de/ris/ti_4/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lenzen (Elbe)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lenzen_(Elbe)",
+    "webseite": "https://www.amtlenzen.de/verzeichnis/objekt.php?mandat=58824",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lenzerwische",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lenzerwische",
+    "webseite": "https://www.amtlenzen.de/verzeichnis/objekt.php?mandat=65388",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Letschin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Letschin",
+    "webseite": "https://www.letschin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lichterfeld-Schacksdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichterfeld-Schacksdorf",
+    "webseite": "https://www.amt-kleine-elster.de/gemeinden/lichterfeld-schacksdorf",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Liebenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Liebenwalde",
+    "webseite": "https://www.liebenwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lieberose",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lieberose",
+    "webseite": "http://www.lieberose-niederlausitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Liepe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Liepe_(Barnim)",
+    "webseite": "https://www.liepe-im-barnim.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lietzen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lietzen",
+    "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52838",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lindenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindenau_(Oberlausitz)",
+    "webseite": "https://www.lindenau-ol.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lindendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindendorf",
+    "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52839",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lindow (Mark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindow_(Mark)",
+    "webseite": "https://www.amt-lindow-mark.de/ris/ti-lindow-2/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Linthe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Linthe",
+    "webseite": "https://www.amt-brueck.de/verzeichnis/objekt.php?mandat=56904",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Luckaitztal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Luckaitztal",
+    "webseite": "https://www.amt-altdoebern.de/verzeichnis/objekt.php?mandat=22112",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Luckau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Luckau",
+    "webseite": "https://luckau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Luckenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Luckenwalde",
+    "webseite": "https://www.luckenwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ludwigsfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ludwigsfelde",
+    "webseite": "https://www.ludwigsfelde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lunow-Stolzenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lunow-Stolzenhagen",
+    "webseite": "https://britz-chorin-oderberg.de/amtliches-ortsrecht/gemeinden/lunow-stolzenhagen-gemeinde",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lychen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lychen",
+    "webseite": "https://www.lychen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Löwenberger Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Löwenberger_Land",
+    "webseite": "https://www.loewenberger-land.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lübben (Spreewald)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübben_(Spreewald)",
+    "webseite": "https://www.luebben.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Lübbenau/Spreewald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübbenau/Spreewald",
+    "webseite": "https://www.luebbenau-spreewald.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Marienfließ",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marienfließ",
+    "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=53505",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Marienwerder",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marienwerder_(Barnim)",
+    "webseite": "https://marienwerder-barnim.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Massen-Niederlausitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Massen-Niederlausitz",
+    "webseite": "https://www.amt-kleine-elster.de/gemeinden/massen-niederlausitz",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Melchow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Melchow",
+    "webseite": "https://www.melchow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Merzdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Merzdorf_(Elbe-Elster)",
+    "webseite": "https://www.amt-schradenland.de/verzeichnis/objekt.php?mandat=18590",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mescherin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mescherin",
+    "webseite": "https://www.gartz.de/verzeichnis/objekt.php?mandat=18327",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Meyenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meyenburg",
+    "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=53497",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Michendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Michendorf",
+    "webseite": "https://www.michendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Milmersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Milmersdorf",
+    "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=38919",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Milower Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Milower_Land",
+    "webseite": "https://www.milow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mittenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mittenwalde",
+    "webseite": "https://www.mittenwalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mittenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mittenwalde_(Uckermark)",
+    "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=38868",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mixdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mixdorf",
+    "webseite": "",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Märkisch Buchholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Märkisch_Buchholz",
+    "webseite": "https://www.maerkischbuchholz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Märkisch Linden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Märkisch_Linden",
+    "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87428",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Märkisch Luch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Märkisch_Luch",
+    "webseite": "https://www.amt-nennhausen.de/verzeichnis/objekt.php?mandat=67588",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Märkische Heide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Märkische_Heide",
+    "webseite": "https://www.maerkische-heide.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Märkische Höhe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Märkische_Höhe",
+    "webseite": "https://www.amt-maerkische-schweiz.de/gemeinden/gemeinde-maerkische-hoehe/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mühlberg/Elbe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlberg/Elbe",
+    "webseite": "https://www.muehlberg-elbe.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mühlenbecker Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlenbecker_Land",
+    "webseite": "https://www.muehlenbecker-land.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mühlenberge",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlenberge",
+    "webseite": "",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Mühlenfließ",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlenfließ",
+    "webseite": "http://www.amt-niemegk.de/verzeichnis/objekt.php?mandat=4243",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Müllrose",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Müllrose",
+    "webseite": "https://www.muellrose.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Müncheberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Müncheberg",
+    "webseite": "https://www.stadt-muencheberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Münchehofe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Münchehofe",
+    "webseite": "https://www.muenchehofe.info/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Nauen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nauen",
+    "webseite": "https://www.nauen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neiße-Malxetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neiße-Malxetal",
+    "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=83592",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neißemünde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neißemünde",
+    "webseite": "",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Nennhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nennhausen",
+    "webseite": "https://www.amt-nennhausen.de/verzeichnis/objekt.php?mandat=67590",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neu Zauche",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu_Zauche",
+    "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Neu-Zauche",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neu-Seeland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu-Seeland",
+    "webseite": "https://www.amt-altdoebern.de/verzeichnis/objekt.php?mandat=22146",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neuenhagen bei Berlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenhagen_bei_Berlin",
+    "webseite": "https://www.neuenhagen-bei-berlin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neuhardenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuhardenberg",
+    "webseite": "https://www.amt-seelow-land.de/verzeichnis/visitenkarte.php?mandat=50645",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neuhausen/Spree",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuhausen/Spree",
+    "webseite": "https://www.neuhausen-spree.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neulewin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neulewin",
+    "webseite": "https://www.barnim-oderbruch.de/leben/gemeinden/neulewin",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neupetershain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neupetershain",
+    "webseite": "https://neupetershain.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neuruppin",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuruppin",
+    "webseite": "https://www.neuruppin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neustadt (Dosse)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neustadt_(Dosse)",
+    "webseite": "https://www.amt-neustadt-dosse.de/verzeichnis/objekt.php?mandat=26680",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neutrebbin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neutrebbin",
+    "webseite": "https://www.neutrebbin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Neuzelle",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuzelle",
+    "webseite": "https://www.neuzelle.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Niederer Fläming",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederer_Fläming_(Gemeinde)",
+    "webseite": "https://www.gemeinde-niederer-flaeming.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Niederfinow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederfinow",
+    "webseite": "https://niederfinow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Niedergörsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niedergörsdorf",
+    "webseite": "https://www.gemeinde-niedergoersdorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Niemegk",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niemegk",
+    "webseite": "https://amt-niemegk.de/geschichte-der-stadt-niemegk/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Nordwestuckermark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nordwestuckermark",
+    "webseite": "https://www.nordwestuckermark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Nuthe-Urstromtal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nuthe-Urstromtal",
+    "webseite": "https://nuthe-urstromtal.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Nuthetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nuthetal",
+    "webseite": "https://www.nuthetal.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Oberbarnim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberbarnim",
+    "webseite": "https://www.amt-maerkische-schweiz.de/gemeinden/gemeinde-oberbarnim/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Oberkrämer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberkrämer",
+    "webseite": "https://www.oberkraemer.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Oberuckersee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberuckersee_(Gemeinde)",
+    "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27363",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Oderaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oderaue",
+    "webseite": "https://www.barnim-oderbruch.de/leben/gemeinden/oderaue",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Oderberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oderberg",
+    "webseite": "https://britz-chorin-oderberg.de/amtliches-ortsrecht/gemeinden/oderberg-stadt",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Oranienburg",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oranienburg",
+    "webseite": "https://oranienburg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ortrand",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ortrand",
+    "webseite": "https://www.stadt-ortrand.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Panketal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Panketal",
+    "webseite": "https://panketal.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Parsteinsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Parsteinsee",
+    "webseite": "https://britz-chorin-oderberg.de/amtliches-ortsrecht/gemeinden/parsteinsee-gemeinde",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Paulinenaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Paulinenaue",
+    "webseite": "https://paulinenaue.info/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Peitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Peitz",
+    "webseite": "https://www.peitz.de/gemeinde/peitz",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Perleberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Perleberg",
+    "webseite": "https://www.stadt-perleberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Pessin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pessin",
+    "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=72688",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Petershagen/Eggersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Petershagen/Eggersdorf",
+    "webseite": "https://doppeldorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Pinnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pinnow_(Uckermark)",
+    "webseite": "https://schwedt.eu/de/politik-und-verwaltung/mitverwaltung/31982",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Pirow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pirow",
+    "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55519",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Planebruch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Planebruch",
+    "webseite": "https://www.amt-brueck.de/verzeichnis/objekt.php?mandat=56905",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Planetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Planetal",
+    "webseite": "https://www.amt-niemegk.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Plattenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plattenburg",
+    "webseite": "https://www.plattenburg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Plessa",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plessa",
+    "webseite": "https://www.plessa.de/verzeichnis/objekt.php?mandat=4630",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Podelzig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Podelzig",
+    "webseite": "https://www.podelzig.com/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Potsdam",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Potsdam",
+    "webseite": "https://www.potsdam.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Premnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Premnitz",
+    "webseite": "https://www.premnitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Prenzlau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Prenzlau",
+    "webseite": "https://www.prenzlau.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Pritzwalk",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pritzwalk",
+    "webseite": "https://www.pritzwalk.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Prötzel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Prötzel",
+    "webseite": "https://www.barnim-oderbruch.de/leben/gemeinden/proetzel",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Putlitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Putlitz",
+    "webseite": "http://www.putlitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Päwesin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Päwesin",
+    "webseite": "https://paewesin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rabenstein/Fläming",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rabenstein/Fläming",
+    "webseite": "https://www.amt-niemegk.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ragow-Merz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ragow-Merz",
+    "webseite": "http://www.amt-schlaubetal.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Randowtal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Randowtal",
+    "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27364",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rangsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rangsdorf",
+    "webseite": "https://www.rangsdorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rathenow",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rathenow",
+    "webseite": "https://www.rathenow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rauen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rauen",
+    "webseite": "https://www.amt-spreenhagen.de/verzeichnis/objekt.php?mandat=112250",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rehfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rehfelde",
+    "webseite": "https://www.gemeinde-rehfelde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Reichenow-Möglin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reichenow-Möglin",
+    "webseite": "https://www.barnim-oderbruch.de/leben/gemeinden/reichenow-moeglin",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Reichenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reichenwalde",
+    "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=174785",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Reitwein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reitwein",
+    "webseite": "https://www.amt-lebus.de/verzeichnis/objekt.php?mandat=27435",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Retzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Retzow",
+    "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=79126",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rheinsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rheinsberg",
+    "webseite": "https://www.rheinsberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rhinow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rhinow",
+    "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54075",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rietz-Neuendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rietz-Neuendorf",
+    "webseite": "https://www.rietz-neuendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rietzneuendorf-Staakow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rietzneuendorf-Staakow",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Rietzneuendorf-Staakow.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rosenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rosenau_(Brandenburg)",
+    "webseite": "https://www.amt-wusterwitz.de/verzeichnis/objekt.php?mandat=85892",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Roskow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roskow",
+    "webseite": "https://www.amt-beetzsee.de/verzeichnis/objekt.php?mandat=41040&browser=1",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ruhland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ruhland",
+    "webseite": "https://www.amt-ruhland.de/amtsgemeinden/ruhland/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Röderland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Röderland",
+    "webseite": "https://www.gemeinde-roederland.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rückersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rückersdorf_(Niederlausitz)",
+    "webseite": "https://www.rueckersdorf.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rüdersdorf bei Berlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rüdersdorf_bei_Berlin",
+    "webseite": "https://www.ruedersdorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rüdnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rüdnitz",
+    "webseite": "https://www.ruednitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rühstädt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rühstädt",
+    "webseite": "https://www.amtbww.de/ris/ti_5/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Rüthnick",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rüthnick",
+    "webseite": "https://www.amt-lindow-mark.de/ris/ti-lindow-4/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Sallgast",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sallgast",
+    "webseite": "https://www.amt-kleine-elster.de/gemeinden/sallgast",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schenkenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schenkenberg_(Uckermark)",
+    "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=23653",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schenkendöbern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schenkendöbern",
+    "webseite": "https://www.schenkendoebern.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schilda",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schilda_(Brandenburg)",
+    "webseite": "https://www.elsterland.de/verzeichnis/objekt.php?mandat=17316",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schipkau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schipkau",
+    "webseite": "https://www.gemeinde-schipkau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schlaubetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlaubetal",
+    "webseite": "https://www.amt-schlaubetal.de/verzeichnis/visitenkarte.php?mandat=89479",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schlepzig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlepzig",
+    "webseite": "https://www.schlepzig.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schlieben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlieben",
+    "webseite": "https://www.amt-schlieben.de/gemeinden/stadt-schlieben/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schmogrow-Fehrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schmogrow-Fehrow",
+    "webseite": "http://www.schmogrow-fehrow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schorfheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schorfheide_(Gemeinde)",
+    "webseite": "https://www.gemeinde-schorfheide.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schraden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schraden_(Gemeinde)",
+    "webseite": "https://www.plessa.de/verzeichnis/objekt.php?mandat=18395",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schulzendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schulzendorf",
+    "webseite": "https://www.schulzendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schwarzbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwarzbach_(Lausitz)",
+    "webseite": "https://www.schwarzbach-biehlen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schwarzheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwarzheide",
+    "webseite": "https://www.stadt-schwarzheide.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schwedt/Oder",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwedt/Oder",
+    "webseite": "https://www.schwedt.eu/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schwerin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwerin_(Landkreis_Dahme-Spreewald)",
+    "webseite": "https://www.schwerin-lds.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schwielochsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwielochsee_(Gemeinde)",
+    "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Schwielochsee",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schwielowsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwielowsee_(Gemeinde)",
+    "webseite": "https://www.schwielowsee.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönborn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönborn_(Niederlausitz)",
+    "webseite": "https://www.elsterland.de/verzeichnis/visitenkarte.php?mandat=18391",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönefeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönefeld",
+    "webseite": "https://gemeinde-schoenefeld.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schöneiche bei Berlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schöneiche_bei_Berlin",
+    "webseite": "https://www.schoeneiche-bei-berlin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönermark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönermark",
+    "webseite": "https://www.gransee.de/politik-verwaltung/schoenermark/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönewalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönewalde",
+    "webseite": "https://www.schoenewalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönfeld_(Uckermark)",
+    "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=23671",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönwald_(Brandenburg)",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Schoenwald.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Schönwalde-Glien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönwalde-Glien",
+    "webseite": "https://www.schoenwalde-glien.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Seddiner See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seddiner_See",
+    "webseite": "https://www.seddiner-see.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Seeblick",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seeblick",
+    "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54076",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Seelow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seelow",
+    "webseite": "https://www.seelow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Senftenberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Senftenberg",
+    "webseite": "https://www.senftenberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Siehdichum",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siehdichum",
+    "webseite": "http://gemeinde-siehdichum.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Sieversdorf-Hohenofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sieversdorf-Hohenofen",
+    "webseite": "http://www.sieversdorf-hohenofen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Sonnenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sonnenberg_(Brandenburg)",
+    "webseite": "https://www.gransee.de/politik-verwaltung/sonnenberg/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Sonnewalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sonnewalde",
+    "webseite": "https://www.stadt-sonnewalde.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Spreenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spreenhagen",
+    "webseite": "https://www.amt-spreenhagen.de/verzeichnis/objekt.php?mandat=57816",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Spreewaldheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spreewaldheide",
+    "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Spreewaldheide",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Spremberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spremberg",
+    "webseite": "https://spremberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Stahnsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stahnsdorf",
+    "webseite": "https://www.stahnsdorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Stechlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stechlin",
+    "webseite": "https://www.stechlin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Stechow-Ferchesar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stechow-Ferchesar",
+    "webseite": "https://www.stechow-ferchesar.info/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Steinhöfel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinhöfel",
+    "webseite": "https://www.gemeinde-steinhoefel.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Steinreich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinreich",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Steinreich.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Storbeck-Frankendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Storbeck-Frankendorf",
+    "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87438",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Storkow (Mark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Storkow_(Mark)",
+    "webseite": "https://www.storkow-mark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Straupitz (Spreewald)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Straupitz_(Spreewald)",
+    "webseite": "https://www.straupitz-im-spreewald.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Strausberg",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Strausberg",
+    "webseite": "https://www.stadt-strausberg.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Stüdenitz-Schönermark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stüdenitz-Schönermark",
+    "webseite": "https://www.amt-neustadt-dosse.de/verzeichnis/objekt.php?mandat=43530",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Sydower Fließ",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sydower_Fließ",
+    "webseite": "https://www.sydower-fliess.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Tantow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tantow",
+    "webseite": "http://www.gemeinde-tantow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Tauche",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tauche",
+    "webseite": "https://www.gemeinde-tauche.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Tauer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tauer",
+    "webseite": "https://www.peitz.de/gemeinde/tauer",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Teichland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teichland",
+    "webseite": "https://www.peitz.de/gemeinde/teichland",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Teltow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teltow",
+    "webseite": "https://www.teltow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Temmen-Ringenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Temmen-Ringenwalde",
+    "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=38920",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Temnitzquell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Temnitzquell",
+    "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87444",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Temnitztal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Temnitztal",
+    "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=54908",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Templin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Templin",
+    "webseite": "https://www.templin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Tettau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tettau_(Brandenburg)",
+    "webseite": "https://www.tettau-osl.de",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Teupitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teupitz",
+    "webseite": "https://www.teupitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Trebbin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trebbin",
+    "webseite": "https://www.stadt-trebbin.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Treplin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Treplin",
+    "webseite": "https://www.amt-lebus.de/verzeichnis/objekt.php?mandat=27436",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Treuenbrietzen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Treuenbrietzen",
+    "webseite": "https://www.treuenbrietzen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Triglitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Triglitz",
+    "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55521",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Tröbitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tröbitz",
+    "webseite": "https://www.gemeinde-troebitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Tschernitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tschernitz",
+    "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=86710",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Turnow-Preilack",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Turnow-Preilack",
+    "webseite": "https://www.peitz.de/gemeinde/turnow-preilack",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Uckerfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Uckerfelde",
+    "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27365",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Uckerland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Uckerland",
+    "webseite": "https://www.uckerland.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Uebigau-Wahrenbrück",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Uebigau-Wahrenbrück",
+    "webseite": "https://www.uebigau-wahrenbrueck.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Unterspreewald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Unterspreewald_(Gemeinde)",
+    "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Unterspreewald.htm",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Velten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Velten",
+    "webseite": "https://velten.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Vetschau/Spreewald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vetschau/Spreewald",
+    "webseite": "https://stadt.vetschau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Vielitzsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vielitzsee_(Gemeinde)",
+    "webseite": "https://www.amt-lindow-mark.de/ris/ti-lindow-5/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Vierlinden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vierlinden",
+    "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52844",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Vogelsang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vogelsang_(Odertal)",
+    "webseite": "https://www.amt-b-f.de/verzeichnis/objekt.php?mandat=78410",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Waldsieversdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waldsieversdorf",
+    "webseite": "https://www.waldsieversdorf.info/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Walsleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Walsleben_(Brandenburg)",
+    "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87464",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wandlitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wandlitz",
+    "webseite": "https://www.wandlitz.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Weisen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weisen",
+    "webseite": "https://www.amtbww.de/ris/ti_6/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Welzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Welzow",
+    "webseite": "https://www.welzow.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wendisch Rietz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wendisch_Rietz",
+    "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=54337",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wenzlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wenzlow",
+    "webseite": "https://www.amt-ziesar.de/unser-amt/gemeinden/wenzlow.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Werben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werben_(Spreewald)",
+    "webseite": "http://www.werben-im-spreewald.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Werder (Havel)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werder_(Havel)",
+    "webseite": "https://www.werder-havel.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Werneuchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werneuchen",
+    "webseite": "https://www.werneuchen-barnim.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wiesenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiesenau",
+    "webseite": "https://www.gemeinde-wiesenau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wiesenaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiesenaue",
+    "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=72582",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wiesenburg/Mark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiesenburg/Mark",
+    "webseite": "https://www.wiesenburgmark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wiesengrund",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiesengrund",
+    "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=90112",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wildau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wildau",
+    "webseite": "https://www.wildau.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wittenberge",
+    "typ": "Mittlere kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittenberge",
+    "webseite": "https://www.wittenberge.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wittstock/Dosse",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittstock/Dosse",
+    "webseite": "https://www.wittstock.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wollin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wollin_(Fläming)",
+    "webseite": "https://www.amt-ziesar.de/unser-amt/gemeinden/wollin.html",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Woltersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Woltersdorf_(bei_Berlin)",
+    "webseite": "https://www.woltersdorf-schleuse.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wriezen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wriezen",
+    "webseite": "https://www.wriezen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wusterhausen/Dosse",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wusterhausen/Dosse",
+    "webseite": "http://www.wusterhausen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wustermark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wustermark",
+    "webseite": "https://www.wustermark.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Wusterwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wusterwitz",
+    "webseite": "https://www.amt-wusterwitz.de/verzeichnis/objekt.php?mandat=90464",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zechin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zechin",
+    "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52515",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zehdenick",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zehdenick",
+    "webseite": "https://www.zehdenick.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zernitz-Lohm",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zernitz-Lohm",
+    "webseite": "http://www.gemeinde-zernitz-lohm.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zeschdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zeschdorf",
+    "webseite": "https://www.amt-lebus.de/verzeichnis/objekt.php?mandat=27437",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zeuthen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zeuthen",
+    "webseite": "https://www.zeuthen.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zichow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zichow",
+    "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27366",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ziesar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ziesar",
+    "webseite": "https://www.ziesar.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ziethen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ziethen_(Barnim)",
+    "webseite": "https://www.amt-joachimsthal.de/texte/seite.php?id=73150",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Ziltendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ziltendorf",
+    "webseite": "http://www.ziltendorf.de/",
+    "bundesland": "Brandenburg"
+  },
+  {
+    "name": "Zossen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zossen",
+    "webseite": "https://www.zossen.de/",
+    "bundesland": "Brandenburg"
+  }
+]

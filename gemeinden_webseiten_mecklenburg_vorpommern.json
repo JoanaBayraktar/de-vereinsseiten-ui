@@ -1,0 +1,5077 @@
+[
+  {
+    "name": "Admannshagen-Bargeshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Admannshagen-Bargeshagen",
+    "webseite": "https://admannshagen-bargeshagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ahlbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahlbeck_(bei_Ueckermünde)",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ahrenshagen-Daskow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahrenshagen-Daskow",
+    "webseite": "https://www.ahrenshagen-daskow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ahrenshoop",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahrenshoop",
+    "webseite": "http://www.ostseebad-ahrenshoop.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Bukow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Bukow",
+    "webseite": "https://neubukow-salzhaff.de/amt-gemeinden/gemeinden/alt-bukow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Krenzlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Krenzlin",
+    "webseite": "https://gemeinde-altkrenzlin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Meteln",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Meteln",
+    "webseite": "https://gemeinde-alt-meteln.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Schwerin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Schwerin",
+    "webseite": "http://www.alt-schwerin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Sührkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Sührkow",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Tellin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Tellin",
+    "webseite": "https://www.jarmen.de/verzeichnis/visitenkarte.php?mandat=154285",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Alt Zachun",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alt_Zachun",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Alt-Zachun/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altefähr",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altefähr",
+    "webseite": "http://www.altefaehr.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenhagen_(Landkreis_Mecklenburgische_Seenplatte)",
+    "webseite": "https://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/altenhagen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altenhof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenhof_(Mecklenburg)",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenkirchen_(Rügen)",
+    "webseite": "https://www.altenkirchen-ruegen.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altenpleen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenpleen",
+    "webseite": "https://www.amt-altenpleen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altentreptow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altentreptow",
+    "webseite": "https://www.altentreptow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altkalen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altkalen",
+    "webseite": "https://amt-gnoien.de/Altkalen.cfm",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altwarp",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altwarp",
+    "webseite": "https://www.amt-am-stettiner-haff.de/gemeinden/altwarp/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Altwigshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altwigshagen",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Am Salzhaff",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Am_Salzhaff",
+    "webseite": "https://www.neubukow-salzhaff.de/amt-gemeinden/gemeinden/am-salzhaff/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ankershagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ankershagen",
+    "webseite": "http://www.ankershagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Anklam",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Anklam",
+    "webseite": "https://www.anklam.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Baabe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Baabe",
+    "webseite": "https://www.amt-moenchgut.de/ris/ti-2/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bad Doberan",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Doberan",
+    "webseite": "https://stadt-bad-doberan.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bad Kleinen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Kleinen",
+    "webseite": "http://www.mein-bad-kleinen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bad Sülze",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Sülze",
+    "webseite": "https://www.stadtbadsuelze.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Balow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Balow",
+    "webseite": "https://www.gemeinde-balow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bandelin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bandelin",
+    "webseite": "https://www.gemeinde-bandelin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bandenitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bandenitz",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Bandenitz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Banzkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Banzkow",
+    "webseite": "https://www.gemeinde-banzkow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bargischow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bargischow",
+    "webseite": "http://www.amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Barkhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barkhagen",
+    "webseite": "http://www.gemeinde-barkhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Barnekow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barnekow",
+    "webseite": "https://www.amt-dorfmecklenburg-badkleinen.de/gemeinde-barnokow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Barnin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barnin",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/barnin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bartenshagen-Parkentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bartenshagen-Parkentin",
+    "webseite": "https://www.bartenshagen-parkentin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Barth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barth",
+    "webseite": "https://www.stadt-barth.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bartow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bartow_(Vorpommern)",
+    "webseite": "https://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/bartow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Basedow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Basedow_(Mecklenburg)",
+    "webseite": "http://www.amt-malchin-am-kummerower-see.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bastorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bastorf",
+    "webseite": "https://www.neubukow-salzhaff.de/amt-gemeinden/gemeinden/bastorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Baumgarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Baumgarten_(Warnow)",
+    "webseite": "http://www.amt-buetzow-land.de/de/einwohner/amt_buetzow_land/gemeinden_im_amt/baumgarten/index.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Beggerow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beggerow",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153880",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Behren-Lübchin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Behren-Lübchin",
+    "webseite": "https://www.amt-gnoien.de/BehrenLuebchin.cfm",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Behrenhoff",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Behrenhoff",
+    "webseite": "https://www.landhagen.de/behrenhoff-informationen/gemeinden/behrenhoff/behrenhoff-informationen-und-geschichte.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Belsch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Belsch",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Belsch/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bengerstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bengerstorf",
+    "webseite": "https://amtboizenburgland.de/amt-gemeinden/bengerstorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Benitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Benitz",
+    "webseite": "https://www.buetzow-schwaan.de/gemeinde-benitz.htm",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bentwisch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bentwisch",
+    "webseite": "https://www.bentwisch.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bentzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bentzin",
+    "webseite": "https://www.jarmen.de/Gemeinde_Bentzin",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Benz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Benz_(bei_Wismar)",
+    "webseite": "https://www.amt-neuburg.de/cms/front_content.php?idart=154",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Benz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Benz_(Usedom)",
+    "webseite": "https://www.amtusedom.de/?page_id=23",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bergen auf Rügen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergen_auf_Rügen",
+    "webseite": "http://www.stadt-bergen-auf-ruegen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bergholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergholz",
+    "webseite": "https://www.amt-loecknitz-penkun.de/ALP/Gemeinden/bergholz.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bernitt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernitt",
+    "webseite": "http://www.amt-buetzow-land.de/de/einwohner/amt_buetzow_land/gemeinden_im_amt/bernitt/index.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bernstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernstorf",
+    "webseite": "https://www.grevesmuehlen.de/gemeinden/bernstorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Beseritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beseritz",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-beseritz",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Besitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Besitz_(Mecklenburg)",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/besitz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bibow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bibow",
+    "webseite": "https://bibow.org",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Biendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Biendorf_(Mecklenburg)",
+    "webseite": "https://biendorf.de/amt-gemeinden/gemeinden/biendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Binz",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Binz",
+    "webseite": "https://gemeinde-binz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blankenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenberg",
+    "webseite": "https://www.blankenberg-in-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blankenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenhagen",
+    "webseite": "http://www.amt-rostocker-heide.de/index.phtml?Aktion=view&ID=306&SpecialTop=304",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blankenhof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenhof",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-blankenhof",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blankensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankensee_(Mecklenburg)",
+    "webseite": "https://blankensee.net/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blankensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankensee_(Vorpommern)",
+    "webseite": "https://www.blankensee.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blesewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blesewitz",
+    "webseite": "http://www.amt-anklam-land.de/cms/front_content.php?idcat=49",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blievenstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blievenstorf",
+    "webseite": "http://www.blievenstorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blowatz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blowatz",
+    "webseite": "https://www.amt-neuburg.de/verwaltung-politik/gemeinden/blowatz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Blumenholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blumenholz",
+    "webseite": "https://www.amtneustrelitz-land.de/gemeinden/blumenholz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bobitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bobitz",
+    "webseite": "http://www.amt-dorfmecklenburg-badkleinen.de/?page_id=662",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bobzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bobzin",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Bobzin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Boiensdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boiensdorf",
+    "webseite": "https://www.amt-neuburg.de/portal/seiten/gemeinde-boiensdorf-900000007-28440.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Boizenburg/Elbe",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boizenburg/Elbe",
+    "webseite": "https://www.boizenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Boldekow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boldekow",
+    "webseite": "https://amt-anklam-land.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bollewick",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bollewick",
+    "webseite": "http://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=109775",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Boltenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boltenhagen",
+    "webseite": "https://www.boltenhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Boock",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boock_(Vorpommern)",
+    "webseite": "https://www.amt-loecknitz-penkun.de/alp/gemeinden/boock.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Borkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borkow",
+    "webseite": "http://amt-ssl.de/borkow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Born a. Darß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Born_a._Darß",
+    "webseite": "https://www.sitzungsdienst-darss-fischland.de/ris/ti-darss-6/index.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Borrentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borrentin",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153881",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brahlstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brahlstorf",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/brahlstorf//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bredenfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bredenfelde",
+    "webseite": "http://www.stavenhagen.de/cms/index.php?id=39",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Breege",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breege",
+    "webseite": "https://www.breege.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Breesen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breesen",
+    "webseite": "http://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/breesen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brenz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brenz_(Mecklenburg)",
+    "webseite": "https://www.neustadt-glewe.de/Das-Amt/Brenz/%C3%9Cber-Brenz//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bresegard bei Eldena",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bresegard_bei_Eldena",
+    "webseite": "https://www.amt-ludwigslust-land.de/verzeichnis/objekt.php?mandat=38718",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bresegard bei Picher",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bresegard_bei_Picher",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/bresegard-bei-picher/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brietzig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brietzig",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,10.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Briggow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Briggow",
+    "webseite": "http://www.stavenhagen.de/cms/index.php?id=103",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Broderstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Broderstorf",
+    "webseite": "http://www.amtcarbaek.de/gemeinde-broderstorf-7.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brunn_(Mecklenburg)",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-brunn",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brunow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brunow",
+    "webseite": "http://www.grabow.de/index.php/die-gemeinden/gemeinde-brunow//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bröbberow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bröbberow",
+    "webseite": "https://www.broebberow.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brüel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brüel",
+    "webseite": "https://www.stadt-brueel.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brünzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brünzow",
+    "webseite": "https://www.amtlubmin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Brüsewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brüsewitz",
+    "webseite": "https://www.luetzow-luebstorf.de/verzeichnis/visitenkarte.php?mandat=83264",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Buchholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Buchholz_(bei_Röbel)",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119598",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bugewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bugewitz",
+    "webseite": "http://www.amt-anklam-land.de/cms/front_content.php?idart=64/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Buggenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Buggenhagen",
+    "webseite": "https://www.wolgast.de/gemeinden/buggenhagen/die-gemeinde",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Burg Stargard",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burg_Stargard",
+    "webseite": "https://www.burg-stargard.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Burow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burow",
+    "webseite": "https://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/burow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Buschvitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Buschvitz",
+    "webseite": "http://www.buschvitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Butzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Butzow",
+    "webseite": "https://amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Börgerende-Rethwisch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Börgerende-Rethwisch",
+    "webseite": "https://www.gemeinde-boergerende-rethwisch.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bülow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bülow_(bei_Crivitz)",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/buelow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bütow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bütow",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Bützow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bützow",
+    "webseite": "https://www.buetzow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Cambs",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cambs",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/cambs/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Cammin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cammin_(bei_Rostock)",
+    "webseite": "https://stadt-tessin.eu/cammin",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Carinerland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Carinerland",
+    "webseite": "https://www.carinerland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Carlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Carlow_(Mecklenburg)",
+    "webseite": "https://carlow.eu//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Carpin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Carpin",
+    "webseite": "https://www.amtneustrelitz-land.de/gemeinden/carpin.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Cramonshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cramonshagen",
+    "webseite": "https://www.luetzow-luebstorf.de/verzeichnis/visitenkarte.php?mandat=83266",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Crivitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Crivitz",
+    "webseite": "https://www.stadt-crivitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Cölpin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cölpin",
+    "webseite": "http://www.gemeinde-coelpin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dabel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dabel",
+    "webseite": "http://www.amt-ssl.de/dabel/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Daberkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Daberkow",
+    "webseite": "https://www.jarmen.de/gemeinden/daberkow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dahmen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dahmen",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-dahmen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dalberg-Wendelstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dalberg-Wendelstorf",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/655850/dalberg-wendelstorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dalkendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dalkendorf",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-dalkendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dambeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dambeck",
+    "webseite": "https://www.grabow.de/index.php/die-gemeinden/gemeinde-dambeck",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Damshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Damshagen",
+    "webseite": "https://www.kluetzer-winkel.de/verzeichnis/visitenkarte.php?mandat=170644",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dargelin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dargelin",
+    "webseite": "https://www.landhagen.de/dargelin-informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dargen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dargen",
+    "webseite": "https://www.amtusedom.de/?page_id=162",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dargun",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dargun",
+    "webseite": "https://www.dargun.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dassow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dassow",
+    "webseite": "https://www.schoenberger-land.de/Stadt-Dassow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Datzetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Datzetal",
+    "webseite": "https://www.gemeinde-datzetal.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dechow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dechow",
+    "webseite": "https://dorf-dechow.de//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Demen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Demen",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/demen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Demmin",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Demmin",
+    "webseite": "https://www.demmin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dersekow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dersekow",
+    "webseite": "https://www.gemeinde-dersekow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dersenow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dersenow",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/dersenow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dettmannsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dettmannsdorf",
+    "webseite": "http://www.recknitz-trebeltal.de/verzeichnis/objekt.php?mandat=142808",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Deyelsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Deyelsdorf",
+    "webseite": "https://www.recknitz-trebeltal.de/verzeichnis/objekt.php?mandat=142809",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dierhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dierhagen",
+    "webseite": "https://www.ostseebad-dierhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Divitz-Spoldershagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Divitz-Spoldershagen",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/divitz-spoldershagen/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dobbertin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dobbertin",
+    "webseite": "http://www.dobbertin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dobbin-Linstow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dobbin-Linstow",
+    "webseite": "https://www.amt-krakow-am-see.de/de/amt-und-gemeinden/kommunen/gemeinde-dobbin-linstow.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dobin am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dobin_am_See",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/dobin-am-see/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dolgen am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dolgen_am_See",
+    "webseite": "https://www.amt-laage.de/seite/498916/gemeinde-dolgen-am-see.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Domsühl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Domsühl",
+    "webseite": "https://www.amt-parchimer-umland.de/verzeichnis/objekt.php?mandat=38740",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dorf Mecklenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dorf_Mecklenburg",
+    "webseite": "https://www.gemeinde-dorf-mecklenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dragun",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dragun",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/dragun/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dranske",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dranske",
+    "webseite": "http://www.gemeinde-dranske.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Drechow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drechow",
+    "webseite": "https://www.recknitz-trebeltal.de/verzeichnis/objekt.php?mandat=142810",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dreetz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dreetz_(Mecklenburg)",
+    "webseite": "https://www.buetzow.de/de/einwohner/amt_buetzow_land/gemeinden_im_amt/dreetz/index.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dreschvitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dreschvitz",
+    "webseite": "https://www.amt-westruegen.de/index.php?id=31",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ducherow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ducherow",
+    "webseite": "https://amt-anklam-land.de/ducherow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dummerstorf",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dummerstorf",
+    "webseite": "https://www.dummerstorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dömitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dömitz",
+    "webseite": "https://www.doemitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Dümmer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dümmer_(Gemeinde)",
+    "webseite": "https://www.mv-duemmer.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Eggesin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eggesin",
+    "webseite": "http://www.eggesin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Eixen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eixen",
+    "webseite": "http://www.eixen.info/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Eldena",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eldena",
+    "webseite": "http://www.grabow.de/index.php/die-gemeinden/gemeinde-eldena",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Eldetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eldetal",
+    "webseite": "https://www.amt-roebel-mueritz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Elmenhorst",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elmenhorst_(Vorpommern)",
+    "webseite": "https://elmenhorst-vr.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Elmenhorst/Lichtenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elmenhorst/Lichtenhagen",
+    "webseite": "http://www.elmenhorst-lichtenhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Fahrenwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fahrenwalde",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,23.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Faulenrost",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Faulenrost",
+    "webseite": "http://www.amt-malchin-am-kummerower-see.de/verzeichnis/objekt.php?mandat=110063",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Feldberger Seenlandschaft",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Feldberger_Seenlandschaft",
+    "webseite": "http://gemeinde.feldberger-seenlandschaft.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ferdinandshof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ferdinandshof",
+    "webseite": "http://www.ferdinandshof.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Fincken",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fincken",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119600",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Finkenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Finkenthal",
+    "webseite": "http://amt-gnoien.de/Finkenthal.cfm",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Franzburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Franzburg",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Friedland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Friedland_(Mecklenburg)",
+    "webseite": "https://www.friedland-mecklenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Friedrichsruhe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Friedrichsruhe",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/friedrichsruhe/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Fuhlendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fuhlendorf_(Vorpommern)",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/fuhlendorf/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Fünfseen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fünfseen",
+    "webseite": "https://www.gemeinde-fuenfseen.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gadebusch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gadebusch",
+    "webseite": "https://www.gadebusch.de/stadt-gadebusch/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Galenbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Galenbeck",
+    "webseite": "http://www.gemeinde-galenbeck.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gallin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gallin",
+    "webseite": "https://www.gemeinde-gallin.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gallin-Kuppentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gallin-Kuppentin",
+    "webseite": "https://www.gemeinde-gallin-kuppentin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gammelin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gammelin",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Gammelin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ganzlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ganzlin",
+    "webseite": "https://www.ganzlin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Garz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Garz_(Usedom)",
+    "webseite": "http://www.amtusedom.de/?page_id=67",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Garz/Rügen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Garz/Rügen",
+    "webseite": "http://www.stadt-garz-ruegen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gehlsbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gehlsbach",
+    "webseite": "https://www.amt-eldenburg-luebz.de/Willkommen/Gemeinden/Gehlsbach/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gelbensande",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gelbensande",
+    "webseite": "https://www.gelbensande.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gielow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gielow",
+    "webseite": "http://www.gemeinde-gielow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gingst",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gingst",
+    "webseite": "https://gingst-gemeinde.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Glasewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glasewitz",
+    "webseite": "https://www.amt-guestrow-land.de/gemeinden/gemeinden/gemeinde-glasewitz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Glasin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glasin",
+    "webseite": "https://www.amt-neukloster-warin.de/verzeichnis/objekt.php?mandat=102752",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Glasow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glasow_(Vorpommern)",
+    "webseite": "https://www.amt-loecknitz-penkun.de/alp/gemeinden/glasow.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Glewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glewitz",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/glewitz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Glowe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glowe",
+    "webseite": "https://glowe.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gneven",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gneven",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/gneven/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gnevkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gnevkow",
+    "webseite": "https://www.gemeinde-gnevkow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gnewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gnewitz",
+    "webseite": "https://stadt-tessin.de/amt-gemeinden/gnewitz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gnoien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gnoien",
+    "webseite": "http://www.stadt-gnoien.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Godendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Godendorf",
+    "webseite": "http://www.amtneustrelitz-land.de/gemeinden/godendorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Golchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Golchen",
+    "webseite": "https://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/golchen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Goldberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Goldberg",
+    "webseite": "https://www.amt-goldberg-mildenitz.de/verzeichnis/objekt.php?mandat=40292",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gorlosen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gorlosen",
+    "webseite": "http://www.grabow.de/index.php/die-gemeinden/gemeinde-gorlosen",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gottesgabe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gottesgabe_(bei_Schwerin)",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/655861/gottesgabe.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gotthun",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gotthun",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119601",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Graal-Müritz",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Graal-Müritz",
+    "webseite": "https://www.gemeinde-graalmueritz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grabow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grabow_(Elde)",
+    "webseite": "https://www.grabow.de/index.php/stadt-grabow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grabowhöfe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grabowhöfe",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156024",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grambin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grambin",
+    "webseite": "https://www.amt-am-stettiner-haff.de/gemeinden/grambin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grambow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grambow_(bei_Schwerin)",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/251981/informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grambow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grambow_(Vorpommern)",
+    "webseite": "https://www.amt-loecknitz-penkun.de/ALP/Gemeinden/grambow.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grammendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grammendorf",
+    "webseite": "https://www.recknitz-trebeltal.de/verzeichnis/objekt.php?mandat=142812",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grammentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grammentin",
+    "webseite": "https://www.stavenhagen.de/portal/seiten/gemeinde-g-r-a-m-m-e-n-t-i-n-900000021-28750.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grammow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grammow",
+    "webseite": "https://stadt-tessin.eu/grammow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gransebieth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gransebieth",
+    "webseite": "http://www.recknitz-trebeltal.de/verzeichnis/objekt.php?mandat=142813",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Granzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Granzin",
+    "webseite": "https://www.amt-eldenburg-luebz.de/verzeichnis/objekt.php?mandat=55801",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grapzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grapzow",
+    "webseite": "http://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/grapzow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grebs-Niendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grebs-Niendorf",
+    "webseite": "https://www.amtdoemitz-malliss.de/amt-gemeinden/amt-gemeinden/gemeinde-grebs-niendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Greifswald",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Greifswald",
+    "webseite": "https://www.greifswald.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gremersdorf-Buchholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gremersdorf-Buchholz",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/gremersdorf-buchholz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gresse",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gresse",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/gresse/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Greven",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Greven_(Mecklenburg)",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/greven/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grevesmühlen",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grevesmühlen",
+    "webseite": "https://www.grevesmuehlen.eu/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gribow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gribow",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/gribow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grieben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grieben_(Mecklenburg)",
+    "webseite": "https://www.schoenberger-land.de/amtsangeh%C3%B6rige-St%C3%A4dte-Gemeinden/Grieben",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grimmen",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grimmen",
+    "webseite": "http://www.grimmen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grischow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grischow",
+    "webseite": "http://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/grischow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Godems",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Godems",
+    "webseite": "https://www.amt-parchimer-umland.de/verzeichnis/objekt.php?mandat=38742",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Kelle",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Kelle",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119619",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Kiesow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Kiesow",
+    "webseite": "https://www.gemeinde-gross-kiesow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Kordshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Kordshagen",
+    "webseite": "https://www.amt-niepars.de/gemeinde-gross-kordshagen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Krams",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Krams",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Gross-Krams/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Laasch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Laasch",
+    "webseite": "http://www.gross-laasch.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Luckow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Luckow",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,25.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Miltzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Miltzow",
+    "webseite": "https://www.amt.windmuehlenstadt-woldegk.de/ortsrecht/gross-miltzow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Mohrdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Mohrdorf",
+    "webseite": "http://www.altenpleen.de/gemeinden/gross-mohrdorf",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Molzahn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Molzahn",
+    "webseite": "http://www.gross-molzahn.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Nemerow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Nemerow",
+    "webseite": "https://www.burg-stargard.de/das-stargarder-land/gross-nemerow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Plasten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Plasten",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156025",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Polzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Polzin",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/gross-polzin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Roge",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Roge",
+    "webseite": "https://amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-gross-roge/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Schwiesow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Schwiesow",
+    "webseite": "https://www.amt-guestrow-land.de/gross-schwiesow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Stieten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Stieten",
+    "webseite": "https://www.amt-dorfmecklenburg-badkleinen.de/?page_id=667",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Teetzleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Teetzleben",
+    "webseite": "https://www.altentreptow.de/Amt-Gemeinden/Gemeinden-von-A-G/Groß-Teetzleben/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Wokern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Wokern",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-gross-wokern/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Groß Wüstenfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Wüstenfelde",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-gross-wuestenfelde/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Grünow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünow_(Mecklenburg)",
+    "webseite": "https://www.gruenow-mecklenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gustow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gustow",
+    "webseite": "http://www.stadt-bergen-auf-ruegen.de/Amt-Bergen-auf-R%C3%BCgen/Gustow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gutow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gutow",
+    "webseite": "https://amt-guestrow-land.de/gutow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gägelow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gägelow",
+    "webseite": "https://www.grevesmuehlen.de/gemeinden/gaegelow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Göhlen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Göhlen",
+    "webseite": "http://www.gemeinde-goehlen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Göhren",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Göhren_(Rügen)",
+    "webseite": "http://www.goehren.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Göhren-Lebbin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Göhren-Lebbin",
+    "webseite": "http://www.luftkurort-malchow.de/seite/179246/gemeinde-g%C3%B6hren-lebbin.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Görmin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Görmin",
+    "webseite": "https://www.loitz.de/amt-peenetal/gemeinde-goermin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gültz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gültz",
+    "webseite": "https://www.altentreptow.de/Amt-Gemeinden/Gemeinden-von-A-G/Gültz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gülzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gülzow_(bei_Stavenhagen)",
+    "webseite": "http://www.reuterstadtstavenhagen.de/cms/index.php?id=42",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gülzow-Prüzen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gülzow-Prüzen",
+    "webseite": "http://amt-guestrow-land.de/guelzow-pruezen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Güstrow",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Güstrow",
+    "webseite": "https://www.guestrow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Gützkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gützkow",
+    "webseite": "https://guetzkow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hagenow",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hagenow",
+    "webseite": "http://www.hagenow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hammer a. d. Uecker",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hammer_a._d._Uecker",
+    "webseite": "https://www.amt-torgelow-ferdinandshof.de/de/hammer-a-d-uecker/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hanshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hanshagen",
+    "webseite": "http://www.hanshagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Heinrichswalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heinrichswalde",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Heringsdorf",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heringsdorf",
+    "webseite": "https://www.gemeinde-ostseebad-heringsdorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hinrichshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hinrichshagen_(Vorpommern)",
+    "webseite": "https://www.landhagen.de/hinrichshagen-informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hintersee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hintersee_(Vorpommern)",
+    "webseite": "https://www.amt-am-stettiner-haff.de/gemeinden/hintersee/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohen Demzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Demzin",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohen Pritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Pritz",
+    "webseite": "http://www.amt-ssl.de/hohen-pritz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohen Sprenz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Sprenz",
+    "webseite": "https://www.amt-laage.de/index.php/hohen-sprenz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohen Viecheln",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Viecheln",
+    "webseite": "https://www.amt-dorfmecklenburg-badkleinen.de/?page_id=669",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohen Wangelin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Wangelin",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156045",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohenbollentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenbollentin",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153882",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohenfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenfelde_(Mecklenburg)",
+    "webseite": "https://www.amt-doberan-land.de/die-gemeinden-des-amtes/gemeinde-hohenfelde/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenkirchen_(Mecklenburg)",
+    "webseite": "https://www.hohenkirchen-ostsee.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohenmocker",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenmocker",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153883",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hohenzieritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenzieritz",
+    "webseite": "https://www.amtneustrelitz-land.de/gemeinden/hohenzieritz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Holdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Holdorf_(Mecklenburg)",
+    "webseite": "https://www.holdorf-meetzen.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Holldorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Holldorf",
+    "webseite": "https://www.burg-stargard.de/das-stargarder-land/holldorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Holthusen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Holthusen",
+    "webseite": "http://www.gemeinde-holthusen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hoort",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hoort",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Hoort/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hoppenrade",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hoppenrade",
+    "webseite": "https://www.hoppenrade.com/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hornstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hornstorf",
+    "webseite": "https://www.amt-neuburg.de/cms/front_content.php?idart=176",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hugoldsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hugoldsdorf",
+    "webseite": "http://www.recknitz-trebeltal.de/verzeichnis/objekt.php?mandat=142814",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Hülseburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hülseburg",
+    "webseite": "http://www.amt-hagenow-land.de/amt-gemeinden/Huelseburg/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Insel Hiddensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Insel_Hiddensee",
+    "webseite": "http://www.seebad-hiddensee.de/system/startGem2.php?gemId=64&posOption=0",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Insel Poel",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Insel_Poel",
+    "webseite": "http://www.ostseebad-insel-poel.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Insel Poel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Poel",
+    "webseite": "http://www.ostseebad-insel-poel.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Iven",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Iven",
+    "webseite": "http://www.amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ivenack",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ivenack",
+    "webseite": "http://www.gemeinde-ivenack.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jabel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jabel",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156026",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jakobsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jakobsdorf",
+    "webseite": "https://www.amt-niepars.de/gemeinde-jakobsdorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jarmen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jarmen",
+    "webseite": "https://www.jarmen.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jatznick",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jatznick",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,22.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jesendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jesendorf",
+    "webseite": "http://www.jesendorf-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jördenstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jördenstorf",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-joerdenstorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jürgenshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jürgenshagen",
+    "webseite": "https://buetzow.de/Stadt-und-Gemeinden/Jürgenshagen",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Jürgenstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jürgenstorf",
+    "webseite": "http://www.reuterstadtstavenhagen.de/cms/index.php?id=44",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kalkhorst",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kalkhorst",
+    "webseite": "http://www.kalkhorst-ostsee.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kamminke",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kamminke",
+    "webseite": "http://www.amtusedom.de/?page_id=71",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Karenz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karenz_(Mecklenburg)",
+    "webseite": "https://www.amtdoemitz-malliss.de/amt-gemeinden/amt-gemeinden/gemeinde-karenz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kargow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kargow",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156027",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Karlsburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karlsburg_(Vorpommern)",
+    "webseite": "https://www.karlsburg-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Karlshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karlshagen",
+    "webseite": "https://www.karlshagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Karnin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karnin_(bei_Barth)",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/karnin/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Karrenzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karrenzin",
+    "webseite": "https://www.amt-parchimer-umland.de/verzeichnis/objekt.php?mandat=38744",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Karstädt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karstädt_(Mecklenburg)",
+    "webseite": "http://www.grabow.de/index.php/die-gemeinden/gemeinde-karstaedt",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kassow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kassow",
+    "webseite": "https://www.schwaan.de/amt-schwaan/die-gemeinden/kassow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Katzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Katzow",
+    "webseite": "http://www.gemeinde-katzow.de/seite/329954/politik-verwaltung.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kemnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kemnitz_(bei_Greifswald)",
+    "webseite": "https://www.amtlubmin.de/verzeichnis/objekt.php?mandat=82074",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kentzlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kentzlin",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153884",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kenz-Küstrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kenz-Küstrow",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/kenz-kuestrow/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kieve",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kieve",
+    "webseite": "http://www.kieve.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kirch Jesar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kirch_Jesar",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Kirch-Jesar/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kittendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kittendorf",
+    "webseite": "https://www.stavenhagen.de/cms/index.php?id=45",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klausdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klausdorf_(bei_Stralsund)",
+    "webseite": "https://klausdorf-vorpommern.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klein Belitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klein_Belitz",
+    "webseite": "https://www.buetzow.de/Stadt-und-Gemeinden/Klein-Belitz",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klein Bünzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klein_Bünzow",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/klein-buenzow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klein Rogahn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klein_Rogahn",
+    "webseite": "https://www.amt-stralendorf.de/politik-und-ortsrecht/klein-rogahn/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klein Trebbow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klein_Trebbow",
+    "webseite": "http://www.klein-trebbow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klein Upahl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klein_Upahl",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klein Vielen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klein_Vielen",
+    "webseite": "https://www.amtneustrelitz-land.de/gemeinden/klein-vielen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kletzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kletzin",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153885",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klink",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klink",
+    "webseite": "https://www.gemeinde-klink.info/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klocksin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klocksin",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156028",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kloster Tempzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kloster_Tempzin_(Gemeinde)",
+    "webseite": "https://www.amt-ssl.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kluis",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kluis",
+    "webseite": "https://www.amt-westruegen.de/index.php?id=34",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Klütz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klütz",
+    "webseite": "https://kluetz-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kneese",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kneese",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/kneese/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Knorrendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Knorrendorf",
+    "webseite": "http://www.stavenhagen.de/cms/index.php?id=46",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Koblentz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Koblentz",
+    "webseite": "https://www.pasewalk.de/amt-uer-tal/koblentz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kobrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kobrow",
+    "webseite": "https://www.amt-ssl.de/kobrow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kogel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kogel",
+    "webseite": "https://www.amt-zarrentin.de//info/poi/gemeinde-kogel-900000025-29120.html?site=info",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Korswandt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Korswandt",
+    "webseite": "http://www.amtusedom.de/?page_id=74",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Koserow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Koserow",
+    "webseite": "http://www.amtusedom.de/?page_id=78",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krackow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krackow",
+    "webseite": "https://www.amt-loecknitz-penkun.de/alp/gemeinden/krackow.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krakow am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krakow_am_See",
+    "webseite": "http://www.krakow-am-see.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kramerhof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kramerhof",
+    "webseite": "https://www.altenpleen.de/gemeinden/kramerhof",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kratzeburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kratzeburg",
+    "webseite": "https://www.kratzeburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kreien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kreien",
+    "webseite": "http://www.gemeinde-kreien.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krembz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krembz",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/krembz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kremmin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kremmin",
+    "webseite": "https://www.grabow.de/index.php/die-gemeinden/gemeinde-kremmin",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krien",
+    "webseite": "https://amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kriesow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kriesow",
+    "webseite": "https://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/kriesow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kritzmow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kritzmow",
+    "webseite": "https://www.gemeinde-kritzmow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kritzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kritzow",
+    "webseite": "https://www.amt-eldenburg-luebz.de/verzeichnis/objekt.php?mandat=55818",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kruckow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kruckow",
+    "webseite": "https://www.jarmen.de/Gemeinde_Kruckow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krugsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krugsdorf",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,9.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krummin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krummin",
+    "webseite": "http://www.wolgast.de/index.php?id=482",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krusenfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krusenfelde",
+    "webseite": "https://amt-anklam-land.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Krusenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krusenhagen",
+    "webseite": "https://www.amt-neuburg.de/verwaltung-politik/gemeinden/krusenhagen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kröpelin",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kröpelin",
+    "webseite": "http://www.kroepelin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kröslin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kröslin",
+    "webseite": "https://www.kroeslin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kublank",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kublank",
+    "webseite": "https://www.amt.windmuehlenstadt-woldegk.de/ortsrecht/kublank/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kuchelmiß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kuchelmiß",
+    "webseite": "https://www.amt-krakow-am-see.de/de/amt-und-gemeinden/kommunen/gemeinde-kuchelmiss.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kuckssee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kuckssee",
+    "webseite": "https://www.amt-penzliner-land.de/Amt-Penzliner-Land/Gemeinden/Kuckssee",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kuhlen-Wendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kuhlen-Wendorf",
+    "webseite": "https://www.amt-ssl.de/kuhlen-wendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kuhs",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kuhs",
+    "webseite": "https://www.amt-guestrow-land.de/kuhs.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kuhstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kuhstorf",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Kuhstorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kummerow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kummerow_(am_See)",
+    "webseite": "http://www.kummerow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Königsfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königsfeld_(Mecklenburg)",
+    "webseite": "https://www.rehna.de/gemeinden/koenigsfeld/allgemein/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Kühlungsborn",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kühlungsborn",
+    "webseite": "http://www.stadt-kuehlungsborn.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Laage",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Laage",
+    "webseite": "https://www.stadt-laage.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lalendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lalendorf",
+    "webseite": "https://www.amt-krakow-am-see.de/de/amt-und-gemeinden/kommunen/gemeinde-lalendorf.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lambrechtshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lambrechtshagen",
+    "webseite": "https://gemeinde-lambrechtshagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lancken-Granitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lancken-Granitz",
+    "webseite": "https://www.amt-moenchgut.de/ris/ti-6-lancken-granitz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Langen Brütz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langen_Brütz",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/langen-bruetz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lassan",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lassan",
+    "webseite": "http://www.lassan.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Leezen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leezen_(Mecklenburg)",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/leezen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Leizen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leizen",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119622",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lelkendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lelkendorf",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-lelkendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Leopoldshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leopoldshagen",
+    "webseite": "http://www.leopoldshagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Levenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Levenhagen",
+    "webseite": "https://gemeinde-levenhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lewitzrand",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lewitzrand",
+    "webseite": "https://www.gemeinde-lewitzrand.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Liepgarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Liepgarten",
+    "webseite": "https://www.liepgarten.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lietzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lietzow",
+    "webseite": "http://www.stadt-bergen-auf-ruegen.de/Amt-Bergen-auf-R%C3%BCgen/Lietzow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lindenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindenberg_(Vorpommern)",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153886",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lindetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindetal",
+    "webseite": "https://www.burg-stargard.de/das-stargarder-land/lindetal/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lindholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lindholz",
+    "webseite": "http://www.gemeinde-lindholz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Loddin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Loddin",
+    "webseite": "http://www.amtusedom.de/?page_id=81",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lohme",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lohme",
+    "webseite": "https://www.lohme.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lohmen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lohmen_(Mecklenburg)",
+    "webseite": "https://lohmen-mv.de/lohmen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Loissin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Loissin",
+    "webseite": "http://www.gemeinde-loissin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Loitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Loitz",
+    "webseite": "http://www.loitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lubmin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lubmin",
+    "webseite": "https://www.lubmin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Luckow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Luckow",
+    "webseite": "https://www.amt-am-stettiner-haff.de/gemeinden/luckow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ludwigslust",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ludwigslust",
+    "webseite": "https://www.ludwigslust.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lärz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lärz",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=55572",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Löbnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Löbnitz_(Vorpommern)",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/loebnitz/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Löcknitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Löcknitz",
+    "webseite": "https://www.loecknitz.eu/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübberstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübberstorf",
+    "webseite": "https://www.stadt-neukloster.de/index.php?id=162",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübesse",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübesse",
+    "webseite": "http://www.gemeinde-luebesse.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lüblow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüblow",
+    "webseite": "https://www.amt-ludwigslust-land.de/verzeichnis/objekt.php?mandat=38720",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübow",
+    "webseite": "http://www.amt-dorfmecklenburg-badkleinen.de/index.php/gemeinde-lubow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübs",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübs_(Vorpommern)",
+    "webseite": "https://www.amt-am-stettiner-haff.de/gemeinden/luebs/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübstorf",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/251983/informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübtheen",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübtheen",
+    "webseite": "http://www.luebtheen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lübz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lübz",
+    "webseite": "https://www.luebz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lüdersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüdersdorf",
+    "webseite": "https://www.schoenberger-land.de/amtsangeh%C3%B6rige-St%C3%A4dte-Gemeinden/L%C3%BCdersdorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lüdershagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüdershagen",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/luedershagen/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lüssow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüssow_(Mecklenburg)",
+    "webseite": "https://www.amt-guestrow-land.de/gemeinden/gemeinden/gemeinde-luessow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lüssow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüssow_(bei_Stralsund)",
+    "webseite": "http://www.gemeinde-luessow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lütow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lütow",
+    "webseite": "http://www.wolgast.de/index.php?id=475",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lüttow-Valluhn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lüttow-Valluhn",
+    "webseite": "https://www.amt-zarrentin.de//info/poi/gemeinde-luettow-valluhn-900000026-29120.html?site=info",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Lützow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lützow_(Mecklenburg)",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/251984/informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Malchin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Malchin",
+    "webseite": "https://www.amt-malchin-am-kummerower-see.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Malchow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Malchow",
+    "webseite": "https://www.inselstadt-malchow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Malk Göhren",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Malk_Göhren",
+    "webseite": "https://www.amtdoemitz-malliss.de/amt-gemeinden/amt-gemeinden/gemeinde-malk-goehren/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Malliß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Malliß",
+    "webseite": "https://www.amtdoemitz-malliss.de/amt-gemeinden/amt-gemeinden/gemeinde-malliss/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Marlow",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marlow",
+    "webseite": "http://www.stadtmarlow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Medow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Medow",
+    "webseite": "https://amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Meesiger",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meesiger",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153887",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Meiersberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meiersberg",
+    "webseite": "https://www.meiersberg-online.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mellenthin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mellenthin",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Melz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Melz",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119625",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Menzendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Menzendorf",
+    "webseite": "https://www.schoenberger-land.de/amtsangeh%C3%B6rige-St%C3%A4dte-Gemeinden/Menzendorf",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mesekenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mesekenhagen",
+    "webseite": "https://www.mesekenhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mestlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mestlin",
+    "webseite": "https://www.mestlin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Metelsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Metelsdorf",
+    "webseite": "https://www.amt-dorfmecklenburg-badkleinen.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Millienhagen-Oebelitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Millienhagen-Oebelitz",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/millienhagen-oebelitz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Milow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Milow",
+    "webseite": "https://www.grabow.de/amt-grabow/amtsgemeinden/gemeinde-milow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mirow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mirow",
+    "webseite": "https://www.amt-mecklenburgische-kleinseenplatte.de/amt-gemeinden/mirow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mistorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mistorf",
+    "webseite": "https://www.amt-guestrow-land.de/gemeinden/gemeinden/gemeinde-mistorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Moltzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Moltzow",
+    "webseite": "https://amt-slw.de/verzeichnis/objekt.php?mandat=156029",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Moraas",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Moraas",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Moraas/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Muchow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Muchow",
+    "webseite": "https://unser-muchow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Murchin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Murchin",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/murchin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mustin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mustin_(Mecklenburg)",
+    "webseite": "https://www.amt-ssl.de/mustin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Möllenbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Möllenbeck_(bei_Neustrelitz)",
+    "webseite": "https://www.amtneustrelitz-land.de/gemeinden/moellenbeck.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Möllenbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Möllenbeck_(Landkreis_Ludwigslust-Parchim)",
+    "webseite": "https://www.grabow.de/index.php/die-gemeinden/gemeinde-moellenbeck",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Möllenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Möllenhagen",
+    "webseite": "https://www.amt-penzliner-land.de/Amt/Gemeinden/M%C3%B6llenhagen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mölln",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mölln_(Mecklenburg)",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mölschow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mölschow",
+    "webseite": "https://www.amtusedomnord.de/gemeinden/moelschow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mönchgut",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mönchgut_(Gemeinde)",
+    "webseite": "https://www.amt-moenchgut.de/ris/ti-5/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mönchhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mönchhagen",
+    "webseite": "http://www.moenchhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mönkebude",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mönkebude",
+    "webseite": "https://www.amt-am-stettiner-haff.de/gemeinden/moenkebude/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mühl Rosin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühl_Rosin",
+    "webseite": "https://www.muehlrosin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Mühlen Eichsen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlen_Eichsen",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/muehlen-eichsen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nadrensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nadrensee",
+    "webseite": "https://www.amt-loecknitz-penkun.de/alp/bekanntmachung/Nadrensee.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neddemin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neddemin",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-neddemin-2",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neetzka",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neetzka",
+    "webseite": "https://www.windmuehlenstadt-woldegk.de/amt-woldegk/gemeinden-des-amtes/neetzka/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neetzow-Liepen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neetzow-Liepen",
+    "webseite": "https://www.neetzow-liepen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neu Boltenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu_Boltenhagen",
+    "webseite": "http://www.neu-boltenhagen-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neu Gülze",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu_Gülze",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neu Kaliß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu_Kaliß",
+    "webseite": "https://www.neu-kaliss.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neu Kosenow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu_Kosenow",
+    "webseite": "http://www.amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neu Poserin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neu_Poserin",
+    "webseite": "https://www.neu-poserin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neubrandenburg",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neubrandenburg",
+    "webseite": "https://www.neubrandenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neubukow",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neubukow",
+    "webseite": "https://www.neubukow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neuburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuburg_(Mecklenburg)",
+    "webseite": "https://www.amt-neuburg.de/cms/front_content.php?idart=190",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neuenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenkirchen_(bei_Anklam)",
+    "webseite": "https://www.amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neuenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenkirchen_(bei_Greifswald)",
+    "webseite": "https://www.17498neuenkirchen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neuenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenkirchen_(bei_Neubrandenburg)",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-neuenkirchen",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neuenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuenkirchen_(Rügen)",
+    "webseite": "https://www.amt-westruegen.de/index.php?id=35",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neukalen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukalen",
+    "webseite": "http://www.stadt-neukalen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neukloster",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukloster",
+    "webseite": "https://www.stadt-neukloster.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neustadt-Glewe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neustadt-Glewe",
+    "webseite": "https://www.neustadt-glewe.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neustrelitz",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neustrelitz",
+    "webseite": "https://www.neustrelitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Neverin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neverin",
+    "webseite": "http://www.gemeinde-neverin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nieden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nieden",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,28.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nienhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nienhagen_(Landkreis_Rostock)",
+    "webseite": "https://www.ostseebad-nienhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Niepars",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niepars",
+    "webseite": "http://www.gemeinde-niepars.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nossendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nossendorf",
+    "webseite": "https://www.gemeinde-nossendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nossentiner Hütte",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nossentiner_Hütte",
+    "webseite": "http://www.amt-malchow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nostorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nostorf",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/nostorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Nustrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nustrow",
+    "webseite": "https://stadt-tessin.de/amt-gemeinden/nustrow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Obere Warnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Obere_Warnow",
+    "webseite": "http://www.gemeinde-obere-warnow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pampow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pampow",
+    "webseite": "https://pampow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pantelitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pantelitz",
+    "webseite": "http://www.gemeinde-pantelitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Papendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Papendorf_(Vorpommern)",
+    "webseite": "https://www.pasewalk.de/amt-uer-tal/papendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Papendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Papendorf_(Warnow)",
+    "webseite": "http://www.gemeinde-papendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Papenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Papenhagen",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/papenhagen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Parchim",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Parchim",
+    "webseite": "http://www.parchim.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Parchtitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Parchtitz",
+    "webseite": "https://www.stadt-bergen-auf-ruegen.de/Amt-Bergen-auf-R%C3%BCgen/Parchtitz",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pasewalk",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pasewalk",
+    "webseite": "http://www.pasewalk.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Passee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Passee",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Passow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Passow_(Mecklenburg)",
+    "webseite": "http://www.amt-eldenburg-luebz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Patzig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Patzig",
+    "webseite": "https://www.gemeinde-patzig.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Peenehagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Peenehagen",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Peenemünde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Peenemünde",
+    "webseite": "https://www.amtusedomnord.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Penkun",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Penkun",
+    "webseite": "https://www.penkun-stadt.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Penzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Penzin",
+    "webseite": "https://www.buetzow.de/Stadt-und-Gemeinden/Penzin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Penzlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Penzlin",
+    "webseite": "http://www.amt-penzliner-land.de/Amt-Penzliner-Land/Gemeinden/Stadt-Penzlin",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Perlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Perlin",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/251985/informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Picher",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Picher",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Picher/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pingelshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pingelshagen",
+    "webseite": "https://www.pingelshagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pinnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pinnow_(bei_Schwerin)",
+    "webseite": "http://www.gemeinde-pinnow.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Plaaz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plaaz",
+    "webseite": "https://amt-guestrow-land.de/gemeinden/gemeinden/gemeinde-plaaz.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Plate",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plate",
+    "webseite": "https://www.gemeinde-plate.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Plau am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plau_am_See",
+    "webseite": "http://www.stadt-plau-am-see.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Plöwen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plöwen",
+    "webseite": "https://www.amt-loecknitz-penkun.de/alp/gemeinden/ploewen.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pokrent",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pokrent",
+    "webseite": "https://www.gemeinde-pokrent.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Polzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Polzow",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,44.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Poppendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Poppendorf",
+    "webseite": "https://www.gemeinde-poppendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Poseritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Poseritz",
+    "webseite": "https://www.stadt-bergen-auf-ruegen.de/Amt-Bergen-auf-R%C3%BCgen/Poseritz",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Postlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Postlow",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pragsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pragsdorf",
+    "webseite": "http://www.burg-stargard.de/nc/stargarder-land/pragsdorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Prebberede",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Prebberede",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-prebberede/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Preetz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Preetz_(bei_Stralsund)",
+    "webseite": "http://www.altenpleen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Prerow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Prerow",
+    "webseite": "http://www.prerow.darss-fischland.de/instanz_1/index.htm",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Priborn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Priborn",
+    "webseite": "https://www.amt-roebel-mueritz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Priepert",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Priepert",
+    "webseite": "https://www.priepert.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pripsleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pripsleben",
+    "webseite": "http://www.altentreptow.de/amt-treptower-tollensewinkel/gemeinden/pripsleben.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Prislich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Prislich",
+    "webseite": "https://www.grabow.de/index.php/die-gemeinden/gemeinde-prislich",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pritzier",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pritzier",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Pritzier/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Prohn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Prohn",
+    "webseite": "http://www.prohn.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pruchten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pruchten",
+    "webseite": "http://www.amt-barth.de/unsere-gemeinden/pruchten/uebersicht/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pudagla",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pudagla",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Putbus",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Putbus",
+    "webseite": "http://www.putbus.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Putgarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Putgarten",
+    "webseite": "https://www.amt-nord-ruegen.de/verzeichnis/visitenkarte.php?mandat=227211",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pätow-Steegen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pätow-Steegen",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Paetow-Steegen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Pölchow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pölchow",
+    "webseite": "https://www.gemeinde-poelchow.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Raben Steinfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Raben_Steinfeld",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/raben-steinfeld/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ralswiek",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ralswiek",
+    "webseite": "http://www.amt-bergen-auf-ruegen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rambin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rambin",
+    "webseite": "https://www.rambin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ramin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ramin",
+    "webseite": "https://www.amt-loecknitz-penkun.de/ALP/Bekanntmachungen/ramin.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rankwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rankwitz",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rappin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rappin",
+    "webseite": "https://www.stadt-bergen-auf-ruegen.de/Amt-Bergen-auf-Rügen/Rappin",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rastow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rastow",
+    "webseite": "https://gemeinde-rastow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rechlin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rechlin",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=101578",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Reddelich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reddelich",
+    "webseite": "https://www.reddelich.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Redefin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Redefin",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Redefin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rehna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rehna",
+    "webseite": "https://www.stadtrehna.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Reimershagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reimershagen",
+    "webseite": "https://www.amt-guestrow-land.de/reimershagen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rerik",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rerik",
+    "webseite": "https://www.rerik.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Retschow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Retschow",
+    "webseite": "http://www.retschow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ribnitz-Damgarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ribnitz-Damgarten",
+    "webseite": "https://www.ribnitz-damgarten.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Richtenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Richtenberg",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rieps",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rieps",
+    "webseite": "https://www.rehna.de/gemeinden/rieps/allgemein/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ritzerow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ritzerow",
+    "webseite": "https://www.stavenhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Roduchelstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roduchelstorf",
+    "webseite": "https://www.schoenberger-land.de/amtsangeh%C3%B6rige-St%C3%A4dte-Gemeinden/Roduchelstorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Roggendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roggendorf_(Mecklenburg)",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/roggendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Roggenstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roggenstorf",
+    "webseite": "https://www.grevesmuehlen.eu/amt-land/roggenstorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Roggentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roggentin_(bei_Rostock)",
+    "webseite": "http://roggentin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rollwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rollwitz",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rom",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rom_(Mecklenburg)",
+    "webseite": "https://www.amt-parchimer-umland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rosenow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rosenow",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rossin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rossin",
+    "webseite": "https://amt-anklam-land.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rossow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rossow",
+    "webseite": "https://www.amt-loecknitz-penkun.de/alp/gemeinden/rossow.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rostock",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rostock",
+    "webseite": "https://www.rostock.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rothemühl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rothemühl",
+    "webseite": "http://www.rothemühl.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rothenklempenow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rothenklempenow",
+    "webseite": "https://www.amt-loecknitz-penkun.de/ALP/Gemeinden/rothenklempenow.php",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rubenow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rubenow",
+    "webseite": "https://www.amtlubmin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rubkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rubkow",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/rubkow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ruhner Berge",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ruhner_Berge_(Gemeinde)",
+    "webseite": "https://www.gemeinde-ruhner-berge.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rukieten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rukieten",
+    "webseite": "https://www.schwaan.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Röbel/Müritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Röbel/Müritz",
+    "webseite": "https://www.stadt-roebel.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Röckwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Röckwitz",
+    "webseite": "https://www.altentreptow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rögnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rögnitz",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/roegnitz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rövershagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rövershagen",
+    "webseite": "https://www.amt-rostocker-heide.de/roevershagen/Startseite-Roevershagen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rühn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rühn",
+    "webseite": "https://www.buetzow.de/Stadt-und-Gemeinden/R%C3%BChn/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Rüting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rüting",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Saal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Saal_(Vorpommern)",
+    "webseite": "http://www.amt-barth.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sagard",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sagard",
+    "webseite": "http://gemeinde-sagard.de/gemeinden/sagard/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Samtens",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Samtens",
+    "webseite": "https://www.amt-westruegen.de/index.php?id=37",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sanitz",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sanitz",
+    "webseite": "http://www.sanitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sarmstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sarmstorf",
+    "webseite": "https://www.amt-guestrow-land.de/gemeinden/gemeinden/gemeinde-sarmstorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sarnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sarnow",
+    "webseite": "http://www.amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sarow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sarow",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153889",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sassen-Trantow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sassen-Trantow",
+    "webseite": "https://www.loitz.de/amt-peenetal/gemeinde-sassen-trantow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sassnitz",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sassnitz",
+    "webseite": "https://www.sassnitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Satow",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Satow",
+    "webseite": "http://www.satow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sauzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sauzin",
+    "webseite": "http://www.amt-am-peenestrom.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schaprode",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schaprode",
+    "webseite": "https://www.amt-westruegen.de/index.php?id=38",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schildetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schildetal",
+    "webseite": "https://www.luetzow-luebstorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schlagsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlagsdorf",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schlemmin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlemmin_(Vorpommern)",
+    "webseite": "https://www.ribnitz-damgarten.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schloen-Dratow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schloen-Dratow",
+    "webseite": "http://www.amt-seenlandschaft-waren.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schmatzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schmatzin",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/schmatzin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schorssow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schorssow",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-schorssow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schossin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schossin",
+    "webseite": "https://www.amt-stralendorf.de/politik-und-ortsrecht/schossin//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schwaan",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwaan",
+    "webseite": "https://www.schwaan.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schwanheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwanheide",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/schwanheide/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schwarz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwarz_(Mecklenburg)",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119628",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schwasdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwasdorf",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-schwasdorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schwerin",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwerin",
+    "webseite": "https://www.schwerin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schönbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönbeck",
+    "webseite": "https://www.windmuehlenstadt-woldegk.de/amt-woldegk/gemeinden-des-amtes/schoenbeck/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schönberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönberg_(Mecklenburg)",
+    "webseite": "http://stadt-schoenberg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schönfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönfeld_(bei_Demmin)",
+    "webseite": "http://www.schoenfeld-trittelwitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schönhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönhausen_(Mecklenburg)",
+    "webseite": "https://www.windmuehlenstadt-woldegk.de/amt-woldegk/gemeinden-des-amtes/schoenhausen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Schönwalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönwalde_(Vorpommern)",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,47.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Seehof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seehof_(Mecklenburg)",
+    "webseite": "https://www.gemeinde-seehof.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sehlen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sehlen",
+    "webseite": "https://www.stadt-bergen-auf-ruegen.de/Amt-Bergen-auf-R%C3%BCgen/Sehlen",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sellin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sellin",
+    "webseite": "https://www.ostseebad-sellin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Selmsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Selmsdorf",
+    "webseite": "http://www.selmsdorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Selpin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Selpin",
+    "webseite": "https://stadt-tessin.de/amt-gemeinden/selpin//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Semlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Semlow",
+    "webseite": "https://www.semlow.info/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Siedenbollentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siedenbollentin",
+    "webseite": "http://siedenbollentin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Siedenbrünzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siedenbrünzow",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153891",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Siemz-Niendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siemz-Niendorf",
+    "webseite": "https://www.schoenberger-land.de/amtsangeh%C3%B6rige-St%C3%A4dte-Gemeinden/Siemz-Niendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sietow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sietow",
+    "webseite": "https://amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119629",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Siggelkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Siggelkow",
+    "webseite": "https://www.gemeinde-siggelkow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Silz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Silz_(Mecklenburg)",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sommersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sommersdorf_(Landkreis_Mecklenburgische_Seenplatte)",
+    "webseite": "https://www.gemeinde-sommersdorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Spantekow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spantekow",
+    "webseite": "http://www.amt-anklam-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Splietsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Splietsdorf",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/splietsdorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sponholz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sponholz",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-sponholz",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Spornitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spornitz",
+    "webseite": "https://www.amt-parchimer-umland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Staven",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Staven",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-staven",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stavenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stavenhagen",
+    "webseite": "https://www.stavenhagen.de/portal/startseite.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Steffenshagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steffenshagen",
+    "webseite": "http://www.doberan-land.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Steinhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinhagen_(Mecklenburg)",
+    "webseite": "https://www.buetzow.de/Stadt-und-Gemeinden/Steinhagen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Steinhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinhagen_(Vorpommern)",
+    "webseite": "https://steinhagen-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stepenitztal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stepenitztal",
+    "webseite": "https://www.grevesmuehlen.eu/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sternberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sternberg",
+    "webseite": "https://www.stadt-sternberg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stolpe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stolpe_(Mecklenburg)",
+    "webseite": "https://www.amt-parchimer-umland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stolpe an der Peene",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stolpe_an_der_Peene",
+    "webseite": "https://amt-anklam-land.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stolpe auf Usedom",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stolpe_auf_Usedom",
+    "webseite": "http://www.amtusedom.de/?page_id=111",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stralendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stralendorf",
+    "webseite": "https://www.stralendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stralsund",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stralsund",
+    "webseite": "https://www.stralsund.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Strasburg (Uckermark)",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Strasburg_(Uckermark)",
+    "webseite": "https://www.strasburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Strohkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Strohkirchen",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Strohkirchen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stubbendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stubbendorf",
+    "webseite": "https://stadt-tessin.de/amt-gemeinden/stubbendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stuer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stuer",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=119630",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Stäbelow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stäbelow",
+    "webseite": "https://www.gemeinde-staebelow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sukow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sukow",
+    "webseite": "https://www.sukow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sukow-Levitzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sukow-Levitzow",
+    "webseite": "https://amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-sukow-levitzow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sundhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sundhagen",
+    "webseite": "https://www.gemeinde-sundhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Süderholz",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Süderholz",
+    "webseite": "http://www.suederholz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Südmüritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Südmüritz",
+    "webseite": "https://www.amt-roebel-mueritz.de/verzeichnis/visitenkarte.php?mandat=205751",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Sülstorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sülstorf",
+    "webseite": "http://www.gemeinde-suelstorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tarnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tarnow",
+    "webseite": "http://www.gemeinde-tarnow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Techentin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Techentin",
+    "webseite": "http://www.amt-goldberg-mildenitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Teldau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teldau",
+    "webseite": "https://www.amtboizenburgland.de/amt-gemeinden/teldau/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tessin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tessin_(bei_Rostock)",
+    "webseite": "https://stadt-tessin.eu/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tessin b. Boizenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tessin_b._Boizenburg",
+    "webseite": "https://www.amtboizenburgland.de/gemeinden-verbaende/gemeinde-tessin-b.-boizenburg/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Testorf-Steinfort",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Testorf-Steinfort",
+    "webseite": "https://www.grevesmuehlen.eu/amt-land/testorf-steinfort/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Teterow",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teterow",
+    "webseite": "https://www.teterow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Thandorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thandorf",
+    "webseite": "https://thandorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Thelkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thelkow",
+    "webseite": "https://stadt-tessin.eu/thelkow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Thulendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thulendorf",
+    "webseite": "https://www.amtcarbaek.de/seite/610011/bürgermeister.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Thürkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thürkow",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-thuerkow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Toddin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Toddin",
+    "webseite": "https://www.amt-hagenow-land.de//",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Torgelow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Torgelow",
+    "webseite": "https://www.torgelow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Torgelow am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Torgelow_am_See",
+    "webseite": "http://www.amt-seenlandschaft-waren.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tramm",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tramm_(Mecklenburg)",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/tramm/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Trassenheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trassenheide",
+    "webseite": "http://www.trassenheide.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Trent",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trent_(Rügen)",
+    "webseite": "https://www.amt-westruegen.de/verzeichnis/visitenkarte.php?mandat=227183",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tribsees",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tribsees",
+    "webseite": "http://www.stadt-tribsees.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Trinwillershagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trinwillershagen",
+    "webseite": "http://www.trinwillershagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Trollenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trollenhagen",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-trollenhagen",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tutow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tutow",
+    "webseite": "https://jarmen.de/gemeinden/tutow.html/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Tützpatz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tützpatz",
+    "webseite": "http://www.altentreptow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ueckermünde",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ueckermünde",
+    "webseite": "http://www.ueckermuende.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Uelitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Uelitz",
+    "webseite": "http://www.gemeinde-uelitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ummanz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ummanz_(Gemeinde)",
+    "webseite": "https://www.amt-westruegen.de/index.php?id=40",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Upahl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Upahl",
+    "webseite": "https://www.grevesmuehlen.de/gemeinden/upahl.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Usedom",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Usedom_(Stadt)",
+    "webseite": "https://www.stadtinfo-usedom.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Userin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Userin",
+    "webseite": "http://www.userin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Utecht",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Utecht",
+    "webseite": "http://www.utecht-mv.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Utzedel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Utzedel",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153893",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Veelböken",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Veelböken",
+    "webseite": "https://www.gadebusch.de/amt-gemeinden/veelboeken/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Velgast",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Velgast",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/index.php/velgast.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Vellahn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vellahn",
+    "webseite": "https://amt-zarrentin.de//info/poi/gemeinde-vellahn-900000027-29120.html?site=info",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ventschow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ventschow",
+    "webseite": "https://www.amt-dorfmecklenburg-badkleinen.de/gemeinde-ventschow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Verchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Verchen",
+    "webseite": "https://www.verchen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Vielank",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vielank",
+    "webseite": "https://www.amtdoemitz-malliss.de/amt-gemeinden/amt-gemeinden/gemeinde-vielank/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Viereck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Viereck_(Vorpommern)",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,49.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Vogelsang-Warsin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vogelsang-Warsin",
+    "webseite": "https://vogelsang-warsin.de/gemeinden/vogelsang-warsin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Voigtsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Voigtsdorf",
+    "webseite": "https://www.amt-windmuehlenstadt-woldegk.de/amt-woldegk/gemeinden-des-amtes/voigtsdorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Vollrathsruhe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vollrathsruhe",
+    "webseite": "https://www.amt-slw.de/verzeichnis/objekt.php?mandat=156034",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Vorbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vorbeck",
+    "webseite": "https://www.schwaan.de/amt-schwaan/die-gemeinden/vorbeck/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Völschow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Völschow",
+    "webseite": "http://www.amt-jarmen-tutow.de/index.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wackerow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wackerow",
+    "webseite": "http://www.landhagen.de/wackerow/wackerow-informationen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Walkendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Walkendorf",
+    "webseite": "https://amt-gnoien.de/Walkendorf.cfm",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Walow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Walow",
+    "webseite": "http://www.stadt-malchow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wardow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wardow",
+    "webseite": "https://www.amt-laage.de/seite/498918/gemeinde-wardow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Waren (Müritz)",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waren_(Müritz)",
+    "webseite": "https://www.waren-mueritz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warin",
+    "webseite": "https://www.stadt-warin.eu/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warlitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warlitz",
+    "webseite": "https://www.amt-hagenow-land.de/amt-gemeinden/Warlitz/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warlow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warlow",
+    "webseite": "https://gemeindewarlow.wordpress.com/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warnkenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warnkenhagen",
+    "webseite": "https://www.amt-mecklenburgische-schweiz.de/amt-gemeinden/gemeinden/gemeinde-warnkenhagen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warnow_(bei_Bützow)",
+    "webseite": "http://www.amt-buetzow-land.de/de/einwohner/amt_buetzow_land/gemeinden_im_amt/warnow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warnow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warnow_(bei_Grevesmühlen)",
+    "webseite": "https://www.grevesmuehlen.de/gemeinden/warnow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warrenzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warrenzin",
+    "webseite": "https://www.amt-demmin-land.de/verzeichnis/visitenkarte.php?mandat=153894",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Warsow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Warsow",
+    "webseite": "https://www.amt-stralendorf.de/politik-und-ortsrecht/warsow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wedendorfersee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wedendorfersee",
+    "webseite": "https://www.rehna.de/gemeinden/wedendorfersee/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Weitendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weitendorf_(bei_Brüel)",
+    "webseite": "https://www.amt-ssl.de/weitendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Weitenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weitenhagen_(Landkreis_Vorpommern-Rügen)",
+    "webseite": "https://www.amt-franzburg-richtenberg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Weitenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weitenhagen_(bei_Greifswald)",
+    "webseite": "https://weitenhagen.info/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wendisch Baggendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wendisch_Baggendorf",
+    "webseite": "https://www.wendisch-baggendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wendorf",
+    "webseite": "https://www.amt-niepars.de/gemeinde-wendorf.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Werder",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werder_(bei_Altentreptow)",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Werder",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werder_(bei_Lübz)",
+    "webseite": "http://www.amt-eldenburg-luebz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wesenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wesenberg_(Mecklenburg)",
+    "webseite": "https://wesenberg-mecklenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wieck a. Darß",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wieck_a._Darß",
+    "webseite": "http://www.darss-fischland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wiek",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiek",
+    "webseite": "https://www.wiek-ruegen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wiendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiendorf_(Mecklenburg)",
+    "webseite": "https://www.schwaan.de/amt-schwaan/die-gemeinden/wiendorf/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wildberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wildberg_(Vorpommern)",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wilhelmsburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wilhelmsburg_(Vorpommern)",
+    "webseite": "https://gemeinde-wilhelmsburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wismar",
+    "typ": "Große kreisangehörige Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wismar",
+    "webseite": "https://www.wismar.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wittenbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittenbeck",
+    "webseite": "http://www.wittenbeck.com/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wittenburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittenburg",
+    "webseite": "https://www.amt-wittenburg.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wittendörp",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittendörp",
+    "webseite": "https://www.amt-wittenburg.de/politik-ortsrecht/gemeindevertretung/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wittenförden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittenförden",
+    "webseite": "https://www.wittenfoerden.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wittenhagen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittenhagen",
+    "webseite": "https://gemeinde-wittenhagen.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Witzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Witzin",
+    "webseite": "http://www.amt-ssl.de/witzin/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Woggersin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Woggersin",
+    "webseite": "http://www.woggersin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wokuhl-Dabelow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wokuhl-Dabelow",
+    "webseite": "https://www.amtneustrelitz-land.de/gemeinden/wokuhl-dabelow.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wolde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wolde",
+    "webseite": "http://www.altentreptow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Woldegk",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Woldegk",
+    "webseite": "https://www.windmuehlenstadt-woldegk.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wolgast",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wolgast",
+    "webseite": "https://wolgast.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wrangelsburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wrangelsburg",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wulkenzin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wulkenzin",
+    "webseite": "https://www.wulkenzin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wusterhusen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wusterhusen",
+    "webseite": "https://www.amtlubmin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wustrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wustrow_(Fischland)",
+    "webseite": "http://www.ostseebad-wustrow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wustrow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wustrow_(Mecklenburgische_Seenplatte)",
+    "webseite": "http://www.wustrow-seenplatte.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Wöbbelin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wöbbelin",
+    "webseite": "http://www.woebbelin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zapel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zapel",
+    "webseite": "https://www.amt-crivitz.de/unsere-gemeinden/zapel/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zarnewanz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zarnewanz",
+    "webseite": "https://www.zarnewanz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zarrendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zarrendorf",
+    "webseite": "http://www.zarrendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zarrentin am Schaalsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zarrentin_am_Schaalsee",
+    "webseite": "https://www.zarrentin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zehna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zehna",
+    "webseite": "https://www.amt-guestrow-land.de/gemeinden/gemeinden/gemeinde-zehna.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zemitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zemitz",
+    "webseite": "http://www.amt-am-peenestrom.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zempin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zempin",
+    "webseite": "http://www.seebad-zempin.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zepelin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zepelin",
+    "webseite": "https://www.buetzow.de/Stadt-und-Gemeinden/Zepelin",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zerrenthin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zerrenthin",
+    "webseite": "http://www.amt-uecker-randow-tal.de/cms/wm-cms,30.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zettemin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zettemin",
+    "webseite": "http://www.stavenhagen.de/cms/index.php?id=50",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zickhusen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zickhusen",
+    "webseite": "https://www.luetzow-luebstorf.de/seite/655935/zickhusen.html",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ziegendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ziegendorf",
+    "webseite": "http://www.amt-parchimer-umland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zierow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zierow",
+    "webseite": "https://www.gemeinde-zierow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zierzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zierzow",
+    "webseite": "https://www.grabow.de/amt-grabow/amtsgemeinden/gemeinde-zierzow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ziesendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ziesendorf",
+    "webseite": "https://www.gemeinde-ziesendorf.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ziethen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ziethen_(bei_Anklam)",
+    "webseite": "https://www.amt-zuessow.de/gemeinden/ziethen/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zingst",
+    "typ": "Amtsfreie Stadt/Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zingst",
+    "webseite": "https://www.gemeinde-zingst.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zinnowitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zinnowitz",
+    "webseite": "https://www.zinnowitz.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zirchow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zirchow",
+    "webseite": "",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zirkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zirkow",
+    "webseite": "https://www.amt-moenchgut.de/ris/ti-7/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zirzow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zirzow",
+    "webseite": "https://amtneverin.de/unsere-gemeinden/gemeinde-zirzow",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zislow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zislow",
+    "webseite": "https://www.erholungsort-zislow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zurow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zurow",
+    "webseite": "https://www.amt-neukloster-warin.de/verzeichnis/objekt.php?mandat=102756",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zölkow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zölkow",
+    "webseite": "http://www.amt-parchimer-umland.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Zülow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zülow",
+    "webseite": "https://www.amt-stralendorf.de/politik-und-ortsrecht/zuelow/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Züsow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Züsow",
+    "webseite": "https://www.amt-neukloster-warin.de/verzeichnis/objekt.php?mandat=102757",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Züssow",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Züssow",
+    "webseite": "http://www.zuessow.de/",
+    "bundesland": "Mecklenburg-Vorpommern"
+  },
+  {
+    "name": "Ückeritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ückeritz",
+    "webseite": "http://www.ueckeritz.de",
+    "bundesland": "Mecklenburg-Vorpommern"
+  }
+]

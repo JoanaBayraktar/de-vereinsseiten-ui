@@ -1,0 +1,2928 @@
+[
+  {
+    "name": "Adorf/Vogtl.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Adorf/Vogtl.",
+    "webseite": "https://www.adorf-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Altenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenberg_(Erzgebirge)",
+    "webseite": "https://www.rathaus-altenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Altmittweida",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altmittweida",
+    "webseite": "https://www.gemeinde-altmittweida.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Amtsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Amtsberg",
+    "webseite": "https://www.amtsberg.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Annaberg-Buchholz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Annaberg-Buchholz",
+    "webseite": "https://www.annaberg-buchholz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Arnsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Arnsdorf",
+    "webseite": "https://www.gemeindearnsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Arzberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Arzberg_(Sachsen)",
+    "webseite": "https://www.gemeinde-arzberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Aue-Bad Schlema",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Aue-Bad_Schlema",
+    "webseite": "https://www.aue-badschlema.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Auerbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Auerbach_(Erzgebirge)",
+    "webseite": "https://www.auerbach-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Auerbach/Vogtl.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Auerbach/Vogtl.",
+    "webseite": "https://www.stadt-auerbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Augustusburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Augustusburg",
+    "webseite": "https://augustusburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Brambach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Brambach",
+    "webseite": "https://www.bad-brambach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Düben",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Düben",
+    "webseite": "https://www.bad-dueben.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Elster",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Elster",
+    "webseite": "https://badelster.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Gottleuba-Berggießhübel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Gottleuba-Berggießhübel",
+    "webseite": "https://www.stadt-bgb.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Lausick",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Lausick",
+    "webseite": "https://www.bad-lausick.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Muskau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Muskau",
+    "webseite": "https://www.badmuskau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bad Schandau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Schandau",
+    "webseite": "https://www.bad-schandau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bahretal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bahretal",
+    "webseite": "https://gemeinde-bahretal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bannewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bannewitz",
+    "webseite": "https://www.bannewitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bautzen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bautzen",
+    "webseite": "https://www.bautzen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Beiersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beiersdorf",
+    "webseite": "https://www.beiersdorf-ol.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Beilrode",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beilrode",
+    "webseite": "https://www.beilrode.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Belgern-Schildau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Belgern-Schildau",
+    "webseite": "https://www.belgernschildau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Belgershain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Belgershain",
+    "webseite": "https://belgershain.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bennewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bennewitz",
+    "webseite": "https://www.gemeinde-bennewitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bergen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bergen_(Vogtland)",
+    "webseite": "http://www.bergen-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bernsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernsdorf_(Landkreis_Zwickau)",
+    "webseite": "https://www.bernsdorf-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bernsdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernsdorf_(Oberlausitz)",
+    "webseite": "https://www.bernsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bernstadt a. d. Eigen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernstadt_a._d._Eigen",
+    "webseite": "https://bernstadt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bertsdorf-Hörnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bertsdorf-Hörnitz",
+    "webseite": "https://www.bertsdorf-hörnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bischofswerda",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bischofswerda",
+    "webseite": "https://www.bischofswerda.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bobritzsch-Hilbersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bobritzsch-Hilbersdorf",
+    "webseite": "https://www.bobritzsch-hilbersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bockau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bockau",
+    "webseite": "https://www.bockau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Borna",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borna",
+    "webseite": "https://www.borna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Borsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borsdorf",
+    "webseite": "https://www.borsdorf-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Boxberg/O.L.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Boxberg/O.L.",
+    "webseite": "https://boxberg-ol.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Brand-Erbisdorf",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brand-Erbisdorf",
+    "webseite": "https://www.brand-erbisdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Brandis",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brandis",
+    "webseite": "https://stadt-brandis.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Breitenbrunn/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Breitenbrunn/Erzgeb.",
+    "webseite": "https://www.breitenbrunn-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Burgstädt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burgstädt",
+    "webseite": "https://www.burgstaedt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Burkau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burkau",
+    "webseite": "https://www.gemeinde-burkau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Burkhardtsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burkhardtsdorf",
+    "webseite": "https://www.burkhardtsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bärenstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bärenstein_(Erzgebirge)",
+    "webseite": "https://www.baerenstein-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Böhlen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Böhlen_(Sachsen)",
+    "webseite": "https://www.stadt-boehlen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Börnichen/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Börnichen/Erzgeb.",
+    "webseite": "https://www.boernichen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Bösenbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bösenbrunn",
+    "webseite": "https://boesenbrunn.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Callenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Callenberg",
+    "webseite": "https://www.callenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Cavertitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cavertitz",
+    "webseite": "https://www.cavertitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Chemnitz",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Chemnitz",
+    "webseite": "https://www.chemnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Claußnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Claußnitz",
+    "webseite": "https://www.claussnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Colditz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Colditz",
+    "webseite": "https://www.colditz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Coswig",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Coswig_(Sachsen)",
+    "webseite": "https://www.coswig.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Crimmitschau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Crimmitschau",
+    "webseite": "https://www.crimmitschau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Crinitzberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Crinitzberg",
+    "webseite": "https://www.crinitzberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Crostwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Crostwitz",
+    "webseite": "https://www.crostwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Crottendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Crottendorf",
+    "webseite": "https://www.crottendorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Cunewalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Cunewalde",
+    "webseite": "https://www.cunewalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dahlen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dahlen_(Sachsen)",
+    "webseite": "https://www.heidestadt-dahlen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Delitzsch",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Delitzsch",
+    "webseite": "https://www.delitzsch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Demitz-Thumitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Demitz-Thumitz",
+    "webseite": "https://www.demitz-thumitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dennheritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dennheritz",
+    "webseite": "https://www.gemeinde-dennheritz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Deutschneudorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Deutschneudorf",
+    "webseite": "https://deutschneudorf.net/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Diera-Zehren",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Diera-Zehren",
+    "webseite": "https://www.diera-zehren.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dippoldiswalde",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dippoldiswalde",
+    "webseite": "https://www.dippoldiswalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Doberschau-Gaußig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Doberschau-Gaußig",
+    "webseite": "https://www.doberschau-gaussig.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Doberschütz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Doberschütz",
+    "webseite": "https://www.doberschuetz.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dohma",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dohma",
+    "webseite": "https://www.dohma.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dohna",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dohna",
+    "webseite": "https://www.stadt-dohna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dommitzsch",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dommitzsch",
+    "webseite": "https://www.dommitzsch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dorfchemnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dorfchemnitz",
+    "webseite": "https://www.dorfchemnitz.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dorfhain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dorfhain",
+    "webseite": "https://www.dorfhain.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Drebach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Drebach",
+    "webseite": "https://www.gemeinde-drebach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dreiheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dreiheide",
+    "webseite": "https://www.dreiheide.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dresden",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dresden",
+    "webseite": "https://www.dresden.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Döbeln",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Döbeln",
+    "webseite": "https://www.doebeln.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dürrhennersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dürrhennersdorf",
+    "webseite": "https://www.gemeinde-duerrhennersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Dürrröhrsdorf-Dittersbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dürrröhrsdorf-Dittersbach",
+    "webseite": "https://www.duerrroehrsdorf-dittersbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ebersbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ebersbach_(bei_Großenhain)",
+    "webseite": "https://www.gemeinde-ebersbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ebersbach-Neugersdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ebersbach-Neugersdorf",
+    "webseite": "https://www.ebersbach-neugersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ehrenfriedersdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ehrenfriedersdorf",
+    "webseite": "https://www.stadt-ehrenfriedersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Eibenstock",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eibenstock",
+    "webseite": "https://www.eibenstock.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Eichigt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eichigt",
+    "webseite": "https://www.eichigt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Eilenburg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eilenburg",
+    "webseite": "https://eilenburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ellefeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ellefeld",
+    "webseite": "https://ellefeld.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Elsnig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elsnig",
+    "webseite": "https://www.elsnig.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Elsterberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elsterberg",
+    "webseite": "https://elsterberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Elsterheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elsterheide",
+    "webseite": "https://www.elsterheide.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Elstertrebnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elstertrebnitz",
+    "webseite": "https://www.gemeinde-elstertrebnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Elstra",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elstra",
+    "webseite": "https://www.elstra.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Elterlein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elterlein",
+    "webseite": "https://www.elterlein-stadt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Eppendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eppendorf",
+    "webseite": "https://www.gemeinde-eppendorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Erlau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erlau_(Sachsen)",
+    "webseite": "http://www.gemeindeerlau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Falkenstein/Vogtl.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Falkenstein/Vogtl.",
+    "webseite": "https://stadt-falkenstein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Flöha",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Flöha",
+    "webseite": "https://www.floeha.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Frankenberg/Sa.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frankenberg/Sa.",
+    "webseite": "https://www.frankenberg-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Frankenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frankenthal_(Sachsen)",
+    "webseite": "https://www.gemeinde-frankenthal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Frauenstein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frauenstein_(Erzgebirge)",
+    "webseite": "https://www.frauenstein-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Fraureuth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Fraureuth",
+    "webseite": "https://www.fraureuth.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Freiberg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Freiberg",
+    "webseite": "https://www.freiberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Freital",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Freital",
+    "webseite": "https://www.freital.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Frohburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Frohburg",
+    "webseite": "https://www.frohburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gablenz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gablenz_(Oberlausitz)",
+    "webseite": "https://gablenz-online.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Geithain",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Geithain",
+    "webseite": "https://www.geithain.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gelenau/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gelenau/Erzgeb.",
+    "webseite": "https://www.gelenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Geringswalde",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Geringswalde",
+    "webseite": "https://www.geringswalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gersdorf",
+    "webseite": "https://www.gemeinde-gersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Geyer",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Geyer",
+    "webseite": "https://www.stadt-geyer.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Glashütte",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glashütte_(Sachsen)",
+    "webseite": "https://www.glashuette-sachs.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Glaubitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glaubitz",
+    "webseite": "https://gemeinde-glaubitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Glauchau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Glauchau",
+    "webseite": "https://www.glauchau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gohrisch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gohrisch",
+    "webseite": "https://www.gohrisch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gornau/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gornau/Erzgeb.",
+    "webseite": "https://www.gornau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gornsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gornsdorf",
+    "webseite": "https://www.gornsdorf-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Grimma",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grimma",
+    "webseite": "https://www.grimma.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Groitzsch",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groitzsch",
+    "webseite": "https://groitzsch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Groß Düben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Düben",
+    "webseite": "https://grossdueben-online.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großdubrau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großdubrau",
+    "webseite": "https://www.grossdubrau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großenhain",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großenhain",
+    "webseite": "https://www.grossenhain.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großharthau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großharthau",
+    "webseite": "https://grossharthau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großhartmannsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großhartmannsdorf",
+    "webseite": "https://www.grosshartmannsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großnaundorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großnaundorf",
+    "webseite": "http://www.grossnaundorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großolbersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großolbersdorf",
+    "webseite": "https://www.grossolbersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großpostwitz/O.L.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großpostwitz",
+    "webseite": "https://grosspostwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großpösna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großpösna",
+    "webseite": "https://grosspoesna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großröhrsdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großröhrsdorf",
+    "webseite": "https://www.grossroehrsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großrückerswalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großrückerswalde",
+    "webseite": "https://www.grossrueckerswalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großschirma",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großschirma",
+    "webseite": "https://www.grossschirma.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großschweidnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großschweidnitz",
+    "webseite": "https://www.grossschweidnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großschönau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großschönau_(Sachsen)",
+    "webseite": "https://www.grossschoenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Großweitzschen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großweitzschen",
+    "webseite": "https://www.grossweitzschen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Gröditz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gröditz",
+    "webseite": "https://www.stadt-groeditz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Grünbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünbach_(Sachsen)",
+    "webseite": "https://www.gruenbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Grünhain-Beierfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünhain-Beierfeld",
+    "webseite": "https://www.beierfeld.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Grünhainichen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Grünhainichen",
+    "webseite": "https://gruenhainichen.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Göda",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Göda",
+    "webseite": "https://www.goeda.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Görlitz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Görlitz",
+    "webseite": "https://www.goerlitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hainewalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hainewalde",
+    "webseite": "https://www.hainewalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hainichen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hainichen",
+    "webseite": "https://www.hainichen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Halsbrücke",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halsbrücke",
+    "webseite": "https://www.halsbruecke.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hartenstein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hartenstein_(Sachsen)",
+    "webseite": "https://www.stadt-hartenstein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hartha",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hartha",
+    "webseite": "https://www.hartha.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hartmannsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hartmannsdorf_(bei_Chemnitz)",
+    "webseite": "https://www.gemeinde-hartmannsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hartmannsdorf b. Kirchberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hartmannsdorf_bei_Kirchberg",
+    "webseite": "https://www.hartmannsdorf.org/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hartmannsdorf-Reichenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hartmannsdorf-Reichenau",
+    "webseite": "",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Haselbachtal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Haselbachtal",
+    "webseite": "https://haselbachtal.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Heidenau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heidenau_(Sachsen)",
+    "webseite": "https://www.heidenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Heidersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heidersdorf",
+    "webseite": "https://heidersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Heinsdorfergrund",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heinsdorfergrund",
+    "webseite": "https://www.heinsdorfergrund-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hermsdorf/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hermsdorf/Erzgeb.",
+    "webseite": "https://www.hermsdorf-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Herrnhut",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Herrnhut",
+    "webseite": "https://www.herrnhut.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hirschfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hirschfeld_(Sachsen)",
+    "webseite": "https://www.hirschfeld-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hirschstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hirschstein",
+    "webseite": "https://www.hirschstein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hochkirch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hochkirch",
+    "webseite": "https://www.hochkirch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hohendubrau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohendubrau",
+    "webseite": "https://www.hohendubrau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hohenstein-Ernstthal",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenstein-Ernstthal",
+    "webseite": "https://hohenstein-ernstthal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hohndorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohndorf",
+    "webseite": "https://www.hohndorf.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hohnstein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohnstein_(Sächsische_Schweiz)",
+    "webseite": "https://www.hohnstein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Horka",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Horka",
+    "webseite": "https://www.horka.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hoyerswerda",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hoyerswerda",
+    "webseite": "https://www.hoyerswerda.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Hähnichen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hähnichen",
+    "webseite": "https://www.rothenburg-ol.de/seite/473247/ris.html/?href_b42d9458-e356a07c-702f8a1b-51771e59=/councilservice/group/view/id/12/Gemeinschaftsausschuss.html#/councilservice/group/view/12",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Jahnatal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jahnatal",
+    "webseite": "https://www.gemeinde-jahnatal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Jahnsdorf/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jahnsdorf/Erzgeb.",
+    "webseite": "https://www.jahnsdorf-erzgeb.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Jesewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jesewitz",
+    "webseite": "https://www.jesewitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Johanngeorgenstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Johanngeorgenstadt",
+    "webseite": "https://www.johanngeorgenstadt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Jonsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jonsdorf",
+    "webseite": "https://www.jonsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Jöhstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jöhstadt",
+    "webseite": "https://www.joehstadt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kamenz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kamenz",
+    "webseite": "https://www.kamenz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kirchberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kirchberg_(Sachsen)",
+    "webseite": "https://www.kirchberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kitzscher",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kitzscher",
+    "webseite": "https://kitzscher.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Klingenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klingenberg_(Sachsen)",
+    "webseite": "https://www.gemeinde-klingenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Klingenthal",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klingenthal",
+    "webseite": "https://www.klingenthal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Klipphausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klipphausen",
+    "webseite": "https://klipphausen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kodersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kodersdorf",
+    "webseite": "https://www.kodersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kottmar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kottmar_(Gemeinde)",
+    "webseite": "https://www.gemeinde-kottmar.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Krauschwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krauschwitz_(Sachsen)",
+    "webseite": "https://www.krauschwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kreba-Neudorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kreba-Neudorf",
+    "webseite": "https://www.gemeinde-kreba-neudorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kreischa",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kreischa",
+    "webseite": "https://www.kreischa.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kriebstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kriebstein",
+    "webseite": "https://www.kriebstein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Krostitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Krostitz",
+    "webseite": "https://krostitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Kubschütz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kubschütz",
+    "webseite": "https://www.gemeinde-kubschuetz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Käbschütztal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Käbschütztal",
+    "webseite": "https://www.gemeinde-kaebschuetztal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königsbrück",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königsbrück",
+    "webseite": "https://www.koenigsbrueck.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königsfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königsfeld_(Sachsen)",
+    "webseite": "https://www.rochlitz.de/leben-in-rochlitz/verwaltungsgemeinschaft/koenigsfeld",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königshain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königshain",
+    "webseite": "https://www.koenigshain.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königshain-Wiederau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königshain-Wiederau",
+    "webseite": "https://www.königshain-wiederau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königstein (Sächs. Schw.)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königstein_(Sächsische_Schweiz)",
+    "webseite": "https://www.koenigstein-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königswalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königswalde",
+    "webseite": "https://www.koenigswalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Königswartha",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Königswartha",
+    "webseite": "https://www.koenigswartha.net/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lampertswalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lampertswalde",
+    "webseite": "https://gemeinde-lampertswalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Langenbernsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langenbernsdorf",
+    "webseite": "https://www.langenbernsdorf.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Langenweißbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Langenweißbach",
+    "webseite": "https://www.langenweissbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Laußig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Laußig",
+    "webseite": "https://laussig.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Laußnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Laußnitz",
+    "webseite": "https://www.laussnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lauta",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lauta",
+    "webseite": "https://www.lauta.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lauter-Bernsbach",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lauter-Bernsbach",
+    "webseite": "https://www.lauter-bernsbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lawalde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lawalde",
+    "webseite": "http://www.lawalde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Leipzig",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leipzig",
+    "webseite": "https://www.leipzig.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Leisnig",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leisnig",
+    "webseite": "https://www.leisnig.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lengenfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lengenfeld_(Vogtland)",
+    "webseite": "https://www.stadt-lengenfeld.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Leubsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leubsdorf_(Sachsen)",
+    "webseite": "https://www.leubsdorf-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Leutersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leutersdorf_(Oberlausitz)",
+    "webseite": "https://www.leutersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lichtenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichtenau_(Sachsen)",
+    "webseite": "https://www.gemeinde-lichtenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lichtenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichtenberg_(Landkreis_Bautzen)",
+    "webseite": "https://www.gemeinde-lichtenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lichtenberg/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichtenberg/Erzgeb.",
+    "webseite": "https://www.lichtenberg-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lichtenstein/Sa.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichtenstein/Sa.",
+    "webseite": "https://www.lichtenstein-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lichtentanne",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lichtentanne",
+    "webseite": "https://www.gemeinde-lichtentanne.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Liebschützberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Liebschützberg",
+    "webseite": "https://www.liebschuetzberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Liebstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Liebstadt",
+    "webseite": "https://www.stadt-liebstadt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Limbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Limbach_(Vogtland)",
+    "webseite": "https://www.limbach-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Limbach-Oberfrohna",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Limbach-Oberfrohna",
+    "webseite": "https://www.limbach-oberfrohna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lohmen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lohmen_(Sachsen)",
+    "webseite": "https://www.lohmen-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lohsa",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lohsa",
+    "webseite": "https://www.lohsa.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lommatzsch",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lommatzsch",
+    "webseite": "https://lommatzsch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lossatal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lossatal",
+    "webseite": "https://www.lossatal.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lugau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lugau",
+    "webseite": "https://www.stadt-lugau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lunzenau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lunzenau",
+    "webseite": "https://www.lunzenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Löbau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Löbau",
+    "webseite": "https://www.loebau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Löbnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Löbnitz_(Sachsen)",
+    "webseite": "https://loebnitz-am-see.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Lößnitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lößnitz_(Erzgebirge)",
+    "webseite": "https://www.stadt-loessnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Machern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Machern",
+    "webseite": "https://www.gemeinde-machern.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Malschwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Malschwitz",
+    "webseite": "https://www.malschwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Marienberg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marienberg",
+    "webseite": "https://www.marienberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Markersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Markersdorf_(Sachsen)",
+    "webseite": "https://markersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Markkleeberg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Markkleeberg",
+    "webseite": "https://www.markkleeberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Markneukirchen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Markneukirchen",
+    "webseite": "https://markneukirchen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Markranstädt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Markranstädt",
+    "webseite": "https://www.markranstaedt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Meerane",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meerane",
+    "webseite": "https://www.meerane.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Meißen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meißen",
+    "webseite": "https://www.stadt-meissen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mildenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mildenau",
+    "webseite": "https://www.mildenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mittelherwigsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mittelherwigsdorf",
+    "webseite": "https://www.mittelherwigsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mittweida",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mittweida",
+    "webseite": "https://www.mittweida.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mockrehna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mockrehna",
+    "webseite": "https://www.mockrehna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Moritzburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Moritzburg_(Sachsen)",
+    "webseite": "https://www.moritzburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mulda/Sa.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mulda/Sa.",
+    "webseite": "https://www.gemeinde-mulda.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Muldenhammer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Muldenhammer",
+    "webseite": "https://muldenhammer.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mücka",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mücka",
+    "webseite": "https://www.verwaltungsverband-diehsa.de/gemeinden/uebersicht#",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mügeln",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mügeln",
+    "webseite": "https://www.stadt-muegeln.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Müglitztal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Müglitztal",
+    "webseite": "https://www.gemeindeverwaltung-mueglitzal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mühlau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlau_(Sachsen)",
+    "webseite": "https://www.gemeinde-muehlau-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mühlental",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mühlental",
+    "webseite": "https://muehlental.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Mülsen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mülsen",
+    "webseite": "https://www.muelsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Naundorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Naundorf_(Sachsen)",
+    "webseite": "https://www.naundorf-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Naunhof",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Naunhof",
+    "webseite": "https://www.naunhof.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Nebelschütz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nebelschütz",
+    "webseite": "https://www.nebelschuetz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neißeaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neißeaue",
+    "webseite": "https://www.neisseaue.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neschwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neschwitz",
+    "webseite": "https://www.neschwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Netzschkau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Netzschkau",
+    "webseite": "https://www.netzschkau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neuensalz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuensalz",
+    "webseite": "https://www.neuensalz.de/treuen/idx_ns.asp",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neuhausen/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neuhausen/Erzgeb.",
+    "webseite": "https://neuhausen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neukieritzsch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukieritzsch",
+    "webseite": "https://www.neukieritzsch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neukirch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukirch_(bei_Königsbrück)",
+    "webseite": "https://gemeindeneukirch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neukirch/Lausitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukirch/Lausitz",
+    "webseite": "https://www.neukirch-lausitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neukirchen/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukirchen/Erzgeb.",
+    "webseite": "https://neukirchen-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neukirchen/Pleiße",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neukirchen/Pleiße",
+    "webseite": "https://www.neukirchen-pleisse.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neumark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neumark_(Vogtland)",
+    "webseite": "https://www.neumark-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neusalza-Spremberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neusalza-Spremberg",
+    "webseite": "https://www.neusalza-spremberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neustadt i. Sa.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neustadt_in_Sachsen",
+    "webseite": "https://www.neustadt-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Neustadt/Vogtl.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neustadt/Vogtl.",
+    "webseite": "http://www.neustadt-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Niederau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederau",
+    "webseite": "https://niederau.info/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Niederdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederdorf_(Sachsen)",
+    "webseite": "https://www.niederdorf-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Niederfrohna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederfrohna",
+    "webseite": "https://www.niederfrohna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Niederwiesa",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederwiesa",
+    "webseite": "https://gemeinde-niederwiesa.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Niederwürschnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niederwürschnitz",
+    "webseite": "https://www.niederwuerschnitz.info/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Niesky",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niesky",
+    "webseite": "https://www.niesky.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Nossen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nossen",
+    "webseite": "https://www.nossen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Nünchritz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nünchritz",
+    "webseite": "https://www.nuenchritz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Obergurig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Obergurig",
+    "webseite": "https://www.obergurig.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oberlungwitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberlungwitz",
+    "webseite": "https://www.oberlungwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oberschöna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberschöna",
+    "webseite": "https://www.gemeinde-oberschoena.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oberwiera",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberwiera",
+    "webseite": "https://www.gemeindeoberwiera.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oberwiesenthal",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberwiesenthal",
+    "webseite": "https://www.oberwiesenthal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oderwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oderwitz",
+    "webseite": "https://www.oderwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oederan",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oederan",
+    "webseite": "https://www.oederan.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oelsnitz/Erzgeb.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oelsnitz/Erzgeb.",
+    "webseite": "https://www.oelsnitz-erzgeb.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oelsnitz/Vogtl.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oelsnitz/Vogtl.",
+    "webseite": "https://www.oelsnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ohorn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ohorn",
+    "webseite": "https://www.ohorn-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Olbernhau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Olbernhau",
+    "webseite": "https://www.olbernhau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Olbersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Olbersdorf",
+    "webseite": "https://www.olbersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oppach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oppach",
+    "webseite": "https://www.oppach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oschatz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oschatz",
+    "webseite": "https://www.oschatz.org/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oßling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oßling",
+    "webseite": "http://www.ossling.net/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ostritz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ostritz",
+    "webseite": "http://www.ostritz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ottendorf-Okrilla",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ottendorf-Okrilla",
+    "webseite": "https://www.ottendorf-okrilla.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Otterwisch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Otterwisch",
+    "webseite": "https://otterwisch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Oybin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oybin",
+    "webseite": "https://oybin.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Panschwitz-Kuckau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Panschwitz-Kuckau",
+    "webseite": "https://www.panschwitz-kuckau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Parthenstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Parthenstein",
+    "webseite": "https://parthenstein.net/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Pausa-Mühltroff",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pausa-Mühltroff",
+    "webseite": "https://www.stadt-pausa-muehltroff.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Pegau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pegau",
+    "webseite": "https://www.stadt-pegau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Penig",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Penig",
+    "webseite": "https://www.penig.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Pirna",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pirna",
+    "webseite": "https://www.pirna.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Plauen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plauen",
+    "webseite": "https://www.plauen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Pockau-Lengefeld",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pockau-Lengefeld",
+    "webseite": "https://pockau-lengefeld.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Priestewitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Priestewitz",
+    "webseite": "https://www.priestewitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Pulsnitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pulsnitz",
+    "webseite": "https://www.pulsnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Puschwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Puschwitz",
+    "webseite": "https://puschwitz.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Pöhl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Pöhl",
+    "webseite": "https://www.poehl.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Quitzdorf am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Quitzdorf_am_See",
+    "webseite": "http://www.quitzdorf-am-see.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rabenau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rabenau_(Sachsen)",
+    "webseite": "https://rabenau.net/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rackwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rackwitz",
+    "webseite": "https://www.gemeinde-rackwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Radeberg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Radeberg",
+    "webseite": "https://www.radeberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Radebeul",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Radebeul",
+    "webseite": "https://www.radebeul.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Radeburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Radeburg",
+    "webseite": "https://www.radeburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Radibor",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Radibor",
+    "webseite": "https://radibor.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Ralbitz-Rosenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ralbitz-Rosenthal",
+    "webseite": "https://www.ralbitz-rosenthal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rammenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rammenau",
+    "webseite": "https://www.rammenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Raschau-Markersbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Raschau-Markersbach",
+    "webseite": "https://www.raschau-markersbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rathen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rathen",
+    "webseite": "https://www.kurort-rathen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rathmannsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rathmannsdorf",
+    "webseite": "https://www.rathmannsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rechenberg-Bienenmühle",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rechenberg-Bienenmühle",
+    "webseite": "https://www.gemeinde-rechenberg-bienenmuehle.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Regis-Breitingen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Regis-Breitingen",
+    "webseite": "https://www.stadt-regis-breitingen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Reichenbach im Vogtland",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reichenbach_im_Vogtland",
+    "webseite": "https://www.reichenbach-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Reichenbach/O.L.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reichenbach/O.L.",
+    "webseite": "https://www.reichenbach-ol.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Reinhardtsdorf-Schöna",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reinhardtsdorf-Schöna",
+    "webseite": "https://www.reinhardtsdorf-schoena.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Reinsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reinsberg_(Sachsen)",
+    "webseite": "https://gemeinde-reinsberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Reinsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Reinsdorf_(Sachsen)",
+    "webseite": "https://www.reinsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Remse",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Remse",
+    "webseite": "https://www.remse-mulde.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Riesa",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Riesa",
+    "webseite": "https://riesa.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rietschen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rietschen",
+    "webseite": "https://www.rietschen-online.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rochlitz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rochlitz",
+    "webseite": "https://www.rochlitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rodewisch",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rodewisch",
+    "webseite": "https://www.rodewisch.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rosenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rosenbach_(Oberlausitz)",
+    "webseite": "https://www.gemeinde-rosenbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rosenbach/Vogtl.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rosenbach/Vogtl.",
+    "webseite": "https://www.rosenbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rosenthal-Bielatal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rosenthal-Bielatal",
+    "webseite": "http://www.rosenthal-bielatal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rossau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rossau_(Sachsen)",
+    "webseite": "https://www.gemeinde-rossau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Roßwein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Roßwein",
+    "webseite": "https://www.rosswein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rothenburg/O.L.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rothenburg/Oberlausitz",
+    "webseite": "https://www.rothenburg-ol.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Räckelwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Räckelwitz",
+    "webseite": "https://www.raeckelwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Röderaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Röderaue",
+    "webseite": "https://www.roederaue.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Rötha",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rötha",
+    "webseite": "https://www.roetha.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Sayda",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sayda",
+    "webseite": "https://www.sayda.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Scheibenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Scheibenberg",
+    "webseite": "https://www.scheibenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schirgiswalde-Kirschau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schirgiswalde-Kirschau",
+    "webseite": "https://www.stadt-schirgiswalde-kirschau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schkeuditz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schkeuditz",
+    "webseite": "https://www.schkeuditz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schleife",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schleife_(Ort)",
+    "webseite": "https://www.schleife-slepo.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schlettau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schlettau",
+    "webseite": "https://www.schlettau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schmölln-Putzkau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schmölln-Putzkau",
+    "webseite": "https://schmoelln-putzkau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schneeberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schneeberg_(Erzgebirge)",
+    "webseite": "https://www.bergstadt-schneeberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schwarzenberg/Erzgeb.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwarzenberg/Erzgeb.",
+    "webseite": "https://www.schwarzenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schwepnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwepnitz",
+    "webseite": "https://www.schwepnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schönau-Berzdorf a. d. Eigen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönau-Berzdorf_auf_dem_Eigen",
+    "webseite": "https://www.schoenau-berzdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schönbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönbach_(Sachsen)",
+    "webseite": "http://www.gemeinde-schoenbach.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schönberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönberg_(Sachsen)",
+    "webseite": "https://www.schönberg-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schöneck/Vogtl.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schöneck/Vogtl.",
+    "webseite": "https://www.stadt-schoeneck.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schönfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönfeld_(Landkreis_Meißen)",
+    "webseite": "https://www.gemeinde-schoenfeld.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schönheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönheide",
+    "webseite": "https://www.gemeinde-schoenheide.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schönwölkau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönwölkau",
+    "webseite": "https://www.schönwölkau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Schöpstal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schöpstal",
+    "webseite": "https://www.gemeinde-schoepstal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Sebnitz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sebnitz",
+    "webseite": "https://www.sebnitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Seelitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seelitz",
+    "webseite": "https://www.gemeinde-seelitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Sehmatal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sehmatal",
+    "webseite": "https://www.sehmatal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Seiffen/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seiffen/Erzgeb.",
+    "webseite": "https://seiffen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Seifhennersdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seifhennersdorf",
+    "webseite": "https://www.seifhennersdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Sohland a. d. Spree",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sohland_an_der_Spree",
+    "webseite": "https://www.sohland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Spreetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spreetal",
+    "webseite": "http://www.spreetal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "St. Egidien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/St._Egidien",
+    "webseite": "https://www.st-egidien.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Stadt Wehlen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stadt_Wehlen",
+    "webseite": "https://www.wehlen-online.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Stauchitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stauchitz",
+    "webseite": "https://www.stauchitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Steina",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steina_(Sachsen)",
+    "webseite": "https://www.steina-sachsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Steinberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinberg_(Vogtland)",
+    "webseite": "https://www.gemeinde-steinberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Steinigtwolmsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steinigtwolmsdorf",
+    "webseite": "https://www.steinigtwolmsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Stollberg/Erzgeb.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stollberg/Erzgeb.",
+    "webseite": "https://www.stollberg-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Stolpen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stolpen",
+    "webseite": "https://www.stolpen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Strehla",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Strehla",
+    "webseite": "https://www.strehla.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Striegistal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Striegistal",
+    "webseite": "https://www.striegistal.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Struppen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Struppen",
+    "webseite": "https://www.struppen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Stützengrün",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stützengrün",
+    "webseite": "https://www.stuetzengruen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Tannenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tannenberg_(Sachsen)",
+    "webseite": "https://www.gemeinde-tannenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Taucha",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Taucha",
+    "webseite": "https://www.taucha.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Taura",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Taura",
+    "webseite": "https://www.gemeinde-taura.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Thalheim/Erzgeb.",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thalheim/Erzgeb.",
+    "webseite": "https://www.thalheim-erzgeb.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Thallwitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thallwitz",
+    "webseite": "https://www.gemeinde-thallwitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Tharandt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tharandt",
+    "webseite": "https://www.tharandt.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Thermalbad Wiesenbad",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thermalbad_Wiesenbad",
+    "webseite": "https://wiesenbad.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Theuma",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Theuma",
+    "webseite": "https://www.theuma-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Thiendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thiendorf",
+    "webseite": "https://www.thiendorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Thum",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thum",
+    "webseite": "https://www.stadt-thum.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Tirpersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tirpersdorf",
+    "webseite": "https://www.tirpersdorf-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Torgau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Torgau",
+    "webseite": "https://www.torgau.eu/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Trebendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trebendorf",
+    "webseite": "https://www.trebendorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Trebsen/Mulde",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trebsen/Mulde",
+    "webseite": "https://www.trebsen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Treuen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Treuen",
+    "webseite": "https://www.treuen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Triebel/Vogtl.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Triebel/Vogtl.",
+    "webseite": "https://www.gemeinde-triebel.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Trossin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Trossin",
+    "webseite": "https://www.gemeinde-trossin.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Vierkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vierkirchen_(Oberlausitz)",
+    "webseite": "https://www.vierkirchen.com/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wachau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wachau_(Sachsen)",
+    "webseite": "https://www.wachau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Waldenburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waldenburg_(Sachsen)",
+    "webseite": "https://www.waldenburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Waldheim",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waldheim",
+    "webseite": "https://www.stadt-waldheim.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Waldhufen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Waldhufen",
+    "webseite": "https://www.waldhufen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wechselburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wechselburg",
+    "webseite": "https://www.wechselburg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Weinböhla",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weinböhla",
+    "webseite": "https://www.weinboehla.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Weischlitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weischlitz",
+    "webseite": "https://www.weischlitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Weißenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weißenberg",
+    "webseite": "https://www.stadt-weissenberg.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Weißenborn/Erzgeb.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weißenborn/Erzgeb.",
+    "webseite": "https://www.weissenborn-erzgebirge.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Weißkeißel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weißkeißel",
+    "webseite": "https://weisskeissel-online.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Weißwasser/O.L.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weißwasser/Oberlausitz",
+    "webseite": "https://www.weisswasser.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Werda",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werda",
+    "webseite": "https://werda-vogtland.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Werdau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werdau",
+    "webseite": "https://www.werdau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wermsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wermsdorf",
+    "webseite": "https://www.wermsdorf.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wiedemar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wiedemar",
+    "webseite": "https://www.wiedemar.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wildenfels",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wildenfels",
+    "webseite": "https://www.wildenfels.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wilkau-Haßlau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wilkau-Haßlau",
+    "webseite": "https://www.wilkau-hasslau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wilsdruff",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wilsdruff",
+    "webseite": "https://www.wilsdruff.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wilthen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wilthen",
+    "webseite": "https://www.wilthen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wittichenau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wittichenau",
+    "webseite": "https://wittichenau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wolkenstein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wolkenstein_(Erzgebirge)",
+    "webseite": "https://www.stadt-wolkenstein.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wurzen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wurzen",
+    "webseite": "https://www.wurzen.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Wülknitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wülknitz",
+    "webseite": "https://www.gemeinde-wuelknitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zeithain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zeithain",
+    "webseite": "https://zeithain.orts.app/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zettlitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zettlitz",
+    "webseite": "https://www.gemeinde-zettlitz.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zittau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zittau",
+    "webseite": "https://zittau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zschepplin",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zschepplin",
+    "webseite": "https://www.zschepplin.org/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zschopau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zschopau",
+    "webseite": "https://www.zschopau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zschorlau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zschorlau",
+    "webseite": "https://www.zschorlau.info/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zwenkau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zwenkau",
+    "webseite": "https://www.zwenkau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zwickau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zwickau",
+    "webseite": "https://www.zwickau.de/",
+    "bundesland": "Sachsen"
+  },
+  {
+    "name": "Zwönitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zwönitz",
+    "webseite": "https://www.zwoenitz.de/",
+    "bundesland": "Sachsen"
+  }
+]
