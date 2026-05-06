@@ -15717,5 +15717,3384 @@
     "webseite": "http://www.geiselhoering.de",
     "bundesland": "Bayern",
     "vereinsseiten": []
+  },
+  {
+    "name": "Geiselwind",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73330720563",
+    "webseite": "http://www.geiselwind.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geiselwind.de/geiselwind-begeistert-und-bewegt/leben-wohnen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.drei-franken-info.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "<img loading=\"lazy\" class=\"wpex-align-middle wpex-w-100\" alt=\"Einladung an alle Seniorinnen und Senioren im Rahmen der &#8222;Seniorenfreizeit&#8220; &#8211; Fahrt ins Kino Mainfrankenpark\" decoding=\"async\" src=\"https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-60x47.png\" srcset=\"https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-60x47.png 60w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-300x235.png 300w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-65x51.png 65w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-164x129.png 164w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-150x118.png 150w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-60x47@2x.png 120w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren.png 330w, https://www.geiselwind.de/wp-content/uploads/2022/02/Senioren-60x47@2x.png 2x\" width=\"60\" height=\"47\">",
+        "url": "https://www.geiselwind.de/einladung-an-alle-seniorinnen-und-senioren-im-rahmen-der-seniorenfreizeit-fahrt-ins-kino-mainfrankenpark/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geisenfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63775698448",
+    "webseite": "http://www.geisenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geisenfeld.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereins- und Sportförderung",
+        "url": "https://www.geisenfeld.de/vereins-und-sportfoerderung",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.geisenfeld.de/KULTUR-TOURISMUS.n400.html",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.geisenfeld.de/terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Kultur-Veranstaltungen",
+        "url": "https://www.geisenfeld.de/Treffpunkt-Stadtkultur.n837.html",
+        "score": 10
+      },
+      {
+        "titel": "Sonstige Kulturangebote",
+        "url": "https://www.geisenfeld.de/sonstige-kulturangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.geisenfeld.de/Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kulturpreisträger",
+        "url": "https://www.geisenfeld.de/Kulturpreistraeger-der-Stadt-Geisenfeld.n250.html",
+        "score": 10
+      },
+      {
+        "titel": "Treffpunkt Stadtkultur",
+        "url": "https://www.geisenfeld.de/index.php?id=0,837",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geisenhausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90108497563",
+    "webseite": "https://www.geisenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geisenhausen.de/freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.geisenhausen.de/freizeit-vereine/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.geisenhausen.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.geisenhausen.de/freizeit/freibad/",
+        "score": 10
+      },
+      {
+        "titel": "Sporthallen",
+        "url": "https://www.geisenhausen.de/freizeit/sporthallen/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.geisenhausen.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Förderkreis „Junge Musik“",
+        "url": "https://www.geisenhausen.de/kultur/foerderkreis-junge-musik/",
+        "score": 10
+      },
+      {
+        "titel": "Schmid’s Laden",
+        "url": "https://www.geisenhausen.de/kultur/schmids-laden/",
+        "score": 10
+      },
+      {
+        "titel": "Trachtenkulturzentrum Holzhausen",
+        "url": "https://www.geisenhausen.de/kultur/trachtenverband/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gelchsheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06886274564",
+    "webseite": "http://www.gelchsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Geldersheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23664051564",
+    "webseite": "http://www.geldersheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.geldersheim.de/freizeit-kultur/vereine-und-verbaende.html",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.geldersheim.de/freizeit-kultur.html",
+        "score": 20
+      },
+      {
+        "titel": "Katholische Kirche",
+        "url": "https://www.geldersheim.de/freizeit-kultur/katholische-kirche.html",
+        "score": 20
+      },
+      {
+        "titel": "Evangelische Kirche",
+        "url": "https://www.geldersheim.de/freizeit-kultur/evangelische-kirche.html",
+        "score": 20
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.geldersheim.de/freizeit-kultur/jugendtreff.html",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.geldersheim.de/freizeit-kultur/veranstaltungen.html",
+        "score": 20
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.geldersheim.de/freizeit-kultur/buecherei.html",
+        "score": 20
+      },
+      {
+        "titel": "Ferienspaß",
+        "url": "https://www.geldersheim.de/freizeit-kultur/ferienspass.html",
+        "score": 20
+      },
+      {
+        "titel": "Mehrzweckräume",
+        "url": "https://www.geldersheim.de/freizeit-kultur/mehrzweckraeume.html",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.geldersheim.de/freizeit-kultur/gaststaetten.html",
+        "score": 20
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.geldersheim.de/freizeit-kultur/uebernachtungen.html",
+        "score": 20
+      },
+      {
+        "titel": "Museen und Galerien",
+        "url": "https://www.geldersheim.de/freizeit-kultur/museen-und-galerien.html",
+        "score": 20
+      },
+      {
+        "titel": "Archäologisches Museum",
+        "url": "https://www.geldersheim.de/freizeit-kultur/museen-und-galerien/archaeologisches-museum.html",
+        "score": 20
+      },
+      {
+        "titel": "Kleines Bauernmuseum",
+        "url": "https://www.geldersheim.de/freizeit-kultur/museen-und-galerien/kleines-bauernmuseum.html",
+        "score": 20
+      },
+      {
+        "titel": "Heimatgeschichtliche Sammlung",
+        "url": "https://www.geldersheim.de/freizeit-kultur/museen-und-galerien/heimatgeschichtliche-sammlung.html",
+        "score": 20
+      },
+      {
+        "titel": "Gadengalerie",
+        "url": "https://www.geldersheim.de/freizeit-kultur/museen-und-galerien/gadengalerie.html",
+        "score": 20
+      },
+      {
+        "titel": "Fränkisches Bildstockzentrum Egenhausen",
+        "url": "https://www.geldersheim.de/freizeit-kultur/museen-und-galerien/fraenkisches-bildstockzentrum-egenhausen.html",
+        "score": 20
+      },
+      {
+        "titel": "Jakobusweg",
+        "url": "https://www.geldersheim.de/freizeit-kultur/jakobusweg.html",
+        "score": 20
+      },
+      {
+        "titel": "Ortsplan",
+        "url": "https://www.geldersheim.de/freizeit-kultur/ortsplan.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Geltendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40441828564",
+    "webseite": "http://www.geltendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.geltendorf.de/vereinsleben",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Gemünden a.Main",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68442332455",
+    "webseite": "http://www.stadt-gemuenden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Genderkingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57219605564",
+    "webseite": "http://www.genderkingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Georgenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73997382564",
+    "webseite": "http://www.georgenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Georgensgmünd",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90775159564",
+    "webseite": "http://www.georgensgmuend.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gerach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07552936565",
+    "webseite": "http://www.gerach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Geratskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24330713565",
+    "webseite": "http://www.geratskirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geratskirchen.de/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Gerbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41108490565",
+    "webseite": "https://www.gerbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gerbrunn.de/leben-in-gerbrunn/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kulturbühne",
+        "url": "https://gerbrunn.de/leben-in-gerbrunn/kulturbuehne-alte-feuerwehr/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geretsried",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82553461451",
+    "webseite": "https://www.geretsried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Rentenstelle",
+        "url": "https://www.geretsried.de/de/familie-sport-kultur/senioren/rentenstelle",
+        "score": 10
+      },
+      {
+        "titel": "Krisendienst Psychiatrie (Caritas)",
+        "url": "https://www.geretsried.de/de/familie-sport-kultur/senioren/krisendienst-psychiatrie",
+        "score": 10
+      },
+      {
+        "titel": "Radwegenetz",
+        "url": "https://www.geretsried.de/freizeit-mit-dem-rad",
+        "score": 10
+      },
+      {
+        "titel": "Sportentwicklungsplanung",
+        "url": "https://www.geretsried.de/de/familie-sport-kultur/sport/sportenwicklungsplanung-der-stadt-geretsried",
+        "score": 10
+      },
+      {
+        "titel": "Asyl & Integration",
+        "url": "https://www.geretsried.de/asyl",
+        "score": 10
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.geretsried.de/de/familie-sport-kultur/senioren",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.geretsried.de/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.geretsried.de/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gerhardshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57886267565",
+    "webseite": "http://www.gerhardshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.gerhardshofen.de/leben-erleben/freizeit-und-tourismus/vereine-und-verbaende/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit gestalten",
+        "url": "https://www.gerhardshofen.de/leben-erleben/freizeit-und-tourismus/freizeit-gestalten/",
+        "score": 10
+      },
+      {
+        "titel": "Naturpark Steigerwald",
+        "url": "https://www.gerhardshofen.de/leben-erleben/freizeit-und-tourismus/naturpark-steigerwald/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Germaringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74664044565",
+    "webseite": "https://www.germaringen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.germaringen.de/germaringen/gemeinde/freizeit/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.germaringen.de/germaringen/gemeinde/kultur/musik/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Germering",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64442360449",
+    "webseite": "http://www.germering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Leitfaden für Vereinsfeiern",
+        "url": "https://www.bayern.de/buergerservice/vereinsfeiern/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.germering.de/germering/site.nsf/id/pa_de_freizeit_+_kultur_freizeit_+_kultur.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.germering.de/germering/site.nsf/id/pa_de_vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Kulturamt",
+        "url": "https://www.germering.de/germering/site.nsf/id/pa_de_kulturamt.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.germering.de/germering/site.nsf/id/pa_de_freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturelle Einrichtungen",
+        "url": "https://www.germering.de/germering/site.nsf/id/pa_de_kulturelle_einrichtungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Kunst & Kultur",
+        "url": "https://www.germering.de/germering/site.nsf/id/pa_kunstundkultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereinbaren Sie einen Termin im Rathaus",
+        "url": "https://www.germering.de/germering/site.nsf/id/li_isssbmsf5m.html",
+        "score": 10
+      },
+      {
+        "titel": "Online-Terminvereinbarung Einwohnermeldeamt",
+        "url": "https://germering.konsentas.de/modules/ota_public/form/1/",
+        "score": 10
+      },
+      {
+        "titel": "Online-Terminvereinbarung Passamt",
+        "url": "https://germering.konsentas.de/modules/ota_public/form/3/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geroda",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91441821565",
+    "webseite": "http://www.geroda.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Geroldsgrün",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08219598566",
+    "webseite": "https://www.geroldsgruen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Tourismus + Freizeit",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungs­kalender",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub im Frankenwald",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/gastgeber-/-unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Märkte und Feste",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/maerkte-und-feste",
+        "score": 10
+      },
+      {
+        "titel": "Busfahrpläne / Bahn",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/busfahrplaene-/-bahn",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm Anmeldung",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/ferienprogramm-anmeldung",
+        "score": 10
+      },
+      {
+        "titel": "Geoportal Landkreis Hof",
+        "url": "https://www.geroldsgruen.de/tourismus-freizeit/geoportal-landkreis-hof",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geroldshausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24997375566",
+    "webseite": "http://www.geroldshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kirchen & Vereine",
+        "url": "https://www.geroldshausen.de/kirchen-vereine",
+        "score": 20
+      },
+      {
+        "titel": "V.I.O.LAWÜ",
+        "url": "https://www.geroldshausen.de/kirchen-vereine/v-i-o-law%C3%BC",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Gerolfingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41775152566",
+    "webseite": "http://www.gerolfingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Bildung",
+        "url": "https://www.gerolfingen.de/doku.php/kultur:kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gerolsbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58552929566",
+    "webseite": "http://www.gerolsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gerolzhofen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36220102457",
+    "webseite": "http://www.gerolzhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Alle Vereine",
+        "url": "https://www.gerolzhofen.de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gerolzhofen.de/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.gerolzhofen.de/kultur-freizeit_Kultur_und_Freizeit_5_kkmenue.html",
+        "score": 20
+      },
+      {
+        "titel": "Alle Vereine",
+        "url": "https://www.gerolzhofen.de/sportvereine_Vereine_293_kkmenue.html",
+        "score": 20
+      },
+      {
+        "titel": "Heimatkreisverein Bilin",
+        "url": "https://www.gerolzhofen.de/heimatkreisverein_Bilin_.html",
+        "score": 10
+      },
+      {
+        "titel": "Erinnerungskultur",
+        "url": "https://www.gerolzhofen.de/erinnerungskultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gerolzhofen.de/kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturschaffende",
+        "url": "https://www.gerolzhofen.de/kulturschaffende.html",
+        "score": 10
+      },
+      {
+        "titel": "GEO Kultur",
+        "url": "https://www.gerolzhofen.de/geo_kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gerolzhofen.de/freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.gerolzhofen.de/gewerbeverein.html",
+        "score": 10
+      },
+      {
+        "titel": "Heimatkreisverein Bilin",
+        "url": "https://www.gerolzhofen.de/heimatkreisverein-bilin_Heimatkreisverein_Bilin__221_kkmenue.html",
+        "score": 10
+      },
+      {
+        "titel": "Erinnerungskultur",
+        "url": "https://www.gerolzhofen.de/erinnerungskultur_Erinnerungskultur_458_kkmenue.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gerolzhofen.de/kultur_Kultur_283_kkmenue.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturschaffende",
+        "url": "https://www.gerolzhofen.de/kulturschaffende_Kulturschaffende_464_kkmenue.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gerolzhofen.de/freizeit_Freizeit_292_kkmenue.html",
+        "score": 10
+      },
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.gerolzhofen.de/gewerbeverein_Gewerbeverein_470_kkmenue.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gersthofen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92553391466",
+    "webseite": "http://www.gersthofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Vereine",
+        "url": "https://gersthofen.de/leben/freizeit/",
+        "score": 30
+      },
+      {
+        "titel": "Kultur in Gersthofen",
+        "url": "https://gersthofen.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://gersthofen.de/service/online-terminvereinbarung/",
+        "score": 10
+      },
+      {
+        "titel": "Termin vereinbaren\n\t\t\t\t\t\tBürger­service­zentrum",
+        "url": "https://gersthofen.saas.smartcjm.com/m/Gersthofen/extern/calendar/?uid=52951357-f2a6-4279-b7f9-0bb4ee7ab772&wsid=84e39ddb-f721-4f35-b7f5-0160f003ed4f&lang=de",
+        "score": 10
+      },
+      {
+        "titel": "Termin vereinbaren\n\t\t\t\t\t\tBürger­service­zentrum",
+        "url": "https://gersthofen.saas.smartcjm.com/m/Gersthofen/extern/calendar/?uid=52951357-f2a6-4279-b7f9-0bb4ee7ab772&wsid=0dfc8e44-49d0-4a9b-9bd0-873e143d439a&lang=de",
+        "score": 10
+      },
+      {
+        "titel": "Deutsche Meisterschaft: Ballonstart live in Gersthofen erleben\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tVom 12. bis 17. Mai 2026 findet in Gersthofen die Deutsche Meisterschaft für Gasballone statt – und ein ganz besonderes Jubiläum Anlässlich des 125-jährigen Jubiläums des Freiballonvereins Augsburg findet vom 12. bis 17. Mai 2026 die Deutsche Meisterschaft für Gasballone…\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\tWeiterlesen",
+        "url": "https://gersthofen.de/neuigkeiten/deutsche-meisterschaft-ballonstart-live-in-gersthofen-erleben/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://gersthofen.saas.smartcjm.com/m/Gersthofen/extern/calendar/?uid=52951357-f2a6-4279-b7f9-0bb4ee7ab772&wsid=40d5bc24-61f7-449f-a087-10a6c3805784&lang=de",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gerzen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75330706566",
+    "webseite": "http://www.gerzen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Gemeinde- und Vereinsleben",
+        "url": "https://www.gerzen.de/Gemeinde-und-Vereinsleben.n241.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gesees",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92108483566",
+    "webseite": "http://www.gesees.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gesees.de/vereine-und-verbaende-gesees",
+        "score": 60
+      },
+      {
+        "titel": "",
+        "url": "https://www.markgrafenkultur.de/?suche",
+        "score": 10
+      },
+      {
+        "titel": "Markgrafenkultur",
+        "url": "https://www.markgrafenkultur.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geslau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08886260567",
+    "webseite": "http://www.geslau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://geslau.de/gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Bildung & Kultur",
+        "url": "https://geslau.de/gemeinde/bildung-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://geslau.de/tourismus/freizeit-erholung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gessertshausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25664037567",
+    "webseite": "https://www.gessertshausen.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.gessertshausen.de/freizeit-und-naherholung/vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.gessertshausen.de/freizeit-und-naherholung/freizeit-und-sport/kulturkreis",
+        "score": 20
+      },
+      {
+        "titel": "Natur & Kultur",
+        "url": "https://www.gessertshausen.de/freizeit-und-naherholung/freizeit-und-sport/natur-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebot",
+        "url": "https://www.gessertshausen.de/leben-in-gessertshausen/angebote-fuer-senioren/freizeitangebot",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Naherholung",
+        "url": "https://www.gessertshausen.de/freizeit-und-naherholung/was-ist-los-in-gessertshausen/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gestratz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42441814567",
+    "webseite": "http://www.gestratz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Giebelstadt",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59219591567",
+    "webseite": "http://www.giebelstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Touristik, Kultur & Freizeit",
+        "url": "https://www.giebelstadt.de/seite/gs/markt/02:27:13/tn_27/Touristik_Kultur_und_Freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.giebelstadt.de/seite/de/markt/02/WB/Startseite.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.giebelstadt.de/seite/gs/markt/02:27:7655/tn_27/Vereinsleben.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gilching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75997368567",
+    "webseite": "https://www.gilching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Musik- und Kulturvereine",
+        "url": "https://www.gilching.de/gesellschaft-soziales/vereine/musik-und-kulturvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gilching.de/gesellschaft-soziales/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "sonstige Vereine / Arbeitsgemeinschaften",
+        "url": "https://www.gilching.de/gesellschaft-soziales/vereine/sonstige-vereine-arbeitsgemeinschaften/",
+        "score": 50
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.gilching.de/gesellschaft-soziales/vereine/sportvereine/",
+        "score": 50
+      },
+      {
+        "titel": "Schützengesellschaften",
+        "url": "https://www.gilching.de/gesellschaft-soziales/vereine/schuetzengesellschaften/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.gilching.de/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur im Rathaus",
+        "url": "https://www.gilching.de/kultur-freizeit/kultur-im-rathaus/",
+        "score": 20
+      },
+      {
+        "titel": "Musik im Rathaus",
+        "url": "https://www.gilching.de/kultur-freizeit/kultur-im-rathaus/musik-im-rathaus/",
+        "score": 20
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.gilching.de/kultur-freizeit/kultur-im-rathaus/ausstellungen/",
+        "score": 20
+      },
+      {
+        "titel": "Kinder- und Familienprogramm",
+        "url": "https://www.gilching.de/kultur-freizeit/kultur-im-rathaus/kinder-und-familienprogramm/",
+        "score": 20
+      },
+      {
+        "titel": "Sonderveranstaltungen",
+        "url": "https://www.gilching.de/kultur-freizeit/kultur-im-rathaus/sonderveranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "regelmäßige Feste und Veranstaltungen",
+        "url": "https://www.gilching.de/kultur-freizeit/veranstaltungskalender/regelmaessige-feste-und-veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Wochenmarkt",
+        "url": "https://www.gilching.de/kultur-freizeit/veranstaltungskalender/wochenmarkt/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungssaal",
+        "url": "https://www.gilching.de/kultur-freizeit/veranstaltungssaal/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungssaal & Foyer - auf einen Blick",
+        "url": "https://www.gilching.de/kultur-freizeit/veranstaltungssaal/veranstaltungssaal-foyer-auf-einen-blick/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Glashütten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92775145567",
+    "webseite": "http://www.glashuetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.glashuetten.de/leben-und-erleben/vereinsleben/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.glashuetten.de/leben-und-erleben/freizeit-und-sport/kreislehrgarten",
+        "score": 10
+      },
+      {
+        "titel": "Kneippanlage Glashütten",
+        "url": "https://www.glashuetten.de/leben-und-erleben/freizeit-und-sport/kneippanlage-glashuetten",
+        "score": 10
+      },
+      {
+        "titel": "Fitness an der Kneippanlage",
+        "url": "https://www.glashuetten.de/leben-und-erleben/freizeit-und-sport/fitness-an-der-kneippanlage",
+        "score": 10
+      },
+      {
+        "titel": "Sportangebote",
+        "url": "https://www.glashuetten.de/leben-und-erleben/freizeit-und-sport/sportangebote",
+        "score": 10
+      },
+      {
+        "titel": "Fremdenverkehrsverein",
+        "url": "https://www.glashuetten.de/leben-und-erleben/tourismus/fremdenverkehrsverein",
+        "score": 10
+      },
+      {
+        "titel": "Verein",
+        "url": "https://www.glashuetten.de/feuerwehr-glashuetten/verein",
+        "score": 10
+      },
+      {
+        "titel": "Infos",
+        "url": "https://www.glashuetten.de/feuerwehr-glashuetten/verein/infos",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.glashuetten.de/feuerwehr-glashuetten/verein/veranstaltungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Glattbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09552922568",
+    "webseite": "http://www.glattbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gleiritsch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26330699568",
+    "webseite": "https://www.gleiritsch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gleißenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43108476568",
+    "webseite": "https://www.gleissenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gleissenberg.de/freizeit-urlaub/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Heimat- und Kulturscheune",
+        "url": "https://gleissenberg.de/freizeit-urlaub/freizeitzentrum/hks/",
+        "score": 20
+      },
+      {
+        "titel": "Heimat- und Kulturscheune",
+        "url": "https://gleissenberg.de/https-gleissenberg-de-freizeit-urlaub-freizeitzentrum-hks/",
+        "score": 20
+      },
+      {
+        "titel": "Faschingsrückblick",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/faschingsrueckblick/",
+        "score": 10
+      },
+      {
+        "titel": "Bockbierfest",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/bockbierfest/",
+        "score": 10
+      },
+      {
+        "titel": "Osterbrunnen",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/osterbrunnen/",
+        "score": 10
+      },
+      {
+        "titel": "Maibaum",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/maibaum/",
+        "score": 10
+      },
+      {
+        "titel": "Johannifeuer",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/johannifeuer/",
+        "score": 10
+      },
+      {
+        "titel": "Kirta",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/kirta/",
+        "score": 10
+      },
+      {
+        "titel": "Weinfest",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/weinfest/",
+        "score": 10
+      },
+      {
+        "titel": "Volkstrauertag",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/volkstrauertag/",
+        "score": 10
+      },
+      {
+        "titel": "Dorfweihnacht",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/dorfweihnacht/",
+        "score": 10
+      },
+      {
+        "titel": "Heimatliches",
+        "url": "https://gleissenberg.de/leben-wohnen/brauchtum-kultur/heimatliches/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://gleissenberg.de/freizeit-urlaub/veranstaltungskalender/",
+        "score": 10
+      },
+      {
+        "titel": "Meranpark",
+        "url": "https://gleissenberg.de/freizeit-urlaub/meranpark/",
+        "score": 10
+      },
+      {
+        "titel": "Bikepark",
+        "url": "https://gleissenberg.de/freizeit-urlaub/freizeitzentrum/bikepark/",
+        "score": 10
+      },
+      {
+        "titel": "Naturweiher",
+        "url": "https://gleissenberg.de/freizeit-urlaub/freizeitzentrum/naturweiher/",
+        "score": 10
+      },
+      {
+        "titel": "Mehrzweckhalle",
+        "url": "https://gleissenberg.de/freizeit-urlaub/mehrzweckhalle/",
+        "score": 10
+      },
+      {
+        "titel": "Schullandheim",
+        "url": "https://gleissenberg.de/freizeit-urlaub/schullandheim/",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://gleissenberg.de/freizeit-urlaub/wanderwege/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Glött",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76664030568",
+    "webseite": "http://www.vgem-holzheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Glonn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59886253568",
+    "webseite": "https://marktgemeinde-glonn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Leitfaden Feste&Feiern",
+        "url": "https://www.bayern.de/buergerservice/vereinsfeiern/",
+        "score": 30
+      },
+      {
+        "titel": "Ruhebankerl",
+        "url": "https://p2-1.afp24.net/true1.php?id=kultb58uh39i97o9&sv=1",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Gmund a.Tegernsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93441807568",
+    "webseite": "https://www.gemeinde.gmund.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Vereine/Vereinsliste/",
+        "score": 30
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Informationen f�r Vereine",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Vereine/Informationen-f%C3%BCr-Vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturfonds",
+        "url": "https://www.gemeinde.gmund.de/Rathaus-B%C3%BCrgerservice/Gemeinde-als-F%C3%B6rderer/Kulturfonds/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur in Gmund",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/Kultur-in-Gmund/",
+        "score": 10
+      },
+      {
+        "titel": "B�cherei",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/B%C3%BCcherei/",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/Volkshochschule/",
+        "score": 10
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/Heimatmuseum/",
+        "score": 10
+      },
+      {
+        "titel": "Gemeindearchiv",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/Gemeindearchiv/",
+        "score": 10
+      },
+      {
+        "titel": "Neureuthersaal",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Kultur/Neureuthersaal/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Freizeitgestaltung-/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Freizeitgestaltung-/Gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Shopping und Einkaufen",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Freizeitgestaltung-/Shopping-und-Einkaufen/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.gemeinde.gmund.de/Leben-in-Gmund/Freizeitgestaltung-/Veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Baukulturregion",
+        "url": "https://www.gemeinde.gmund.de/Entwicklung-der-Gemeinde/Baukulturregion/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gnotzheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10219584569",
+    "webseite": "http://www.gnotzheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gochsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26997361569",
+    "webseite": "http://www.gochsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.gochsheim.de/leben-erleben/freizeit-erholung/vereine-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Gewerbevereinigung Gochsheim/Ufr.",
+        "url": "https://www.gochsheim.de/unsere-gemeinde/wirtschaft/gewerbevereinigung-gochsheim/ufr",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.gochsheim.de/leben-erleben/freizeit-erholung/freizeiteinrichtungen/-angebote",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.gochsheim.de/leben-erleben/freizeit-erholung/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusverbände",
+        "url": "https://www.gochsheim.de/leben-erleben/freizeit-erholung/tourismusverbaende",
+        "score": 10
+      },
+      {
+        "titel": "21.04.2026AktuellesPressemitteilungen Landratsamt Schweinfurt\n                            „Fit fürs Ehrenamt“: Workshop zur Nutzung von Soci…\n                        \n                            \n                                    Im kostenfreien Workshop am 20. Mai können sich Engagierte über die Nutzung von…\n                                \n                        \n                            Mehr lesen",
+        "url": "https://www.gochsheim.de/nachrichten/artikel/fit-fuers-ehrenamt-workshop-zur-nutzung-von-social-media-im-verein-am-20-mai",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Görisried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77330692569",
+    "webseite": "http://www.goerisried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gössenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94108469569",
+    "webseite": "http://www.goessenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gößweinstein",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10886246570",
+    "webseite": "http://www.goessweinstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.goessweinstein.de/vereine-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Fränkische Schweiz-Verein e.V.",
+        "url": "https://www.fsv-ev.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Goldbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43775138569",
+    "webseite": "http://www.markt-goldbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Goldkronach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40220074463",
+    "webseite": "https://www.goldkronach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gollhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60552915569",
+    "webseite": "http://www.gollhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gotteszell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27664023570",
+    "webseite": "http://www.gotteszell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "http://www.gotteszell.de/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Unterkunft",
+        "url": "http://www.gotteszell.de/kultur-freizeit/unterkunft/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "http://www.gotteszell.de/kultur-freizeit/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "http://www.gotteszell.de/kultur-freizeit/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Gotteszell-Kalvarienberg",
+        "url": "http://www.gotteszell.de/kultur-freizeit/wanderwege/gotteszell-kalvarienberg/",
+        "score": 20
+      },
+      {
+        "titel": "Gotteszell-Bischofsmais",
+        "url": "http://www.gotteszell.de/kultur-freizeit/wanderwege/gotteszell-bischofsmais/",
+        "score": 20
+      },
+      {
+        "titel": "Ökumenischer Kapellenweg",
+        "url": "http://www.gotteszell.de/kultur-freizeit/wanderwege/%C3%B6kumenischer-kapellenweg/",
+        "score": 20
+      },
+      {
+        "titel": "Rad & Wanderwege",
+        "url": "http://www.gotteszell.de/kultur-freizeit/rad-wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Zachenberg Tour",
+        "url": "http://www.gotteszell.de/kultur-freizeit/rad-wanderwege/zachenberg-tour/",
+        "score": 20
+      },
+      {
+        "titel": "Vogelsang Tour",
+        "url": "http://www.gotteszell.de/kultur-freizeit/rad-wanderwege/vogelsang-tour/",
+        "score": 20
+      },
+      {
+        "titel": "Mountainbike",
+        "url": "http://www.gotteszell.de/kultur-freizeit/rad-wanderwege/mountainbike/",
+        "score": 20
+      },
+      {
+        "titel": "Radtour",
+        "url": "http://www.gotteszell.de/kultur-freizeit/rad-wanderwege/radtour/",
+        "score": 20
+      },
+      {
+        "titel": "Ortsplan",
+        "url": "http://www.gotteszell.de/kultur-freizeit/ortsplan/",
+        "score": 20
+      },
+      {
+        "titel": "Historie Gotteszell",
+        "url": "http://www.gotteszell.de/kultur-freizeit/historie-gotteszell/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Gottfrieding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44441800570",
+    "webseite": "http://www.gottfrieding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Graben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61219577570",
+    "webseite": "https://www.graben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grabenstätt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77997354570",
+    "webseite": "https://www.grabenstaett.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.grabenstaett.de/familie-soziales/vereine-und-verbaende/vereinsregister",
+        "score": 80
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.grabenstaett.de/familie-soziales/vereine-und-verbaende/feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Museum zum Chiemgau-Impakt",
+        "url": "https://www.grabenstaett.de/freizeit-tourismus/kultur-erleben/museum-zum-chiemgau-impakt",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.grabenstaett.de/freizeit-tourismus/kultur-erleben/ausflugsziele",
+        "score": 20
+      },
+      {
+        "titel": "Brauchtum",
+        "url": "https://www.grabenstaett.de/freizeit-tourismus/kultur-erleben/brauchtum",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.grabenstaett.de/freizeit-tourismus/kultur-erleben/kirchen",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://grabenstaett.communicetime.de/terminbuchung/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung Online",
+        "url": "https://www.grabenstaett.de/rathaus-service/rathaus/terminvereinbarung-online",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gräfelfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94775131570",
+    "webseite": "https://www.graefelfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Geschirrmobil",
+        "url": "https://www.graefelfing.de/leben/vereine/geschirrmobil.html",
+        "score": 50
+      },
+      {
+        "titel": "Gemeindemobil",
+        "url": "https://www.graefelfing.de/leben/vereine/gemeindemobil.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.graefelfing.de/leben/vereinsuebersicht.html",
+        "score": 40
+      },
+      {
+        "titel": "Kultur- und Freizeiteinrichtungen",
+        "url": "https://www.graefelfing.de/leben/kultur-und-freizeiteinrichtungen.html",
+        "score": 20
+      },
+      {
+        "titel": "Kirchengemeinden",
+        "url": "https://www.graefelfing.de/leben/kultur-und-freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Termin Einwohnermeldeamt",
+        "url": "https://www.graefelfing-digital.de/terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Jugendhaus und Ferienbetreuung",
+        "url": "https://www.graefelfing.de/leben/familie-kinder-jugend/kinderbetreuung-ab-6/jugendfreizeitheim-und-ferienbetreuung.html",
+        "score": 10
+      },
+      {
+        "titel": "Lernen in der Freizeit",
+        "url": "https://www.graefelfing.de/leben/familie-kinder-jugend/schulen/lernen-in-der-freizeit.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gräfenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35553440456",
+    "webseite": "https://www.graefenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gräfendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11552908571",
+    "webseite": "https://www.graefendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grafenau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12775705447",
+    "webseite": "http://www.grafenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grafengehaig",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28330685571",
+    "webseite": "https://www.grafengehaig.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grafengehaig.de/leben-in-grafengehaig/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/kirchen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Wander- und Radwege",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/wander-und-radwege",
+        "score": 10
+      },
+      {
+        "titel": "Outdoorparc Frankenwald",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/outdoorparc-frankenwald",
+        "score": 10
+      },
+      {
+        "titel": "Bus- und Bahnverbindungen Verkehrsverbund Großraum Nürnberg",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/bus-und-bahnverbindungen-verkehrsverbund-grossraum-nuernberg",
+        "score": 10
+      },
+      {
+        "titel": "Marktgemeinderatssitzung",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/veranstaltungen/alle-veranstaltungen/veranstaltungsdetails?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=4516&cHash=106201e32b0dd75212e0fe8ab722af91",
+        "score": 10
+      },
+      {
+        "titel": "Himmelfahrtswanderung zum Gottesdienst im Freien und zur Himmelfahrtsfeier in Schlockenau",
+        "url": "https://www.grafengehaig.de/freizeit-tourismus/veranstaltungen/alle-veranstaltungen/veranstaltungsdetails?tx_calendarize_calendar%5Baction%5D=detail&tx_calendarize_calendar%5Bcontroller%5D=Calendar&tx_calendarize_calendar%5Bindex%5D=4403&cHash=3f883e8cc9e392f86ca99fb7eea2b617",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grafenrheinfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45108462571",
+    "webseite": "http://www.grafenrheinfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grafenwiesen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61886239571",
+    "webseite": "http://www.grafenwiesen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Veranstaltungen",
+        "url": "https://grafenwiesen.de/vereine-und-veranstaltungen/veranstaltungen-in-grafenwiesen/",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungen im Kötztinger Land",
+        "url": "https://grafenwiesen.de/vereine-und-veranstaltungen/veranstaltungen-im-koetztinger-land/",
+        "score": 50
+      },
+      {
+        "titel": "Familienfreibad",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/freizeit-aktivitaeten/familienfreibad/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus und Freizeit",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/urlaub-in-grafenwiesen/imagefilm-koetztinger-land/",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/urlaub-in-grafenwiesen/gastgeber/",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnisse online buchen",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/urlaub-in-grafenwiesen/erlebnisse-online-buchen/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/urlaub-in-grafenwiesen/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Anreise, Orstplan",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/kontakt-service/kontakt-anreise-ortsplan/",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub im Kötztinger Land",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/urlaub-im-koetztinger-land/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Aktivitäten",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/freizeit-aktivitaeten/zuendholzmuseum-grafenwiesen/",
+        "score": 10
+      },
+      {
+        "titel": "Greifvogelpark",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/freizeit-aktivitaeten/greifvogelpark/",
+        "score": 10
+      },
+      {
+        "titel": "Bogenparcours",
+        "url": "https://grafenwiesen.de/tourismus-und-freizeit/freizeit-aktivitaeten/bogenparcours/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grafenwöhr",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48331245450",
+    "webseite": "http://www.grafenwoehr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://grafenwoehr.de/stadt-und-buerger/unsere-stadt/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Förderung der Vereine",
+        "url": "https://grafenwoehr.de/stadt-und-buerger/rathaus/foerderung-der-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "FREIZEIT & KULTUR",
+        "url": "https://grafenwoehr.de/",
+        "score": 20
+      },
+      {
+        "titel": "Stadtführungen",
+        "url": "https://grafenwoehr.de/freizeit-kultur/kulturangebot/stadtfuehrungen/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur- und Militärmuseum",
+        "url": "https://grafenwoehr.de/freizeit-kultur/kulturangebot/museum/",
+        "score": 20
+      },
+      {
+        "titel": "Naturbühne Schönberg",
+        "url": "https://grafenwoehr.de/freizeit-kultur/kulturangebot/naturbuehne-schoenberg/",
+        "score": 20
+      },
+      {
+        "titel": "Rathaus & Marktplatz",
+        "url": "https://grafenwoehr.de/freizeit-kultur/kulturangebot/rathaus-marktplatz/",
+        "score": 20
+      },
+      {
+        "titel": "Wasserturm",
+        "url": "https://grafenwoehr.de/freizeit-kultur/kulturangebot/wasserturm/",
+        "score": 20
+      },
+      {
+        "titel": "Waldbad",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/waldbad/",
+        "score": 20
+      },
+      {
+        "titel": "Stadthalle",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/stadthalle/",
+        "score": 20
+      },
+      {
+        "titel": "Kinderspielplätze",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/kinderspielplaetze/",
+        "score": 20
+      },
+      {
+        "titel": "Mega Fun – Indoor Spielplatz",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/mega-fun-indoor-spielplatz/",
+        "score": 20
+      },
+      {
+        "titel": "Naturerlebnispfad Bierlohe",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/naturerlebnispfad-bierlohe/",
+        "score": 20
+      },
+      {
+        "titel": "Fußspurenpfad",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/fussspurenpfad/",
+        "score": 20
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://grafenwoehr.de/freizeit-kultur/sport-freizeit/rad-und-wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten / Lokale",
+        "url": "https://grafenwoehr.de/freizeit-kultur/gastronomie/gaststaetten-lokale/",
+        "score": 20
+      },
+      {
+        "titel": "Hotels / Pensionen",
+        "url": "https://grafenwoehr.de/freizeit-kultur/unterkuenfte/hotels-pensionen/",
+        "score": 20
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://grafenwoehr.de/freizeit-kultur/unterkuenfte/wohnmobilstellplaetze/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Grafing b.München",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46997921448",
+    "webseite": "https://www.grafing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grafling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78664016571",
+    "webseite": "https://www.grafling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.grafling.de/kultur/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grafrath",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95441793571",
+    "webseite": "https://www.vg-grafrath.de/gemeinde-grafrath/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-grafrath.de/gemeinde-kottgeisering/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-grafrath.de/gemeinde-schoengeising/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/kunst-und-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen und Spielplätze",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/sportanlagen-und-spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmbad",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/schwimmbad/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/buecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Walderlebniszentrum",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/walderlebniszentrum/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.vg-grafrath.de/gemeinde-grafrath/kultur-und-naherholung/ferienwohnungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grainau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12219570572",
+    "webseite": "http://www.gemeinde-grainau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grainet",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28997347572",
+    "webseite": "http://www.grainet.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grainet.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungskalender Vereinsforum Fürholz",
+        "url": "https://www.grainet.de/veranstaltungskalender-alte-schule/",
+        "score": 10
+      },
+      {
+        "titel": "LebenFreizeit",
+        "url": "https://www.grainet.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeittipps",
+        "url": "https://www.grainet.de/freizeittipps/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grasbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45775124572",
+    "webseite": "http://www.grasbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Vereine-Organinsationen",
+        "score": 40
+      },
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Vereine-Organinsationen/Vereine-Organisationen",
+        "score": 40
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://www.grasbrunn.de/de/erleben-geniessen/Vereine-Organinsationen/Verein-Organinsation?view=publish&item=club&id=1012",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.grasbrunn.de/de/erleben-geniessen/Vereine-Organinsationen/Verein-Organinsation?view=publish&item=club&id=1019",
+        "score": 20
+      },
+      {
+        "titel": "Redaktionsportal für Vereine",
+        "url": "https://www.grasbrunn.de/ceasy/serve/client/login",
+        "score": 20
+      },
+      {
+        "titel": "Ehrenamt - gemeinsam stark!",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Ehrenamt-gemeinsam-stark",
+        "score": 20
+      },
+      {
+        "titel": "Feuerwehren in Grasbrunn",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Ehrenamt-gemeinsam-stark/Feuerwehren-in-Grasbrunn",
+        "score": 20
+      },
+      {
+        "titel": "Schulweghelfer",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Ehrenamt-gemeinsam-stark/Schulweghelfer",
+        "score": 20
+      },
+      {
+        "titel": "Spielplatzpate",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Ehrenamt-gemeinsam-stark/Spielplatzpate",
+        "score": 20
+      },
+      {
+        "titel": "Ehrenamt in der Gemeindebücherei",
+        "url": "https://www.grasbrunn.de/de/Freizeit-Kultur/Ehrenamt-gemeinsam-stark/Ehrenamt-in-der-Gemeindebuecherei",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Grassau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62552901572",
+    "webseite": "https://www.grassau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grassau.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.grassau.de/sport-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub & Freizeit",
+        "url": "https://www.grassau.info/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grattersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79330678572",
+    "webseite": "http://www.grattersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Greding",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14109029449",
+    "webseite": "http://www.greding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.greding.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.greding.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Sport- und Freizeitbad",
+        "url": "https://www.greding.de/hallenbad/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturprogramm",
+        "url": "https://www.greding.de/kulturprogramm/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Greifenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96108455572",
+    "webseite": "http://www.greifenberg-ammersee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsportal",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/vereinsportal",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "BayernHistory App",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/bayernhistoryapp",
+        "score": 20
+      },
+      {
+        "titel": "Bayerische Seenschifffahrt",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/bayerische-seenschifffahrt",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/gaststaetten",
+        "score": 20
+      },
+      {
+        "titel": "Künstler in Greifenberg",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/kuenstler-in-greifenberg",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/tourismus",
+        "score": 20
+      },
+      {
+        "titel": "Sommerbad",
+        "url": "https://www.greifenberg-ammersee.de/kultur-freizeit/sommer-bad",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Greiling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12886232573",
+    "webseite": "http://www.gemeinde-greiling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.gemeinde-greiling.de/de/kultur-freizeit/vereine-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde-greiling.de/de/kultur-freizeit/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.gemeinde-greiling.de/de/kultur-freizeit/tourismus",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gemeinde-greiling.de/de/kultur-freizeit/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwegekonzept",
+        "url": "https://www.gemeinde-greiling.de/de/kultur-freizeit/wanderwegekonzept",
+        "score": 20
+      },
+      {
+        "titel": "Bodensee-Königssee-Radweg",
+        "url": "https://www.gemeinde-greiling.de/de/kultur-freizeit/bodensee-koenigssee-radweg",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-greiling.de/index.php?id=328",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Gremsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29664009573",
+    "webseite": "http://www.gremsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gremsdorf.de/freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://gremsdorf.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Weiherwanderung",
+        "url": "https://gremsdorf.de/freizeit/weiherwanderung/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://gremsdorf.de/freizeit/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Aischtalradweg",
+        "url": "https://gremsdorf.de/freizeit/aischtalradweg/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grettstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46441786573",
+    "webseite": "http://www.grettstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.grettstadt.de/",
+        "score": 20
+      },
+      {
+        "titel": "Mottospieltage 2026 Reit- und Freizeitverein Untereuerheim",
+        "url": "https://www.grettstadt.de/veranstaltungen/2883441/2026/05/16/mottospieltage-2026-reit-und-freizeitverein-untereuerheim.html",
+        "score": 20
+      },
+      {
+        "titel": "Reit- und Freizeitverein Untereuerheim",
+        "url": "https://www.grettstadt.de/verzeichnis/mandat.php?mandat=171444&kategorie=156",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.grettstadt.de/seite/286286/freizeitangebote.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Greußenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63219563573",
+    "webseite": "https://www.greussenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/vereinsleben/unsere-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Politische Verbände",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/vereinsleben/politische-verbaende",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit und Kultur",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/walderlebnisweg",
+        "score": 20
+      },
+      {
+        "titel": "Mehrzweckhalle",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/mehrzweckhalle",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/freizeitanlagen",
+        "score": 20
+      },
+      {
+        "titel": "Süsses Brünnle",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/suesses-bruennle",
+        "score": 20
+      },
+      {
+        "titel": "Radeln und Wandern",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/radeln-und-wandern",
+        "score": 20
+      },
+      {
+        "titel": "Kulturweg",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/kulturweg",
+        "score": 20
+      },
+      {
+        "titel": "GeDANKEnweg",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/gedankenweg",
+        "score": 20
+      },
+      {
+        "titel": "Bildstockweg",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/bildstockweg",
+        "score": 20
+      },
+      {
+        "titel": "Lichterweg",
+        "url": "https://www.greussenheim.de/freizeit-und-naherholung/freizeit-und-kultur/lichterweg",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Griesstätt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79997340573",
+    "webseite": "http://www.griesstaett.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.griesstaett.de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Wasserbeschaffungsverein",
+        "url": "https://www.griesstaett.de/wasserbeschaffungsverein.html",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.griesstaett.de/sport-und-freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.griesstaett.de/kunst-und-kultur.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gröbenzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96775117573",
+    "webseite": "https://www.groebenzell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Gröbenzeller Vereine",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/sport-freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Mietangebote der Gemeinde                \n                \n                                Veranstaltung, Feier, Vereinstreffen? Mieten Sie passende Räumlichkeiten.",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/sport-freizeit/mietangebote/",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindlicher Kindergarten „Wichtelhaus“ im Freizeitheim",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/familie-soziales/kinderbetreuung/kindergarten-wichtelhaus/",
+        "score": 10
+      },
+      {
+        "titel": "Bildung & Kultur",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/bildung-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Gemeindebücherei",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/bildung-kultur/gemeindebuecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturangebot",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/bildung-kultur/kulturangebot/",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/bildung-kultur/schulen/",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Kulturangebote",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/bildung-kultur/weitere-kulturangebote/",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/sport-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Sportflächen",
+        "url": "https://www.groebenzell.de/leben-in-groebenzell/sport-freizeit/sportflaechen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Großaitingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13552894574",
+    "webseite": "http://www.vg-grossaitingen.de/seite/de/verwaltungsgemeinschaft/035/-/Gemeinde_Grossaitingen.html",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verb�nde",
+        "url": "https://www.vg-grossaitingen.de/verein/vg/cms0605202616162631281652/-/-/vereine_searchresult",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsfeiern; Leitfaden der Bayerischen Staatskanzlei",
+        "url": "https://www.bayern.de/buergerservice/vereinsfeiern/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Großbardorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30330671574",
+    "webseite": "http://www.grossbardorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.grossbardorf.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.grossbardorf.de/kultur-freizeit/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Aktivitäten",
+        "url": "https://www.grossbardorf.de/kultur-freizeit/aktivitaeten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Großeibstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47108448574",
+    "webseite": "https://www.grosseibstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kulturvereine",
+        "url": "https://www.grosseibstadt.de/vereine/kulturverein",
+        "score": 60
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus/sonstige-vereine",
+        "score": 30
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.grosseibstadt.de/gemeinde/sportvereine",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusverband Haßberge",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus/tourismusverband-hassberge",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.grosseibstadt.de/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Großeibstädter \"Seelenstühle\"",
+        "url": "https://www.grosseibstadt.de/freizeitangebote/grosseibstaedter-seelenstuehle",
+        "score": 10
+      },
+      {
+        "titel": "Historische Dorfrunde",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus/historische-dorfrunde",
+        "score": 10
+      },
+      {
+        "titel": "Bewegung und Gesundheit",
+        "url": "https://www.grosseibstadt.de/freizeitangebote/bewegung-und-gesundheit",
+        "score": 10
+      },
+      {
+        "titel": "Fahrrad fahren",
+        "url": "https://www.grosseibstadt.de/freizeitangebote/fahrrad-fahren",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsmöglichkeiten",
+        "url": "https://www.grosseibstadt.de/freizeitangebote/ausflugsmoeglichkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.grosseibstadt.de/freizeit-tourismus/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.grosseibstadt.de/freizeitangebote/wintersport",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Großenseebach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63886225574",
+    "webseite": "http://www.grossenseebach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Großhabersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80664002574",
+    "webseite": "http://www.grosshabersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Großheirath",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97441779574",
+    "webseite": "http://www.grossheirath.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Großheubach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14219556575",
+    "webseite": "http://www.grossheubach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Veranstaltungen",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Termine",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/termine/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/termine/veranstaltung-melden/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Bolzplätze",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/sportanlagen/bolzplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Gelbe Welle",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/sportanlagen/gelbe-welle/",
+        "score": 10
+      },
+      {
+        "titel": "Mountainbike-Trial GH1",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/sportanlagen/mountainbike-trial-gh1/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/freizeit-erholung/",
+        "score": 10
+      },
+      {
+        "titel": "Biotop Mainaue",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/freizeit-erholung/biotop-mainaue/",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutzgebiet \"Mainhölle\"",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/freizeit-erholung/naturschutzgebiet-mainhoelle/",
+        "score": 10
+      },
+      {
+        "titel": "Bischofsberg",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/freizeit-erholung/bischofsberg/",
+        "score": 10
+      },
+      {
+        "titel": "Luna Park",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/freizeit-erholung/luna-park/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.grossheubach.de/freizeit-veranstaltungen/spielplaetze/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Großkarolinenfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30997333575",
+    "webseite": "http://www.grosskarolinenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/vereine/unsere-vereine",
+        "score": 60
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    18\n                                                Kesselfleischessen und Vereinstag  295-Jahrfeier",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/kesselfleischessen-und-vereinstag-295-jahrfeier/2026-05-18?cHash=27b8589aa5adb0a7956de326be7e25ea",
+        "score": 40
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    17\n                                                Festsonntag - Einzug der Vereine  295-Jahrfeier\n                                                                Festzelt Volksfestplatz",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/festsonntag-einzug-der-vereine-295-jahrfeier/2026-05-17?cHash=b05738127b9820480447158abca1daa0",
+        "score": 30
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    17\n                                                Festzug aller Vereine  295-Jahrfeier\n                                                                Ortsmitte Großkarolinenfeld",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/festzug-aller-vereine-295-jahrfeier/2026-05-17?cHash=b05738127b9820480447158abca1daa0",
+        "score": 30
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    07\n                                                –\n                                                        18\n                                                    295-Jahrfeier FFW Großkarolinenfeld, Theaterverein Großkarolinenfeld, TuS Großkarolinenfeld\n                                                                Volksfestplatz, Platz zwischen den Kirchen",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/295-jahrfeier-ffw-grosskarolinenfeld-theaterverein-grosskarolinenfeld-tus-grosskarolinenfeld/2026-05-07?cHash=bbb18d0c42e829f55d3ebb2dd739879d",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    14\n                                                Zielschießen - SV Soli\n                                                                Vereinsheim SV Solidarität",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/zielschiessen-sv-soli/2026-05-14?cHash=d48239cf2f3d983084d93291d13cdb0d",
+        "score": 20
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    06\n                                                Mannschaftsmeisterschaft - SV Soli\n                                                                Vereinsheim SV Solidarität",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/mannschaftsmeisterschaft-sv-soli/2026-06-06?cHash=3de8cb1866891bd24966cb15f684588d",
+        "score": 20
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    13\n                                                Frühjahrslehrfahrt Obst- Und Gartenbauverein\n                                                                Treffpunkt Sternstraße",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/fruehjahrslehrfahrt-obst-und-gartenbauverein/2026-06-13?cHash=f783cb89dc05bf60137d673cbf317c0a",
+        "score": 20
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    26\n                                                Radifest Obst- und Gartenbauverein\n                                                                Kolbererplatz",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/radifest-obst-und-gartenbauverein/2026-06-26?cHash=d4df95ed31fe690157c96939190ee2e6",
+        "score": 20
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    11\n                                                Dorfmeisterschaft Stockschützen\n                                                                Vereinsheim SV Solidarität",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/dorfmeisterschaft-stockschuetzen/2026-07-11?cHash=cfc9b0cf29cc4ceeeef766c85b50d757",
+        "score": 20
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    24\n                                                Kesselfleischessen\n                                                                SV Solidarität, Vereinsheim",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/kesselfleischessen/2026-07-24?cHash=7f4d1d64ff4b2e450a0220eec92a3794",
+        "score": 20
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    05\n                                                Brotzeitturnier Stockschützen\n                                                                Vereinsheim SV Solidarität",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/brotzeitturnier-stockschuetzen/2026-09-05?cHash=a91cb9a627a2be84bac26a7295787d31",
+        "score": 20
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    11\n                                                Herbstausflug Obst- und Gartenbauverein\n                                                                Treffpunkt Volksfestplatz",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/herbstausflug-obst-und-gartenbauverein/2026-09-11?cHash=062d54553559a76973da72edf48403ef",
+        "score": 20
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    16\n                                                Herbstversammlung Obst- und Gartenbauverein\n                                                                katholischer Pfarrsaal",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/herbstversammlung-obst-und-gartenbauverein/2026-10-16?cHash=0c959209efe8370d671918c7971543ff",
+        "score": 20
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    12\n                                                Adventsfeier Obst- und Gartenbauverein\n                                                                Kath. Pfarrsaal",
+        "url": "https://www.grosskarolinenfeld.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender/veranstaltung/adventsfeier-obst-und-gartenbauverein/2026-12-12?cHash=b66a14a8ba9426cb11a278d55e038cd8",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Großlangheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47775110575",
+    "webseite": "http://www.grosslangheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grosslangheim.de/lebendienstleistungen/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Genuß",
+        "url": "https://www.grosslangheim.de/kultur-genuss/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.grosslangheim.de/kultur-genuss/sehenswertes/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Rad- & Wanderwege",
+        "url": "https://www.grosslangheim.de/kultur-genuss/rad-wanderwege/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.grosslangheim.de/kultur-genuss/fhrungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.grosslangheim.de/kultur-genuss/spielpltze/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.grosslangheim.de/kultur-genuss/bernachten/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Genießen",
+        "url": "https://www.grosslangheim.de/kultur-genuss/genieen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Wein",
+        "url": "https://www.grosslangheim.de/kultur-genuss/wein/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Großmehring",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64552887575",
+    "webseite": "https://www.grossmehring.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Großostheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81330664575",
+    "webseite": "http://www.grossostheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Vereine.html",
+        "score": 40
+      },
+      {
+        "titel": "Bunker am Nordring",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Bunker+am+Nordring.html",
+        "score": 20
+      },
+      {
+        "titel": "Bäder",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/B%C3%A4der.html",
+        "score": 20
+      },
+      {
+        "titel": "Schwimmkurs ausgebucht",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/B%C3%A4der/Schwimmkurs+ausgebucht.html",
+        "score": 20
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/B%C3%BCcherei.html",
+        "score": 20
+      },
+      {
+        "titel": "Großostheim Gutschein",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Einkaufen/Gro%C3%9Fostheim+Gutschein.html",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten / Essen & Trinken",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Gastst%C3%A4tten+_+Essen+_+Trinken.html",
+        "score": 20
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/%C3%9Cbernachten.html",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Sport-+und+Veranstaltungsorte/Sportst%C3%A4tten.html",
+        "score": 20
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Wandern+_+Radfahren.html",
+        "score": 20
+      },
+      {
+        "titel": "Wein",
+        "url": "https://www.grossostheim.de/Freizeit+_+Kultur/Wein.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Großwallstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98108441575",
+    "webseite": "http://www.grosswallstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Großweil",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14886218576",
+    "webseite": "http://www.grossweil.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Solarfreibad Ohlstadt",
+        "url": "https://www.ohlstadt.de/tourismus-freizeit/sport-freizeit/schwimmen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Grub a.Forst",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31663995576",
+    "webseite": "http://www.grub-am-forst.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grünenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48441772576",
+    "webseite": "http://www.gruenenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Grünwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65219549576",
+    "webseite": "https://www.gemeinde-gruenwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gemeinde-gruenwald.de/leben-in-gruenwald/vereinsleben--freizeit/index.html",
+        "score": 40
+      },
+      {
+        "titel": "Grünwalder Freizeitpark GmbH",
+        "url": "https://www.gemeinde-gruenwald.de/leben-in-gruenwald/wirtschaft--gewerbe/gruenwalder-freizeitpark-gmbh/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Parteien | Vereinigungen",
+        "url": "https://www.gemeinde-gruenwald.de/leben-in-gruenwald/parteien/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/terminkalender/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur live",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/terminkalender/kultur-live-heft/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Grünwalder Konzerte",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/gruenwalder-konzerte/index.html",
+        "score": 10
+      },
+      {
+        "titel": "KlassikPlus",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/klassik-plus/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsorte",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/veranstaltungsorte/august-everding-saal/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerhaus Römerschanz",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/veranstaltungsorte/buergerhaus/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Burg Grünwald",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/veranstaltungsorte/burg/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/ausflugsziele/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Ortsgeschichte",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/ortsgeschichte/geschichte/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Vorgeschichte",
+        "url": "https://www.gemeinde-gruenwald.de/kultur/ortsgeschichte/vorgeschichte/index.html",
+        "score": 10
+      },
+      {
+        "titel": "07.05.\n                    Do\n                \n                \n                    Vortrag\n                \n                \n                    »Gabriel von Seidl und der Isartalverein: einst und jetzt«\n                \n                \n\tVortrag von Hella Neusiedl-Hub",
+        "url": "https://www.gemeinde-gruenwald.de/rathaus/veranstaltungskalender/index.html?ev%5Bid%5D=3992",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gstadt a.Chiemsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81997326576",
+    "webseite": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/gemeinde-gstadt-a-ch/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/einrichtungen/vereine-1",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/einrichtungen/vereine-2",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Natur",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/segelhafen",
+        "score": 10
+      },
+      {
+        "titel": "Strandbad Stadl",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/strandbad-stadl",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/naturschutz",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Natur",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/segelhafen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/naturschutz",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Natur",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/freizeit-und-natur/verhalten-auf-und-am-see",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/freizeit-und-natur/naturschutz",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Güntersleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32330657577",
+    "webseite": "http://www.guentersleben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/sport-freizeit-kultur/sportanlagen",
+        "score": 20
+      },
+      {
+        "titel": "Naherholung, Rad- & Wanderwege",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/sport-freizeit-kultur/naherholung-rad-wanderwege",
+        "score": 20
+      },
+      {
+        "titel": "Dürrbachpark",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/sport-freizeit-kultur/duerrbachpark",
+        "score": 20
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/sport-freizeit-kultur/grillplatz",
+        "score": 20
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    12\n                                                Maternusfest -  Turnier der Vereine\n                                                                Sportgelände",
+        "url": "https://www.guentersleben.de/veranstaltungen/veranstaltung/maternusfest-turnier-der-vereine/2026-09-12?cHash=c4e0d8c20c19fe0553e158648c6d8310",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/kultur-tourismus/kulturelle-angebote",
+        "score": 10
+      },
+      {
+        "titel": "Fairtrade Gemeinde",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/kultur-tourismus/fairtrade-gemeinde",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/kultur-tourismus/uebernachtungsmoeglichkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.guentersleben.de/lebenswert-wirtschaftsstark/kultur-tourismus/gastronomie",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Günzach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49108434577",
+    "webseite": "http://www.guenzach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.guenzach.de/buergerservice/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/sport-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung online",
+        "url": "https://www.vg-oberguenzburg.de/buergerservice-online/terminvereinbarung-online-1",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.guenzach.de/buergerservice/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Jugendvertretung",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/jugendvertretung",
+        "score": 10
+      },
+      {
+        "titel": "Dorfmuseum",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/dorfmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte/Gastgeberverzeichnis",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/unterkuenftegastgeberverzeichnis",
+        "score": 10
+      },
+      {
+        "titel": "Regionalverkehr",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/regionalverkehr",
+        "score": 10
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/freiwillige-feuerwehr",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/kirchen",
+        "score": 10
+      },
+      {
+        "titel": "Günzquelle",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/guenzquelle",
+        "score": 10
+      },
+      {
+        "titel": "Gillenmoos",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/gillenmoos",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.guenzach.de/kultur-und-tourismus/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Günzburg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03331210458",
+    "webseite": "https://www.guenzburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.guenzburg.de/kultur-feste/vereine-ehrenamt/vereinsregister/",
+        "score": 90
+      },
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.guenzburg.de/kultur-feste/vereine-ehrenamt/",
+        "score": 60
+      },
+      {
+        "titel": "Hallenbelegung",
+        "url": "https://www.guenzburg.de/kultur-feste/vereine-ehrenamt/hallenbelegung/",
+        "score": 60
+      },
+      {
+        "titel": "Ehrung Ehrenamtliche",
+        "url": "https://www.guenzburg.de/kultur-feste/vereine-ehrenamt/ehrung-ehrenamtliche/",
+        "score": 60
+      },
+      {
+        "titel": "Günzburger Sportpreis 2025",
+        "url": "https://www.guenzburg.de/kultur-feste/vereine-ehrenamt/guenzburger-sportpreis-2025/",
+        "score": 60
+      },
+      {
+        "titel": "Kulturtafel",
+        "url": "https://www.guenzburg.de/rathaus-buergerservice/familie-jugend/kulturtafel/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Feste",
+        "url": "https://www.guenzburg.de/kultur-feste/",
+        "score": 10
+      },
+      {
+        "titel": "Einrichtungen & Projekte",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbücherei",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/stadtbuecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/stadtarchiv/",
+        "score": 10
+      },
+      {
+        "titel": "Kultursommer",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/kultursommer/",
+        "score": 10
+      },
+      {
+        "titel": "Kunstpreis",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/kunstpreis/",
+        "score": 10
+      },
+      {
+        "titel": "Ehrung Kulturschaffender",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/ehrung-kulturschaffender/",
+        "score": 10
+      },
+      {
+        "titel": "Skulpturenpark",
+        "url": "https://www.guenzburg.de/kultur-feste/einrichtungen-projekte/skulpturenpark/",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.guenzburg.de/kultur-feste/feste-maerkte/",
+        "score": 10
+      },
+      {
+        "titel": "Glaubensgemeinschaften",
+        "url": "https://www.guenzburg.de/kultur-feste/glaubensgemeinschaften/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit\n                    \n                        \n                        Öffnet in einer neuen Registerkarte",
+        "url": "https://www.guenzburg-tourismus.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gundelfingen a.d.Donau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03997872459",
+    "webseite": "http://www.gundelfingen-donau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeittipps",
+        "url": "https://www.gundelfingen-donau.de/tourismus/freizeittipps/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gundelsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98775103576",
+    "webseite": "http://www.gemeinde-gundelsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gundremmingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15552880577",
+    "webseite": "http://www.gundremmingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gunzenhausen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87220095458",
+    "webseite": "https://gunzenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://gunzenhausen.de/vereine-und-verbaende.html",
+        "score": 50
+      },
+      {
+        "titel": "KulturHerbst",
+        "url": "https://www.ingunzenhausen.de/kulturherbst-gunzenhausen.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Guteneck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65886211577",
+    "webseite": "https://www.guteneck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.guteneck.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Einrichtungen & Vereine",
+        "url": "https://www.guteneck.de/buerger-gemeinde/einrichtungen-vereine/oeffentliche-einrichtungen/",
+        "score": 20
+      },
+      {
+        "titel": "Behörden & Dienstleistungen",
+        "url": "https://www.guteneck.de/buerger-gemeinde/einrichtungen-vereine/behoerden-dienstleistungen/",
+        "score": 20
+      },
+      {
+        "titel": "Familie & Freizeit",
+        "url": "https://www.guteneck.de/leben-wohnen/bildung-betreuung/schulen/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.guteneck.de/leben-wohnen/familie-freizeit/sport-spiel/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.guteneck.de/tourismus-kultur/touristik/naturpark-oberpfaelzer-wald/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusverbände",
+        "url": "https://www.guteneck.de/tourismus-kultur/touristik/tourismusverbaende/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.guteneck.de/tourismus-kultur/touristik/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.guteneck.de/tourismus-kultur/touristik/unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.guteneck.de/tourismus-kultur/geschichte/wappen/",
+        "score": 10
+      },
+      {
+        "titel": "Partnergemeinde",
+        "url": "https://www.guteneck.de/tourismus-kultur/geschichte/partnergemeinde/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gutenstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82663988577",
+    "webseite": "http://www.gutenstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/vereinsleben",
+        "score": 40
+      },
+      {
+        "titel": "Kultur im Kolb",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/kultur-im-kolb",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Gastronomie",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Bücherbus",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/buecherbus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/uebernachtungsmoeglichkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Dorfgemeinschaftshäuser",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/dorfgemeinschaftshaeuser",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Historische Bauwerke",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/historische-bauwerke",
+        "score": 10
+      },
+      {
+        "titel": "Museum für Archäologie",
+        "url": "https://www.gutenstetten.de/freizeit-gastronomie/museum-fuer-archaeologie",
+        "score": 10
+      }
+    ]
   }
 ]
