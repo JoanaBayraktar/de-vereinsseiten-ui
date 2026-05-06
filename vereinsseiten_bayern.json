@@ -30656,5 +30656,3492 @@
     "webseite": "http://www.markt-nordheim.de",
     "bundesland": "Bayern",
     "vereinsseiten": []
+  },
+  {
+    "name": "Markt Rettenbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70997053635",
+    "webseite": "http://www.markt-rettenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.markt-rettenbach.de/de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "http://www.markt-rettenbach.de/de/freizeit-gaeste/gastronomie.php",
+        "score": 10
+      },
+      {
+        "titel": "Unterkunft",
+        "url": "http://www.markt-rettenbach.de/de/freizeit-gaeste/unterkunft.php",
+        "score": 10
+      },
+      {
+        "titel": "Örtliche Freizeitanlagen",
+        "url": "http://www.markt-rettenbach.de/de/freizeit-gaeste/oeffentliche_freizeitanlagen.php",
+        "score": 10
+      },
+      {
+        "titel": "Pilgerwege",
+        "url": "http://www.markt-rettenbach.de/de/freizeit-gaeste/pilgerwege.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Markt Schwaben",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87774830635",
+    "webseite": "http://www.markt-schwaben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Markt Taschendorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04552607636",
+    "webseite": "http://www.markt-markt-taschendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Feuerwehr",
+        "url": "https://www.markt-markt-taschendorf.de/leben-bei-uns/vereine-und-feuerwehr/",
+        "score": 50
+      },
+      {
+        "titel": "Leben bei uns\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\tFeuerwehr, Vereine, Kirche, Kindergarten, Veranstaltungen, Geschichte/Historie, Ferienprogramm",
+        "url": "https://www.markt-markt-taschendorf.de/leben-bei-uns/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Markt Wald",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21330384636",
+    "webseite": "https://www.marktwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Gruppierungen",
+        "url": "https://www.marktwald.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.marktwald.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktbergel",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38108161636",
+    "webseite": "http://www.marktbergel.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://marktbergel.de/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://marktbergel.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktbreit",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75775614466",
+    "webseite": "https://www.marktbreit.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.marktbreit.de/vereine-organisationen",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.marktbreit.de/freizeit-tourismus/tourist-information",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktgraitz",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54885938636",
+    "webseite": "http://www.marktgraitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Sport",
+        "url": "https://www.marktgraitz.de/leben-erleben/vereine-sport/sport-freizeiteinrichtungen",
+        "score": 60
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.marktgraitz.de/leben-erleben/vereine-sport/vereine-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.marktgraitz.de/leben-erleben/angebote-fuer-senioren/freizeitangebote",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktheidenfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81108910474",
+    "webseite": "http://www.marktheidenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.stadt-marktheidenfeld.de/bildung-soziales/vereinsverzeichnis/",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "M2 – Freizeitbad am Maradies",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/freizeitbad/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtmarketing, Kultur und Tourismus",
+        "url": "https://www.stadt-marktheidenfeld.de/rathaus-und-buergerservice/aemter-und-abteilungen/stadtmarketing/",
+        "score": 10
+      },
+      {
+        "titel": "Touristinfo",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/touristinfo/",
+        "score": 10
+      },
+      {
+        "titel": "Infomaterial",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/infomaterial/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/uebernachten/",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/essen-trinken/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/fuehrungen/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/radfahren/",
+        "score": 10
+      },
+      {
+        "titel": "Bürger-Kultur-Stiftung",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/bks/",
+        "score": 10
+      },
+      {
+        "titel": "Laurenzi-Messe",
+        "url": "https://www.stadt-marktheidenfeld.de/kultur-tourismus/laurenzi-messe/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktl",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71663715636",
+    "webseite": "https://www.marktl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Marktleugast",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88441492636",
+    "webseite": "https://www.marktleugast.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marktleugast.de/leben-in-marktleugast/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.marktleugast.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/kirchen",
+        "score": 10
+      },
+      {
+        "titel": "Kunstwerke in Marktleugast",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/kunstwerke-in-marktleugast/hans-rucker",
+        "score": 10
+      },
+      {
+        "titel": "Entdeckertour Marktleugast",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/entdeckertour-marktleugast",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomien und Cafés",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/gastronomien-und-cafes",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Wander- und Radwege",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/wander-und-radwege",
+        "score": 10
+      },
+      {
+        "titel": "Bus- und Bahnverbindungen Verkehrsverbund Großraum Nürnberg",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/bus-und-bahnverbindungen-verkehrsverbund-grossraum-nuernberg",
+        "score": 10
+      },
+      {
+        "titel": "Bademöglichkeiten in der Umgebung",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/bademoeglichkeiten-in-der-umgebung",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitmöglichkeiten in der Umgebung",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/freizeitmoeglichkeiten-in-der-umgebung",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub im Kulmbacher Land",
+        "url": "https://www.marktleugast.de/freizeit-tourismus/urlaub-im-kulmbacher-land",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktleuthen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52997879457",
+    "webseite": "http://www.marktleuthen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine / Organisationen",
+        "url": "https://www.marktleuthen.de/mein-marktleuthen/vereine-organisationen",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitgestaltung / Sehenswürdigkeiten",
+        "url": "https://www.marktleuthen.de/touristik/freizeitgestaltung-sehenswuerdigkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktoberdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28108931470",
+    "webseite": "https://www.marktoberdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Touristik",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik",
+        "score": 10
+      },
+      {
+        "titel": "Bäder & Seen",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/baeder-seen",
+        "score": 10
+      },
+      {
+        "titel": "Buchel",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/buchel",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/essen-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Luitpold Parcours - Trimm-Dich-Pfad",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/Luitpold-Parcours",
+        "score": 10
+      },
+      {
+        "titel": "Minigolf",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/minigolf",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Turn- und Mehrzweckhallen",
+        "url": "https://www.marktoberdorf.de/freizeit-touristik/turn--und-mehrzweckhallen",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Bildung",
+        "url": "https://www.marktoberdorf.de/kultur-bildung",
+        "score": 10
+      },
+      {
+        "titel": "Jugendzentrum PION",
+        "url": "https://www.marktoberdorf.de/kultur-bildung/jugendzentrum-pion",
+        "score": 10
+      },
+      {
+        "titel": "Kindertagesstätten",
+        "url": "https://www.marktoberdorf.de/kultur-bildung/kindertagesstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.marktoberdorf.de/kultur-bildung/museen",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.marktoberdorf.de/kultur-bildung/schulen",
+        "score": 10
+      },
+      {
+        "titel": "Termin online vereinbaren",
+        "url": "https://termine-reservieren.de/termine/marktoberdorf/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktoffingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05219269637",
+    "webseite": "http://www.marktoffingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marktoffingen.de/index.php/freizeit-bildung/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Grundschule Marktoffingen",
+        "url": "https://www.marktoffingen.de/index.php/freizeit-bildung/grundschule-marktoffingen",
+        "score": 10
+      },
+      {
+        "titel": "Mehrzweckhalle Marktoffingen",
+        "url": "https://www.marktoffingen.de/index.php/freizeit-bildung/mehrzweckhalle-marktoffingen",
+        "score": 10
+      },
+      {
+        "titel": "Gasthäuser",
+        "url": "https://www.marktoffingen.de/index.php/freizeit-bildung/gasthaeuser",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktredwitz",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53664541458",
+    "webseite": "http://www.marktredwitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Marktrodach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21997046637",
+    "webseite": "http://www.marktrodach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://marktrodach.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Radeln & Mountainbiking",
+        "url": "https://marktrodach.de/freizeit/mountainbiking/",
+        "score": 10
+      },
+      {
+        "titel": "Nordic Walking",
+        "url": "https://marktrodach.de/freizeit/nordic-walking/",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmen im Rodach Beach",
+        "url": "https://marktrodach.de/freizeit/schwimmen/",
+        "score": 10
+      },
+      {
+        "titel": "Skilanglauf",
+        "url": "https://marktrodach.de/freizeit/skilanglauf/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://marktrodach.de/freizeit/wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Zeltplatz",
+        "url": "https://marktrodach.de/freizeit/zeltplatz/",
+        "score": 10
+      },
+      {
+        "titel": "Gleitschirm",
+        "url": "https://marktrodach.de/freizeit/gleitschirm/",
+        "score": 10
+      },
+      {
+        "titel": "Kneippkur",
+        "url": "https://marktrodach.de/freizeit/kneipkur/",
+        "score": 10
+      },
+      {
+        "titel": "Segelfliegen",
+        "url": "https://marktrodach.de/freizeit/segelfliegen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktschellenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38774823637",
+    "webseite": "https://gemeinde.marktschellenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde.marktschellenberg.de/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Marktschorgast",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55552600637",
+    "webseite": "http://www.marktschorgast.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marktschorgast.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "Bade- und Freizeitanlage",
+        "url": "https://www.marktschorgast.de/seite/337134/bade-und-freizeitanlage.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marktsteft",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60331161468",
+    "webseite": "https://www.marktsteft.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Marktzeuln",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72330377637",
+    "webseite": "http://www.marktzeuln.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.marktzeuln.de/leben-erleben/sport-freizeit/vereine-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    14\n                                                –\n                                                        16\n                                                    Wanderritt des Reit- und Fahrverein\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/reit-und-fahrverein-7/2026-05-14?cHash=1a4bce09f69f0cce09e39f8111af1bba",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    15\n                                                Geflügelzuchtverein - Monatsversammlung\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/gefluegelzuchtverein-7/2026-05-15?cHash=711d2c64c1258b9b2b2cee45ef0125ca",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    23\n                                                –\n                                                        24\n                                                    Geflügelzuchtverein - Pfingstfest\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/gefluegelzuchtverein-5/2026-05-23?cHash=e51e8f1f262d116b60080461ccfa5823",
+        "score": 20
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    19\n                                                Geflügelzuchtverein - Monatsversammlung\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/gefluegelzuchtverein-9/2026-06-19?cHash=4b2be8118d9ceee06fcf6cde26b41f52",
+        "score": 20
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    17\n                                                –\n                                                        18\n                                                    Gartenfest des Turn- und Sportvereins\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/turn-und-sportverein/2026-07-17?cHash=628929990666e03ab8bbbfc4c9e4c2bc",
+        "score": 20
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    26\n                                                Geflügelzuchtverein - Jungtierbesprechung\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/gefluegelzuchtverein-10/2026-09-26?cHash=0f8338b8608420c19ab9baa033497c5a",
+        "score": 20
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    16\n                                                Musikverein\n                                                                Marktzeuln",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/musikverein-2/2026-10-16?cHash=b08069b354467425d9f300b305203e0b",
+        "score": 20
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    17\n                                                Musikverein - Kerwesständerla",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender/veranstaltung/musikverein-kerwesstaenderla/2026-10-17?cHash=985756e402abe7664b2a72a9e47ec901",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.marktzeuln.de/leben-erleben/fuer-seniorinnen/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.marktzeuln.de/leben-erleben/sport-freizeit/wandern-radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Kulturelle Angebote",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/kulturelle-angebote",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.marktzeuln.de/leben-erleben/kultur-tourismus/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marloffstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89108154637",
+    "webseite": "http://www.marloffstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Wandern in und um Marloffstein",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/feuerwehr/",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten/Säle/Spielstätten",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/sportstaetten-saele-spielstaetten/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturbühne",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/kulturbuehne/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/gastronomie-und-uebernachtung/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://marloffstein.vg-uttenreuth.de/kultur-freizeit/sehenswuerdigkeiten/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Maroldsweisach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05885931638",
+    "webseite": "https://www.maroldsweisach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Marquartstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22663708638",
+    "webseite": "https://www.marquartstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marquartstein.de/buerger-dorfleben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.marquartstein.de/events/event/vereins-preisplattln-und-dirndldrahn/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Martinsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39441485638",
+    "webseite": "https://www.martinsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Marxheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56219262638",
+    "webseite": "http://www.gemeinde-marxheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Übernachten in Marxheim",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/uebernachten-in-marxheim",
+        "score": 20
+      },
+      {
+        "titel": "Das Ferienland",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/das-ferienland",
+        "score": 20
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/angeln",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Ruhebänke",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/ruhebaenke",
+        "score": 20
+      },
+      {
+        "titel": "Industriedenkmal Kalkofen Schweinspoint",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint",
+        "score": 20
+      },
+      {
+        "titel": "Freundeskreis Kalkofen Schweinspoint",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint/freundeskreis-kalkofen-schweinspoint",
+        "score": 20
+      },
+      {
+        "titel": "Bilder",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint/bilder",
+        "score": 20
+      },
+      {
+        "titel": "Hinweistafeln",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint/hinweistafeln",
+        "score": 20
+      },
+      {
+        "titel": "Das Kalkbrennen und -löschen",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint/das-kalkbrennen-und-loeschen",
+        "score": 20
+      },
+      {
+        "titel": "Video: Der Kalkbrenner vom Kochelsee",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint/video-der-kalkbrenner-vom-kochelsee",
+        "score": 20
+      },
+      {
+        "titel": "Presseberichte",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/industriedenkmal-kalkofen-schweinspoint/presseberichte",
+        "score": 20
+      },
+      {
+        "titel": "Mitfahrbank",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/mitfahrbank",
+        "score": 20
+      },
+      {
+        "titel": "Geschirrmobil",
+        "url": "https://gemeinde-marxheim.de/freizeit-kultur/geschirrmobil",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Marzling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72997039638",
+    "webseite": "https://www.marzling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maßbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89774816638",
+    "webseite": "http://www.massbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsdatenbank",
+        "url": "https://www.massbach.de/soziales/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Rhön",
+        "url": "https://www.rhoen.de/urlaub-kultur-ferien-wellness/geniessen-uebernachten/adressen/31146..html?detID=30178",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Massing",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06552593639",
+    "webseite": "http://www.massing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Schlaumeier-Verein e.V.",
+        "url": "http://www.schlaumeier-massing.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mauern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23330370639",
+    "webseite": "http://www.gemeinde-mauern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online Terminvereinbarung",
+        "url": "https://terminvereinbarung.vg-mauern.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mauerstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40108147639",
+    "webseite": "http://www.mauerstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.mauerstetten.de/freizeit-kultur/veranstaltungskalender/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mauth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56885924639",
+    "webseite": "http://www.mauth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maxhütte-Haidhof",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22775635462",
+    "webseite": "http://www.maxhuette-haidhof.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bildungsmesse 2026",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Bildungsmesse-2026/",
+        "score": 30
+      },
+      {
+        "titel": "B�rgerfest 2025",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/B%C3%BCrgerfest-2025/",
+        "score": 30
+      },
+      {
+        "titel": "Mineralien- und Fossilienausstellung",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Mineralien-und-Fossilienausstellung/",
+        "score": 30
+      },
+      {
+        "titel": "Sportlerehrung 2026",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Sportlerehrung-2026/",
+        "score": 30
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Sportvereine/",
+        "score": 30
+      },
+      {
+        "titel": "Stadthalle Maxh�tte-Haidhof",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Stadthalle-Maxh%C3%BCtte-Haidhof/",
+        "score": 30
+      },
+      {
+        "titel": "St�dtedreieckslauf 2026",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/St%C3%A4dtedreieckslauf-2026/",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungen und Termine",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Veranstaltungen-und-Termine/",
+        "score": 30
+      },
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Vereine-Organisationen/",
+        "score": 30
+      },
+      {
+        "titel": "Weihnachtsmarkt 2026 Bewerbungen",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Weihnachtsmarkt-2026-Bewerbungen/",
+        "score": 30
+      },
+      {
+        "titel": "Weihnachtsmarkt 2025",
+        "url": "https://www.maxhuette-haidhof.de/Leben-/Vereine-Freizeit-Events/Weihnachtsmarkt-2025/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Medlingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73663701639",
+    "webseite": "http://www.medlingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Kirche",
+        "url": "https://www.medlingen.de/",
+        "score": 20
+      },
+      {
+        "titel": "Bürgerhaus, Feuerwehrgerätehaus & Schützenverein",
+        "url": "https://www.medlingen.de/buergerhaus-untermedlingen/",
+        "score": 10
+      },
+      {
+        "titel": "Schützenverein Medlingen",
+        "url": "https://www.medlingen.de/schuetzenverein-medlingen/",
+        "score": 10
+      },
+      {
+        "titel": "Verein für Gartenbau und Landespflege",
+        "url": "https://www.medlingen.de/verein-fuer-gartenbau-und-landespflege/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Meeder",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90441478639",
+    "webseite": "https://www.gemeinde-meeder.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Bildung & Soziales",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/",
+        "score": 20
+      },
+      {
+        "titel": "Kindergärten",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/kindergaerten/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/kirchen/",
+        "score": 20
+      },
+      {
+        "titel": "Jugendpflege",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/jugendpflege/",
+        "score": 20
+      },
+      {
+        "titel": "Anna-B.-Eckstein-Schule",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/anna-b-eckstein-schule/",
+        "score": 20
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/feuerwehren/",
+        "score": 20
+      },
+      {
+        "titel": "Grund- und Mittelschule Bad Rodach",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/grund-und-mittelschule-bad-rodach/",
+        "score": 20
+      },
+      {
+        "titel": "Mittelschule am Lauterberg",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/mittelschule-am-lauterberg/",
+        "score": 20
+      },
+      {
+        "titel": "Wirtschaftsschule Coburg",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/wirtschaftsschule-coburg/",
+        "score": 20
+      },
+      {
+        "titel": "Sozialstation",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/bildung-soziales/sozialstation/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Der Sagenweg",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/der-sagenweg/",
+        "score": 20
+      },
+      {
+        "titel": "Friedensdankfest",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/friedensdankfest/",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/ausflugsziele/",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/unterkuenfte/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsrecht",
+        "url": "https://gemeinde-meeder.de/kultur-freizeit/veranstaltungen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Megesheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07219255640",
+    "webseite": "http://www.megesheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mehlmeisel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23997032640",
+    "webseite": "http://www.mehlmeisel.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.mehlmeisel.de/tourismus/sport-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mehring",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40774809640",
+    "webseite": "https://vg-mering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Meinheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57552586640",
+    "webseite": "https://www.meinheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Meitingen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74330363640",
+    "webseite": "https://www.meitingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Informationen für Vereine",
+        "url": "https://www.meitingen.de/freizeit-kultur/vereinsleben/informationen-fuer-vereine",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.meitingen.de/freizeit-kultur/vereinsleben/vereinsverzeichnis",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsverzeichnis - Änderungsmitteilung",
+        "url": "https://www.meitingen.de/freizeit-kultur/vereinsleben/vereinsverzeichnis-aenderungsmitteilung",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.meitingen.de/freizeit-kultur/vereinsleben",
+        "score": 50
+      },
+      {
+        "titel": "Anmeldung zum Ehrungsabend",
+        "url": "https://www.meitingen.de/freizeit-kultur/vereinsleben/anmeldung-zum-ehrungsabend",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.meitingen.de/freizeit-kultur/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.meitingen.de/freizeit-kultur/veranstaltungen/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsmeldung",
+        "url": "https://www.meitingen.de/freizeit-kultur/veranstaltungen/veranstaltungsmeldung",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.meitingen.de/freizeit-kultur/veranstaltungsraeume",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindliche Veranstaltungsräume",
+        "url": "https://www.meitingen.de/freizeit-kultur/veranstaltungsraeume/gemeindliche-veranstaltungsraeume",
+        "score": 20
+      },
+      {
+        "titel": "Sonstige Veranstaltungsräume",
+        "url": "https://www.meitingen.de/freizeit-kultur/veranstaltungsraeume/sonstige-veranstaltungsraeume",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.meitingen.de/freizeit-kultur/freizeitanlagen-naherholung/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Sportplätze und -anlagen",
+        "url": "https://www.meitingen.de/freizeit-kultur/freizeitanlagen-naherholung/sportplaetze-und-anlagen",
+        "score": 20
+      },
+      {
+        "titel": "Parks",
+        "url": "https://www.meitingen.de/freizeit-kultur/freizeitanlagen-naherholung/parks",
+        "score": 20
+      },
+      {
+        "titel": "Der Lech",
+        "url": "https://www.meitingen.de/freizeit-kultur/freizeitanlagen-naherholung/der-lech",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mellrichstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89886743462",
+    "webseite": "https://www.mellrichstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Jüdisches Leben",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/juedisches-leben",
+        "score": 20
+      },
+      {
+        "titel": "Kultur | Freizeit",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Dreifachturnhalle",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/dreifachturnhalle",
+        "score": 20
+      },
+      {
+        "titel": "Flowtrail",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/flowtrail",
+        "score": 20
+      },
+      {
+        "titel": "Frickenhäuser See",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/frickenhaeuser-see",
+        "score": 20
+      },
+      {
+        "titel": "Naherholungsgebiet",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/naherholungsgebiet-kirschgarten",
+        "score": 20
+      },
+      {
+        "titel": "Segelflugplatz",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/segelflugplatz",
+        "score": 20
+      },
+      {
+        "titel": "Skaterpark",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/skaterpark",
+        "score": 20
+      },
+      {
+        "titel": "Sportanlage",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/sportplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Streutal Parcours - 3D Bogenschießen",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/streutal-parcour-3d-bogenschiessen",
+        "score": 20
+      },
+      {
+        "titel": "Tennisplatz",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/freizeiteinrichtungen/tennisplatz",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/museen",
+        "score": 20
+      },
+      {
+        "titel": "Sportbad",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/sportbad",
+        "score": 20
+      },
+      {
+        "titel": "Stadtführungen",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/fuehrungen",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.mellrichstadt.de/?ncat=2242",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.mellrichstadt.de/kultur-freizeit/wandern",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Memmelsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91108140640",
+    "webseite": "https://www.memmelsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Memmingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74775971389",
+    "webseite": "http://www.memmingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Montag",
+        "url": "https://www.memmingen.de/kultur/veranstaltungen/regelmaessige-treffen/montag.html",
+        "score": 10
+      },
+      {
+        "titel": "Dienstag",
+        "url": "https://www.memmingen.de/kultur/veranstaltungen/regelmaessige-treffen/dienstag.html",
+        "score": 10
+      },
+      {
+        "titel": "Mittwoch",
+        "url": "https://www.memmingen.de/kultur/veranstaltungen/regelmaessige-treffen/mittwoch.html",
+        "score": 10
+      },
+      {
+        "titel": "Donnerstag",
+        "url": "https://www.memmingen.de/kultur/veranstaltungen/regelmaessige-treffen/donnerstag.html",
+        "score": 10
+      },
+      {
+        "titel": "Freitag",
+        "url": "https://www.memmingen.de/kultur/veranstaltungen/regelmaessige-treffen/freitag.html",
+        "score": 10
+      },
+      {
+        "titel": "Samstag",
+        "url": "https://www.memmingen.de/kultur/veranstaltungen/regelmaessige-treffen/samstag.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.memmingen.de/hier-leben/kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturnacht",
+        "url": "https://www.memmingen.de/hier-leben/kultur/kulturnacht.html",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.memmingen.de/hier-leben/sport-freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.memmingen.de/hier-leben/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Online Terminvereinbarungen",
+        "url": "https://memmingen.termine-reservieren.online/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Memmingerberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07885917641",
+    "webseite": "http://www.memmingerberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "GESUNDHEIT",
+        "url": "https://www.memmingerberg.de/index.php/familie-vereine/gesundheit",
+        "score": 20
+      },
+      {
+        "titel": "SPORTANLAGEN",
+        "url": "https://www.memmingerberg.de/index.php/familie-vereine/sportanlagen",
+        "score": 20
+      },
+      {
+        "titel": "SENIOREN",
+        "url": "https://www.memmingerberg.de/index.php/familie-vereine/senioren",
+        "score": 20
+      },
+      {
+        "titel": "FERIENPROGRAMM",
+        "url": "https://www.memmingerberg.de/index.php/familie-vereine/ferienprogramm",
+        "score": 20
+      },
+      {
+        "titel": "KIRCHEN",
+        "url": "https://www.memmingerberg.de/index.php/familie-vereine/kirchen",
+        "score": 20
+      },
+      {
+        "titel": "KEGELBAHN",
+        "url": "https://www.memmingerberg.de/index.php/familie-vereine/kegelbahn",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mengkofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24663694641",
+    "webseite": "https://www.mengkofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/veranstaltungen/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Feste und Märkte",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/veranstaltungen/feste-und-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Aitrachtaler Volksfest",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/veranstaltungen/aitrachtaler-volksfest",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/freizeit-und-sport/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/freizeit-und-sport/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/freizeit-und-sport/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.mengkofen.de/freizeit-und-sport/gastronomie-und-uebernachtung/essen-und-trinken",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Merching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41441471641",
+    "webseite": "https://www.gemeinde-merching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mering",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58219248641",
+    "webseite": "https://www.mering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Merkendorf",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36108875482",
+    "webseite": "http://www.merkendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.merkendorf.de/Rathaus-Buergerinfo/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen Highlights",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Veranstaltungen-Highlights.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitzentrum Weißbachmühle",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeitzentrum-Weissbachmuehle.html",
+        "score": 10
+      },
+      {
+        "titel": "Naturfreibad",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeitzentrum-Weissbachmuehle/Naturfreibad.html",
+        "score": 10
+      },
+      {
+        "titel": "Zeltplatz",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeitzentrum-Weissbachmuehle/Zeltplatz.html",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplatz",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeitzentrum-Weissbachmuehle/Wohnmobilstellplatz.html",
+        "score": 10
+      },
+      {
+        "titel": "Barfußpfad",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeitzentrum-Weissbachmuehle/Barfusspfad.html",
+        "score": 10
+      },
+      {
+        "titel": "Tagen und Feiern",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Tagen-und-Feiern.html",
+        "score": 10
+      },
+      {
+        "titel": "Tagen",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Tagen-und-Feiern/Tagen.html",
+        "score": 10
+      },
+      {
+        "titel": "Feiern",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Tagen-und-Feiern/Feiern.html",
+        "score": 10
+      },
+      {
+        "titel": "Bestuhlungsbeispiele",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Tagen-und-Feiern/Bestuhlungsbeispiele.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausstattung",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Tagen-und-Feiern/Ausstattung.html",
+        "score": 10
+      },
+      {
+        "titel": "Zu Gast",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Zu-Gast.html",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Zu-Gast/Uebernachtungsmoeglichkeiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Themen- und Erlebnisspielplatz",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Zu-Gast/Themen-und-Erlebnisspielplatz.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit aktiv",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeit-aktiv.html",
+        "score": 10
+      },
+      {
+        "titel": "Fränkisches Seenland",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeit-aktiv/Fraenkisches-Seenland.html",
+        "score": 10
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://www.merkendorf.de/Tourismus-Freizeit/Freizeit-aktiv/Angeln.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mertingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74997025641",
+    "webseite": "https://www.mertingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mespelbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91774802641",
+    "webseite": "http://www.mespelbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Dammbach/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Heimbuchenthal/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Mespelbrunn/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Zuschussrichtlinien für Vereine/Verbände",
+        "url": "https://www.vgem-mespelbrunn.de/Mespelbrunn/Freizeit-Kultur/Zuschussrichtlinien-f%C3%BCr-Vereine-Verb%C3%A4nde",
+        "score": 40
+      },
+      {
+        "titel": "Vereine der VG Mespelbrunn",
+        "url": "https://www.vgem-mespelbrunn.de/VGem-Mespelbrunn/Freizeit-Kultur/Vereine-der-VG-Mespelbrunn",
+        "score": 40
+      },
+      {
+        "titel": "Vereine der VG Mespelbrunn",
+        "url": "https://www.vgem-mespelbrunn.de/Dammbach/Freizeit-Kultur/Vereine-der-VG-Mespelbrunn",
+        "score": 40
+      },
+      {
+        "titel": "Zuschussrichtlinien für Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Dammbach/Freizeit-Kultur/Zuschussrichtlinien-f%C3%BCr-Vereine",
+        "score": 40
+      },
+      {
+        "titel": "",
+        "url": "https://www.vgem-mespelbrunn.de/Mespelbrunn",
+        "score": 40
+      }
+    ]
+  },
+  {
+    "name": "Metten",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08552579642",
+    "webseite": "https://www.markt-metten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-metten.de/freizeit-kultur-tourismus/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Bewegungsparcours am Eichenhain",
+        "url": "https://www.markt-metten.de/freizeit-kultur-tourismus/bewegungsparcours-am-eichenhain/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienregion Hirschenstein",
+        "url": "https://www.hirschenstein-bayerischer-wald.de/",
+        "score": 20
+      },
+      {
+        "titel": "Mettner Hof",
+        "url": "https://www.markt-metten.de/freizeit-kultur-tourismus/gastronomie-und-unterkuenfte/mettner-hof/",
+        "score": 20
+      },
+      {
+        "titel": "Pizza Zack Zack",
+        "url": "https://www.markt-metten.de/freizeit-kultur-tourismus/gastronomie-und-unterkuenfte/pizza-zack-zack/",
+        "score": 20
+      },
+      {
+        "titel": "Naturbad Metten",
+        "url": "https://www.markt-metten.de/freizeit-kultur-tourismus/naturbad-metten/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mettenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25330356642",
+    "webseite": "http://www.gemeinde-mettenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Mettenheimer Kulturfreunde",
+        "url": "https://www.kulturhof-mettenheim.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Michelau i.OFr.",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42108133642",
+    "webseite": "http://www.gemeinde-michelau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine Terminerfassung (Anmeldung)",
+        "url": "https://www.gemeinde-michelau.de/vereine-terminerfassung-anmeldung",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.gemeinde-michelau.de/index.php?id=0,28",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-michelau.de/Vereine.n15.html",
+        "score": 20
+      },
+      {
+        "titel": "Richtlinien über die Förderung von Vereinen",
+        "url": "https://www.gemeinde-michelau.de/richtlinien-ueber-die-foerderung-von-vereinen",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten und Freizeitanlagen",
+        "url": "https://www.gemeinde-michelau.de/Sportstaetten-und-Freizeitanlagen.n28.html",
+        "score": 10
+      },
+      {
+        "titel": "Oberfranken Offensiv e.V.",
+        "url": "https://www.oberfranken.de/de/oberfranken-offensiv/verein/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Michelau i.Steigerwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58885910642",
+    "webseite": "http://www.michelau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.michelau.de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.michelau.de/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.michelau.de/freizeit/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.michelau.de/freizeit/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Gästeführungen",
+        "url": "https://www.michelau.de/freizeit/gaestefuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://www.michelau.de/freizeit/wohnmobilstellplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.michelau.de/freizeit/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "BRUNNENSCHOPPEN - Weinbauverein",
+        "url": "https://www.michelau.de/termine/gemeinde/brunnenschoppen-weinbauverein-9",
+        "score": 10
+      },
+      {
+        "titel": "PANORAMATAG - Weinbauverein",
+        "url": "https://www.michelau.de/termine/gemeinde/panoramatag-weinbauverein-6",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Michelsneukirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75663687642",
+    "webseite": "http://www.michelsneukirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.michelsneukirchen.de/hier-leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.michelsneukirchen.de/hier-leben/sport-und-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mickhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92441464642",
+    "webseite": "http://www.mickhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Miesbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15442353451",
+    "webseite": "http://www.miesbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.miesbach.de/freizeit-und-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Kultur erleben",
+        "url": "https://www.miesbach-tourismus.de/kultur-erleben",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Miltach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09219241643",
+    "webseite": "http://www.miltach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sport, Freizeit & Erholung",
+        "url": "https://www.miltach.de/tourismus-betriebe/sport-freizeit-und-erholung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Miltenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88553419460",
+    "webseite": "https://www.miltenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mindelheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18664436481",
+    "webseite": "https://www.mindelheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsfeiern - Leitfaden",
+        "url": "https://www.bayernportal.de/dokumente/leistung/349521142742?plz=87719&behoerde=18664436481&gemeinde=667746270679",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mindelstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25997018643",
+    "webseite": "http://www.mindelstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mintraching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42774795643",
+    "webseite": "http://www.mintraching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.mintraching.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.mintraching.de/freizeit-kultur/sehenswertes/",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.mintraching.de/freizeit-kultur/tourismus/gaststaetten/",
+        "score": 20
+      },
+      {
+        "titel": "Quartiersuche Landkreis",
+        "url": "https://www.mintraching.de/freizeit-kultur/tourismus/quartiersuche-landkreis/",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung Bürgerbüro",
+        "url": "https://www.mintraching.de/rathaus/terminvereinbarung-buergerbuero/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung Bürgerbüro",
+        "url": "https://mintraching.auf-termin.de/buergerbuero",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Missen-Wilhams",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59552572643",
+    "webseite": "http://www.missen-wilhams.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Wintersportbericht",
+        "url": "https://missen-wilhams.de/winter/winterfreizeit",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://missen-wilhams.de/sport-freizeit/frauen-kinderlauf-missen-wilhams",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://missen-wilhams.de/sport-freizeit/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Familienfreibad",
+        "url": "https://missen-wilhams.de/sport-freizeit/familienfreibad",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitanlage",
+        "url": "https://missen-wilhams.de/sport-freizeit/freizeitanlage",
+        "score": 10
+      },
+      {
+        "titel": "Reiten",
+        "url": "https://missen-wilhams.de/sport-freizeit/reiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mistelbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76330349643",
+    "webseite": "http://www.mistelbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.mistelbach.de/Vereine-und-Verbaende.n45.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.mistelbach.de/Freizeit-und-Tourismus.n4.html",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.markgrafenkultur.de/?suche",
+        "score": 10
+      },
+      {
+        "titel": "Markgrafenkultur",
+        "url": "https://www.markgrafenkultur.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mistelgau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93108126643",
+    "webseite": "http://www.mistelgau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/vereinsleben",
+        "score": 40
+      },
+      {
+        "titel": "Gelebtes Brauchtum",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/vereinsleben/gelebtes-brauchtum",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/freizeit-und-sport/sportangebote",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes und Ausflugsziele",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/sehenswertes-und-ausflugsziele/sehenswuerdigkeiten-im-gemeindegebiet",
+        "score": 10
+      },
+      {
+        "titel": "Für Gäste und Einheimische",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/fuer-gaeste-und-einheimische/kleinanzeigen",
+        "score": 10
+      },
+      {
+        "titel": "Therme Obernsees",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/freizeit-und-sport/therme-obernsees",
+        "score": 10
+      },
+      {
+        "titel": "Fossiliengrube Mistelgau",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/freizeit-und-sport/fossiliengrube-mistelgau",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/freizeit-und-sport/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen und Kapellen",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/sehenswertes-und-ausflugsziele/kirchen-und-kapellen",
+        "score": 10
+      },
+      {
+        "titel": "Burgen und Schlösser",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/sehenswertes-und-ausflugsziele/burgen-und-schloesser",
+        "score": 10
+      },
+      {
+        "titel": "NaturKunstRaum Neubürg",
+        "url": "https://www.mistelgau.de/freizeit-und-tourismus/sehenswertes-und-ausflugsziele/naturkunstraum-neubuerg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mitteleschenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09885903644",
+    "webseite": "http://www.mitteleschenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.mitteleschenbach.de/Leben-Wohnen/Vereine-Verbaende.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.mitteleschenbach.de/Leben-Wohnen/Vereine-Verbaende/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Verbände",
+        "url": "https://www.mitteleschenbach.de/Leben-Wohnen/Vereine-Verbaende/Verbaende.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Anreise & Ortsplan",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Anreise-Ortsplan.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Veranstaltungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Freizeit/Wandern.html",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Freizeit/Radfahren.html",
+        "score": 10
+      },
+      {
+        "titel": "Audioguide",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Freizeit/Audioguide.html",
+        "score": 10
+      },
+      {
+        "titel": "Skilift",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Freizeit/Skilift.html",
+        "score": 10
+      },
+      {
+        "titel": "Region",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Region.html",
+        "score": 10
+      },
+      {
+        "titel": "Fränkisches Seenland",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Region/Fraenkisches-Seenland.html",
+        "score": 10
+      },
+      {
+        "titel": "Romantische Straße",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Region/Romantische-Strasse.html",
+        "score": 10
+      },
+      {
+        "titel": "Burgenstraße",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Region/Burgenstrasse.html",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Geschichte.html",
+        "score": 10
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Impressionen.html",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte & Gastronomie",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Unterkuenfte-Gastronomie.html",
+        "score": 10
+      },
+      {
+        "titel": "Mönchswaldhalle",
+        "url": "https://www.mitteleschenbach.de/Tourismus-Freizeit/Moenchswaldhalle.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mittelneufnach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26663680644",
+    "webseite": "http://www.mittelneufnach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mittelsinn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43441457644",
+    "webseite": "http://www.mittelsinn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mittelstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60219234644",
+    "webseite": "http://www.mittelstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.mittelstetten.de/vereine-mittelstetten",
+        "score": 70
+      },
+      {
+        "titel": "",
+        "url": "https://www.mittelstetten.de/muttertagsfest-des-madlvereins-2026?suche=",
+        "score": 30
+      },
+      {
+        "titel": "Ländlicher Garten",
+        "url": "https://www.mittelstetten.de/verein-laendlicher-garten",
+        "score": 10
+      },
+      {
+        "titel": "KBV Burschenverein",
+        "url": "https://www.mittelstetten.de/kbv-burschenverein",
+        "score": 10
+      },
+      {
+        "titel": "Schützenverein Mittelstetten",
+        "url": "https://www.mittelstetten.de/schuetzenverein-mittelstetten",
+        "score": 10
+      },
+      {
+        "titel": "Schützenverein Vogach",
+        "url": "https://www.mittelstetten.de/schuetzenverein-vogach",
+        "score": 10
+      },
+      {
+        "titel": "SC Tegernbach",
+        "url": "https://www.mittelstetten.de/sportverein-sv-tegernbach",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mittenwald",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76997011644",
+    "webseite": "http://www.markt-mittenwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mitterfels",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93774788644",
+    "webseite": "https://www.mitterfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.mitterfels.de/index.php/vereine",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.mitterfels.de/index.php/18-vereinsinfo/279-aktiv-in-mitterfels",
+        "score": 30
+      },
+      {
+        "titel": "Kultur & Veranstaltungen",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/kultur-veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Theateraufführungen",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/kultur-veranstaltungen/2014-10-14-15-22-20",
+        "score": 20
+      },
+      {
+        "titel": "Kunstausstellung",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/kultur-veranstaltungen/2014-10-14-15-22-55",
+        "score": 20
+      },
+      {
+        "titel": "Marktmeile",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/kultur-veranstaltungen/marktmeile",
+        "score": 20
+      },
+      {
+        "titel": "Christkindlmarkt",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/kultur-veranstaltungen/2014-10-14-15-24-17",
+        "score": 20
+      },
+      {
+        "titel": "Kulturbroschüre",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/kultur-veranstaltungen/343-kulturbroschuere",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Mitterfels kennenlernen",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/2016-01-01-13-43-48",
+        "score": 10
+      },
+      {
+        "titel": "Ortsportrait",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/2016-01-01-13-43-48/ortsportrait",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/2016-01-01-13-43-48/ortsportrait-2",
+        "score": 10
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/2016-01-01-13-43-48/impressionen",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte von Mitterfels",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/2016-01-01-13-43-48/geschichte-von-mitterfels",
+        "score": 10
+      },
+      {
+        "titel": "Virtueller Rundgang",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/2016-01-01-13-43-48/virtueller-rundgang",
+        "score": 10
+      },
+      {
+        "titel": "Burgmuseum",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/burgmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtung",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/uebernachtung",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.mitterfels.de/index.php/tourismus-freizeit/gastronomie",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mitterskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10552565645",
+    "webseite": "https://www.mitterskirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mitterskirchen.de/erleben/freizeit-und-sport/vereine/vereinsliste",
+        "score": 90
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.mitterskirchen.de/erleben/freizeit-und-sport/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "29.10.ab 20:00 UhrJahreshauptversammlung des Fördervereines der Feuerwehr",
+        "url": "https://www.mitterskirchen.de/erleben/veranstaltungen/veranstaltungskalender/veranstaltung/jahreshauptversammlung-des-foerdervereines-der-feuerwehr-234/2026-10-29?cHash=4d40a209a5971c0c6405e5b1ed8bbd35",
+        "score": 20
+      },
+      {
+        "titel": "Kultur, Genuss und Veranstaltungen",
+        "url": "https://www.mitterskirchen.de/erleben/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.mitterskirchen.de/leben-und-erleben/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.mitterskirchen.de/erleben/freizeit-und-sport/naturbad",
+        "score": 10
+      },
+      {
+        "titel": "Spiel- und Bolzplätze",
+        "url": "https://www.mitterskirchen.de/erleben/freizeit-und-sport/spiel-und-bolzplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Vereinsadresse melden",
+        "url": "https://www.mitterskirchen.de/adressen-melden/login/-out",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mitterteich",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39553412462",
+    "webseite": "https://www.mitterteich.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mitterteich.de/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Eissporthalle",
+        "url": "https://tourismus.mitterteich.de/freizeit-erlebnis/eissporthalle",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://tourismus.mitterteich.de/freizeit-erlebnis/baden/freibad-mitterteich",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://tourismus.mitterteich.de/freizeit-erlebnis/hallenbad",
+        "score": 10
+      },
+      {
+        "titel": "Museum Mitterteich",
+        "url": "https://tourismus.mitterteich.de/freizeit-erlebnis/museum",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://tourismus.mitterteich.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mitwitz",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27330342645",
+    "webseite": "http://www.mitwitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mitwitz.de/mitwitz/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Mödingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44108119645",
+    "webseite": "http://www.moedingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Möhrendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60885896645",
+    "webseite": "https://www.moehrendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine - Freizeit",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/vereine-freizeit",
+        "score": 60
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/vereine-freizeit/rad-und-wanderwege",
+        "score": 60
+      },
+      {
+        "titel": "Regnitzradweg",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/vereine-freizeit/regnitzradweg",
+        "score": 60
+      },
+      {
+        "titel": "Möhrendorfer Rundweg",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/vereine-freizeit/moehrendorfer-rundweg",
+        "score": 60
+      },
+      {
+        "titel": "Ortsinfo - Freizeit+Vereine",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine",
+        "score": 30
+      },
+      {
+        "titel": "Ortsinfo",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/ortsinfo",
+        "score": 30
+      },
+      {
+        "titel": "Wissenswertes über Möhrendorf",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/ortsinfo/wissenswertes-ueber-moehrendorf",
+        "score": 30
+      },
+      {
+        "titel": "Lage und Anbindung",
+        "url": "https://www.moehrendorf.de/ortsinfo-freizeit-vereine/ortsinfo/lage-und-anbindung",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Mömbris",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77663673645",
+    "webseite": "http://www.moembris.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mömlingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94441450645",
+    "webseite": "http://www.moemlingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Artenreiche Kulturlandschaft",
+        "url": "https://www.moemlingen.de/buergerservice/artenreiche-kulturlandschaft/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Grußwort",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/grusswort/",
+        "score": 10
+      },
+      {
+        "titel": "Unser Mömlingen",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/unser-moemlingen/geopark-pfad/",
+        "score": 10
+      },
+      {
+        "titel": "Königswald Erlebnis",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/unser-moemlingen/koenigswald-erlebnis/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/unser-moemlingen/sehenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Ortsplan/Straßenverzeichnis",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/unser-moemlingen/ortsplanstrassenverzeichnis/",
+        "score": 10
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/unser-moemlingen/museum/",
+        "score": 10
+      },
+      {
+        "titel": "Gemeindliche Einrichtungen",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/gemeindliche-einrichtungen/ludwig-ritter-halle/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei am Dorfplatz",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/gemeindliche-einrichtungen/buecherei-am-dorfplatz/",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/gastgeber/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.moemlingen.de/tourismus-freizeit/gastgeber/unterkuenfte/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mönchberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11219227646",
+    "webseite": "http://www.moenchberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.moenchberg.de/gemeinde-roellbach/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "kulturelle Veranstaltungen",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsmeldung",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/veranstaltungsmeldung/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/freizeiteinrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Beherbergungsbetriebe",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/beherbergungsbetriebe/",
+        "score": 10
+      },
+      {
+        "titel": "Churfranken Tourismus",
+        "url": "https://churfranken.de/index.html",
+        "score": 10
+      },
+      {
+        "titel": "ProSpessart",
+        "url": "https://www.prospessart.de/",
+        "score": 10
+      },
+      {
+        "titel": "Mönchberger Märchenpfad",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/moenchberger-maerchenpfad/",
+        "score": 10
+      },
+      {
+        "titel": "Mitfahrbank",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/mitfahrbank/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusinformation",
+        "url": "https://www.moenchberg.de/markt-moenchberg/freizeit-tourismus/tourismusinformation/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://www.moenchberg.de/markt-moenchberg/kultur-geschichte/",
+        "score": 10
+      },
+      {
+        "titel": "650jähriges Ortsjubiläum",
+        "url": "https://www.moenchberg.de/markt-moenchberg/kultur-geschichte/650jaehriges-ortsjubilaeum/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.moenchberg.de/markt-moenchberg/kultur-geschichte/buecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Krankenpflegeverein - Bürgerhilfe e.V. Mönchberg",
+        "url": "https://www.krankenpflegeverein-buergerhilfe-moenchberg.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mönchsdeggingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27997004646",
+    "webseite": "http://www.moenchsdeggingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moenchsdeggingen.de/index.php/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Jüdische Geschichte",
+        "url": "https://www.moenchsdeggingen.de/index.php/kultur/juedische-geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Bildstock Moses",
+        "url": "https://www.moenchsdeggingen.de/index.php/kultur/bildstock-moses",
+        "score": 10
+      },
+      {
+        "titel": "Heideallianz",
+        "url": "https://www.moenchsdeggingen.de/index.php/kultur/heideallianz",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mönchsroth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44774781646",
+    "webseite": "http://www.moenchsroth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/veranstaltungen/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Limesfreibad",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/limesfreibad/limesfreibad",
+        "score": 10
+      },
+      {
+        "titel": "Öffnungszeiten",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/limesfreibad/oeffnungszeiten",
+        "score": 10
+      },
+      {
+        "titel": "Eintrittspreise",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/limesfreibad/eintrittspreise",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/sehenswertes/limes-bei-moenchsroth",
+        "score": 10
+      },
+      {
+        "titel": "Limes Welterbe",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/sehenswertes/limes-welterbe",
+        "score": 10
+      },
+      {
+        "titel": "Limes Radweg",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/sehenswertes/limes-radweg",
+        "score": 10
+      },
+      {
+        "titel": "Sägweiher",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/saegweiher",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/buecherei",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Pensionen",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/gastronomie-pensionen",
+        "score": 10
+      },
+      {
+        "titel": "12052026Sitzung des GemeinderatsanschriftGemeindehaus Mönchsrothtime 19:00 UhrorganizerGemeinde MönchsrothTermin anzeigen",
+        "url": "https://www.moenchsroth.de/freizeit-erholung/veranstaltungen/421/sitzung-des-gemeinderats",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mörnsheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62219220647",
+    "webseite": "http://www.moernsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Meldung vom 17. Januar 2025 (10:33 Uhr)Neujahrsempfang in Mörnsheim – Marktgemeinde ehrt langjährig verdiente Vereinsmitglieder",
+        "url": "https://www.donaukurier.de/lokales/landkreis-eichstaett/neujahrsempfang-in-moernsheim-marktgemeinde-ehrt-langjaehrig-verdiente-vereinsmitglieder-17819927",
+        "score": 30
+      },
+      {
+        "titel": "Adventsfenster",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/veranstaltungen/adventsfenster/bewerbung/",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/gastgeber/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/wandern-radfahren/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Altmühltaler Lammauftrieb 2026",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/altmuehltaler-lamm-auftrieb/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen / Termine",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Kontakt",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/kontakt/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.moernsheim.de/urlaub-freizeit/ferienprogramm/",
+        "score": 10
+      },
+      {
+        "titel": "Meldung vom 10. April 2025 (09:15 Uhr)Burschenverein Frohsinn Mörnsheim stellt Weichen für 2025",
+        "url": "https://www.donaukurier.de/lokales/landkreis-eichstaett/burschenverein-frohsinn-moernsheim-stellt-weichen-fuer-2025-18395501",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Möttingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95774774647",
+    "webseite": "http://www.moettingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "07.08. - 08.08.75-jähriges Vereinsjubiläum - Egerschützen Enkingen",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/veranstaltungen/veranstaltungskalender/veranstaltung/75-jaehriges-vereinsjubilaeum-egerschuetzen-enkingen-339/2027-08-07?cHash=b7e70d48db015ae38ca8de4ff83bd7b4",
+        "score": 40
+      },
+      {
+        "titel": "Kultur und Ferienland",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/kultur-und-ferienland/das-ries",
+        "score": 20
+      },
+      {
+        "titel": "Naturdenkmäler",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/kultur-und-ferienland/naturdenkmaeler",
+        "score": 20
+      },
+      {
+        "titel": "Baudenkmäler",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/kultur-und-ferienland/baudenkmaeler",
+        "score": 20
+      },
+      {
+        "titel": "Rieskrater Planetenweg",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/kultur-und-ferienland/rieskrater-planetenweg",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/kultur-und-ferienland/museen",
+        "score": 20
+      },
+      {
+        "titel": "09.05.14:00 - 16:00Pflanzentauschbörse und Gartenflohmarkt des Obst- und Gartenbauverein Möttingen-Enkingen",
+        "url": "https://www.moettingen.de/freizeit-und-naherholung/veranstaltungen/veranstaltungskalender/veranstaltung/obst-und-gartenbauverein-moettingen-enkingen/2026-05-09?cHash=de689645dad642c05570dd6afd9d3f51",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mötzing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12552551648",
+    "webseite": "http://www.gemeinde-moetzing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.gemeinde-moetzing.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Heimatpflege",
+        "url": "https://www.gemeinde-moetzing.de/freizeit-kultur/heimatpflege/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitmöglichkeiten",
+        "url": "https://www.gemeinde-moetzing.de/freizeit-kultur/freizeitmoeglichkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Grosse-Laaber-Radweg",
+        "url": "https://www.gemeinde-moetzing.de/freizeit-kultur/freizeitmoeglichkeiten/grosse-laaber-radweg/",
+        "score": 20
+      },
+      {
+        "titel": "Via Nova",
+        "url": "https://www.gemeinde-moetzing.de/freizeit-kultur/via-nova/",
+        "score": 20
+      },
+      {
+        "titel": "30.04.2026\n\n                                                \n\n                                                Erweiterte Öffnungszeiten in der Zulassungsstelle des Landkreises\n                                            \n\n                                                \n\n                                                        Ab Donnerstag, 7. Mai 2026, ist die Kfz-Zulassungsstelle wieder uneingeschränkt für den Parteiverkehr geöffnet. Nach Abschluss der Umstrukturierungsmaßnahmen können Bürgerinnen und Bürger künftig an allen Öffnungstagen – auch am Donnerstagnachmittag – ohne vorherige Terminvereinbarung vorsprechen und eine Aufrufnummer ziehen.",
+        "url": "https://www.gemeinde-moetzing.de/aktuelles/aktuelle-meldungen/erweiterte-oeffnungszeiten-in-der-zulassungsstelle-des-landkreises/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Monheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70997753484",
+    "webseite": "http://www.monheim-bayern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.monheim-bayern.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.monheim-bayern.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur in der Stadt",
+        "url": "https://www.monheim-bayern.de/kultur-in-der-stadt/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.monheim-bayern.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit von A bis Z",
+        "url": "https://www.monheim-bayern.de/freizeit-einrichtungen/",
+        "score": 10
+      },
+      {
+        "titel": "SoMit Wanderungen 2026\n                    Liebe Wanderfreunde,\nauch für dieses Jahr hat der Verein SoMit e. V. in der Monheimer Alb ein Wanderprogramm zusammengestellt. Hiermit lade ich Sie herzlich zu unseren Terminen „Senioren wandern mit dem Verein SoMit e.V.“ ein.   Mehr...",
+        "url": "https://www.monheim-bayern.de/aktuelles/somit-wanderungen_2026-2635/",
+        "score": 10
+      },
+      {
+        "titel": "Großes Interesse an Fortbildung „How To Vereinsfeste“\n            Auf großes Interesse ist die Fortbildungsveranstaltung „How To Vereinsfeste“ des Landkreises gestoßen: 287 Ehrenamtliche aus dem gesamten Landkreis nahmen daran teil. Organisiert wurde die Schulung von der Ehrenamtsbeauftragten Karin Brechenmacher.\nLesen Sie mehr hierzu....Mehr",
+        "url": "https://www.monheim-bayern.de/aktuelles/grosses_interesse_an_fortbildu-2763/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Moorenweis",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61552558646",
+    "webseite": "https://www.moorenweis.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moorenweis.de/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.moorenweis.de/",
+        "score": 20
+      },
+      {
+        "titel": "Aktive Freizeit",
+        "url": "https://www.moorenweis.de/freizeit-und-kultur/aktive-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Bildung",
+        "url": "https://www.moorenweis.de/freizeit-und-kultur/bildung/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.moorenweis.de/ferienprogramm/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.moorenweis.de/freizeit-und-kultur/kirchen/",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.moorenweis.de/freizeit-und-kultur/spielplaetze/",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.moorenweis.de/freizeit-und-kultur/sportstaetten/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Moos",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78330335646",
+    "webseite": "https://www.gemeinde-moos.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine\n                                \n                                                            der Motor von Moos!",
+        "url": "https://www.gemeinde-moos.de/leben-in-moos/vereinsverzeichnis/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur / Freizeit / Tourismus",
+        "url": "https://www.gemeinde-moos.de/kultur-freizeit-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.gemeinde-moos.de/kultur-freizeit-tourismus/gaststaetten/",
+        "score": 20
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.gemeinde-moos.de/kultur-freizeit-tourismus/radwege/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturreferat",
+        "url": "https://www.gemeinde-moos.de/kultur-freizeit-tourismus/kulturreferat/",
+        "score": 20
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.gemeinde-moos.de/kultur-freizeit-tourismus/impressionen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Moosach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95108112646",
+    "webseite": "https://moosach.info",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Gewerbe",
+        "url": "https://moosach.info/vereinskartell.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://moosach.info/kultur.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Moosbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11885889647",
+    "webseite": "https://www.moosbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moosbach.de/vereine.htm",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Moosburg a.d.Isar",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06664520463",
+    "webseite": "http://www.moosburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Moosinning",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28663666647",
+    "webseite": "https://www.moosinning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moosinning.de/erleben/vereine/vereinsregister",
+        "score": 80
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.moosinning.de/erleben/vereine/vereinsleben",
+        "score": 70
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.moosinning.de/erleben/vereine/feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Tierheim",
+        "url": "https://www.moosinning.de/leben/mensch-und-tier/vereins-und-tierheim",
+        "score": 30
+      },
+      {
+        "titel": "Terminbuchung online",
+        "url": "https://www.moosinning.de/buergerservice-politik/terminbuchung-online/termin-vereinbaren",
+        "score": 10
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.moosinning.de/leben/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.moosinning.de/erleben/freizeit-und-sport/freizeit-und-sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.moosinning.de/erleben/freizeit-und-sport/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Verschiedenes",
+        "url": "https://www.moosinning.de/erleben/freizeit-und-sport/verschiedenes",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Moosthenning",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45441443647",
+    "webseite": "http://www.moosthenning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.moosthenning.de/Vereine.n45.html",
+        "score": 40
+      },
+      {
+        "titel": "",
+        "url": "https://www.moosthenning.de/vereinleeben?suche=",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Motten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78996997647",
+    "webseite": "http://www.motten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.motten.de/gemeinde/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus / Freizeit",
+        "url": "https://www.motten.de/tourismus/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitaktivitäten",
+        "url": "https://www.motten.de/tourismus/neuer-ordner/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühldorf a.Inn",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83886785453",
+    "webseite": "https://www.muehldorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mühlhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29330328648",
+    "webseite": "https://www.muehlhausen-sulz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Jugend, Senioren, Hilfe & Vereine",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Jugend",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine/jugend",
+        "score": 20
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine/senioren",
+        "score": 20
+      },
+      {
+        "titel": "Nachbarschaftshilfe",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine/nachbarschaftshilfe",
+        "score": 20
+      },
+      {
+        "titel": "GIB Park",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine/gib-park",
+        "score": 20
+      },
+      {
+        "titel": "Krisendienst Oberpfalz",
+        "url": "https://www.muehlhausen-sulz.de/leben-and-soziales/jugend-senioren-hilfe-vereine/krisendienst-oberpfalz",
+        "score": 20
+      },
+      {
+        "titel": "Kunst und Kultur im Schloss Wappersdorf e. V.",
+        "url": "https://www.muehlhausen-sulz.de/freizeit-and-tourismus/sehenswertes/kunst-und-kultur-im-schloss-wappersdorf-e-v",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.muehlhausen-sulz.de/freizeit-and-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.muehlhausen-sulz.de/freizeit-and-tourismus/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Landl-Museum",
+        "url": "https://www.muehlhausen-sulz.de/freizeit-and-tourismus/sehenswertes/landl-museum",
+        "score": 10
+      },
+      {
+        "titel": "Arnold-Austellung",
+        "url": "https://www.muehlhausen-sulz.de/freizeit-and-tourismus/sehenswertes/arnold-austellung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühlhausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46108105648",
+    "webseite": "http://www.markt-muehlhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Münchberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96553363472",
+    "webseite": "https://www.muenchberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "München",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88887100385",
+    "webseite": "https://stadt.muenchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Münchsmünster",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79663659648",
+    "webseite": "https://www.muenchsmuenster.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.muenchsmuenster.de/ortsplan/?jsf=jet-engine:stadtplan-query-id&tax=adressen-kategorie:875",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Münchsteinach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96441436648",
+    "webseite": "http://www.muenchsteinach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "http://www.muenchsteinach.de/home/wohnen-leben/vereine-und-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Treffpunkt Kulturscheune",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/treffpunkt-kulturscheune",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Münchsteinach in Bild und Ton",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/muenchsteinach-in-bild-und-ton",
+        "score": 10
+      },
+      {
+        "titel": "Steigerwald Camping",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/steigerwald-camping",
+        "score": 10
+      },
+      {
+        "titel": "Steigerwald Mineralbad",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/steigerwald-mineralbad-neu",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/freizeiteinrichtungen/platz-der-generationen",
+        "score": 10
+      },
+      {
+        "titel": "Museen und Ausstellungen",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/museen-und-ausstellungen",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "CVJM",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/cvjm",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Radwege erforschen",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/radwege-erforschen",
+        "score": 10
+      },
+      {
+        "titel": "regionale Erlebnisse",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/regionale-erlebnisse",
+        "score": 10
+      },
+      {
+        "titel": "Downloads zum mitnehmen",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/downloads-zum-mitnehmen",
+        "score": 10
+      },
+      {
+        "titel": "Spielenachm. Diakonieverein",
+        "url": "http://www.muenchsteinach.de/home/news/event-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=739&cHash=ba69b029a39682f083fc7a78fe0445ff",
+        "score": 10
+      },
+      {
+        "titel": "Dorf- und Feuerwehrverein Altershausen Pfingstfahrt ins Blaue",
+        "url": "http://www.muenchsteinach.de/home/news/event-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=737&cHash=21b3c8a795e433c265436a069b469f53",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "http://www.muenchsteinach.de/home/freizeit-tourismus/sehenswuerdigkeiten/virtuelles-st-nikolaus-muenster",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Münnerstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86553433457",
+    "webseite": "https://www.muennerstadt.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Museum",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/museum/",
+        "score": 10
+      },
+      {
+        "titel": "Vinculum",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/museum/vinculum/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Jugendzeltplatz und Wohnmobilstellplätze",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/jugendzeltplatz-und-wohnmobilstellplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv sein",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/aktiv-sein/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern in und um Münnerstadt",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/aktiv-sein/wandern-in-und-um-muennerstadt/",
+        "score": 10
+      },
+      {
+        "titel": "Radwege in und um Münnerstadt",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/aktiv-sein/radwege-in-und-um-muennerstadt/",
+        "score": 10
+      },
+      {
+        "titel": "Golf Club Maria Bildhausen",
+        "url": "https://www.maria-bildhausen.de/",
+        "score": 10
+      },
+      {
+        "titel": "TSV Münnerstadt 1863 e.V.",
+        "url": "https://www.tsv-muennerstadt.de/",
+        "score": 10
+      },
+      {
+        "titel": "Flyer & Broschüren",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/flyer-broschueren/",
+        "score": 10
+      },
+      {
+        "titel": "Flyer & Broschüren bestellen",
+        "url": "https://www.muennerstadt.de/freizeit-tourismus/flyer-broschueren/flyer-broschueren-bestellen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Münsing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29996990649",
+    "webseite": "https://www.muensing.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.muensing.de/unsere-gemeinde/kunst-und-kultur/franz-graf-von-pocci",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.muensing.de/tourismus-freizeit/was-ist-los-in-muensing/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Natur genießen",
+        "url": "https://www.muensing.de/tourismus-freizeit/natur-geniessen/nordic-walking-park",
+        "score": 10
+      },
+      {
+        "titel": "Tagen und feiern - MICE",
+        "url": "https://www.muensing.de/tourismus-freizeit/buergerhaus-/-pallaufsaal/tagen-und-feiern-mice",
+        "score": 10
+      },
+      {
+        "titel": "Kosten Saalanmietung",
+        "url": "https://www.muensing.de/tourismus-freizeit/buergerhaus-/-pallaufsaal/kosten-saalanmietung",
+        "score": 10
+      },
+      {
+        "titel": "Nutzungsbedarfsanmeldungen",
+        "url": "https://www.muensing.de/tourismus-freizeit/buergerhaus-/-pallaufsaal/nutzungsbedarfsanmeldungen",
+        "score": 10
+      },
+      {
+        "titel": "Betriebs- und Benutzungsverordnung",
+        "url": "https://www.muensing.de/tourismus-freizeit/buergerhaus-/-pallaufsaal/betriebs-und-benutzungsverordnung",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.muensing.de/tourismus-freizeit/tourismus/essen-und-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.muensing.de/tourismus-freizeit/tourismus/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Schild: \"Saubere Wiesen\"",
+        "url": "https://www.muensing.de/tourismus-freizeit/tourismus/schild-saubere-wiesen",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus Tölzer Land",
+        "url": "https://www.muensing.de/tourismus-freizeit/tourismus/tourismus-toelzer-land",
+        "score": 10
+      }
+    ]
   }
 ]
