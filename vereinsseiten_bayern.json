@@ -46348,5 +46348,3537 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Sand a.Main",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01552278707",
+    "webseite": "http://www.sand-am-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Soziales",
+        "url": "https://www.sand-am-main.de/index.php?id=17877",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.sand-am-main.de/index.php?id=17907",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Sandberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18330055707",
+    "webseite": "https://www.sandberg-rhoen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Sankt Englmar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35107832707",
+    "webseite": "https://gemeinde.sankt-englmar.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde.sankt-englmar.de/einrichtungen/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Sankt Oswald-Riedlhütte",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51885609707",
+    "webseite": "http://www.sankt-oswald-riedlhuette.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Sankt Wolfgang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68663386707",
+    "webseite": "http://www.st-wolfgang-ob.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Sauerlach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85441163707",
+    "webseite": "http://www.sauerlach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/vereinsleben",
+        "score": 40
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/vereinsleben/ehrenamt",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.sauerlach.de/leben-in-sauerlach/fuer-senioren-und-menschen-mit-behinderung/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Naherholung",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Mehrzweckhalle",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/veranstaltungen/mehrzweckhalle",
+        "score": 10
+      },
+      {
+        "titel": "Sport- und Freizeitangebote",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/sport-und-freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/sport-und-freizeitangebote/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Radeln und Wandern",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/sport-und-freizeitangebote/radeln-und-wandern",
+        "score": 10
+      },
+      {
+        "titel": "Bademöglichkeiten",
+        "url": "https://www.sauerlach.de/freizeit-und-naherholung/sport-und-freizeitangebote/bademoeglichkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Saulgrub",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02218940708",
+    "webseite": "https://www.gemeinde-saulgrub.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-saulgrub.de/leben-in-saulgrub/vereinsleben",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Schäftlarn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18996717708",
+    "webseite": "http://www.schaeftlarn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schalkham",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35774494708",
+    "webseite": "http://www.gerzen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Gemeinde- und Vereinsleben",
+        "url": "https://www.gerzen.de/Gemeinde-und-Vereinsleben.n241.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schauenstein",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33442227478",
+    "webseite": "http://www.schauenstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/vereine.html",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/veranstaltungskalender.html",
+        "score": 10
+      },
+      {
+        "titel": "Museen und Sehenswürdigkeiten",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/museen-und-sehenswuerdigkeiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/sport-und-freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/gastronomie.html",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/unterkuenfte.html",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.schauenstein.de/tourismus-und-freizeit/veranstaltungskalender.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=944&cHash=1c4a27525e966ce8cb5ebaf0274a000b",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schaufling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52552271708",
+    "webseite": "https://gemeindeschaufling.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeindeschaufling.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Selfie-Zeit beim Gipfeltreffen – Bürgermeister und Vereinsvorstände beraten sich",
+        "url": "https://gemeindeschaufling.de/selfie-zeit-beim-gipfeltreffen-buergermeister-und-vereinsvorstaende-beraten-sich/",
+        "score": 30
+      },
+      {
+        "titel": "ILE Sonnenwald vergibt Förderbescheide an Vereine",
+        "url": "https://gemeindeschaufling.de/ile-sonnenwald-vergibt-foerderbescheide-an-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://gemeindeschaufling.de/freizeitgestaltung/",
+        "score": 10
+      },
+      {
+        "titel": "Ferien & Freizeit – Links",
+        "url": "https://gemeindeschaufling.de/leben-in-schaufling/nuetzliche-links/",
+        "score": 10
+      },
+      {
+        "titel": "Projektideen für den Verein einfach umsetzen",
+        "url": "https://gemeindeschaufling.de/projektideen-fuer-den-verein-einfach-umsetzen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schechen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69330048708",
+    "webseite": "https://www.schechen.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/vereinsleben/ehrenamt",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit und Naherholung",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/veranstaltungen/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Stadtradeln 2025",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/veranstaltungen/stadtradeln-2025",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit, Sport und Tourismus",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/freizeit-sport-und-tourismus/radeln-und-wandern",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusverband",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/freizeit-sport-und-tourismus/tourismusverband",
+        "score": 10
+      },
+      {
+        "titel": "Öffentliche Verkehrsmittel",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/freizeit-sport-und-tourismus/oeffentliche-verkehrsmittel",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.schechen.de/freizeit-und-naherholung/gastronomie-und-uebernachtung/essen-und-trinken",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Scheidegg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86107825708",
+    "webseite": "https://rathaus.scheidegg.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "hier auf den Seiten des Landkreises Lindau",
+        "url": "https://www.landkreis-lindau.de/Freizeit-Mobilit%C3%A4t/Mobilit%C3%A4t/Neues-Buskonzept/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Scheinfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82442234476",
+    "webseite": "https://www.stadt-scheinfeld.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/vereinsleben",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit + Tourismus",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Virtueller Stadtrundgang",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/virtueller-stadtrundgang",
+        "score": 10
+      },
+      {
+        "titel": "Rad-, Fitness- und Wanderwege",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/rad-fitness-und-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad und Freibad",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/hallenbad-und-freibad",
+        "score": 10
+      },
+      {
+        "titel": "Stellplatz und Camping",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/stellplatz-und-camping",
+        "score": 10
+      },
+      {
+        "titel": "Kreisbücherei",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/kreisbuecherei",
+        "score": 10
+      },
+      {
+        "titel": "Prospekte anfordern",
+        "url": "https://www.stadt-scheinfeld.de/freizeit-tourismus/prospekte-anfordern",
+        "score": 10
+      },
+      {
+        "titel": "Feste, Märkte und Kultur",
+        "url": "https://www.stadt-scheinfeld.de/veranstaltungen/feste-maerkte-und-kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schernfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02885602709",
+    "webseite": "http://www.schernfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schernfeld.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.schernfeld.de/freizeit/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.schernfeld.de/freizeit/sehenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Meldung vom 15. April 2026Freizeitbusse im Naturpark Altmühltal",
+        "url": "https://www.schernfeld.de/aktuelles/freizeitbusse_im_naturpark_alt-775/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Scherstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19663379709",
+    "webseite": "http://www.scherstetten.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.scherstetten.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://vgstauden.mein-intra.net/booking/service/0/0",
+        "score": 10
+      },
+      {
+        "titel": "Leben & Freizeit",
+        "url": "https://www.scherstetten.de/seite/485720/leben-freizeit.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Scheßlitz",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37442199484",
+    "webseite": "http://www.schesslitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.schesslitz.de/freizeit-kultur/freizeit-sport/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.schesslitz.de/freizeit-kultur/freizeit-sport/freibad",
+        "score": 20
+      },
+      {
+        "titel": "Aktiv sein",
+        "url": "https://www.schesslitz.de/freizeit-kultur/freizeit-sport/aktiv-sein",
+        "score": 20
+      },
+      {
+        "titel": "Fränkische Schweiz",
+        "url": "https://www.schesslitz.de/freizeit-kultur/freizeit-sport/fraenkische-schweiz",
+        "score": 20
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.schesslitz.de/freizeit-kultur/gastronomie-und-uebernachtung/uebernachten",
+        "score": 20
+      },
+      {
+        "titel": "Was ist los in Scheßlitz?",
+        "url": "https://www.schesslitz.de/freizeit-kultur/was-ist-los-in-schesslitz/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Fränkischer Theatersommer",
+        "url": "https://www.schesslitz.de/freizeit-kultur/was-ist-los-in-schesslitz/fraenkischer-theatersommer",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.schesslitz.de/freizeit-kultur/was-ist-los-in-schesslitz/volkshochschule",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Scheuring",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36441156709",
+    "webseite": "https://www.scheuring.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.scheuring.eu/vereine-und-verb%C3%A4nde/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Scheyern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53218933709",
+    "webseite": "http://www.scheyern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schierling",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69996710709",
+    "webseite": "http://www.schierling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schierling.de/gewerbe/vereine?formId=7&categoryId=139&extended=yes",
+        "score": 50
+      },
+      {
+        "titel": "Gewerbe / Vereine",
+        "url": "https://www.schierling.de/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur Termine",
+        "url": "https://www.schierling.de/kultur-freizeit/kultur-termine",
+        "score": 20
+      },
+      {
+        "titel": "Ausstellungen im Alten Schulhaus",
+        "url": "https://www.schierling.de/kultur-freizeit/ausstellungen-im-alten-schulhaus",
+        "score": 20
+      },
+      {
+        "titel": "Alle Termine anzeigen",
+        "url": "https://www.schierling.de/kultur-freizeit/ausstellungen-im-alten-schulhaus/termine-ausstellung-altes-schulhaus",
+        "score": 20
+      },
+      {
+        "titel": "Historische Führungen durch Schierling",
+        "url": "https://www.schierling.de/kultur-freizeit/fuehrungen",
+        "score": 20
+      },
+      {
+        "titel": "Alle Termine anzeigen",
+        "url": "https://www.schierling.de/kultur-freizeit/fuehrungen/termine",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebot",
+        "url": "https://www.schierling.de/kultur-freizeit/freizeitangebot-sehenswuerdigkeiten/freizeitangebot",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.schierling.de/kultur-freizeit/freizeitangebot-sehenswuerdigkeiten/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Feste / Veranstaltungen",
+        "url": "https://www.schierling.de/kultur-freizeit/freizeitangebot-sehenswuerdigkeiten/feste-veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Frühjahrsmarkt/Herbstmarkt",
+        "url": "https://www.schierling.de/kultur-freizeit/fruehjahrsmarkt-herbstmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Open Air Kino",
+        "url": "https://www.schierling.de/kultur-freizeit/open-air-kino",
+        "score": 20
+      },
+      {
+        "titel": "Gemeinschaftsraum (OG) im Dorfgemeinschaftshaus Pinkofen reservieren",
+        "url": "https://www.schierling.de/kultur-freizeit/raeumlichkeit-reservieren/dorfgemeinschaftshaus-pinkofen-mieten?replace_button=Jetzt%20reservieren!&replace_button_link=raeumlichkeit-mieten",
+        "score": 20
+      },
+      {
+        "titel": "Altes Schulhaus Schierling reservieren",
+        "url": "https://www.schierling.de/kultur-freizeit/raeumlichkeit-reservieren/altes-schulhaus-schierling-mieten?replace_button=Jetzt%20reservieren!&replace_button_link=raeumlichkeit-mieten",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.schierling.de/kultur-freizeit/freizeitangebot-sehenswuerdigkeiten/sehenswuerdigkeiten/loewendenkmal",
+        "score": 20
+      },
+      {
+        "titel": "22.05.2026 18:00 Uhr\n\t\t\t\t\t\t\t\tPfingstvolksfest Schierling 2026",
+        "url": "https://www.schierling.de/kultur-freizeit/kultur-termine/2942-pfingstvolksfest-schierling-2026",
+        "score": 20
+      },
+      {
+        "titel": "22.05.2026 18:00 Uhr\n\t\t\t\t\t\t\t\tSchierlinger Pfingsvolksfest",
+        "url": "https://www.schierling.de/kultur-freizeit/kultur-termine/3071-schierlinger-pfingsvolksfest",
+        "score": 20
+      },
+      {
+        "titel": "23.05.2026 15:00 Uhr\n\t\t\t\t\t\t\t\tSchierlinger Pfingsvolksfest mit Kindernachmittag",
+        "url": "https://www.schierling.de/kultur-freizeit/kultur-termine/3072-schierlinger-pfingsvolksfest-mit-kindernachmittag",
+        "score": 20
+      },
+      {
+        "titel": "24.05.2026 11:00 Uhr\n\t\t\t\t\t\t\t\tSchierlinger Pfingsvolksfest mit Heimattag für Senioren",
+        "url": "https://www.schierling.de/kultur-freizeit/kultur-termine/3075-schierlinger-pfingsvolksfest-mit-heimattag-fuer-senioren",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Schillingsfürst",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71664415485",
+    "webseite": "http://www.schillingsfuerst.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schiltberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86774487709",
+    "webseite": "http://www.schiltberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schirmitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03552264710",
+    "webseite": "http://www.schirmitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schirmitz.de/Sites/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schirmitz.de/Sites/Vereine/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.schirmitz.de/Sites/Vereine/Sport",
+        "score": 20
+      },
+      {
+        "titel": "Gesellschaft",
+        "url": "https://www.schirmitz.de/Sites/Vereine/Gesellschaft",
+        "score": 20
+      },
+      {
+        "titel": "Politik",
+        "url": "https://www.schirmitz.de/Sites/Vereine/Politik",
+        "score": 20
+      },
+      {
+        "titel": "Vereinskartell Schirmitz",
+        "url": "https://www.schirmitz.de/Sites/Vereine/Gesellschaft/Vereinskartell-Schirmitz",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schirnding",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20330041710",
+    "webseite": "http://www.schirnding.info",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Heimat, Umwelt & Kultur",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/heimat-umwelt-kultur/",
+        "score": 60
+      },
+      {
+        "titel": "Musik & Gesang",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/musik-gesang/",
+        "score": 60
+      },
+      {
+        "titel": "Politik",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/politik/",
+        "score": 60
+      },
+      {
+        "titel": "Kirche, Schule & Kindergarten",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/kirche-schule-kindergarten/",
+        "score": 60
+      },
+      {
+        "titel": "Sonstige",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/sonstige/",
+        "score": 60
+      },
+      {
+        "titel": "Sport & Spiel",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/sport-spiel/",
+        "score": 60
+      },
+      {
+        "titel": "Tierzucht",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/vereine/tierzucht/",
+        "score": 60
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/ortsgeschichte/",
+        "score": 10
+      },
+      {
+        "titel": "Terminkalender",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/terminkalender/",
+        "score": 10
+      },
+      {
+        "titel": "Termine 1. Quartal 2026",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/terminkalender/1-quartal-2014/",
+        "score": 10
+      },
+      {
+        "titel": "Termine 2. Quartal 2024",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/terminkalender/2-quartal-2014/",
+        "score": 10
+      },
+      {
+        "titel": "Termine 3. Quartal 2026",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/terminkalender/3-quartal-2014/",
+        "score": 10
+      },
+      {
+        "titel": "Termine 4. Quartal 2026",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/terminkalender/4-quartal-2014/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/buecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Feste",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/feste/",
+        "score": 10
+      },
+      {
+        "titel": "Schirndinger Wiesenfest",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/feste/schirndinger-wiesenfest/",
+        "score": 10
+      },
+      {
+        "titel": "Schirndinger Dorfmarkt",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/feste/schirndinger-dorfmarkt/",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule (vhs)",
+        "url": "https://markt-schirnding.de/index.php/kultur-2/volkshochschule-vhs/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schlammersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37107818710",
+    "webseite": "http://www.schlammersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schleching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53885595710",
+    "webseite": "https://www.schleching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Verbände",
+        "url": "https://www.schleching.de/buerger-dorfleben/vereine-verbaende/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Schlehdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70663372710",
+    "webseite": "http://www.schlehdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schliersee",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87441149710",
+    "webseite": "http://www.schliersee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur Lebensart",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/museen/",
+        "score": 10
+      },
+      {
+        "titel": "Bauerntheater",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/bauerntheater/",
+        "score": 10
+      },
+      {
+        "titel": "Heiraten",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/heiraten/",
+        "score": 10
+      },
+      {
+        "titel": "Ortsgeschichte",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/ortsgeschichte/",
+        "score": 10
+      },
+      {
+        "titel": "Feste",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/feste/",
+        "score": 10
+      },
+      {
+        "titel": "Tradition",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/tradition/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/kirchen/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturherbst",
+        "url": "https://www.schliersee.de/sommer/kultur-lebensart/kulturherbst/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schlüsselfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55553300486",
+    "webseite": "http://www.schluesselfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/freizeit/kultur",
+        "score": 20
+      },
+      {
+        "titel": "23.07.19:30 - 22:00Kultur in alten Mauern - Fränkischer Theatersommer",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/schluesselfeld-erleben/veranstaltungen/veranstaltung/fraenkischer-theatersommer/2026-07-23?cHash=0b7a85a3ea27c436646aea68c5bffcb1",
+        "score": 20
+      },
+      {
+        "titel": "Boule-Platz",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/freizeit/boule-platz",
+        "score": 10
+      },
+      {
+        "titel": "Kneippbecken",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/freizeit/kneippbecken",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/freizeit/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Pumptrackanlage",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/freizeit/pumptrackanlage",
+        "score": 10
+      },
+      {
+        "titel": "Schlüsselfeld erleben",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/schluesselfeld-erleben/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Einreichen",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/schluesselfeld-erleben/einreichen",
+        "score": 10
+      },
+      {
+        "titel": "Rund um Schlüsselfeld",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/schluesselfeld-erleben/rund-um-schluesselfeld",
+        "score": 10
+      },
+      {
+        "titel": "Sagen & Legenden",
+        "url": "https://www.schluesselfeld.de/tourismus-freizeit/schluesselfeld-erleben/sagen-legenden",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schmidgaden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04218926711",
+    "webseite": "https://www.schmidgaden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.schmidgaden.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Brauchtum",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/brauchtum",
+        "score": 20
+      },
+      {
+        "titel": "Heimatkunde",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/heimatkunde",
+        "score": 20
+      },
+      {
+        "titel": "Historisches",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/historisches",
+        "score": 20
+      },
+      {
+        "titel": "Kirchliches",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/kirchliches",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitaktivitäten",
+        "url": "https://www.schmidgaden.de/freizeit-kultur/freizeitaktivit%C3%A4ten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Schmidmühlen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20996703711",
+    "webseite": "http://www.schmidmuehlen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schmiechen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37774480711",
+    "webseite": "http://www.schmiechen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsgeschirr",
+        "url": "https://www.schmiechen.de/vereine/vereinsgeschirr/",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schmiechen.de/vereine/uebersicht/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Schnabelwaid",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54552257711",
+    "webseite": "http://www.markt-schnabelwaid.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinswiki",
+        "url": "https://www.markt-schnabelwaid.de/schnabelwaid-erleben/vereine/vereinswiki",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-schnabelwaid.de/schnabelwaid-erleben/vereine/unsere-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.markt-schnabelwaid.de/schnabelwaid-erleben/vereine/feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsakademie",
+        "url": "https://www.markt-schnabelwaid.de/creussen-erleben/vereinsleben/vereinsakademie",
+        "score": 30
+      },
+      {
+        "titel": "Vereinsadresse melden",
+        "url": "https://www.markt-schnabelwaid.de/schnabelwaid-erleben/vereinsadresse-melden/login/-out",
+        "score": 30
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.markt-schnabelwaid.de/schnabelwaid-erleben/vereinsadresse-melden/registrieren",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.markt-schnabelwaid.de/schnabelwaid-erleben/freizeit-und-sport/wandertagestouren",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schnaitsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71330034711",
+    "webseite": "http://www.schnaitsee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    14\n                                                Maiandacht am Vereinskreuz des Trachtenvereins Schnaitsee\n                                                                am Vereinskreuz",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/maiandacht-am-vereinskreuz-des-trachtenvereins-schnaitsee/2026-05-14?cHash=d48239cf2f3d983084d93291d13cdb0d",
+        "score": 40
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    03\n                                                Vereinsausflug - Trachtenverein Schnaitsee\n                                                                Bitte näheres der Tagespresse entnehmen",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/vereinsausflug-trachtenverein-schnaitsee/2026-10-03?cHash=6bec9e08d6a5cba637439f6296b9cc50",
+        "score": 40
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    30\n                                                Jahresausflug, Donauschiffahrt: Historische Strudelrundfahrt, Nachmittag Nepal/Himalajapark mit 250 versch. Hortensien - Gartenbauvereine Schnaitsee/Waldhausen\n                                                                Ziel: Regensburg",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/jahresausflug-donauschiffahrt-historische-strudelrundfahrt-nachmittag-nepalhimalajapark-mit-250-versch-hortensien-gartenbauvereine-schnaitseewaldhausen/2026-05-30?cHash=444766c03c4dde5fead76dc21d2c6a26",
+        "score": 30
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    16\n                                                Fest zu 100 Jahre TSV \"Tag der Betriebe und Vereine, Bieranstich\" - TSV Schnaitsee\n                                                                Zelt am Fernsehturm Schnaitsee",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/fest-zu-100-jahre-tsv-tag-der-betriebe-und-vereine-bieranstich-tsv-schnaitsee-1/2026-07-16?cHash=8d7a029d3796ca832e03281f1abf0c29",
+        "score": 30
+      },
+      {
+        "titel": "Jugendarbeit der Vereine",
+        "url": "https://www.schnaitsee.de/leben-und-wohnen/unsere-jugend/jugendarbeit-der-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    06\n                                                Besuch des Straußenhofs - Schubkarrnschiaba - Kindergruppe des Gartenbauverein Schnaitsee\n                                                                Straußenhof Schnaitsee",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/besuch-des-straussenhofs-schubkarrnschiaba-kindergruppe-des-gartenbauverein-schnaitsee-1/2026-05-06?cHash=0258b57fd1d58a20fe294b345f1c7568",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    12\n                                                Stammtisch - Bienenzuchtverein Schnaitsee\n                                                                Sportheim Waldhausen",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/stammtisch-bienenzuchtverein-schnaitsee-1-16/2026-05-12?cHash=29e303ad2c04d14cb702358a7460ed3c",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    16\n                                                \"Tag der offenen Tür\" - Musikverein Schnaitsee\n                                                                Haus der Musik, Kirchensurer Str. 35, Schnaitsee",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/tag-der-offenen-tuer-musikverein-schnaitsee-2/2026-05-16?cHash=7783d084b360e81e18daaa2ff3e71234",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    17\n                                                Maiandacht - Männerverein Schnaitsee-Kirchstätt\n                                                                Pfarrkirche Schnaitsee",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/maiandacht-maennerverein-schnaitsee-kirchstaett-1/2026-05-17?cHash=b05738127b9820480447158abca1daa0",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    19\n                                                Jahresausflug nach Rattenberg - Gartenbauverein Schnaitsee",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/jahresausflug-nach-rattenberg-gartenbauverein-schnaitsee-1-1/2026-05-19?cHash=d034a16c36593209b5ea84e6f6ecb85f",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    25\n                                                Radtour mit Kirchenbesichtigungen - Heimatverein Schnaitsee\n                                                                Abfahrt am Rathaus - Ziel: Gasthaus Roiter an der Alz",
+        "url": "https://www.schnaitsee.de/freizeit-und-tourismus/was-ist-los-bei-uns/veranstaltungskalender-schnaitsee/veranstaltung/radtour-mit-kirchenbesichtigungen-heimatverein-schnaitsee/2026-05-25?cHash=dbb3180e0b6c795abd4fca1415c056ca",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Schnaittach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88107811711",
+    "webseite": "https://www.schnaittach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schnaittach.de/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.schnaittach.de/Freizeit-und-Tourismus.n11.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schnaittenbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93886715468",
+    "webseite": "https://www.schnaittenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Leben & Kultur",
+        "url": "https://www.schnaittenbach.de/leben-kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.schnaittenbach.de/freizeit-tourismus.html",
+        "score": 10
+      },
+      {
+        "titel": "Stadtgeschichte",
+        "url": "https://www.schnaittenbach.de/leben-kultur/stadtgeschichte.html",
+        "score": 10
+      },
+      {
+        "titel": "Einrichtungen",
+        "url": "https://www.schnaittenbach.de/leben-kultur/einrichtungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Kinderbetreuung",
+        "url": "https://www.schnaittenbach.de/leben-kultur/kinderbetreuung.html",
+        "score": 10
+      },
+      {
+        "titel": "Kommunale Wärmeplanung",
+        "url": "https://www.schnaittenbach.de/leben-kultur/kommunale-waermeplanung.html",
+        "score": 10
+      },
+      {
+        "titel": "Partnergemeinde",
+        "url": "https://www.schnaittenbach.de/leben-kultur/partnergemeinde.html",
+        "score": 10
+      },
+      {
+        "titel": "Seniorenarbeit",
+        "url": "https://www.schnaittenbach.de/leben-kultur/seniorenarbeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Abfallwirtschaft",
+        "url": "https://www.schnaittenbach.de/leben-kultur/abfallwirtschaft.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schneckenlohe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04885588712",
+    "webseite": "http://www.schneckenlohe.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schneckenlohe.de/freizeit-und-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.schneckenlohe.de/freizeit-und-tourismus/gastronomie/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schneeberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21663365712",
+    "webseite": "https://www.schneeberg-odenwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schneeberg-odenwald.de/freizeit-vereine/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.schneeberg-odenwald.de/freizeit-vereine/veranstaltungen",
+        "score": 30
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://www.schneeberg-odenwald.de/kultur-geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Wo liegt Schneeberg?",
+        "url": "https://www.schneeberg-odenwald.de/kultur-geschichte/wo-liegt-schneeberg",
+        "score": 10
+      },
+      {
+        "titel": "Historie",
+        "url": "https://www.schneeberg-odenwald.de/kultur-geschichte/historie",
+        "score": 10
+      },
+      {
+        "titel": "Ortsteile",
+        "url": "https://www.schneeberg-odenwald.de/kultur-geschichte/ortsteile",
+        "score": 10
+      },
+      {
+        "titel": "Kirche",
+        "url": "https://www.schneeberg-odenwald.de/kultur-geschichte/kirche",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schneizlreuth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38441142712",
+    "webseite": "https://www.schneizlreuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schnelldorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55218919712",
+    "webseite": "http://www.schnelldorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schöfweg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71996696712",
+    "webseite": "http://www.schoefweg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoefweg.de/freizeit-erleben/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.schoefweg.de/",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnispfad",
+        "url": "https://www.schoefweg.de/freizeit-erleben/erlebnispfad",
+        "score": 10
+      },
+      {
+        "titel": "Schneebericht",
+        "url": "https://www.schoefweg.de/freizeit-erleben/schneebericht",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.schoefweg.de/freizeit-erleben/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Tourist Information",
+        "url": "https://www.schoefweg.de/freizeit-erleben/tourist-information",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.schoefweg.de/freizeit-erleben/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.schoefweg.de/freizeit-erleben",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schöllkrippen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05552250713",
+    "webseite": "https://www.markt-schoellkrippen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schöllnach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22330027713",
+    "webseite": "http://www.schoellnach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "🛈 Bereitgestellt durch Dahoam in Niederbayern: Vereine, Freizeit, Veranstaltungen und Termine",
+        "url": "https://www.dahoam-in-niederbayern.de/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Schönau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39107804713",
+    "webseite": "https://www.gemeinde-schoenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-schoenau.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Liste Vereine/Organisationen",
+        "url": "https://www.gemeinde-schoenau.de/vereine/liste-vereine-organisationen/",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsheim Unterzeitlarn",
+        "url": "https://www.gemeinde-schoenau.de/vereinsheim-unterzeitlarn/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gemeinde-schoenau.de/category/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schönau a.d.Brend",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55885581713",
+    "webseite": "http://www.schoenau-brend.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoenau-brend.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Übernachtungen",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/gaststaetten-uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Restaurants",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/gaststaetten-uebernachtungen/gaststaetten-restaurants",
+        "score": 10
+      },
+      {
+        "titel": "Hotel",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/gaststaetten-uebernachtungen/hotel",
+        "score": 10
+      },
+      {
+        "titel": "Pensionen",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/gaststaetten-uebernachtungen/pensionen",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/gaststaetten-uebernachtungen/ferienwohnungen",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradwege & Wanderwege",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/fahrradwege-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Badeanstalten",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/badeanstalten",
+        "score": 10
+      },
+      {
+        "titel": "Freizeittipps",
+        "url": "https://www.schoenau-brend.de/freizeit-tourismus/freizeittipps",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schönau a.Königssee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72663358713",
+    "webseite": "https://www.schoenau-koenigssee.com",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinskalender",
+        "url": "https://www.schoenau-koenigssee.com/vereinskalender",
+        "score": 30
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoenau-koenigssee.com/Vereine.n45.html",
+        "score": 20
+      },
+      {
+        "titel": "Touristinformation",
+        "url": "https://www.schoenau-koenigssee.com/Tourismus-und-Freizeit.n2.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schönberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89441135713",
+    "webseite": "https://www.oberbergkirchen.de/schoenberg/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schönberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06218912714",
+    "webseite": "http://www.markt-schoenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.markt-schoenberg.de/",
+        "score": 10
+      },
+      {
+        "titel": "KuK",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/kuk",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnisbad",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/erlebnisbad",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/jugendtreff",
+        "score": 10
+      },
+      {
+        "titel": "Rathausbienen",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/rathausbienen",
+        "score": 10
+      },
+      {
+        "titel": "Marktbücherei",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/buecherei",
+        "score": 10
+      },
+      {
+        "titel": "Tourist Information",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/tourist-information",
+        "score": 10
+      },
+      {
+        "titel": "Schönberger Neujahrskonzert",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/schoenberger-neujahrskonzert",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Webcam",
+        "url": "https://www.markt-schoenberg.de/freizeit-erleben/webcam",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schönbrunn i.Steigerwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22996689714",
+    "webseite": "http://www.schoenbrunn-i-steigerwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schöngeising",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73330020714",
+    "webseite": "https://www.schoengeising.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schönsee",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32108903476",
+    "webseite": "http://www.vg-schoensee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine im Schönseer Land",
+        "url": "https://www.vg-schoensee.de/27147-2/",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.vg-schoensee.de/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Seefest",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/seefest/",
+        "score": 10
+      },
+      {
+        "titel": "Abendklänge",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/abendklaenge/",
+        "score": 10
+      },
+      {
+        "titel": "Freilichtspiel Pascher",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/27307-2/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugstipps",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/ausflugstipps/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/uebernachten/",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/essen-trinken/",
+        "score": 10
+      },
+      {
+        "titel": "Spitzenklöppeln",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/spitzenkloeppeln/",
+        "score": 10
+      },
+      {
+        "titel": "Grenzflüsterer",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/grenzfluesterer/",
+        "score": 10
+      },
+      {
+        "titel": "Webcams",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/webcams/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarungen",
+        "url": "https://www.vg-schoensee.de/terminvereinbarungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schönthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06885574715",
+    "webseite": "https://www.gemeinde-schoenthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-schoenthal.de/leben-in-schoenthal/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-schoenthal.de/freizeit-tourismus/veranstaltungskalender/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schönwald",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10664492469",
+    "webseite": "http://www.stadt-schoenwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Ehrenamt",
+        "url": "https://stadtschoenwald.de/leben-in-schoenwald/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://stadtschoenwald.de/tourismus/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://stadtschoenwald.de/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schollbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88774473712",
+    "webseite": "http://www.schollbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Heimat",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/vereine/heimat/",
+        "score": 60
+      },
+      {
+        "titel": "Kinder und Jugend",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/vereine/kinder-und-jugend/",
+        "score": 60
+      },
+      {
+        "titel": "Natur & Tiere",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/vereine/natur-tiere/",
+        "score": 60
+      },
+      {
+        "titel": "Soziales & Fördervereine",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/vereine/soziales-foerdervereine/",
+        "score": 60
+      },
+      {
+        "titel": "Turn- und Sportvereine",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/vereine/turn-und-sportvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Musik- und Gesangvereine",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/vereine/musik-und-gesangvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "\"Ankommen und Wohlfühlen\"",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/ankommen-und-wohlfuehlen/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Unterkünfte",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/ankommen-und-wohlfuehlen/gaststaetten-unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Radeln & Wandern",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/radeln-wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Wildpark",
+        "url": "https://www.schollbrunn.de/freizeit-tourismus/wildpark/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schondorf am Ammersee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39774466714",
+    "webseite": "https://www.schondorf-ammersee.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "unsere Vereine",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/unsere-vereine",
+        "score": 40
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Landmusikort 2026",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/landmusikort-2026",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/museen",
+        "score": 20
+      },
+      {
+        "titel": "Gestaltarchiv",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/museen/gestaltarchiv",
+        "score": 20
+      },
+      {
+        "titel": "Studio Rose",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/museen/studio-rose",
+        "score": 20
+      },
+      {
+        "titel": "Streetball-Platz",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/streetball-platz",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/gaststaetten",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindebücherei",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/gemeindebuecherei",
+        "score": 20
+      },
+      {
+        "titel": "Wissens-Wandel",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/gemeindebuecherei/wissens-wandel",
+        "score": 20
+      },
+      {
+        "titel": "Ortsplan",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/ortsplan",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.schondorf-ammersee.de/kultur-freizeit/tourismus",
+        "score": 20
+      },
+      {
+        "titel": "Partnerschaftsverein",
+        "url": "https://www.schondorf-ammersee.de/rathaus-verwaltung/partnerschaften/boves/partnerschaftsverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schondra",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56552243714",
+    "webseite": "http://www.schondra.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schongau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26108945467",
+    "webseite": "https://www.schongau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schongau.de/de/Mein-Schongau/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Wirtschaftsverbände und -vereine",
+        "url": "https://www.schongau.de/de/Wirtschaft/Wirtschaftsstandort/Wirtschaftsverbaende-und-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.schongau.de/de/Mein-Schongau/Sport-Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.schongau.de/de/Mein-Schongau/Sport-Freizeit/Spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Sporthallen- und plätze",
+        "url": "https://www.schongau.de/de/Mein-Schongau/Sport-Freizeit/Sporthallen-und-plaetze",
+        "score": 10
+      },
+      {
+        "titel": "Plantsch Badespaß- und Saunaland",
+        "url": "https://www.schongau.de/de/Schongau-erleben/Schongau-aktiv/Plantsch-Badespass-und-Saunaland-",
+        "score": 10
+      },
+      {
+        "titel": "Badestelle Lido",
+        "url": "https://www.schongau.de/de/Schongau-erleben/Schongau-aktiv/Badestrand-Schongauer-See",
+        "score": 10
+      },
+      {
+        "titel": "Eisstadion",
+        "url": "https://www.schongau.de/de/Schongau-erleben/Schongau-aktiv/Eisstadion",
+        "score": 10
+      },
+      {
+        "titel": "Bikepark",
+        "url": "https://www.schongau.de/de/Mein-Schongau/Sport-Freizeit/Bikepark",
+        "score": 10
+      },
+      {
+        "titel": "Märchenwald",
+        "url": "https://www.schongau.de/de/Schongau-erleben/Schongau-aktiv/Maerchenwald",
+        "score": 10
+      },
+      {
+        "titel": "Kneippanlage",
+        "url": "https://www.schongau.de/de/Schongau-erleben/Schongau-aktiv/Kneippanlage",
+        "score": 10
+      },
+      {
+        "titel": "UNESCO-Kulturerbe: Lechflößerei",
+        "url": "https://www.schongau.de/de/Schongau-erleben/Schongau-entdecken/Lechfloesserei",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schonstett",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90107797714",
+    "webseite": "https://www.schonstett.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.schonstett.de/Schonstetter-Vereine.n152.html",
+        "score": 40
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.schonstett.de/Freizeitangebote.n154.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schonungen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23663351715",
+    "webseite": "https://www.schonungen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://schonungen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://schonungen.de/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://schonungen.de/sport-und-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schopfloch",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40441128715",
+    "webseite": "http://www.markt-schopfloch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kalender",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/kalender",
+        "score": 10
+      },
+      {
+        "titel": "Sporteinrichtungen",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/sporteinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendeinrichtungen",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/jugendeinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Übernachtung",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/gastronomie-uebernachtung",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/bildung-soziales/schulen",
+        "score": 10
+      },
+      {
+        "titel": "Kindergärten",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/bildung-soziales/kindergaerten",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen & Pfarrämter",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/bildung-soziales/kirchen-pfarraemter",
+        "score": 10
+      },
+      {
+        "titel": "Ärzte & Apotheken",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/bildung-soziales/aerzte-apotheken",
+        "score": 10
+      },
+      {
+        "titel": "Soziale Dienste",
+        "url": "https://www.schopfloch-mittelfranken.de/de/freizeit-soziales/bildung-soziales/soziale-dienste",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schorndorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57218905715",
+    "webseite": "http://www.gemeinde-schorndorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/kultur/theater-auf-der-burg",
+        "score": 20
+      },
+      {
+        "titel": "Gut Hötzing",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/kultur/gut-hoetzing",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitportrait",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/freizeitportrait",
+        "score": 10
+      },
+      {
+        "titel": "Kids & Teens",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/kids-teens/fitalparc",
+        "score": 10
+      },
+      {
+        "titel": "Abenteuerspielplatz",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/kids-teens/abenteuerspielplatz",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/kids-teens/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Natur",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/sport-natur/eisstockarena",
+        "score": 10
+      },
+      {
+        "titel": "Wander- & Radwege",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/sport-natur/wander-radwege",
+        "score": 10
+      },
+      {
+        "titel": "Für Gäste",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/fuer-gaeste/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/fuer-gaeste/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/fuer-gaeste/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Busverbindung",
+        "url": "https://www.gemeinde-schorndorf.de/freizeit-tourismus/busverbindung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schrobenhausen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97886687474",
+    "webseite": "https://www.schrobenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsübersicht",
+        "url": "https://www.schrobenhausen.de/de/Leben/Freizeit-Sport/Vereinsuebersicht",
+        "score": 30
+      },
+      {
+        "titel": "Interkultureller Garten",
+        "url": "https://www.schrobenhausen.de/de/Leben/Senioren/Interkultureller-Garten",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote Senioren",
+        "url": "https://www.schrobenhausen.de/de/Leben/Freizeitangebote-Senioren",
+        "score": 10
+      },
+      {
+        "titel": "Stadtradeln",
+        "url": "https://www.schrobenhausen.de/de/Kultur-Tourismus/Wandern-Radeln/Stadtradeln",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.schrobenhausen.de/de/Leben/Freizeit-Sport/Sporthallen",
+        "score": 10
+      },
+      {
+        "titel": "Städtisches Freibad",
+        "url": "https://www.schrobenhausen.de/de/Leben/Freizeit-Sport/Staedtisches-Freibad-Schrobenhausen",
+        "score": 10
+      },
+      {
+        "titel": "Kreishallenbad Schrobenhausen",
+        "url": "https://www.schrobenhausen.de/de/Leben/Freizeit-Sport/Kreishallenbad-Schrobenhausen",
+        "score": 10
+      },
+      {
+        "titel": "Städtepartnerschaftsverein",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V.",
+        "score": 10
+      },
+      {
+        "titel": "Städteportraits",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Staedteportraits",
+        "score": 10
+      },
+      {
+        "titel": "Perg",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Staedteportraits/Perg",
+        "score": 10
+      },
+      {
+        "titel": "Thiers",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Staedteportraits/Thiers",
+        "score": 10
+      },
+      {
+        "titel": "Bridgnorth",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Staedteportraits/Bridgnorth",
+        "score": 10
+      },
+      {
+        "titel": "Schwetzingen",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Staedteportraits/Schwetzingen",
+        "score": 10
+      },
+      {
+        "titel": "Vorstandschaft",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Vorstandschaft",
+        "score": 10
+      },
+      {
+        "titel": "Satzung / Mitglied werden",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Satzung-Mitglied-werden",
+        "score": 10
+      },
+      {
+        "titel": "Kontakt",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Kontakt",
+        "score": 10
+      },
+      {
+        "titel": "Impressum",
+        "url": "https://www.schrobenhausen.de/de/Aktuelles/Verein-fuer-Staedtepartnerschaften-e.V./Impressum",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.schrobenhausen.de/de/Rathaus/Ortsrecht/Kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwabach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57331532388",
+    "webseite": "http://www.schwabach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.schwabach.de/de/kulturportal.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturamt",
+        "url": "https://www.schwabach.de/de/kulturamt.html",
+        "score": 10
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://www.schwabach.de/de/kulturportal-musikschule/musikschule.html",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.schwabach.de/de/kultureinrichtung-stadtarchiv/stadtarchiv.html",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbibliothek",
+        "url": "https://www.schwabach.de/de/kultureinrichtung-stadtbibliothek/stadtbibliothek.html",
+        "score": 10
+      },
+      {
+        "titel": "Stadtmuseum",
+        "url": "https://www.schwabach.de/de/kulturportal-stadtmuseum/stadtmuseum.html",
+        "score": 10
+      },
+      {
+        "titel": "Festivals",
+        "url": "https://www.schwabach.de/de/kulturamt/veranstaltungen-und-festivals.html",
+        "score": 10
+      },
+      {
+        "titel": "weiterlesen >>",
+        "url": "https://www.schwabach.de/de/kulturportal-stadtmuseum/uebersicht-stadtmuseum/606-ausstellungen-stadtmuseum/13424-ausstellung-rechtsterrorismus-verschwoerung-und-selbstermaechtigung-1945-bis-heute.html",
+        "score": 10
+      },
+      {
+        "titel": "Samstag, 9. Mai von 10 - 18 Uhr",
+        "url": "https://www.schwabach.de/de/kulturportal-stadtmuseum/infoseiten-stadtmuseum/12977-die-zeitreise-mit-fleischmann-geht-weiter.html",
+        "score": 10
+      },
+      {
+        "titel": "Samstag, 9. Mai, 10 Uhr",
+        "url": "https://www.schwabach.de/de/kultureinrichtung-stadtbibliothek/infoseiten-bibliothek/13495-gratis-comic-tag.html",
+        "score": 10
+      },
+      {
+        "titel": "Kfz-Zulassung                \n            Hier können Sie Termine für alles rund um Ihre KFZ-Zulassung vereinbaren.",
+        "url": "https://termine.schwabach.de/modules/ota_public/form/1/?signup_new=1",
+        "score": 10
+      },
+      {
+        "titel": "Meldewesen                \n            Hier können Sie Termine für An-, Ab- und Ummeldungen, Führungszeugnisse und Meldebscheinigungen vereinbaren.",
+        "url": "https://termine.schwabach.de/modules/ota_public/form/2/?signup_new=1",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwabbruck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73996682715",
+    "webseite": "http://www.schwabbruck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsmeisterschaft",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsmeisterschaft 2017",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft/vereinsmeisterschaft-2017",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsmeisterschaft 2016",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft/vereinsmeisterschaft-2016",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsmeisterschaft 2015",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft/vereinsmeisterschaft-2015",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsmeisterschaft 2012",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft/vereinsmeisterschaft-2012",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsmeisterschaft 2011",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft/vereinsmeisterschaft-2011",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsmeisterschaft 2009",
+        "url": "https://www.schwabbruck.de/vereine/tsv-67-schwabbruck-ev/eisstock/vereinsmeisterschaft/vereinsmeisterschaft-2009",
+        "score": 70
+      },
+      {
+        "titel": "Geschichte des Vereins",
+        "url": "https://www.schwabbruck.de/vereine/fischer-von-bruck/geschichte-des-vereins-ii",
+        "score": 70
+      },
+      {
+        "titel": "Vorstand des Vereins",
+        "url": "https://www.schwabbruck.de/vereine/fischer-von-bruck/vorstand-des-vereins-ii",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwabbruck.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "News",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr/news",
+        "score": 50
+      },
+      {
+        "titel": "Unser Verein",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr/unser-verein",
+        "score": 50
+      },
+      {
+        "titel": "Beitrag und Beitritt",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr/beitrag-und-beitritt",
+        "score": 50
+      },
+      {
+        "titel": "Übungsplan",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr/uebungsplan",
+        "score": 50
+      },
+      {
+        "titel": "Bilder 2017",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr/bilder-2017",
+        "score": 50
+      },
+      {
+        "titel": "Bilder 2014",
+        "url": "https://www.schwabbruck.de/vereine/freiwillige-feuerwehr/bilder-2014",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Schwabhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90774459715",
+    "webseite": "https://www.schwabhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://schwabhausen.de/leben-in-schwabhausen/freizeit-kultur-sport/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit / Kultur",
+        "url": "https://schwabhausen.de/leben-in-schwabhausen/freizeit-kultur-sport/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://schwabhausen.de/leben-in-schwabhausen/freizeit-kultur-sport/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://schwabhausen.de/leben-in-schwabhausen/freizeit-kultur-sport/kirchen/",
+        "score": 20
+      },
+      {
+        "titel": "Sport- und Freizeitanlagen",
+        "url": "https://schwabhausen.de/leben-in-schwabhausen/freizeit-kultur-sport/sporthalle/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://schwabhausen.de/leben-in-schwabhausen/freizeit-kultur-sport/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "mehr erfahren",
+        "url": "https://schwabhausen.de/wichtige-meldungen/wir-bitten-um-terminvereinbarung-im-buergerbuero/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwabmünchen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88442192485",
+    "webseite": "http://www.schwabmuenchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schwabsoien",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07552236716",
+    "webseite": "http://www.schwabsoien.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.schwabsoien.de/vereine/vereinsnachrichten",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwabsoien.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "2007,  60 Jahre SVS",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/sportverein/abteilung-fussball/60-jahre-svs",
+        "score": 50
+      },
+      {
+        "titel": "Schwabsoien",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien",
+        "score": 50
+      },
+      {
+        "titel": "Faschingsclub Schwabsoien",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/vorstandschaft",
+        "score": 50
+      },
+      {
+        "titel": "Garde",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/garde",
+        "score": 50
+      },
+      {
+        "titel": "Jubiläumsball 2025",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/jubilaeumsball",
+        "score": 50
+      },
+      {
+        "titel": "Termine",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/termine",
+        "score": 50
+      },
+      {
+        "titel": "Faschingsumzug 2026",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/faschingsumzug-2020-anmeldeformular-anschreiben-und-auflagen-fuer-teilnehmer-shuttlebusrouten",
+        "score": 50
+      },
+      {
+        "titel": "Kontakt",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/kontakt",
+        "score": 50
+      },
+      {
+        "titel": "Fotogalerie",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/fotogalerie",
+        "score": 50
+      },
+      {
+        "titel": "Aktivitäten",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/aktivitaeten",
+        "score": 50
+      },
+      {
+        "titel": "Pressespiegel",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/faschingsclub-schwabsoien/pressespiegel",
+        "score": 50
+      },
+      {
+        "titel": "Bayerische Jungbauernschaft Schwabsoien",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/bayerische-jungbauernschaft-schwabsoien",
+        "score": 50
+      },
+      {
+        "titel": "Vorstandschaft",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/bayerische-jungbauernschaft-schwabsoien/vorstandschaft",
+        "score": 50
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/bayerische-jungbauernschaft-schwabsoien/aktuelles",
+        "score": 50
+      },
+      {
+        "titel": "75 Jahre Bayerische Jungbauernschaft / Landjugend",
+        "url": "https://www.schwabsoien.de/vereine/schwabsoien/75-jahre-bayerische-jungbauernschaft-/-landjugend",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Schwaig b.Nürnberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24330013716",
+    "webseite": "https://www.schwaig.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwaig.de/seite/de/cms0605202619111128381675/035/-/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Schwaiger Kultur Programm",
+        "url": "https://www.schwaig.de/seite/de/cms0605202619111128381675/036:91/-/Schwaiger_Kultur_Programm.html",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.schwaig.de/seite/de/cms0605202619111128381675/6561/-/Kultur-und_Veranstaltungsprogramm.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwaigen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41107790716",
+    "webseite": "https://www.schwaigen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwaigen.de/gemeinde-schwaigen-grafenaschau/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.schwaigen.de/",
+        "score": 10
+      },
+      {
+        "titel": "Informationen für Gäste",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/information-service/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/uebernachten/",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplatz",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/wohnmobilstellplatz/",
+        "score": 10
+      },
+      {
+        "titel": "Aktivitäten",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/sport/",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/ausflugsziele/",
+        "score": 10
+      },
+      {
+        "titel": "Informationen für Vermieter",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/vermieter-services/",
+        "score": 10
+      },
+      {
+        "titel": "Rundweg",
+        "url": "https://www.schwaigen.de/tourismus-freizeit/sport/glashuetten-rundweg/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwandorf",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65664457476",
+    "webseite": "http://www.schwandorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schwanfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57885567716",
+    "webseite": "http://www.schwanfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schwangau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74663344716",
+    "webseite": "https://gemeinde.schwangau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://gemeinde.schwangau.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Einladung zur Dienstversammlung der Freiwilligen Feuerwehr Schwangau und Mitgliederversammlung des Vereins Freiwillige Feuerwehr Schwangau e. V. am Freitag, 8. Mai 2026, um 20:00 Uhr, im Hotel Helmer, Mitteldorf 10",
+        "url": "https://gemeinde.schwangau.de/aktuelles/alle-aktuellen-meldungen/aktuelle-meldung?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3069&cHash=3e826abf55c04076fc95bbed71222369",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwanstetten",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91441121716",
+    "webseite": "http://www.schwanstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Verbände & Vereine",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/vereinsleben/verbaende-vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/vereinsleben/selbst-inserieren",
+        "score": 50
+      },
+      {
+        "titel": "Förderrichtlinien",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/vereinsleben/foerderrichtlinien",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/feste-maerkte",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/veranstaltungsraeume/gemeindehalle",
+        "score": 20
+      },
+      {
+        "titel": "Kulturscheune",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/veranstaltungsraeume/kulturscheune",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie & Unterkünfte",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/gastronomie-unterkuenfte/gaststaetten-restaurants",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/gastronomie-unterkuenfte/unterkuenfte",
+        "score": 20
+      },
+      {
+        "titel": "Freizeiteinrichtungen & Ausflugsziele",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/freizeiteinrichtungen-ausflugsziele/offener-buecherschrank",
+        "score": 20
+      },
+      {
+        "titel": "Boule-Bahn",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/freizeiteinrichtungen-ausflugsziele/boule-bahn",
+        "score": 20
+      },
+      {
+        "titel": "Sitzbänke im Gemeindegebiet",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/freizeiteinrichtungen-ausflugsziele/sitzbaenke-im-gemeindegebiet",
+        "score": 20
+      },
+      {
+        "titel": "Strike Bowlingcenter",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/freizeiteinrichtungen-ausflugsziele/strike-bowlingcenter",
+        "score": 20
+      },
+      {
+        "titel": "Kegelbahnen",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/freizeiteinrichtungen-ausflugsziele/kegelbahnen",
+        "score": 20
+      },
+      {
+        "titel": "Tennisplätze",
+        "url": "https://www.schwanstetten.de/kultur-freizeit/freizeiteinrichtungen-ausflugsziele/tennisplaetze",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Schwarzach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08218898717",
+    "webseite": "https://www.schwarzach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.schwarzach.de/freizeiterholung/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.schwarzach.de/freizeiterholung/freibad/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.schwarzach.de/freizeiterholung/gastgeber/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.schwarzach.de/freizeiterholung/gastronomie/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.schwarzach.de/freizeiterholung/sehenswuerdigkeiten/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.schwarzach.de/freizeiterholung/veranstaltungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.schwarzach.de/freizeiterholung/volkshochschule/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwarzach a.Main",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24996675717",
+    "webseite": "https://www.schwarzach-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwarzach-main.de/freizeit/vereine.html",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwarzach-main.de/gemeinde/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.schwarzach-main.de/tourismus/natur-und-kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.schwarzach-main.de/freizeit/aktiv-in-schwarzach.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwarzach b.Nabburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41774452717",
+    "webseite": "https://www.schwarzach-bei-nabburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/vereinsleben/vereinsverzeichnis",
+        "score": 60
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/vereinsleben/freiwillige-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/freizeit/veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/kultur-tourismus/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Hallenbad Schwarzenfeld",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/freizeit/hallenbad",
+        "score": 20
+      },
+      {
+        "titel": "Spiel- und Bolzplätze",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/freizeit/spiel-und-bolzplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Rund ums Rad",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/freizeit/rund-ums-rad",
+        "score": 20
+      },
+      {
+        "titel": "Wander- und Spazierwege",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/freizeit/wander-und-spazierwege",
+        "score": 20
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.schwarzach-bei-nabburg.de/freizeit-kultur-tourismus/kultur-tourismus/uebernachten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Schwarzenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58552229717",
+    "webseite": "https://www.schwarzenbach-online.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schwarzenbach a.d.Saale",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50886666479",
+    "webseite": "http://www.schwarzenbach-saale.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.schwarzenbach-saale.de/category/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.schwarzenbach-saale.de/category/kultur/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwarzenbach a.Wald",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84442220479",
+    "webseite": "http://www.schwarzenbach-wald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.schwarzenbach-wald.de/unsere-buerger/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.schwarzenbach-wald.de/unsere-gaeste/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Regionale Freizeitangebote",
+        "url": "https://www.schwarzenbach-wald.de/unsere-gaeste/regionale-freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "KULT 17 - Kulturprogramm>>",
+        "url": "https://www.schwarzenbach-wald.de/unsere-buerger/staedtische-einrichtungen/philipp-wolfrum-haus",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwarzenbruck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75330006717",
+    "webseite": "https://schwarzenbruck.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Handwerker- und Gewerbeverein",
+        "url": "https://hgv-schwarzenbruck.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwarzenfeld",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92107783717",
+    "webseite": "http://www.schwarzenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/vereinsleben/freiwillige-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    30\n                                                Herbstball des Gartenbauvereins\n                                                                Restaurant Miesberg, Klosterstraße 4, 92521 Schwarzenfeld",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/freizeit/veranstaltungen/veranstaltung/herbstball-des-gartenbauvereins/2026-10-30?cHash=861a49d27cb6ee7dc2e9873733c9c506",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit, Kultur & Tourismus",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/freizeit/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/kultur-tourismus/rund-ums-rad",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/freizeit/veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/freizeit/hallenbad",
+        "score": 20
+      },
+      {
+        "titel": "Wander- und Spazierwege",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/freizeit/wander-und-spazierwege",
+        "score": 20
+      },
+      {
+        "titel": "Rund ums Wasser",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/kultur-tourismus/rund-ums-wasser",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten, Museen",
+        "url": "https://www.schwarzenfeld.de/freizeit-kultur-tourismus/kultur-tourismus/sehenswuerdigkeiten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Schwarzhofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08885560718",
+    "webseite": "http://www.schwarzhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schwebheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25663337718",
+    "webseite": "http://www.schwebheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schweinfurt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90887086388",
+    "webseite": "http://www.schweinfurt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schweitenkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42441114718",
+    "webseite": "https://www.schweitenkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Reges Vereinsleben",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/vereine/vereinsregister",
+        "score": 90
+      },
+      {
+        "titel": "Förderung des Vereinslebens",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/vereine/foerderung-des-vereinslebens",
+        "score": 80
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm Schweitenkirchen",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/veranstaltungen/ferienprogramm-schweitenkirchen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff Schweitenkirchen",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/veranstaltungen/jugendtreff-schweitenkirchen",
+        "score": 10
+      },
+      {
+        "titel": "Christkindlmarkt 2025",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/veranstaltungen/christkindlmarkt-2025",
+        "score": 10
+      },
+      {
+        "titel": "55. Schweitenkirchener Pfingstvolksfest",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/veranstaltungen/54-schweitenkirchener-pfingstvolksfest",
+        "score": 10
+      },
+      {
+        "titel": "Vereinsadresse melden",
+        "url": "https://www.schweitenkirchen.de/adressen-melden/login/-out",
+        "score": 10
+      },
+      {
+        "titel": "Sportlich unterwegs",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/freizeit-und-sport/sportzentrum-tennishalle",
+        "score": 10
+      },
+      {
+        "titel": "Max-Elfinger-Halle",
+        "url": "https://www.schweitenkirchen.de/freizeit-geniessen/freizeit-und-sport/max-elfinger-halle",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwenningen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59218891718",
+    "webseite": "https://www.vg-hoechstaedt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Schwenningen | 17. April 2026        \n                                        Donautal-Aktiv e.V.: Kulturjahr 2027 nimmt Fahrt auf",
+        "url": "https://www.vg-hoechstaedt.de/?view=article&id=2248:donautal-aktiv-e-v-kulturjahr-2027-nimmt-fahrt-auf&catid=11",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Schwifting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75996668718",
+    "webseite": "http://www.schwifting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schwindegg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92774445718",
+    "webseite": "https://www.gemeinde-schwindegg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Reges Vereinsleben",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/reges-vereinsleben/vereine-und-verbaende",
+        "score": 80
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/reges-vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    19\n                                                KSK-Schwindegg Vereinsausflug",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/veranstaltungskalender/veranstaltung/ksk-schwindegg-vereinsausflug/2026-09-19?cHash=234c7c31bab4883863dcd90189a3e03c",
+        "score": 40
+      },
+      {
+        "titel": "Kulturelle Angebote",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/kulturelle-angebote",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    29\n                                                125 Jahre Radfahrerverein Walkersaich\n                                                                Walkersaich",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/veranstaltungskalender/veranstaltung/125-jahre-radfahrerverein-walkersaich/2026-05-29?cHash=06a5aa475a00c8565cabaf06b2244867",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    30\n                                                125 Jahre Radfahrerverein Walkersaich\n                                                                Walkersaich",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/veranstaltungskalender/veranstaltung/125-jahre-radfahrerverein-walkersaich-1/2026-05-30?cHash=444766c03c4dde5fead76dc21d2c6a26",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    31\n                                                125 Jahre Radfahrerverein Walkersaich\n                                                                Walkersaich",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/veranstaltungskalender/veranstaltung/125-jahre-radfahrerverein-walkersaich-2/2026-05-31?cHash=b15d6d199457e137d77eacdf07e8059d",
+        "score": 20
+      },
+      {
+        "titel": "Familien",
+        "url": "https://www.schwindegg.de/leben-in-schwindegg/familien/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung einreichen",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/veranstaltung-einreichen",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerhaus",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/was-ist-los-in-schwindegg/buergerhaus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.schwindegg.de/freizeit-geniessen/freizeit-und-sport/sportanlagen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Seefeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09552222719",
+    "webseite": "http://www.seefeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.seefeld.de/kultur-freizeit/vereine-organisationen.php",
+        "score": 70
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.seefeld.de/kultur-freizeit/veranstaltungen.php",
+        "score": 20
+      },
+      {
+        "titel": "Wochenmärkte",
+        "url": "https://www.seefeld.de/kultur-freizeit/wochenmarkt.php",
+        "score": 20
+      },
+      {
+        "titel": "Strandbäder & Campingplätze",
+        "url": "https://www.seefeld.de/kultur-freizeit/baden-campingplaetze.php",
+        "score": 20
+      },
+      {
+        "titel": "Gemeinde-Partnerschaft",
+        "url": "https://www.seefeld.de/kultur-freizeit/gemeindepartnerschaft.php",
+        "score": 20
+      },
+      {
+        "titel": "Deutsch-Französische Freundschaftsidee",
+        "url": "https://www.seefeld.de/kultur-freizeit/deutsch-franzoesische-freundschaftsidee.php",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung für Ihren Besuch im Standesamt",
+        "url": "https://www.seefeld.de/aktuelles/nachricht.php?p=wichtige-informationen-zu-ihrem-besuch-im-standesamt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Seeg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26329999719",
+    "webseite": "https://www.seeg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Führungen für Gruppen, Vereine & Busgruppen",
+        "url": "https://www.seeg.de/honigdorf/fuehrungen/fuehrungen-fuer-gruppen-vereine-busgruppen",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Seehausen a.Staffelsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43107776719",
+    "webseite": "http://www.seehausen-am-staffelsee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Vereine",
+        "url": "https://www.seehausen-am-staffelsee.de/kultur-vereine.html",
+        "score": 30
+      },
+      {
+        "titel": "Urlaub & Freizeit",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Ihre Gästeinformation",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/ihre-gaesteinformation.html",
+        "score": 10
+      },
+      {
+        "titel": "Sommer-Aktivitäten",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/sommer-aktivitaeten.html",
+        "score": 10
+      },
+      {
+        "titel": "Winter-Aktivitäten",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/winter-aktivitaeten.html",
+        "score": 10
+      },
+      {
+        "titel": "Das Blaue Land",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/das-blaue-land.html",
+        "score": 10
+      },
+      {
+        "titel": "Staffelseemuseum",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/staffelseemuseum.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele bis 25 km",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/ausflugsziele-bis-25-km.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele bis 40 km",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/ausflugsziele-bis-40-km.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele bis 90 km",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/ausflugsziele-bis-90-km.html",
+        "score": 10
+      },
+      {
+        "titel": "Schlechtwetterprogramm",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/schlechtwetterprogramm.html",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradverleih",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/fahrradverleih.html",
+        "score": 10
+      },
+      {
+        "titel": "Wandertafeln in Seehausen",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/wandertafeln-in-seehausen.html",
+        "score": 10
+      },
+      {
+        "titel": "gemietetem Kahn",
+        "url": "https://www.seehausen-am-staffelsee.de/urlaub-freizeit/sommer-aktivitaeten/sommer-urlaubboot-fahren.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Seeon-Seebruck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59885553719",
+    "webseite": "http://www.seeon-seebruck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.seeon-seebruck-rathaus.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kultur und Freizeit",
+        "url": "https://www.seeon-seebruck-rathaus.de/kultur-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Ausflüge",
+        "url": "https://www.seeon-seebruck.de/freizeit-ausfluege",
+        "score": 10
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.seeon-seebruck.de/kunst-und-kultur",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Freizeitaktivitäten",
+        "url": "https://www.seeon-seebruck.de/weitere-freizeitaktivitaeten",
+        "score": 10
+      },
+      {
+        "titel": "Haus der Kultur und Heimat",
+        "url": "https://www.seeon-seebruck-rathaus.de/haus-der-kultur-und-heimat",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Seeshaupt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76663330719",
+    "webseite": "http://www.seeshaupt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Reges Vereinsleben",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/reges-vereinsleben/ortsvereine",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/reges-vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Seeshaupt Kultur",
+        "url": "https://www.seeshaupt.de/unsere-gemeinde/seeshaupt-kultur/rathausgalerie",
+        "score": 10
+      },
+      {
+        "titel": "Ausstellungen zur Dorfgeschichte",
+        "url": "https://www.seeshaupt.de/unsere-gemeinde/seeshaupt-kultur/ausstellung-zur-dorfgeschichte",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Feste und Märkte",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/veranstaltungen/feste-und-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Sportlich unterwegs",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/sportlich-unterwegs/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Radeln und Wandern",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/sportlich-unterwegs/radeln-und-wandern",
+        "score": 10
+      },
+      {
+        "titel": "Seeshaupt entdecken",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/seeshaupt-entdecken/spaziergang-durch-seeshaupt",
+        "score": 10
+      },
+      {
+        "titel": "Starnberger See",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/seeshaupt-entdecken/starnberger-see",
+        "score": 10
+      },
+      {
+        "titel": "Osterseen",
+        "url": "https://www.seeshaupt.de/freizeit-geniessen/seeshaupt-entdecken/osterseen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Segnitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93441107719",
+    "webseite": "https://www.segnitz-main.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.segnitz-main.de/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Seinsheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10218884720",
+    "webseite": "https://www.seinsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.seinsheim.de/kultur/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.seinsheim.de/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.seinsheim.de/kultur/geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Kirchengaden",
+        "url": "https://www.seinsheim.de/kultur/kirchengaden",
+        "score": 10
+      },
+      {
+        "titel": "Kath. und Evang. Pfarrämter",
+        "url": "https://www.seinsheim.de/kultur/kath-und-evang-pfarraemter",
+        "score": 10
+      },
+      {
+        "titel": "Iffigheim",
+        "url": "https://www.seinsheim.de/kultur/geschichte/iffigheim",
+        "score": 10
+      },
+      {
+        "titel": "Wässerndorf",
+        "url": "https://www.seinsheim.de/kultur/geschichte/waesserndorf",
+        "score": 10
+      },
+      {
+        "titel": "Tiefenstockheim",
+        "url": "https://www.seinsheim.de/kultur/geschichte/tiefenstockheim",
+        "score": 10
+      },
+      {
+        "titel": "Seinsheim",
+        "url": "https://www.seinsheim.de/kultur/geschichte/seinsheim",
+        "score": 10
+      },
+      {
+        "titel": "Bildstöcke",
+        "url": "https://www.seinsheim.de/kultur/geschichte/bildstoecke",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Selb",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95220039470",
+    "webseite": "https://www.selb.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Selbitz",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85108882480",
+    "webseite": "http://www.selbitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Senden",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28775593471",
+    "webseite": "https://www.stadt-senden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.stadt-senden.de/leben-kultur/vereine-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.stadt-senden.de/leben-kultur/freizeit",
+        "score": 20
+      },
+      {
+        "titel": "See- und Hallenbad",
+        "url": "https://www.stadt-senden.de/leben-kultur/freizeit/see-und-hallenbad",
+        "score": 20
+      },
+      {
+        "titel": "Eislaufanlage Illerau",
+        "url": "https://www.stadt-senden.de/leben-kultur/freizeit/eislaufanlage-illerau",
+        "score": 20
+      },
+      {
+        "titel": "Leben & Kultur",
+        "url": "https://www.stadt-senden.de/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.stadt-senden.de/leben-kultur/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Das Kulturbüro",
+        "url": "https://www.stadt-senden.de/leben-kultur/kultur/das-kulturbuero",
+        "score": 10
+      },
+      {
+        "titel": "Sendener Bühnen",
+        "url": "https://www.stadt-senden.de/leben-kultur/kultur/sendener-buehnen",
+        "score": 10
+      },
+      {
+        "titel": "ILLERTAL-FORUM SENDEN bürgerhaus",
+        "url": "https://www.stadt-senden.de/leben-kultur/kultur/illertal-forum-senden-buergerhaus",
+        "score": 10
+      },
+      {
+        "titel": "Bildung",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung",
+        "score": 10
+      },
+      {
+        "titel": "Kindergärten",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/kindergaerten",
+        "score": 10
+      },
+      {
+        "titel": "Grundschulen",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/grundschulen",
+        "score": 10
+      },
+      {
+        "titel": "Weiterführende Schulen",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/weiterfuehrende-schulen",
+        "score": 10
+      },
+      {
+        "titel": "Lindenhofschule - Heilpädagogisches Zentrum (HPZ)",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/lindenhofschule-heilpaedagogisches-zentrum-hpz",
+        "score": 10
+      },
+      {
+        "titel": "Städtische Musikschule",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/staedtische-musikschule",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbibliothek",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/stadtbibliothek",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/volkshochschule",
+        "score": 10
+      },
+      {
+        "titel": "Hochschulen",
+        "url": "https://www.stadt-senden.de/leben-kultur/bildung/hochschulen",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.stadt-senden.de/leben-kultur/maerkte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Sengenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26996661720",
+    "webseite": "http://www.sengenthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine von A-Z",
+        "url": "https://sengenthal.de/kultur-und-freizeit/vereine-a-z/",
+        "score": 80
+      },
+      {
+        "titel": "Radwanderwege",
+        "url": "https://sengenthal.de/kultur-und-freizeit/radwanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://sengenthal.de/kultur-und-freizeit/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Königsfeier – Schützenverein Jägerwiesl Reichertshofen",
+        "url": "https://sengenthal.de/veranstaltung/koenigsfeier-schuetzenverein-jaegerwiesl-reichertshofen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Sennfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43774438720",
+    "webseite": "https://www.sennfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
   }
 ]
