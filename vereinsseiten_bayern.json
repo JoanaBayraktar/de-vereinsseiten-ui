@@ -13169,5 +13169,2553 @@
     "webseite": "http://www.esselbach-online.de",
     "bundesland": "Bayern",
     "vereinsseiten": []
+  },
+  {
+    "name": "Essenbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47219675549",
+    "webseite": "http://www.essenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Essing",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63997452549",
+    "webseite": "http://www.marktessing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marktessing.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit von A bis Z",
+        "url": "https://www.marktessing.de/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Estenfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80775229549",
+    "webseite": "http://www.estenfeld.net",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ettal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97553006549",
+    "webseite": "http://www.gemeinde-ettal.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-ettal.de/leben-in-unterammergau/vereinsleben",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Ettenstatt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14330783550",
+    "webseite": "http://www.ettenstatt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.ettenstatt.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "http://www.ettenstatt.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ettringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31108560550",
+    "webseite": "http://www.ettringen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "VEREINE",
+        "url": "https://ettringen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Seniorenverein Dahoim e.V.",
+        "url": "https://ettringen.de/soziales/dahoim/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Etzelwang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47886337550",
+    "webseite": "http://www.etzelwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://etzelwang.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Jugend- und Freizeitangebot",
+        "url": "https://etzelwang.de/freizeit-und-gaeste/2685-2/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Etzenricht",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64664114550",
+    "webseite": "http://www.etzenricht.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Euerbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81441891550",
+    "webseite": "https://www.euerbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://euerbach.de/index.php",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Euerdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98219668550",
+    "webseite": "https://www.vg-euerdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/euerdorf/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/ramsthal/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/sulzthal/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-euerdorf.de/gemeinden/aura/vereine/index.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Eurasburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14997445551",
+    "webseite": "http://www.eurasburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismusverein Eurasburg e.V.",
+        "url": "https://tourismus.eurasburg.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eurasburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31775222551",
+    "webseite": "http://www.gemeinde-eurasburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.gemeinde-eurasburg.de/leben-erleben/freizeit-kultur/ehreehrenamt-vereinsleben",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-eurasburg.de/leben-erleben/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.gemeinde-eurasburg.de/leben-erleben/freizeit-kultur/feste-maerkte",
+        "score": 20
+      },
+      {
+        "titel": "Natur & Umgebung",
+        "url": "https://www.gemeinde-eurasburg.de/leben-erleben/freizeit-kultur/natur-umgebung",
+        "score": 20
+      },
+      {
+        "titel": "Atelier für Kunsthandwerk",
+        "url": "https://www.gemeinde-eurasburg.de/leben-erleben/freizeit-kultur/atelier-fuer-kunsthandwerk",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Eußenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48552999551",
+    "webseite": "http://www.eussenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Pressemitteilungen der Ortsvereine",
+        "url": "https://www.eussenheim.de/seite/de/cms0605202615492515861151/013:6778/-/Pressemitteilungen_der_Ortsvereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.eussenheim.de/seite/de/cms0605202615492515861151/07790/-/Vereinsverzeichnis.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourist-, Kultur- & Freizeit",
+        "url": "https://www.eussenheim.de/seite/de/cms0605202615492515861151/024/-/Tourist-Kultur-und_Freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Pressemitteilungen der Ortsvereine",
+        "url": "https://www.eussenheim.de/seite/de/cms0605202615492515861151/6778/-/Pressemitteilungen_der_Ortsvereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.eussenheim.de/mspbranche/de/cms0605202615492515861151/-/-/branche_searchresult",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Fahrenzhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65330776551",
+    "webseite": "http://www.fahrenzhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://fahrenzhausen.de/vereine-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://fahrenzhausen.de/online-terminvereinbarung/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit A-Z",
+        "url": "https://fahrenzhausen.de/freizeit-a-zu/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Falkenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82108553551",
+    "webseite": "https://www.vg-falkenberg.de/startseite-falkenberg",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.vg-falkenberg.de/vereinsschule-rottal-inn?suche=",
+        "score": 30
+      },
+      {
+        "titel": "herunterladen",
+        "url": "https://www.vg-falkenberg.de/vereinsschule-rottal-inn",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Falkenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98886330551",
+    "webseite": "https://www.markt-falkenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Verbände, Organisationen",
+        "url": "https://www.markt-falkenberg.de/leben-in-falkenberg/vereine-verbaende-organisationen/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Burg Falkenberg",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/burg-falkenberg/",
+        "score": 20
+      },
+      {
+        "titel": "Geotop Burgberg",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/geotop-burgberg/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/sehenswuerdigkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Waldnaabtal",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/waldnaabtal/",
+        "score": 20
+      },
+      {
+        "titel": "Musiker und Künstler",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/musiker-und-kuenstler/",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule - Außenstelle Falkenberg",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/volkshochschule-aussenstelle-falkenberg/",
+        "score": 20
+      },
+      {
+        "titel": "Zoiglbrauen",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/zoiglbrauen/",
+        "score": 20
+      },
+      {
+        "titel": "Zoiglkalender",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/zoiglkalender/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/wandern/",
+        "score": 20
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/radfahren/",
+        "score": 20
+      },
+      {
+        "titel": "Ausflüge",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/ausfluege/",
+        "score": 20
+      },
+      {
+        "titel": "Land der tausend Teiche",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/land-der-tausend-teiche/",
+        "score": 20
+      },
+      {
+        "titel": "Events und Tickets",
+        "url": "https://www.markt-falkenberg.de/freizeit-kultur/events-und-tickets/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Falkenfels",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15664107552",
+    "webseite": "http://www.falkenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.falkenfels.de/index.php/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Falkenstein",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32441884552",
+    "webseite": "http://www.markt-falkenstein.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-falkenstein.de/hier-leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.markt-falkenstein.de/hier-leben/sport-und-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Familien-Freibad Falkenstein",
+        "url": "https://www.markt-falkenstein.de/hier-leben/sport-und-freizeit/freibad-falkenstein/",
+        "score": 10
+      },
+      {
+        "titel": "Bewegungsparcours",
+        "url": "https://www.markt-falkenstein.de/hier-leben/sport-und-freizeit/bewegungsparcours/",
+        "score": 10
+      },
+      {
+        "titel": "Kneipp-Becken",
+        "url": "https://www.markt-falkenstein.de/hier-leben/sport-und-freizeit/kneipp-becken/",
+        "score": 10
+      },
+      {
+        "titel": "Loipen",
+        "url": "https://www.markt-falkenstein.de/hier-leben/sport-und-freizeit/loipen/",
+        "score": 10
+      },
+      {
+        "titel": "Märchenwanderungen",
+        "url": "https://www.markt-falkenstein.de/hier-leben/sport-und-freizeit/maerchenwanderungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Farchant",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49219661552",
+    "webseite": "https://www.gemeinde-farchant.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-farchant.de/leben-und-soziales/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.gemeinde-farchant.de/leben-und-soziales/freizeiteinrichtungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Faulbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65997438552",
+    "webseite": "http://www.faulbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "14. Mai 2026                            \n                        \n                        Sportverein Faulbach - Vatertagsevent\n                            \nSportgelände SV Faulbach, Faulbach",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/veranstaltungen/sportverein-faulbach-vatertagsevent/",
+        "score": 30
+      },
+      {
+        "titel": "15.                            \n–                                \n                                    17. Mai 2026\n                                \n                        \n                        Sportverein Faulbach - Jubiläumsfest\n                            \nSportgelände SV Faulbach, Faulbach",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/veranstaltungen/sportverein-faulbach-jubilaeumsfest/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit, Tourismus und Kultur",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/geschichte/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsmeldung",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/veranstaltungsmeldung/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Wassertretanlage Breitenbrunn",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/wassertretanlage-breitenbrunn/",
+        "score": 20
+      },
+      {
+        "titel": "Churfranken",
+        "url": "https://churfranken.de/index.html",
+        "score": 20
+      },
+      {
+        "titel": "BikeErfahren",
+        "url": "https://www.bike-erfahren.de/",
+        "score": 20
+      },
+      {
+        "titel": "Hajo",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/hajo/",
+        "score": 20
+      },
+      {
+        "titel": "Kath. Bücherei",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/kath-buecherei/",
+        "score": 20
+      },
+      {
+        "titel": "Kinderstadtplan",
+        "url": "https://www.faulbach.de/freizeit-tourismus-und-kultur/kinderstadtplan/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Feichten a.d.Alz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82775215552",
+    "webseite": "http://www.feichten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Feilitzsch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99552992552",
+    "webseite": "http://www.feilitzsch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Feldafing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16330769553",
+    "webseite": "http://www.feldafing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Feldkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33108546553",
+    "webseite": "http://www.feldkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Feldkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49886323553",
+    "webseite": "https://www.feldkirchen-gemeinde.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Feldkirchen-Westerham",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66664100553",
+    "webseite": "http://www.feldkirchen-westerham.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation/vereinsregister.html",
+        "score": 90
+      },
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation.html",
+        "score": 60
+      },
+      {
+        "titel": "Vorwort",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation/vorwort.html",
+        "score": 60
+      },
+      {
+        "titel": "Fördermöglichkeiten",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation/foerdermoeglichkeiten.html",
+        "score": 60
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation/volkshochschule.html",
+        "score": 60
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation/buecherei.html",
+        "score": 60
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/vereine-organisation/musikschule.html",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/freizeit-tourismus.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/freizeit-tourismus/freizeit-tourismus.html",
+        "score": 20
+      },
+      {
+        "titel": "Sport & Aktivitäten",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/freizeit-tourismus/sport-aktivitaeten.html",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://feldkirchen-westerham.de/leben-kultur/freizeit-tourismus/sehenswuerdigkeiten.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Fellen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83441877553",
+    "webseite": "http://www.fellen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://vgem-burgsinn.de/mspbranche/vg/cms0605202615513834186307/-/-/branche_searchresult",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Fellheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00219654554",
+    "webseite": "http://www.vgem-boos.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fensterbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16997431554",
+    "webseite": "https://www.fensterbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.fensterbach.de/",
+        "score": 20
+      },
+      {
+        "titel": "Informationen f�r Veranstalter bzw. Vereine",
+        "url": "https://www.fensterbach.de/page_3_9.php",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.fensterbach.de/page_3_3.php",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://www.fensterbach.de/page_3_5.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Feucht",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33775208554",
+    "webseite": "https://www.feucht.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Feuchtwangen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91220067464",
+    "webseite": "http://www.feuchtwangen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fichtelberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50552985554",
+    "webseite": "http://www.fichtelberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Finning",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67330762554",
+    "webseite": "https://www.finning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://finning.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kirchen & Vereine",
+        "url": "https://finning.de/kirchen-und-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://finning.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://finning.de/sport-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Finningen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84108539554",
+    "webseite": "https://www.vg-hoechstaedt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Schwenningen | 17. April 2026        \n                                        Donautal-Aktiv e.V.: Kulturjahr 2027 nimmt Fahrt auf",
+        "url": "https://www.vg-hoechstaedt.de/?view=article&id=2248:donautal-aktiv-e-v-kulturjahr-2027-nimmt-fahrt-auf&catid=11",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Finsing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00886316555",
+    "webseite": "https://www.finsing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fischach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17664093555",
+    "webseite": "http://www.fischach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fischbachau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34441870555",
+    "webseite": "http://www.fischbachau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Alles zu Kultur & Brauchtum",
+        "url": "https://www.fischbachau.de/kultur-brauchtum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fischen i.Allgäu",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51219647555",
+    "webseite": "https://www.hoernergruppe.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine Bolsterlang",
+        "url": "https://www.hoernergruppe.de/vereine-bolsterlang/",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsfuchs",
+        "url": "https://www.hoernergruppe.de/vereinsfuchs/",
+        "score": 30
+      },
+      {
+        "titel": "Kinderförderverein Ofterschwang",
+        "url": "https://www.hoernergruppe.de/kinderfoerderverein-ofterschwang/",
+        "score": 10
+      },
+      {
+        "titel": "Heimat- und Trachtenverein d´Bergler Balderschwang e.v.",
+        "url": "https://www.hoernergruppe.de/heimat-und-trachtenverein-dbergler-balderschwang-e-v/",
+        "score": 10
+      },
+      {
+        "titel": "Verein",
+        "url": "https://www.hoernergruppe.de/verein/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Flachslanden",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67997424555",
+    "webseite": "http://www.flachslanden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.flachslanden.de/leben-wohnen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.flachslanden.de/",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugstipps",
+        "url": "https://www.flachslanden.de/freizeit-tourismus/ausflugstipps/",
+        "score": 10
+      },
+      {
+        "titel": "Sportmöglichkeiten",
+        "url": "https://www.flachslanden.de/freizeit-tourismus/sportmoeglichkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Rad & Wandern",
+        "url": "https://www.flachslanden.de/freizeit-tourismus/rad-wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.flachslanden.de/freizeit-tourismus/gaststaetten/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.flachslanden.de/freizeit-tourismus/uebernachtungsmoeglichkeiten/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fladungen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97997914449",
+    "webseite": "https://www.fladungen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Flintsbach a.Inn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84775201555",
+    "webseite": "http://www.flintsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.flintsbach.de/leben-in-flintsbach/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Kulturgeschichte",
+        "url": "https://www.flintsbach.de/buergerservice-flintsbach/ueber-flintsbach/kulturgeschichte.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Floß",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01552978556",
+    "webseite": "https://www.floss.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.floss.de/vereine.htm",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Kirche",
+        "url": "https://www.floss.de/freizeitkultur.htm",
+        "score": 20
+      },
+      {
+        "titel": "Unter dem Titel „wissen.EHRENAMT\" – angesiedelt in der\nVereinsAkademie – bietet die KEB - Katholische\nErwachsenenbildung im Bistum Regensburg e.V....",
+        "url": "https://www.floss.de/news_neuesdigitalesveranstaltungsformatwissenehrenamt.htm",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.floss.de/ferienprogramme_ferien-undfreizeitprogrammsommer2026kreisjugendring.htm",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarungen möglich",
+        "url": "https://www.floss.de/kontakt.htm?dbx=2",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Flossenbürg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18330755556",
+    "webseite": "http://www.flossenbuerg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://flossenbuerg.de/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit Gaisweiher",
+        "url": "https://flossenbuerg.de/freizeit-gaisweiher",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Forchheim",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49664569452",
+    "webseite": "https://www.forchheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Angebote für Vereine",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/angebote-services/angebote/angebote-fuer-vereine",
+        "score": 40
+      },
+      {
+        "titel": "Förderung Musikensembles",
+        "url": "https://www.forchheim.de/kultur-freizeit/kulturraum-forchheim/kommunale-kulturfoerderung/foerderung-musikvereine",
+        "score": 40
+      },
+      {
+        "titel": "Kulturentwicklungsplan",
+        "url": "https://www.forchheim.de/kultur-freizeit/kulturservice-und-kulturraum/kulturentwicklungsplan",
+        "score": 20
+      },
+      {
+        "titel": "Kulturelle Bildung",
+        "url": "https://www.forchheim.de/kultur-freizeit/kulturraum-forchheim/kulturelle-bildung",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze & Bolzplätze",
+        "url": "https://www.forchheim.de/kultur-freizeit/freizeit-tourismus/sport-freizeitanlagen/spielplaetze-bolzplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.forchheim.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Events",
+        "url": "https://www.forchheim.de/kultur-freizeit/events",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungshighlights",
+        "url": "https://www.forchheim.de/kultur-freizeit/events/veranstaltungshighlights",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.forchheim.de/kultur-freizeit/events/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Geschichte & Brauchtum",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum",
+        "score": 20
+      },
+      {
+        "titel": "Stadtarchiv Forchheim",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim",
+        "score": 20
+      },
+      {
+        "titel": "Bestände",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/bestaende",
+        "score": 20
+      },
+      {
+        "titel": "Benutzungshinweise",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/archivbenutzung/benutzungshinweise",
+        "score": 20
+      },
+      {
+        "titel": "Öffnungszeiten",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/archivbenutzung/oeffnungszeiten",
+        "score": 20
+      },
+      {
+        "titel": "Anfahrt",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/archivbenutzung/anfahrt",
+        "score": 20
+      },
+      {
+        "titel": "Familienforschung",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/archivbenutzung/familienforschung",
+        "score": 20
+      },
+      {
+        "titel": "Erbenermittlung",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/archivbenutzung/erbenermittlung",
+        "score": 20
+      },
+      {
+        "titel": "Hausforschung",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/archivbenutzung/hausforschung",
+        "score": 20
+      },
+      {
+        "titel": "Angebote & Services",
+        "url": "https://www.forchheim.de/kultur-freizeit/geschichte-brauchtum/stadtarchiv-forchheim/angebote-services",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Forheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35108532556",
+    "webseite": "http://www.forheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.forheim.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr Forheim",
+        "url": "http://www.forheim.de/vereine/feuerwehr-forheim",
+        "score": 50
+      },
+      {
+        "titel": "Downloads",
+        "url": "http://www.forheim.de/vereine/feuerwehr-forheim/downloads/category/2-downloads-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Events",
+        "url": "http://www.forheim.de/vereine/feuerwehr-forheim/events-feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "150 Jahre Feuerwehr Forheim",
+        "url": "http://www.forheim.de/vereine/feuerwehr-forheim/feuerwehrfest",
+        "score": 50
+      },
+      {
+        "titel": "Terminkalender",
+        "url": "http://www.forheim.de/vereine/terminkalender",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit",
+        "url": "http://www.forheim.de/freizeit-sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "http://www.forheim.de/freizeit-sehenswuerdigkeiten/mnu-gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Kesselursprung",
+        "url": "http://www.forheim.de/freizeit-sehenswuerdigkeiten/kesselursprung",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "http://www.forheim.de/freizeit-sehenswuerdigkeiten/radwege-menue",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Forstern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51886309556",
+    "webseite": "https://www.forstern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.forstern.de/vereine-3/",
+        "score": 50
+      },
+      {
+        "titel": "Online terminvereinbarung",
+        "url": "https://tempus-termine.com/termine/index.php?anlagennr=193&anlagentoken=z92GmQ&anwendung=1",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Forstinning",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68664086556",
+    "webseite": "http://www.forstinning.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Frammersbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85441863556",
+    "webseite": "http://www.frammersbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit, Sport & Kultur",
+        "url": "https://www.frammersbach.de/seite/bs/cms0605202615543932237865/0109/-/Freizeit_Sport_und_Kultur.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.frammersbach.de/mspbranche/bs/cms0605202615543932237865/-/-/branche_searchresult",
+        "score": 20
+      },
+      {
+        "titel": "Bekanntmachung des Aufstellungsbeschlusses gem�� � 2 Abs. 1 Satz 2 BauGB des Markt Frammersbach f�r den Bebauungsplan \"Sport- und Freizeitgebiet Sauerberg\".2023 (PDF)",
+        "url": "https://www.frammersbach.de/eigene_dateien/aktuell/2023/august/bekanntmachung_aufstellungsbeschlusses_bplan_sauerberg.pdf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Frankenwinheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02219640557",
+    "webseite": "https://www.frankenwinheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.frankenwinheim.de/leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr Brünnstadt",
+        "url": "https://www.frankenwinheim.de/leben/vereine/freiwillige-feuerwehr-bruennstadt/",
+        "score": 50
+      },
+      {
+        "titel": "Gesangverein",
+        "url": "https://www.frankenwinheim.de/leben/vereine/gesangverein/",
+        "score": 50
+      },
+      {
+        "titel": "Seniorenkreis",
+        "url": "https://www.frankenwinheim.de/leben/vereine/senioren/",
+        "score": 50
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.frankenwinheim.de/tourismus/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://www.frankenwinheim.de/tourismus/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Osteraktion beim Sportverein",
+        "url": "https://www.frankenwinheim.de/aktuell/2026/osteraktion-beim-sportverein/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Frasdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18997417557",
+    "webseite": "http://www.frasdorf.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Erleben",
+        "url": "https://frasdorf.de/tourismus/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Frauenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35775194557",
+    "webseite": "http://www.frauenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Frauenneuharting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52552971557",
+    "webseite": "http://www.frauenneuharting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.frauenneuharting.de/buergerservice-politik/service/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Fraunberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69330748557",
+    "webseite": "http://www.fraunberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Mehr erfahren",
+        "url": "https://www.fraunberg.de/grosser-zapfenstreich-vereine-institutionen-und-freunde-ueberraschen-den-nach-30-jahren-aus-dem-buergermeisteramt-scheidenden-gemeindechef-an-seinem-letzten-arbeitstag/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Freihung",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86108525557",
+    "webseite": "https://www.markt-freihung.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-freihung.de/leben-in-freihung/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Sehenswertes / Freizeit / Brauchtum",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/sehenswertes-freizeit-brauchtum/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Spielpl�tze",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Wander- / Radwege",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/wandern-radeln/",
+        "score": 10
+      },
+      {
+        "titel": "Musik in Freihung",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/musik/",
+        "score": 10
+      },
+      {
+        "titel": "Unterk�nfte / Gastronomie",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/unterkuenfte-gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Impressionen",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/impressionen/",
+        "score": 10
+      },
+      {
+        "titel": "Offenes B�cherregal",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/buecherregal/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus& Kultur",
+        "url": "https://www.markt-freihung.de/tourismus-kultur/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Freilassing",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95331266445",
+    "webseite": "https://www.freilassing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Freising",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14775691450",
+    "webseite": "https://www.freising.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.freising.de/kultur-freizeit/vereinsregister",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.freising.de/kultur-freizeit/sport/sportfreiraum-in-freising",
+        "score": 40
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.freising.de/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Eishalle",
+        "url": "https://www.freising.de/kultur-freizeit/eishalle",
+        "score": 20
+      },
+      {
+        "titel": "Kulturförderung",
+        "url": "https://www.freising.de/kultur-freizeit/kulturfoerderung",
+        "score": 20
+      },
+      {
+        "titel": "Kulturprogramm",
+        "url": "https://www.freising.de/kultur-freizeit/kulturprogramm",
+        "score": 20
+      },
+      {
+        "titel": "Lindenkeller",
+        "url": "https://www.freising.de/kultur-freizeit/kulturprogramm/lindenkeller",
+        "score": 20
+      },
+      {
+        "titel": "Luitpoldhalle",
+        "url": "https://www.freising.de/kultur-freizeit/kulturprogramm/luitpoldhalle",
+        "score": 20
+      },
+      {
+        "titel": "Seen",
+        "url": "https://www.freising.de/kultur-freizeit/seen",
+        "score": 20
+      },
+      {
+        "titel": "Spiel- & Bolzplätze",
+        "url": "https://www.freising.de/kultur-freizeit/spiel-bolzplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.freising.de/kultur-freizeit/sport",
+        "score": 20
+      },
+      {
+        "titel": "Sportentwicklungsplan",
+        "url": "https://www.freising.de/kultur-freizeit/sport/sportentwicklungsplan",
+        "score": 20
+      },
+      {
+        "titel": "Sport im Park",
+        "url": "https://www.freising.de/kultur-freizeit/sport/sport-im-park",
+        "score": 20
+      },
+      {
+        "titel": "SportBox",
+        "url": "https://www.freising.de/kultur-freizeit/sport/sportbox",
+        "score": 20
+      },
+      {
+        "titel": "Sportehrung",
+        "url": "https://www.freising.de/kultur-freizeit/sport/sportehrung",
+        "score": 20
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.freising.de/kultur-freizeit/stadtarchiv",
+        "score": 20
+      },
+      {
+        "titel": "Über das Stadtarchiv",
+        "url": "https://www.freising.de/kultur-freizeit/ueber-das-stadtarchiv",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Fremdingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02886302558",
+    "webseite": "https://www.fremdingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "lebendig",
+        "url": "https://www.fremdingen.de/de/lebendig/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.fremdingen.de/index.php?id=336",
+        "score": 20
+      },
+      {
+        "titel": "Rieser Kulturtage e.V.",
+        "url": "https://www.fremdingen.de/de/lebendig/rieser-kulturtage-ev",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Frensdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19664079558",
+    "webseite": "https://www.frensdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bekanntmachung Tagesordnung Sitzung Bildung, Kultur, Soziales, Sport und Tourismus",
+        "url": "https://www.frensdorf.de/wp-content/uploads/2026/04/Bekanntmachung-Tagesordnung-Sitzung-Bildung-Sport-.pdf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Freudenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36441856558",
+    "webseite": "https://www.gemeinde-freudenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Gäste",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/tempel-museum-etsdorf",
+        "score": 10
+      },
+      {
+        "titel": "Asphaltkapelle",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/asphaltkapelle",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Nordic Walking",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/nordic-walking",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/radwege",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/wintersport/skilift",
+        "score": 10
+      },
+      {
+        "titel": "Langlaufloipen",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/wintersport/langlaufloipen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Unterkünfte",
+        "url": "https://www.gemeinde-freudenberg.de/freizeit-gaeste/gastronomie-unterkuenfte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Freystadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32886792452",
+    "webseite": "https://www.freystadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Freyung",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12109043446",
+    "webseite": "http://www.freyung.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Frickenhausen a.Main",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53219633558",
+    "webseite": "https://www.frickenhausen-main.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fridolfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69997410558",
+    "webseite": "http://www.fridolfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.fridolfing.de/freizeit-tourismus/entdecken-informieren/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Infomaterial",
+        "url": "https://www.fridolfing.de/freizeit-tourismus/entdecken-informieren/infomaterial",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.fridolfing.de/freizeit-tourismus/entdecken-informieren/radwege",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.fridolfing.de/freizeit-tourismus/entdecken-informieren/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Badesee",
+        "url": "https://www.fridolfing.de/freizeit-tourismus/entdecken-informieren/badesee",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Veranstaltungen",
+        "url": "https://www.fridolfing.de/freizeit-tourismus/entdecken-informieren/feste-veranstaltungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Friedberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51664555455",
+    "webseite": "http://www.friedberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Friedenfels",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86775187558",
+    "webseite": "http://www.friedenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://friedenfels.de/index.php",
+        "score": 70
+      }
+    ]
+  },
+  {
+    "name": "Friesenried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03552964559",
+    "webseite": "https://www.friesenried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine\n                                                                                    & Verbände",
+        "url": "https://www.friesenried.de/vereine-und-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus\n                                                                                    & Freizeit",
+        "url": "https://www.friesenried.de/",
+        "score": 10
+      },
+      {
+        "titel": "Bildungs- & Freizeitangebote",
+        "url": "https://www.friesenried.de/familie-und-bildung/bildungs--und-freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus-Info",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/tourismus-info",
+        "score": 10
+      },
+      {
+        "titel": "Ferienfreizeit",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/ferienfreizeit",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Urlaub",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub",
+        "score": 10
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/angeln",
+        "score": 10
+      },
+      {
+        "titel": "Familien und Kinder",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/familien-und-kinder",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen und Kapellen",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/kirchen-und-kapellen",
+        "score": 10
+      },
+      {
+        "titel": "Kunst",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/kunst",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/wintersport",
+        "score": 10
+      },
+      {
+        "titel": "Lehrpfade",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/lehrpfade",
+        "score": 10
+      },
+      {
+        "titel": "Pilgern",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/pilgern",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Reiten",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/reiten",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Nordic Walking",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/freizeit-und-urlaub/wandern-und-nordic-walking",
+        "score": 10
+      },
+      {
+        "titel": "360° Panorama",
+        "url": "https://www.friesenried.de/tourismus-und-freizeit/360-panorama",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Frontenhausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20330741559",
+    "webseite": "http://www.markt-frontenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fuchsmühl",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37108518559",
+    "webseite": "https://www2.fuchsmuehl.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.fuchsmuehl.de/kultur-jugend/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kultur / Jugend",
+        "url": "https://www.fuchsmuehl.de/kultur-jugend",
+        "score": 10
+      },
+      {
+        "titel": "Kindergarten",
+        "url": "https://www.fuchsmuehl.de/kultur-jugend/kindergarten",
+        "score": 10
+      },
+      {
+        "titel": "Kirche und Pfarrei",
+        "url": "https://www.fuchsmuehl.de/kultur-jugend/kirche-und-pfarrei",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.fuchsmuehl.de/kultur-jugend/buecherei",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus / Freizeit",
+        "url": "https://www.fuchsmuehl.de/tourismus-freizeit/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Markthaus",
+        "url": "https://www.fuchsmuehl.de/tourismus-freizeit/markthaus",
+        "score": 10
+      },
+      {
+        "titel": "Badeweiher",
+        "url": "https://www.fuchsmuehl.de/tourismus-freizeit/badeweiher",
+        "score": 10
+      },
+      {
+        "titel": "WaldErlebnispfad",
+        "url": "https://www.fuchsmuehl.de/tourismus-freizeit/walderlebnispfad",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Infos",
+        "url": "https://www.fuchsmuehl.de/tourismus-freizeit/weitere-infos",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fuchsstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53886295559",
+    "webseite": "http://www.fuchsstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/vereine/index.html",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Leben",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/veranstaltungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/tourismus/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/tourismus/radwege/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Heiraten",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/heiraten/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gesundheit",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/gesundheit/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Familie & Senioren",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/familie-senioren/index.html",
+        "score": 10
+      },
+      {
+        "titel": "ÖPNV",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/opnv/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/spielpltze/index.html",
+        "score": 10
+      },
+      {
+        "titel": "weiterlesen",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/veranstaltungen/index.html?ev%5Bid%5D=494",
+        "score": 10
+      },
+      {
+        "titel": "weiterlesen",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/veranstaltungen/index.html?ev%5Bid%5D=495",
+        "score": 10
+      },
+      {
+        "titel": "weiterlesen",
+        "url": "https://www.fuchsstadt.de/freizeit-leben/veranstaltungen/index.html?ev%5Bid%5D=525",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fuchstal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70664072559",
+    "webseite": "https://fuchstal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fünfstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87441849559",
+    "webseite": "https://www.vg-wemding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Pflanzenbörse, Dorfverschönerungsverein\n                     09. Mai",
+        "url": "https://www.vg-wemding.de/veranstaltungen/pflanzenboerse_dorfverschoener-683689-12602909/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fürsteneck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04219626560",
+    "webseite": "http://www.fuersteneck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Fürstenfeldbruck",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46331259447",
+    "webseite": "http://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_aktuelles.html",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Kultur- und Werkausschuss",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_kultur-undwerkausschuss.html",
+        "score": 10
+      },
+      {
+        "titel": "Online-Terminvereinbarumg",
+        "url": "https://fuerstenfeldbruck.flexappoint.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_freizeit-sport.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielpl�tze und Freizeitanlagen",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_spielplaetzeundfreizeitanlagen.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur und Tourismus",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_kultur_tourimus.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultureinrichtungen",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturwerkstatt Haus 10",
+        "url": "https://www.fuerstenfeldbruck.de/ffb/web.nsf/id/pa_haus10.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fürstenstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20997403560",
+    "webseite": "http://www.fuerstenstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Informationen und Anträge zum Download.",
+        "url": "http://test-fuerstenstein.verwaltungsportal.eu/seite/337236/vereinsinfos.html",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Fürstenzell",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37775180560",
+    "webseite": "https://www.fuerstenzell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Fördermöglichkeiten für Vereine.",
+        "url": "https://www.fuerstenzell.de/de/gemeinde-fuerstenzell/foerdermoeglichkeiten-fuer-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/tourismus-gastronomie/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/tourismus-gastronomie/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/tourismus-gastronomie/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "PassauCard",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/tourismus-gastronomie/passaucard",
+        "score": 10
+      },
+      {
+        "titel": "Anreise",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/tourismus-gastronomie/anreise",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/sport-freizeit/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/sport-freizeit/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Tennisplätze",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/sport-freizeit/tennisplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Panorama Golfplatz",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/sport-freizeit/panorama-golfplatz",
+        "score": 10
+      },
+      {
+        "titel": "Kalender",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/veranstaltungen-feste/kalender",
+        "score": 10
+      },
+      {
+        "titel": "Portenkirche",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/veranstaltungen-feste/portenkirche",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerfest",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/veranstaltungen-feste/buergerfest",
+        "score": 10
+      },
+      {
+        "titel": "Weinhügelfest",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/veranstaltungen-feste/weinhuegelfest",
+        "score": 10
+      },
+      {
+        "titel": "Europäische Wochen",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/veranstaltungen-feste/europaeische-wochen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/jugendtreff",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.fuerstenzell.de/de/freizeit-gaeste/buecherei",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Fürth",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23775978388",
+    "webseite": "https://www.fuerth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Füssen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01331224455",
+    "webseite": "https://www.stadt-fuessen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.stadt-fuessen.de/Kultur",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.stadt-fuessen.de/Kultur/Kaisersaalkonzerte",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.stadt-fuessen.de/Kultur/Museen-und-Kunst/Museum-der-Stadt/Neues-im-Museum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Furth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54552957560",
+    "webseite": "http://www.furth-bei-landshut.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Furth im Wald",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16109015452",
+    "webseite": "http://www.furth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gablingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71330734560",
+    "webseite": "http://www.gablingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Parteien & Kirchen",
+        "url": "https://www.gablingen.de/Freizeit/Vereine",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.gablingen.de/Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Drinnen",
+        "url": "https://www.gablingen.de/Freizeit/Drinnen",
+        "score": 10
+      },
+      {
+        "titel": "Draussen",
+        "url": "https://www.gablingen.de/Freizeit/Draussen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gablingen.de/Freizeit/Gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.gablingen.de/Freizeit/Geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Partnerschaft Lutzelbourg/M",
+        "url": "https://www.gablingen.de/Freizeit/Partnerschaft-Lutzelbourg",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gablingen.de/Rathaus/Amt/Info/kW7322/Kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gachenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88108511560",
+    "webseite": "http://www.gachenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gachenbach.de/vereine-gachenbach",
+        "score": 50
+      },
+      {
+        "titel": "Änderung Vereinsdaten",
+        "url": "https://www.gachenbach.de/aenderung-vereinsdaten-2",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Gädheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04886288561",
+    "webseite": "http://www.gaedheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Naherholung",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    07\n                                                Konstituierende Sitzung des neuen Gemeinderates\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/konstituierende-sitzung-des-neuen-gemeinderates/2026-05-07?cHash=98c810c0abc1f9b57eaf94665a8c08f9",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    23\n                                                Kinder- und Jugendbürgerversammlung\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/kinder-und-jugendbuergerversammlung/2026-05-23?cHash=0bd8e8f9ff100c7030ccce0f31fc3ed7",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    29\n                                                –\n                                                        16\n                                                    Planungstreffen 875 Jahre Greßhausen\n                                                                Alte Schule Greßhausen",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/planungstreffen-875-jahre-gresshausen-1/2026-05-29?cHash=5c65685ce7a1be650aba950c1b7c1794",
+        "score": 10
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    08\n                                                Gemeinderatssitzung Juni 2026\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/gemeinderatssitzung-juni-2026/2026-06-08?cHash=28b9d272ff0ccfc46d8a48353fecf7d8",
+        "score": 10
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    13\n                                                Gemeinderatssitzung Juli 2026\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/gemeinderatssitzung-juli-2026/2026-07-13?cHash=4cf234126af5fcfb1c6acb76e5e6092e",
+        "score": 10
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    14\n                                                Gemeinderatssitzung September 2026\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/gemeinderatssitzung-september-2026/2026-09-14?cHash=52f597056180752e3f71f1e78493411c",
+        "score": 10
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    05\n                                                Gemeinderatssitzung Oktober 2026\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/gemeinderatssitzung-oktober-2026/2026-10-05?cHash=bc9bad8ccd4c08d9b64ae65624c317ad",
+        "score": 10
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    02\n                                                Gemeinderatssitzung November 2026\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/gemeinderatssitzung-november-2026/2026-11-02?cHash=0bab18f2623ad3564900cec0affa4163",
+        "score": 10
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    07\n                                                Jahresabschlussitzung des Gemeinderates 2026\n                                                                Schulungsraum des Feuerwehrgerätehauses Gädheim",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/veranstaltung/jahresabschlussitzung-des-gemeinderates-2026/2026-12-07?cHash=50ebe9df475d7f2db08a4166e3c0813a",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.gaedheim.de/leben-erleben/freizeit-naherholung/veranstaltungen/einreichen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gaimersheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21664065561",
+    "webseite": "http://www.gaimersheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gaißach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38441842561",
+    "webseite": "https://www.gaissach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gallmersgarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55219619561",
+    "webseite": "https://www.gallmersgarten.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gammelsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71997396561",
+    "webseite": "http://www.gemeinde-gammelsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online Terminvereinbarung",
+        "url": "https://terminvereinbarung.vg-mauern.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gangkofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88775173561",
+    "webseite": "http://www.gangkofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Interessantes für Vereine",
+        "url": "https://www.gangkofen.de/interessantes-fuer-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gangkofen.de/index.php?id=0,47",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen, Kultur & Kunst",
+        "url": "https://www.gangkofen.de/index.php?id=0,78",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Garching a.d.Alz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05552950562",
+    "webseite": "http://www.garching-alz.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.garching-alz.de/leben-in-garching-adalz/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Garching b.München",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62442374446",
+    "webseite": "https://www.garching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Brauchtum und Vereinskultur",
+        "url": "https://www.garching.de/stadtportr%C3%A4t-leben/stadtportr%C3%A4t/brauchtum-und-vereinskultur",
+        "score": 40
+      },
+      {
+        "titel": "Jugend-Freizeitangebote",
+        "url": "https://www.garching.de/familie-bildung/familie/jugend-freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Kultur Erholung",
+        "url": "https://www.garching.de/kultur-erholung",
+        "score": 10
+      },
+      {
+        "titel": "Kultur in Garching",
+        "url": "https://www.kultur-garching.de/",
+        "score": 10
+      },
+      {
+        "titel": "Erholung",
+        "url": "https://www.garching.de/kultur-erholung/erholung",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.garching.de/kultur-erholung/erholung/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Mit dem Rad",
+        "url": "https://www.garching.de/kultur-erholung/erholung/mit-dem-rad",
+        "score": 10
+      },
+      {
+        "titel": "Spiel- und Sportstätten",
+        "url": "https://www.garching.de/kultur-erholung/erholung/spiel--und-sportst%C3%A4tten",
+        "score": 10
+      },
+      {
+        "titel": "Kleingartenanlage",
+        "url": "https://www.garching.de/kultur-erholung/erholung/kleingartenanlage",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Garmisch-Partenkirchen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22330727562",
+    "webseite": "https://markt.gapa.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinebus",
+        "url": "https://markt.gapa.de/vereinebus/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Gars a.Inn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39108504562",
+    "webseite": "http://www.gars.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gattendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55886281562",
+    "webseite": "http://www.gattendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gaukönigshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72664058562",
+    "webseite": "https://www.gaukoenigshofen.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.gaukoenigshofen.de/kultur-freizeit/vereine-verbaende",
+        "score": 70
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://www.gaukoenigshofen.de/kultur-freizeit/buechereien",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitmöglichkeiten",
+        "url": "https://www.gaukoenigshofen.de/kultur-freizeit/freizeitmoeglichkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten & Unterkünfte",
+        "url": "https://www.gaukoenigshofen.de/kultur-freizeit/gaststaetten-unterkuenfte",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.gaukoenigshofen.de/kultur-freizeit/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Kulturwanderweg",
+        "url": "https://www.gaukoenigshofen.de/kulturwanderweg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gauting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89441835562",
+    "webseite": "https://www.gauting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gebenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06219612563",
+    "webseite": "https://www.gebenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gebsattel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22997389563",
+    "webseite": "http://www.gebsattel.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "09MaiFrühlingskonzert MusikvereinOrt: Musikhalle Gebsattel",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/veranstaltungskalender/81/fruehlingskonzert-musikverein",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Übernachtungen",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/gaststaetten-uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/tourismus/anfahrt-lage",
+        "score": 10
+      },
+      {
+        "titel": "Attraktionen",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/tourismus/attraktionen",
+        "score": 10
+      },
+      {
+        "titel": "Geomap",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/tourismus/geomap",
+        "score": 10
+      },
+      {
+        "titel": "10MaiKirchweih in KirnbergOrt: Feuerwehrhaus Kirnberg",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/veranstaltungskalender/77/kirchweih-in-kirnberg",
+        "score": 10
+      },
+      {
+        "titel": "14MaiBergandacht SödelbronnOrt: Södelbronn",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/veranstaltungskalender/80/bergandacht-soedelbronn",
+        "score": 10
+      },
+      {
+        "titel": "14MaiFeldkreuz anschließend im Laurentiussaal Weißwurstfrühstück",
+        "url": "https://www.gebsattel.de/freizeit-tourismus/veranstaltungskalender/104/feldkreuz-anschliessend-im-laurentiussaal-weisswurstfruehstueck",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Gefrees",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38220088460",
+    "webseite": "https://gefrees.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "OMNIBUS - Kulturverein Gefrees",
+        "url": "https://gefrees.de/",
+        "score": 20
+      },
+      {
+        "titel": "www.kulturbus.de",
+        "url": "https://kulturbus.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Geiersthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39775166563",
+    "webseite": "http://www.geiersthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Geiselbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56552943563",
+    "webseite": "http://www.geiselbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismus, Kultur, Freizeit",
+        "url": "https://www.geiselbach.de/Startseite/Tourismus-Kultur-Freizeit",
+        "score": 20
+      },
+      {
+        "titel": "06.05.2026",
+        "url": "https://www.geiselbach.de/Startseite/Tourismus-Kultur-Freizeit/Veranstaltungen/Senioren",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Geiselhöring",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81220137449",
+    "webseite": "http://www.geiselhoering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
   }
 ]
