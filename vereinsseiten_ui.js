@@ -84,6 +84,10 @@ function isLowConfidence(score) {
 function hasExcludedUrlTerm(url) {
   const normalizedUrl = normalize(url);
 
+  if (normalizedUrl.includes("veranstaltungskalender")) {
+    return true;
+  }
+
   if (normalizedUrl.includes("veranstaltung") && !normalizedUrl.includes("veranstaltungskalender")) {
     return true;
   }
@@ -130,22 +134,12 @@ function hasExcludedTitlePattern(title) {
 function shouldExcludePage(page) {
   const url = page.url ?? "";
   const title = page.titel ?? "";
-  const score = page.score;
-  const hasExclusion =
+  return (
     hasExcludedUrlTerm(url) ||
     hasExcludedTitleOrUrlTerm(title, url) ||
     hasExcludedTitleOrUrlPattern(title, url) ||
-    hasExcludedTitlePattern(title);
-
-  if (!hasExclusion) {
-    return false;
-  }
-
-  if (containsPluralVereine(title, url)) {
-    return isLowConfidence(score);
-  }
-
-  return true;
+    hasExcludedTitlePattern(title)
+  );
 }
 
 function normalizeData(data) {
