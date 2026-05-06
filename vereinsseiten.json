@@ -19059,5 +19059,5219 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Kreßberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kressberg/",
+    "webseite": "http://www.kressberg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.kressberg.de/home/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.kressberg.de/home/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Waldfreibad",
+        "url": "https://www.kressberg.de/home/freizeit/waldfreibad",
+        "score": 10
+      },
+      {
+        "titel": "Kirchengemeinden",
+        "url": "https://www.kressberg.de/home/freizeit/kirchengemeinden",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.kressberg.de/home/freizeit/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten | Übernachtungen",
+        "url": "https://www.kressberg.de/home/freizeit/gastronomie/gaststaetten-uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.kressberg.de/home/freizeit/gastronomie/ferienwohnungen",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub auf dem Bauernhof",
+        "url": "https://www.kressberg.de/home/freizeit/gastronomie/urlaub-auf-dem-bauernhof",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren | E-Bike mieten",
+        "url": "https://www.kressberg.de/home/freizeit/radfahren-e-bike-mieten",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.kressberg.de/home/freizeit/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Bienen-Zentrum",
+        "url": "https://www.kressberg.de/home/freizeit/bienen-zentrum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kressbronn am Bodensee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kressbronn-am-bodensee/",
+    "webseite": "http://www.kressbronn.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Handels- und Gewerbeverein",
+        "url": "https://hgv-kressbronn.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kronau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kronau/",
+    "webseite": "http://www.kronau.de",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kuchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kuchen/",
+    "webseite": "http://www.kuchen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Freizeit",
+        "url": "https://www.kuchen.de/vereine.html",
+        "score": 60
+      },
+      {
+        "titel": "Kultur & Soziales",
+        "url": "https://www.kuchen.de/soziale-einrichtungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Gewerbeverein Kuchen",
+        "url": "https://www.kuchen.de/gewerbe.html",
+        "score": 10
+      },
+      {
+        "titel": "Bericht aus der Mitgliederversammlung des Krankenpflegevereins Kuchen,",
+        "url": "https://www.kuchen.de/aktuelles.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Külsheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kuelsheim/",
+    "webseite": "http://www.kuelsheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Kunst & Kultur",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/kunst-kultur/museen",
+        "score": 20
+      },
+      {
+        "titel": "Kultur im Alten Rathaus",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/kunst-kultur/kultur-im-alten-rathaus",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Bikepark FC Hundheim/Steinbach",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/bikepark-fc-hundheim/steinbach",
+        "score": 10
+      },
+      {
+        "titel": "Kneippanlage an der Grotte",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/kneippanlage-an-der-grotte",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Feiern",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/feste-feiern/grosser-markt",
+        "score": 10
+      },
+      {
+        "titel": "Burgkurzweyl",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/feste-feiern/burgkurzweyl",
+        "score": 10
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/feste-feiern/weihnachtsmarkt",
+        "score": 10
+      },
+      {
+        "titel": "Regio-Markt Garten - Hobby - Freizeit",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/feste-feiern/regio-markt-garten-hobby-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/feste-feiern/veranstaltungsraeume",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad 25/12",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/hallenbad-25/12",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.kuelsheim.de/freizeit-tourismus/sehenswertes/schloss-kuelsheim",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Künzelsau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kuenzelsau/",
+    "webseite": "http://www.kuenzelsau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kupferzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kupferzell/",
+    "webseite": "http://www.kupferzell.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/vereinsleben/seite-1/suche-none",
+        "score": 40
+      },
+      {
+        "titel": "HIER",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/open-air-kino",
+        "score": 10
+      },
+      {
+        "titel": "Carl-Julius-Weber Halle",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/hallen-dorfgemeindehaeuser/carl-julius-weber-halle",
+        "score": 10
+      },
+      {
+        "titel": "Dorfgemeinschaftshäuser",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/hallen-dorfgemeindehaeuser/dorfgemeinschaftshaeuser",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/hallenbad",
+        "score": 10
+      },
+      {
+        "titel": "Sinneswelt Kupfer",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/kupferzell-erleben/sinneswelt-kupfer",
+        "score": 10
+      },
+      {
+        "titel": "Bahnpark",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/kupferzell-erleben/bahnpark",
+        "score": 10
+      },
+      {
+        "titel": "Rad - & Wanderwege",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/rad-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Übernachtung",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/essen-trinken/gastronomie-uebernachtung",
+        "score": 10
+      },
+      {
+        "titel": "Kupferzeller Kärwe",
+        "url": "https://www.kupferzell.de/freizeit-erlebnis/kupferzeller-kaerwe",
+        "score": 10
+      },
+      {
+        "titel": "Gewerbe- und Handelsverein",
+        "url": "https://www.kupferzell.de/wirtschaft-handel/gewerbe-und-handelsverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kuppenheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kuppenheim/",
+    "webseite": "http://www.kuppenheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/vereine.html",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/vereinsfoerderung.html",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit und Kultur",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/freizeit+und+kultur.html",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.kuppenheim.de/startseite/unsere+stadt/kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Leben",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben.html",
+        "score": 10
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/freiwillige+feuerwehr.html",
+        "score": 10
+      },
+      {
+        "titel": "Abteilung Kuppenheim",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/abteilung+kuppenheim.html",
+        "score": 10
+      },
+      {
+        "titel": "Abteilung Oberndorf",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/abteilung+oberndorf.html",
+        "score": 10
+      },
+      {
+        "titel": "Jugendfeuerwehr",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/jugendfeuerwehr.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/veranstaltungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Belegungs- und Spielpläne",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/belegungs-+und+spielplaene.html",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/museen.html",
+        "score": 10
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/heimatmuseum.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/freizeitanlagen.html",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/sportanlagen.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze, Bolzplätze",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/spielplaetze_+bolzplaetze.html",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerpark",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/buergerpark.html",
+        "score": 10
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/grillplatz.html",
+        "score": 10
+      },
+      {
+        "titel": "Infrastruktur",
+        "url": "https://www.kuppenheim.de/startseite/freizeit+_+leben/infrastruktur.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kürnbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kuernbach/",
+    "webseite": "http://www.kuernbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Küssaberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kuessaberg/",
+    "webseite": "http://www.kuessaberg.info/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.kuessaberg.info/Freizeit-Tourismus",
+        "score": 10
+      },
+      {
+        "titel": "11. Kulturnacht  2026   Zurzibiet, Küssaberg & Hohentengen",
+        "url": "https://www.kuessaberg.info/termin/11-Kulturnacht-2026-Zurzibiet-Kuessaberg-Hohentengen-event-appointment3787",
+        "score": 10
+      },
+      {
+        "titel": "11. Kulturnacht  2026   Zurzibiet, Küssaberg & Hohentengen",
+        "url": "https://www.kuessaberg.info/termin/11-Kulturnacht-2026-Zurzibiet-Kuessaberg-Hohentengen-event-appointment3788",
+        "score": 10
+      },
+      {
+        "titel": "Frühschoppenkonzert des MV Kadelburg an der Kulturnacht",
+        "url": "https://www.kuessaberg.info/termin/Fruehschoppenkonzert-des-MV-Kadelburg-an-der-Kulturnacht-event-appointment3984",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Kusterdingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/kusterdingen/",
+    "webseite": "http://www.kusterdingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Kultur",
+        "url": "https://www.kusterdingen.de/de/Leben-Erleben/Vereine-Kultur",
+        "score": 30
+      },
+      {
+        "titel": "Bürger- und Kulturhaus beim Klosterhof",
+        "url": "https://www.kusterdingen.de/de/Leben-Erleben/Buerger-und-Kulturhaus-beim-Klosterhof",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ladenburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/ladenburg/",
+    "webseite": "http://www.ladenburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ladenburg.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.ladenburg.de/vereine/Vereinsfoerderung",
+        "score": 50
+      },
+      {
+        "titel": "Kulturpass ermöglicht kostenlosen Zugang",
+        "url": "https://www.ladenburg.de/de/Leben/Kulturpass-ermoeglicht-kostenlosen-Zugang-zu-V",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitaktivitäten",
+        "url": "https://www.ladenburg.de/de/Entdecken-Geniessen/Freizeitaktivitaeten",
+        "score": 10
+      },
+      {
+        "titel": "Minigolf",
+        "url": "https://www.ladenburg.de/de/Entdecken-Geniessen/Freizeitaktivitaeten/Minigolf",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.ladenburg.de/de/Entdecken-Geniessen/Freizeitaktivitaeten/Radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Schifffahrten",
+        "url": "https://www.ladenburg.de/de/Entdecken-Geniessen/Freizeitaktivitaeten/Schifffahrten",
+        "score": 10
+      },
+      {
+        "titel": "Skatepark & Pumptrack",
+        "url": "https://www.ladenburg.de/de/Entdecken-Geniessen/Freizeitaktivitaeten/Skatepark-Pumptrack",
+        "score": 10
+      },
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://www.ladenburg.de/Online-Terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "04.05.2026\n              \n                „Ladenburg vereint“ und Internationaler Museumstag",
+        "url": "https://www.ladenburg.de/de/Aktuelles/Aktuelle-Meldungen/Meldung?view=publish&item=article&id=1538",
+        "score": 10
+      },
+      {
+        "titel": "28.04.2026\n              \n                Ladenburg ist Mitglied im Kulturparkett Rhein-Neckar",
+        "url": "https://www.ladenburg.de/de/Aktuelles/Aktuelle-Meldungen/Meldung?view=publish&item=article&id=1536",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerbüro\n        Das Bürgerbüro bietet eine Vielzahl an Dienstleistungen an. Vereinbaren Sie einen Online-Termin und vermeiden Sie Wartezeiten.",
+        "url": "https://www.ladenburg.de/buergerbuero",
+        "score": 10
+      },
+      {
+        "titel": "Donnerstag 07. Mai 2026 \n              \n                Sitzgymnastik mit der AWO-Ladenburg\n              \n              AWO Ortsverein Ladenburg",
+        "url": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=3796",
+        "score": 10
+      },
+      {
+        "titel": "Samstag 09. Mai 2026 \n              \n                Anfängerkurs Praxis\n              \n              Imkerverein Ladenburg e.V.",
+        "url": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=4019",
+        "score": 10
+      },
+      {
+        "titel": "Samstag 09. Mai 2026 \n              \n                Kunstausstellung mit Sabine Friebe-Minden\n              \n              Kunstverein Ladenburg",
+        "url": "https://www.ladenburg.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=4087",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lahr",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lahr/",
+    "webseite": "http://www.lahr.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lahr.de/vereine.10560.htm",
+        "score": 50
+      },
+      {
+        "titel": "Kulturausschuss",
+        "url": "https://www.lahr.de/kulturausschuss.975.htm",
+        "score": 10
+      },
+      {
+        "titel": "Interkultureller Beirat",
+        "url": "https://www.lahr.de/interkultureller-beirat.1391.htm",
+        "score": 10
+      },
+      {
+        "titel": "Kulturpflege",
+        "url": "https://www.lahr.de/kulturpflege.3411.htm",
+        "score": 10
+      },
+      {
+        "titel": "Bauverein Lahr GmbH",
+        "url": "https://www.lahr.de/bauverein-lahr-gmbh.6191.htm",
+        "score": 10
+      },
+      {
+        "titel": "Schlachthof &ndash; Kinder, Jugend + Kultur",
+        "url": "https://schlachthof.lahr.de/",
+        "score": 10
+      },
+      {
+        "titel": "Förderverein Stadtparkfreunde",
+        "url": "https://www.lahr.de/foerderverein-stadtparkfreunde.11515.htm",
+        "score": 10
+      },
+      {
+        "titel": "Kultur + Tourismus",
+        "url": "https://www.lahr.de/",
+        "score": 10
+      },
+      {
+        "titel": "LahrKultur",
+        "url": "https://kultur.lahr.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitbusse",
+        "url": "https://www.lahr.de/freizeitbusse.164408.htm",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.lahr.de/freizeit-tourismus.194379.htm",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Laichingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/laichingen/",
+    "webseite": "http://www.laichingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.laichingen.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "mehr Infos zur Tiefenhöhle",
+        "url": "https://www.laichingen.de/Freizeit-Tourismus/Sehen-Erleben/Laichinger-Tiefenhoehle",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langenargen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/langenargen/",
+    "webseite": "http://www.langenargen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.langenargen.de/freizeit-kultur/vereine/seite-1/suche-none",
+        "score": 70
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.langenargen.de/freizeit-kultur/veranstaltungen-termine/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.langenargen.de/freizeit-kultur/veranstaltungen-termine/veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Fasnachtbrauchtum",
+        "url": "https://www.langenargen.de/freizeit-kultur/veranstaltungen-termine/fasnachtbrauchtum",
+        "score": 20
+      },
+      {
+        "titel": "Informationen",
+        "url": "https://www.langenargen.de/freizeit-kultur/baeder/informationen",
+        "score": 20
+      },
+      {
+        "titel": "Schwimmhalle",
+        "url": "https://www.langenargen.de/freizeit-kultur/baeder/schwimmhalle",
+        "score": 20
+      },
+      {
+        "titel": "Strandbad",
+        "url": "https://www.langenargen.de/freizeit-kultur/baeder/strandbad",
+        "score": 20
+      },
+      {
+        "titel": "Sportzentrum & Sporthallen",
+        "url": "https://www.langenargen.de/freizeit-kultur/sportzentrum-sporthallen",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.langenargen.de/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.langenargen.de/freizeit-kultur/freizeitangebote/museum",
+        "score": 20
+      },
+      {
+        "titel": "Schloss Montfort",
+        "url": "https://www.langenargen.de/freizeit-kultur/freizeitangebote/schloss-montfort",
+        "score": 20
+      },
+      {
+        "titel": "Münzhof",
+        "url": "https://www.langenargen.de/freizeit-kultur/freizeitangebote/muenzhof",
+        "score": 20
+      },
+      {
+        "titel": "Kavalierhaus & Stipendium",
+        "url": "https://www.langenargen.de/freizeit-kultur/freizeitangebote/kavalierhaus-stipendium",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.langenargen.de/freizeit-kultur/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.langenargen.de/freizeit-kultur/weihnachtsmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Hilfeseite",
+        "url": "https://www.langenargen.de/freizeit-kultur/hilfeseite",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Langenau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/langenau/",
+    "webseite": "http://www.langenau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.langenau.de/de/Leben/Vereine-Verbaende",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://www.langenau.de/termin",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.langenau.de/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.langenau.de/de/Erleben/Kultur",
+        "score": 10
+      },
+      {
+        "titel": "Pfleghof",
+        "url": "https://www.langenau.de/de/Erleben/Kultur/Pfleghof",
+        "score": 10
+      },
+      {
+        "titel": "KulturBahnhof",
+        "url": "https://www.langenau.de/kulturbahnhof",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Langenbrettach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/langenbrettach/",
+    "webseite": "http://www.langenbrettach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Langenburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/langenburg/",
+    "webseite": "http://www.langenburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Langenenslingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/langenenslingen/",
+    "webseite": "http://www.langenenslingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/vereine/seite-1/suche-none",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/natur-erholung",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/ausflugsziele/ferien-rund-um-den-bussen",
+        "score": 20
+      },
+      {
+        "titel": "Oberschwaben Tourismus GmbH - Ferienland zwischen Donau und Bodensee",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/ausflugsziele/oberschwaben-tourismus-gmbh-ferienland-zwischen-donau-und-bodensee",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/juenger-haus",
+        "score": 20
+      },
+      {
+        "titel": "Schloss Wilflingen",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/schloss-wilflingen",
+        "score": 20
+      },
+      {
+        "titel": "Wallfahrtskapelle Ensmad",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/wallfahrtskapelle-ensmad",
+        "score": 20
+      },
+      {
+        "titel": "Ziegenhof Ensmad",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/ziegenhof-ensmad",
+        "score": 20
+      },
+      {
+        "titel": "Ruine Schatzberg in Egelfingen",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/ruine-schatzberg-in-egelfingen",
+        "score": 20
+      },
+      {
+        "titel": "Zuckergässle",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/zuckergaessle",
+        "score": 20
+      },
+      {
+        "titel": "Sandhof - Kulturscheune & Besen",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/sandhof-kulturscheune-besen",
+        "score": 20
+      },
+      {
+        "titel": "Nudelmanufaktur Schaut",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/nudelmanufaktur-schaut",
+        "score": 20
+      },
+      {
+        "titel": "Weihnachtskrippe Dürrenwaldstetten",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/weihnachtskrippe-duerrenwaldstetten",
+        "score": 20
+      },
+      {
+        "titel": "Alte Burg",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/sehenswertes/alte-burg",
+        "score": 20
+      },
+      {
+        "titel": "Radtouren",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/radtouren",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.langenenslingen.de/freizeit-kultur/wanderwege",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Lauchheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauchheim/",
+    "webseite": "http://www.lauchheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauchringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauchringen/",
+    "webseite": "http://www.lauchringen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauda-Königshofen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauda-koenigshofen/",
+    "webseite": "http://www.lauda-koenigshofen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Laudenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/laudenbach/",
+    "webseite": "http://www.gemeinde-laudenbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Vaddertagsfest des Kerwevereins",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/veranstaltungskalender?tx_hwveranstaltung_hwveranstalt%5Baction%5D=show&tx_hwveranstaltung_hwveranstalt%5Bcontroller%5D=VeranstaltungFrontend&tx_hwveranstaltung_hwveranstalt%5Bid%5D=317&tx_hwveranstaltung_hwveranstalt%5BlistAction%5D=list&tx_hwveranstaltung_hwveranstalt%5Btid%5D=3571&cHash=68e5724e610cfab46f452b67640ee01f",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/freizeitangebote",
+        "score": 20
+      },
+      {
+        "titel": "Hallen & Säle",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/hallen-saele",
+        "score": 20
+      },
+      {
+        "titel": "Wochenmarkt",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/maerkte-feste/wochenmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Feste",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/maerkte-feste/feste",
+        "score": 20
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/grillplatz",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "AWO - Seniorennachmittag",
+        "url": "https://www.gemeinde-laudenbach.de/freizeit-kultur/veranstaltungskalender?tx_hwveranstaltung_hwveranstalt%5Baction%5D=show&tx_hwveranstaltung_hwveranstalt%5Bcontroller%5D=VeranstaltungFrontend&tx_hwveranstaltung_hwveranstalt%5Bid%5D=298&tx_hwveranstaltung_hwveranstalt%5BlistAction%5D=list&tx_hwveranstaltung_hwveranstalt%5Btid%5D=3622&cHash=f7315535cb949c94b6f2c8d6c9800f5d",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Lauf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauf/",
+    "webseite": "http://www.lauf-schwarzwald.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lauf-schwarzwald.de/wohnen-und-leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Alte Trotte am Vatertag geöffnet, Kultur- und Heimatverein",
+        "url": "https://www.lauf-schwarzwald.de/events/alte-trotte-am-vatertag-geoeffnet-kultur-und-heimatverein/",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte und Gastronomie",
+        "url": "https://www.lauf-schwarzwald.de/kultur-und-tourismus/unterkuenfte-und-gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Musik Familientag des SV Lauf, MV Lauf, Harmonikafreunde Lauf, KiFaZ",
+        "url": "https://www.lauf-schwarzwald.de/events/sport-musik-familientag-des-sv-lauf-und-musikverein-lauf-3/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Laufenburg (Baden)",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/laufenburg/",
+    "webseite": "http://www.laufenburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauffen am Neckar",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauffen-am-neckar/",
+    "webseite": "http://www.lauffen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.lauffen.de/website/de/freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Starke Frauen im Mai 2026: 9.5. Machado Quartett \"#Maria - Lebenslieder\"17.5. Bach meets Electro, 22.5. Frauenfrühstück \"Komponistinnen\", 22.5. Sing Ding - Rock von Starken Frauen",
+        "url": "https://www.lauffen.de/website/de/freizeit/kulturprogramm/starke-frauen-2026",
+        "score": 20
+      },
+      {
+        "titel": "Machado Quartett: \"#Maria - Lebenslieder\"Sa, 9.5.26, 20 Uhr, Klosterhof Lauffen a.N.",
+        "url": "https://www.lauffen.de/website/de/freizeit/kulturprogramm/buehnefrei/programm/machado-quartett",
+        "score": 20
+      },
+      {
+        "titel": "FOLKNACHT: Tante Friedl & Irish Gatehouse GroupFr, 26.6.26, 19 Uhr, Freigelände Klosterhof",
+        "url": "https://www.lauffen.de/website/de/freizeit/kulturprogramm/buehnefrei/programm/folknacht-am-klosterhof",
+        "score": 20
+      },
+      {
+        "titel": "WLB: \"Das Klugscheisserchen\"Fr, 3.7.26, 15 Uhr, Stadthalle Lauffen a.N.",
+        "url": "https://www.lauffen.de/website/de/freizeit/kulturprogramm/buehnefrei/programm/wuerttembergische-landesbuehne-esslingen",
+        "score": 20
+      },
+      {
+        "titel": "mehr",
+        "url": "https://www.lauffen.de/website/de/freizeit/kulturprogramm/buehnefrei",
+        "score": 20
+      },
+      {
+        "titel": "Vorfreude: Das Lauffener Freibad öffnet am 16. Mai 2026Vorverkauf von Jahreskarten am 4. & 5. Mai im Bürgerbüro",
+        "url": "https://www.lauffen.de/website/de/freizeit/sport_bewegung/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Wunderschöner Lauffener KlosterhofAb Mai 2026: Trauungen in der ehemaligen Klosterkirche möglich",
+        "url": "https://www.lauffen.de/website/de/freizeit/staedtische-veranstaltungsraeume/klosterhof",
+        "score": 10
+      },
+      {
+        "titel": "Hölderlinhaus und Hofcafé geöffnetMuseum und Gastronomie freuen sich auf Ihren Besuch!",
+        "url": "https://www.lauffen.de/website/de/freizeit/museen/hoelderlinhaus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitvergnügen in der HölderlinstadtWein - Wandern - Radfahren - Literatur",
+        "url": "https://www.lauffen.de/website/de/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "So., 10.05.2026 – So., 10.05.2026Bauwagenkirche für Teens (5.-7. Klasse)CVJM-Vereinshaus",
+        "url": "https://www.lauffen.de/eventcalendar?action=view_event&event_id=13770",
+        "score": 10
+      },
+      {
+        "titel": "Kneippverein e.V. Lauffen a.N.10. Mai Öffnung der Kneippanlage",
+        "url": "https://www.lauffen.de/news?action=view_one_article&article_id=260568",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Laupheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/laupheim/",
+    "webseite": "http://www.laupheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lautenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lautenbach/",
+    "webseite": "http://www.lautenbach-renchtal.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauterach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauterach/",
+    "webseite": "http://www.gemeinde-lauterach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lauterbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauterbach/",
+    "webseite": "http://www.lauterbach-schwarzwald.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Leben,-Wohnen,-Arbeiten/Unser-Lauterbach/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Gästeservice",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Tourist-Info",
+        "score": 10
+      },
+      {
+        "titel": "Ihr Urlaubsort",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Ihr-Urlaubsort/Das-ist-Lauterbach",
+        "score": 10
+      },
+      {
+        "titel": "Schlemmen & Schlafen",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Schlemmen-Schlafen/Ihre-Gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Aktiv/Wandern-Walken",
+        "score": 10
+      },
+      {
+        "titel": "Lauterbacher Gastgeber",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Lauterbacher-Gastgeber-auf-einen-Blick",
+        "score": 10
+      },
+      {
+        "titel": "Lauterbacher Wandersteig",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Aktiv/Wandern-Walken/Lauterbacher-Wandersteig",
+        "score": 10
+      },
+      {
+        "titel": "A-Z",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/A-Z",
+        "score": 10
+      },
+      {
+        "titel": "Prospektbestellung",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Prospektbestellung",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "KONUS-Card",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/KONUS-Card",
+        "score": 10
+      },
+      {
+        "titel": "Lage & Anfahrt",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Lage-Anfahrt",
+        "score": 10
+      },
+      {
+        "titel": "Bus & Bahn",
+        "url": "https://www.lauterbach-schwarzwald.de/de/Tourismus-Freizeit/Gaesteservice/Bus-Bahn",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lauterstein",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lauterstein/",
+    "webseite": "http://www.lauterstein.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/freibad-lauterstein/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.lauterstein.de/",
+        "score": 10
+      },
+      {
+        "titel": "Schülerferienprogramm",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/schuelerferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/sehenswertes",
+        "score": 10
+      },
+      {
+        "titel": "Naherholung",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/naherholung",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/wandern-radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen (Für die Richtigkeit der veröffentlichen Termine, ist die jeweilige Organisation verantwortlich. Die Stadt Lauterstein übernimmt hierfür keine Gewähr)",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/veranstaltungen-fuer-die-richtigkeit-der-veroeffentlichen-termine-ist-die-jeweilige-organisation-verantwortlich.-die-stadt-lauterstein-uebernimmt-hierfuer-keine-gewaehr",
+        "score": 10
+      },
+      {
+        "titel": "Gastlichkeit",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/gastlichkeit",
+        "score": 10
+      },
+      {
+        "titel": "Angebote für SeniorInnen",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/angebote-fuer-seniorinnen",
+        "score": 10
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Spurensuche",
+        "url": "https://www.lauterstein.de/freizeit-tourismus/spurensuche",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lehrensteinsfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lehrensteinsfeld/",
+    "webseite": "https://www.lehrensteinsfeld.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Leibertingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leibertingen/",
+    "webseite": "http://www.leibertingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinswelt",
+        "url": "https://www.leibertingen.de/verzeichnis/vereinswelt/",
+        "score": 30
+      },
+      {
+        "titel": "Gäste & Freizeit",
+        "url": "https://www.leibertingen.de/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur- & Erlebniswelt",
+        "url": "https://www.leibertingen.de/verzeichnis/kulturwelt-erlebniswelt/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leimen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leimen/",
+    "webseite": "http://www.leimen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Bürgerbüro-Terminvergabe",
+        "url": "https://buergerserviceportal.leimen.de/kontakt-info/terminvereinbarung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leinfelden-Echterdingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leinfelden-echterdingen/",
+    "webseite": "http://www.leinfelden-echterdingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Buerger/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Buerger/Sport_Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Musik",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Musik.html",
+        "score": 10
+      },
+      {
+        "titel": "Theater",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Theater.html",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Museen.html",
+        "score": 10
+      },
+      {
+        "titel": "Kunst",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Kunst.html",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Stadtarchiv.html",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbücherei",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Stadtbuecherei.html",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.leinfelden-echterdingen.de/Startseite/Kultur/Volkshochschule.html",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.leinfelden-echterdingen.de/kulturprogramm/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leingarten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leingarten/",
+    "webseite": "http://www.leingarten.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/vereinsliste/seite-1/suche-none",
+        "score": 50
+      },
+      {
+        "titel": "Kulturmarkt",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/kulturmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Kultur auf dem Marktplatz",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/maerkte-und-feste/kultur-auf-dem-marktplatz",
+        "score": 20
+      },
+      {
+        "titel": "Zum Imagefilm",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/imagefilm",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/eichbottbad/oeffnungszeiten-eintrittspreise",
+        "score": 10
+      },
+      {
+        "titel": "Kulturgebäude",
+        "url": "https://www.leingarten.de/leben-und-wohnen/stadteinrichtungen/kulturgebaeude",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/stadtradeln",
+        "score": 10
+      },
+      {
+        "titel": "Stadtradeln",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/stadtradeln/stadtradeln",
+        "score": 10
+      },
+      {
+        "titel": "Interkommunale Radtour",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/stadtradeln/interkommunale-radtour",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Kunst-Raum-Kreisel",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/kunst-raum-kreisel/bildhauersymposium",
+        "score": 10
+      },
+      {
+        "titel": "Künstler und Kunstwerke",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/kunst-raum-kreisel/kuenstler-und-kunstwerke/prof-gunther-stilling",
+        "score": 10
+      },
+      {
+        "titel": "Christiane Guillaubey",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/kunst-raum-kreisel/kuenstler-und-kunstwerke/christiane-guillaubey",
+        "score": 10
+      },
+      {
+        "titel": "Georg Viktor",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/kunst-raum-kreisel/kuenstler-und-kunstwerke/georg-viktor",
+        "score": 10
+      },
+      {
+        "titel": "Giorgie Cpajak",
+        "url": "https://www.leingarten.de/freizeit-und-tourismus/kunst-raum-kreisel/kuenstler-und-kunstwerke/giorgie-cpajak",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leinzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leinzell/",
+    "webseite": "http://www.leinzell.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine / Organisationen",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/vereine-organisationen/vereine-/-organisationen",
+        "score": 70
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/vereine-organisationen/aktuelles",
+        "score": 70
+      },
+      {
+        "titel": "Selbst inserieren",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/vereine-organisationen/selbst-inserieren",
+        "score": 70
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Fotoalbum",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/fotoalbum",
+        "score": 20
+      },
+      {
+        "titel": "Historischer Ortsrundgang",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/historischer-ortsrundgang",
+        "score": 20
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/ausflugtipps/radwege",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/ausflugtipps/wandern",
+        "score": 20
+      },
+      {
+        "titel": "Ostwürttemberg von Oben",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/ausflugtipps/ostwuerttemberg-von-oben",
+        "score": 20
+      },
+      {
+        "titel": "Responsive Webdesign",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/impressum-service/responsive-webdesign",
+        "score": 20
+      },
+      {
+        "titel": "Datenschutzerklärung",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/impressum-service/datenschutzerklaerung",
+        "score": 20
+      },
+      {
+        "titel": "Impressum",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/impressum-service/impressum",
+        "score": 20
+      },
+      {
+        "titel": "Suche",
+        "url": "https://www.leinzell.de/de/freizeit-kultur/impressum-service/suche",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Lenningen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lenningen/",
+    "webseite": "http://www.lenningen.de",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.lenningen.de/freizeit-gaeste/vereine-organisationen/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Museum für Papier- & Buchkunst",
+        "url": "https://www.lenningen.de/freizeit-gaeste/kultur/museum-fuer-papier-buchkunst",
+        "score": 20
+      },
+      {
+        "titel": "Märkte & Feste",
+        "url": "https://www.lenningen.de/freizeit-gaeste/kultur/maerkte-feste",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes und Ausflugsziele",
+        "url": "https://www.lenningen.de/freizeit-gaeste/kultur/sehenswertes-und-ausflugsziele",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.lenningen.de/freizeit-gaeste/veranstaltungen/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Turn- und Sportstätten",
+        "url": "https://www.lenningen.de/freizeit-gaeste/freizeiteinrichtungen/turn-und-sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.lenningen.de/freizeit-gaeste/freizeiteinrichtungen/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.lenningen.de/freizeit-gaeste/freizeiteinrichtungen/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Bewegung",
+        "url": "https://www.lenningen.de/freizeit-gaeste/aktivitaeten/sport-bewegung",
+        "score": 10
+      },
+      {
+        "titel": "Wanderrouten",
+        "url": "https://www.lenningen.de/freizeit-gaeste/aktivitaeten/wanderrouten",
+        "score": 10
+      },
+      {
+        "titel": "Radtouren",
+        "url": "https://www.lenningen.de/freizeit-gaeste/aktivitaeten/radtouren",
+        "score": 10
+      },
+      {
+        "titel": "Barrierearme Freizeittipps",
+        "url": "https://www.lenningen.de/freizeit-gaeste/aktivitaeten/barrierearme-freizeittipps",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.lenningen.de/freizeit-gaeste/aktivitaeten/wintersport",
+        "score": 10
+      },
+      {
+        "titel": "Bewegungsparcours Senioren",
+        "url": "https://www.lenningen.de/freizeit-gaeste/aktivitaeten/bewegungsparcours-senioren",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Übernachten",
+        "url": "https://www.lenningen.de/freizeit-gaeste/gastronomie-uebernachten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lenzkirch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lenzkirch/",
+    "webseite": "http://www.lenzkirch.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Leonberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leonberg/",
+    "webseite": "http://www.leonberg.de",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Leutenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leutenbach/",
+    "webseite": "http://www.leutenbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.leutenbach.de/freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.leutenbach.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.leutenbach.de/vereine-1",
+        "score": 50
+      },
+      {
+        "titel": "Kultur in Leutenbach",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/kultur-aktuell",
+        "score": 20
+      },
+      {
+        "titel": "Kulturprogramm Leutenbach",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/kulturprogramm-leutenbach",
+        "score": 20
+      },
+      {
+        "titel": "Kunst und Kultur im Rathaus",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/kunst-und-kultur-im-rathaus",
+        "score": 20
+      },
+      {
+        "titel": "Kunst im Kreisel",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/kunst-im-kreisel",
+        "score": 20
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/heimatmuseum",
+        "score": 20
+      },
+      {
+        "titel": "Sommerferienprogramm",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/sommerferienprogramm",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.leutenbach.de/freizeit/kultur-in-leutenbach/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Vereins News",
+        "url": "https://www.leutenbach.de/freizeit/buergerinfo-news/beitraege",
+        "score": 20
+      },
+      {
+        "titel": "Direktvermarkter",
+        "url": "https://www.leutenbach.de/freizeit/direktvermarkter",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.leutenbach.de/freizeit/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.leutenbach.de/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.leutenbach.de/freizeit/veranstaltungen/kalender",
+        "score": 10
+      },
+      {
+        "titel": "Jährliche Ereignisse",
+        "url": "https://www.leutenbach.de/freizeit/veranstaltungen/jaehrliche-ereignisse",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.leutenbach.de/freizeit/freizeit-sport/freizeitmoeglichkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Leutkirch im Allgäu",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/leutkirch-im-allgaeu/",
+    "webseite": "http://www.leutkirch.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lichtenau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lichtenau/",
+    "webseite": "http://www.lichtenau-baden.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lichtenau-baden.de/de/leben/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.lichtenau-baden.de/de/leben/freizeit/kultur",
+        "score": 20
+      },
+      {
+        "titel": "LebenImmer viel los",
+        "url": "https://www.lichtenau-baden.de/de/leben/freizeit/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.lichtenau-baden.de/de/leben/freizeit/sport",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.lichtenau-baden.de/de/leben/freizeit/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.lichtenau-baden.de/de/leben/freizeit/feuerwehr",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lichtenstein",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lichtenstein/",
+    "webseite": "http://www.gemeinde-lichtenstein.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lichtenwald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lichtenwald/",
+    "webseite": "http://www.lichtenwald.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Limbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/limbach/",
+    "webseite": "http://www.limbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.limbach.de/freizeit-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.limbach.de/freizeit-tourismus/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.limbach.de/freizeit-tourismus/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Minigolf",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/minigolf",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/museum",
+        "score": 10
+      },
+      {
+        "titel": "Römerpfad",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/roemerpfad",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Quadtouren",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/quadtouren",
+        "score": 10
+      },
+      {
+        "titel": "Trekking-Camp",
+        "url": "https://www.limbach.de/freizeit-tourismus/freizeitangebote/trekking-camp",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Übernachtung",
+        "url": "https://www.limbach.de/freizeit-tourismus/gastgeber/essen-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.limbach.de/freizeit-tourismus/gastgeber/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Märkte & Feste",
+        "url": "https://www.limbach.de/freizeit-tourismus/maerkte-feste",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub in Limbach",
+        "url": "https://www.limbach.de/freizeit-tourismus/urlaub-in-limbach",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Linkenheim-Hochstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/linkenheim-hochstetten/",
+    "webseite": "http://www.linkenheim-hochstetten.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lobbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lobbach/",
+    "webseite": "http://www.lobbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Löchgau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/loechgau/",
+    "webseite": "http://www.loechgau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen & Feste",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Veranstaltungen+_+Feste.html",
+        "score": 20
+      },
+      {
+        "titel": "Hasenropferfest",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Hasenropferfest.html",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Veranstaltungen.html",
+        "score": 20
+      },
+      {
+        "titel": "Jugend in Löchgau",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Jugend+in+Loechgau.html",
+        "score": 20
+      },
+      {
+        "titel": "Skating-/Streetballanlage",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Skating-_Streetballanlage.html",
+        "score": 20
+      },
+      {
+        "titel": "Jugendhaus",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Jugend-Cafe.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.loechgau.de/9803218.html",
+        "score": 20
+      },
+      {
+        "titel": "Selbsteintrag",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Selbsteintrag.html",
+        "score": 20
+      },
+      {
+        "titel": "Nagelmuseum",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Nagelmuseum.html",
+        "score": 20
+      },
+      {
+        "titel": "Kunst im Ort",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Kunst+im+Ort.html",
+        "score": 20
+      },
+      {
+        "titel": "Dorfrundgang",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Dorfrundgang.html",
+        "score": 20
+      },
+      {
+        "titel": "Kunst- und Kulturkreis",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Kunst-+und+Kulturkreis.html",
+        "score": 20
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Freibad.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Tourismus.html",
+        "score": 20
+      },
+      {
+        "titel": "Regional",
+        "url": "https://www.loechgau.de/start/Kultur+_+Freizeit/Regional.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Loffenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/loffenau/",
+    "webseite": "http://www.loffenau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Bürgerservice",
+        "url": "https://www.loffenau.de/rathaus-service/buergerservice/online-terminvereinbarung-buergerbuero",
+        "score": 10
+      },
+      {
+        "titel": "Beratung & Freizeit",
+        "url": "https://www.loffenau.de/leben-wohnen/senioren/beratung-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Lage & Anfahrt",
+        "url": "https://www.loffenau.de/tourismus-freizeit/lage-anfahrt",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv & Natur",
+        "url": "https://www.loffenau.de/tourismus-freizeit/aktiv-natur/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Gleitschirmfliegen",
+        "url": "https://www.loffenau.de/tourismus-freizeit/aktiv-natur/gleitschirmfliegen",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.loffenau.de/tourismus-freizeit/aktiv-natur/wintersport",
+        "score": 10
+      },
+      {
+        "titel": "Naturpark & Nationalpark Schwarzwald",
+        "url": "https://www.loffenau.de/tourismus-freizeit/aktiv-natur/naturpark-nationalpark-schwarzwald",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.loffenau.de/tourismus-freizeit/ausflugsziele/teufelsmuehle",
+        "score": 10
+      },
+      {
+        "titel": "Michelsrankhütte",
+        "url": "https://www.loffenau.de/tourismus-freizeit/ausflugsziele/michelsrankhuette",
+        "score": 10
+      },
+      {
+        "titel": "Im Tal der Murg",
+        "url": "https://www.loffenau.de/tourismus-freizeit/ausflugsziele/im-tal-der-murg",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Löffingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/loeffingen/",
+    "webseite": "http://www.loeffingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lonsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lonsee/",
+    "webseite": "http://www.lonsee.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Lorch",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lorch/",
+    "webseite": "http://www.stadt-lorch.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/vereine.html",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus.html",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten & Übernachtungen",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/gaststaetten+_+uebernachtungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/sehenswuerdigkeiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Römer & Limes",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/roemer+_+limes.html",
+        "score": 10
+      },
+      {
+        "titel": "Kloster Lorch",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/kloster+lorch.html",
+        "score": 10
+      },
+      {
+        "titel": "Stauferrundbild",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/stauferrundbild.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/freizeitangebote.html",
+        "score": 10
+      },
+      {
+        "titel": "Historischer Stadtrundgang",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/historischer+stadtrundgang.html",
+        "score": 10
+      },
+      {
+        "titel": "Imagebroschüre",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/imagebroschuere.html",
+        "score": 10
+      },
+      {
+        "titel": "Gästeführungen",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/gaestefuehrungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Führungen der Limes Cicerones",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/fuehrungen+der+limes+cicerones.html",
+        "score": 10
+      },
+      {
+        "titel": "Behnisch-Bauten Schulzentrum Schäfersfeld",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/behnisch-bauten+schulzentrum+schaefersfeld.html",
+        "score": 10
+      },
+      {
+        "titel": "Greifvogelschau",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/greifvogelschau.html",
+        "score": 10
+      },
+      {
+        "titel": "Wanderungen",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/wanderungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Limeswanderung",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/limeswanderung.html",
+        "score": 10
+      },
+      {
+        "titel": "Natur- & Klimaschutz",
+        "url": "https://www.stadt-lorch.de/start/freizeit+_+tourismus/natur-+_+klimaschutz.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lörrach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/loerrach/",
+    "webseite": "http://www.loerrach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Sport-Freizeit/Vereine-A-Z",
+        "score": 40
+      },
+      {
+        "titel": "Gesang",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kulturszene/Kulturvereine",
+        "score": 30
+      },
+      {
+        "titel": "Heimat- und Geschichtsvereine",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kulturszene/Heimat-und-Geschichtsvereine-",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Freizeit-Vereien",
+        "score": 30
+      },
+      {
+        "titel": "Vereine nach Kategorien",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Sport-Freizeit/Vereine-nach-Kategorien",
+        "score": 30
+      },
+      {
+        "titel": "Burg Rötteln im Fokus: Wenn Geophysik auf Archäologie trifft Vortrag im Hebelsaa…\n                05.05.2026\n                Freizeit / VeranstaltungenKultur / Bildung",
+        "url": "https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Stadtnachrichten/Stadtnachricht?view=publish&item=article&id=11759",
+        "score": 20
+      },
+      {
+        "titel": "Schüler- und Vereinsaustausche",
+        "url": "https://www.loerrach.de/de/Stadt-Buergerschaft/Loerrach-im-ueberblick/Partnerstaedte-Staedtefreundschaften/Foerderung",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsmelder",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Veranstaltungskalender/Veranstaltungsmelder",
+        "score": 10
+      },
+      {
+        "titel": "Städtische Kultureinrichtungen",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Staedtische-Kultureinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Dreiländermuseum Lörrach",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Dreilaendermuseum",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbibliothek Lörrach",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Stadtbibliothek",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule Lörrach & Steinen",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Volkshochschule",
+        "score": 10
+      },
+      {
+        "titel": "Städtische Musikschule",
+        "url": "https://www.loerrach.de/de/Loerrach-Erleben/Kultur/Musikschule",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Loßburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lossburg/",
+    "webseite": "http://www.lossburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "TourismusEntdecken Sie Natur, Gastfreundschaft und Freizeitmöglichkeiten im Herzen des Schwarzwalds.",
+        "url": "https://www.lossburg.de/de/zauberland-am-kinzigsee/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Lottstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/lottstetten/",
+    "webseite": "http://www.lottstetten.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten in Lottstetten",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/uebernachten-in-lottstetten",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplatz",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/wohnmobilstellplatz",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Gemeindehalle",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/gemeindehalle",
+        "score": 10
+      },
+      {
+        "titel": "Giessewiese",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/giessewiese",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendraum",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/jugendraum",
+        "score": 10
+      },
+      {
+        "titel": "Hauweghütte",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/hauweghuette",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Regionaler Naturpark Schaffhausen",
+        "url": "https://www.lottstetten.de/freizeit-und-tourismus/freizeiteinrichtungen/regionaler-naturpark-schaffhausen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Löwenstein",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/loewenstein/",
+    "webseite": "http://www.stadt-loewenstein.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.stadt-loewenstein.de/leben-wohnen/vereinsliste/seite-1/suche-none",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/tourist-info",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Burg Löwenstein",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/burg-loewenstein",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus im Weinsberger Tal",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/tourismus-im-weinsberger-tal",
+        "score": 10
+      },
+      {
+        "titel": "Heilbronner Land",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/heilbronner-land",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/unterkuenfte/hotels-gasthoefe-pensionen",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen Reisach",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/unterkuenfte/ferienwohnungen-reisach",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen Hößlinsülz",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/unterkuenfte/ferienwohnungen-hoesslinsuelz",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/gastronomie/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Besen & Weinausschank",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/gastronomie/besen-weinausschank",
+        "score": 10
+      },
+      {
+        "titel": "Cafés & Bistros",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/gastronomie/cafes-bistros",
+        "score": 10
+      },
+      {
+        "titel": "Wein erleben",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/wein-erleben",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.stadt-loewenstein.de/freizeit-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ludwigsburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/ludwigsburg/",
+    "webseite": "http://www.ludwigsburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Magstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/magstadt/",
+    "webseite": "http://www.magstadt.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.magstadt.de/de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.magstadt.de/de/freizeit/volkshochschule",
+        "score": 10
+      },
+      {
+        "titel": "Aktive Senioren Magstadt",
+        "url": "https://www.magstadt.de/de/freizeit/senioren/seniorentreff",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.magstadt.de/de/freizeit/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.magstadt.de/de/freizeit/heimatmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Ortsbücherei",
+        "url": "https://www.magstadt.de/de/freizeit/ortsbucherei",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.magstadt.de/de/freizeit/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.magstadt.de/de/freizeit/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Wetter",
+        "url": "https://www.magstadt.de/de/freizeit/wetter",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mahlberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mahlberg/",
+    "webseite": "http://www.mahlberg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mahlstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mahlstetten/",
+    "webseite": "http://www.mahlstetten.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mainhardt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mainhardt/",
+    "webseite": "http://www.mainhardt.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "06\n                 05\n                 2026\n             \n         \n\n        \n\n            \n            \n                \"Dein Talent steht dir ins Gesicht geschrieben\" - Facereading\n            \n\n            \n\n                \n\n                \n                \n                    \n                        \n\n\n    \n         \n    \n\n    Anschrift\n    \n    \n        Ev. Gemeindehaus Mainhardt\n    \n\n                    \n                \n\n                \n                \n                    \n                        \n\n\n    \n         \n    \n\n    Veranstalter\n    \n    \n        Landfrauenverein Mainhardt\n    \n\n                    \n                \n\n                \n                        \n                            \n                                \n\n\n    \n         \n    \n\n    Uhrzeit\n    \n    \n\n                                19:30 Uhr",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/veranstaltungen/kalender?tx_hwveranstaltung_hwveranstalt%5Baction%5D=show&tx_hwveranstaltung_hwveranstalt%5Bcontroller%5D=VeranstaltungFrontend&tx_hwveranstaltung_hwveranstalt%5Bid%5D=2566&tx_hwveranstaltung_hwveranstalt%5BlistAction%5D=list&tx_hwveranstaltung_hwveranstalt%5Btid%5D=4127&cHash=187ed882f92ecb3df0f9c21ec95d32c4",
+        "score": 30
+      },
+      {
+        "titel": "Kultur, Freizeit & Gäste",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/fuxi-naturerlebnis-pfad",
+        "score": 20
+      },
+      {
+        "titel": "Aktiv die Natur erleben - Rad- & Wanderwege",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/aktiv-die-natur-erleben-rad-wanderwege/limes-lehrpfad",
+        "score": 20
+      },
+      {
+        "titel": "Reiten & Kutschfahrten",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/aktiv-die-natur-erleben-rad-wanderwege/reiten-kutschfahrten",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/aktiv-die-natur-erleben-rad-wanderwege/wanderwege",
+        "score": 20
+      },
+      {
+        "titel": "Abenteuer WaldFee",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/aktiv-die-natur-erleben-rad-wanderwege/abenteuer-waldfee",
+        "score": 20
+      },
+      {
+        "titel": "Radwanderweg/Erlebnisradler",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/aktiv-die-natur-erleben-rad-wanderwege/radwanderweg/erlebnisradler",
+        "score": 20
+      },
+      {
+        "titel": "Mineralfreibad",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/mineralfreibad",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/museen/roemermuseum",
+        "score": 20
+      },
+      {
+        "titel": "Pahl-Museum",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/museen/pahl-museum",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/sehenswertes/in-mainhardt-umgebung",
+        "score": 20
+      },
+      {
+        "titel": "Felsenkeller in Mainhardt",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/sehenswertes/felsenkeller-in-mainhardt",
+        "score": 20
+      },
+      {
+        "titel": "Kräutergarten Riegenhof",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/sehenswertes/kraeutergarten-riegenhof",
+        "score": 20
+      },
+      {
+        "titel": "Freilichttheater",
+        "url": "https://www.mainhardt.de/kultur-freizeit-gaeste/freilichttheater/freilichttheater-fuer-erwachsene",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Malsburg-Marzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/malsburg-marzell/",
+    "webseite": "http://www.malsburg-marzell.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Malsch (Landkreis Karlsruhe)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/malsch-landkreis-karlsruhe/",
+    "webseite": "http://www.malsch.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.malsch.de/kultur-und-freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Vereine Selbsteintrag",
+        "url": "https://www.malsch.de/kultur-und-freizeit/vereine/vereine-selbsteintrag",
+        "score": 70
+      },
+      {
+        "titel": "Kultur / Freizeit",
+        "url": "https://www.malsch.de/kultur-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Kinder / Jugendliche",
+        "url": "https://www.malsch.de/kultur-und-freizeit/kinder-jugendliche",
+        "score": 20
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.malsch.de/kultur-und-freizeit/senioren",
+        "score": 20
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.malsch.de/kultur-und-freizeit/freibad",
+        "score": 20
+      },
+      {
+        "titel": "Rad- / Wanderwege",
+        "url": "https://www.malsch.de/kultur-und-freizeit/rad-und-wanderwege",
+        "score": 20
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://www.malsch.de/kultur-und-freizeit/buechereien",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.malsch.de/kultur-und-freizeit/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen Selbsteintrag",
+        "url": "https://www.malsch.de/kultur-und-freizeit/veranstaltungen/veranstaltungen-selbsteintrag",
+        "score": 20
+      },
+      {
+        "titel": "Tourismusgemeinschaft Albtal Plus",
+        "url": "https://www.malsch.de/kultur-und-freizeit/tourismusgemeinschaft-albtal-plus",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes in Malsch",
+        "url": "https://www.malsch.de/kultur-und-freizeit/sehenswertes-in-malsch",
+        "score": 20
+      },
+      {
+        "titel": "Grillhütten",
+        "url": "https://www.malsch.de/kultur-und-freizeit/grillhuetten",
+        "score": 20
+      },
+      {
+        "titel": "Parteien und Wählervereinigungen",
+        "url": "https://www.malsch.de/gemeinde/politik/parteien-und-waehlervereinigungen",
+        "score": 10
+      },
+      {
+        "titel": "Blutspende DRK Ortsverein Malsch",
+        "url": "https://www.malsch.de/site/Malsch-2022/node/2484826/zmdetail_2370604156/index.html?nodeID=2370604156",
+        "score": 10
+      },
+      {
+        "titel": "Blutspende DRK Ortsverein Völkersbach",
+        "url": "https://www.malsch.de/site/Malsch-2022/node/2484826/zmdetail_2303810033/index.html?nodeID=2303810033",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Malsch (Rhein-Neckar-Kreis)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/malsch-rhein-neckar-kreis/",
+    "webseite": "http://www.malsch-weinort.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.malsch-weinort.de/kultur/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.malsch-weinort.de/kultur/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Mälscher Markt",
+        "url": "https://www.malsch-weinort.de/kultur/maelscher-markt/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturtreff",
+        "url": "https://www.malsch-weinort.de/kultur/kulturtreff/",
+        "score": 10
+      },
+      {
+        "titel": "Parteien",
+        "url": "https://www.malsch-weinort.de/kultur/parteien/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Malterdingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/malterdingen/",
+    "webseite": "http://www.malterdingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.malterdingen.de/kultur-freizeit/freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.malterdingen.de/kultur-freizeit/naturpark-suedschwarzwald",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.malterdingen.de/kultur-freizeit/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.malterdingen.de/kultur-freizeit/wandern-radfahren",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.malterdingen.de/kultur-freizeit/freizeit/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.malterdingen.de/kultur-freizeit/freizeit/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Baggersee",
+        "url": "https://www.malterdingen.de/kultur-freizeit/freizeit/baggersee",
+        "score": 20
+      },
+      {
+        "titel": "Hasenbankhütte",
+        "url": "https://www.malterdingen.de/kultur-freizeit/freizeit/hasenbankhuette",
+        "score": 20
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.malterdingen.de/kultur-freizeit/ausflugsziele",
+        "score": 20
+      },
+      {
+        "titel": "Gastlichkeit",
+        "url": "https://www.malterdingen.de/kultur-freizeit/gastlichkeit/uebernachten",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.malterdingen.de/kultur-freizeit/gastlichkeit/gastronomie",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mannheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mannheim/",
+    "webseite": "http://www.mannheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "KULTURERLEBEN",
+        "url": "https://www.mannheim.de/de/kultur-erleben",
+        "score": 10
+      },
+      {
+        "titel": "Kulturamt Mannheim",
+        "url": "https://www.mannheim.de/de/kultur-erleben/kulturamt-mannheim",
+        "score": 10
+      },
+      {
+        "titel": "Film",
+        "url": "https://www.mannheim.de/de/kultur-erleben/film",
+        "score": 10
+      },
+      {
+        "titel": "Literatur",
+        "url": "https://www.mannheim.de/de/kultur-erleben/literatur",
+        "score": 10
+      },
+      {
+        "titel": "Museen und Kunstorte",
+        "url": "https://www.mannheim.de/de/kultur-erleben/museen-und-kunstorte",
+        "score": 10
+      },
+      {
+        "titel": "Musik",
+        "url": "https://www.mannheim.de/de/kultur-erleben/musik",
+        "score": 10
+      },
+      {
+        "titel": "Theater und Bühnen",
+        "url": "https://www.mannheim.de/de/kultur-erleben/theater-und-buehnen",
+        "score": 10
+      },
+      {
+        "titel": "Stadtgeschichte",
+        "url": "https://www.mannheim.de/de/kultur-erleben/stadtgeschichte",
+        "score": 10
+      },
+      {
+        "titel": "Kulturdenkmale",
+        "url": "https://www.mannheim.de/de/kultur-erleben/kulturdenkmale",
+        "score": 10
+      },
+      {
+        "titel": "Kulturelle Vielfalt",
+        "url": "https://www.mannheim.de/de/kultur-erleben/kulturelle-vielfalt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Marbach am Neckar",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/marbach-am-neckar/",
+    "webseite": "http://www.schillerstadt-marbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.schillerstadt-marbach.de/leben-soziales/vereine-organisationen/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitaktivitäten",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/natur-genuss/freizeitaktivitaeten/",
+        "score": 20
+      },
+      {
+        "titel": "Touristik& Kultur",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Museen - mehr als Schiller",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/",
+        "score": 10
+      },
+      {
+        "titel": "Literaturmuseen",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/literaturmuseen/",
+        "score": 10
+      },
+      {
+        "titel": "Literaturmuseum der Moderne",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/literaturmuseen/literaturmuseum-der-moderne/",
+        "score": 10
+      },
+      {
+        "titel": "Deutsches Literaturarchiv Marbach",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/literaturmuseen/deutsches-literaturarchiv-marbach/",
+        "score": 10
+      },
+      {
+        "titel": "Museumsquartier",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/museumsquartier/",
+        "score": 10
+      },
+      {
+        "titel": "Fritz Genkinger Kunsthaus",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/museumsquartier/fritz-genkinger-kunsthaus/",
+        "score": 10
+      },
+      {
+        "titel": "Ölmühle Jäger",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/museumsquartier/oelmuehle-jaeger/",
+        "score": 10
+      },
+      {
+        "titel": "Oberer Torturm",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/literaturundmuseen-mehralsschiller/museumsquartier/oberer-torturm/",
+        "score": 10
+      },
+      {
+        "titel": "Stadt & Kultur",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Alexanderkirche",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/sehenswuerdigkeiten/alexanderkirche/",
+        "score": 10
+      },
+      {
+        "titel": "Altstadt",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/sehenswuerdigkeiten/altstadt/",
+        "score": 10
+      },
+      {
+        "titel": "Burgplatz",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/sehenswuerdigkeiten/burgplatz/",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerturm",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/sehenswuerdigkeiten/buergerturm/",
+        "score": 10
+      },
+      {
+        "titel": "Holdergassen",
+        "url": "https://www.schillerstadt-marbach.de/touristik-kultur/stadt-kultur/sehenswuerdigkeiten/holdergassen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "March",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/march/",
+    "webseite": "http://www.march.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Markdorf",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/markdorf/",
+    "webseite": "http://www.markdorf.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Markgröningen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/markgroeningen/",
+    "webseite": "http://www.markgroeningen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Marxzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/marxzell/",
+    "webseite": "http://www.marxzell.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Kinder - und Jugendferienprogramm 2026Anmeldung Vereinen / Institutionen / Organisationen und Privatpersonen\n\nAuch in diesem Jahr möchten wir den Kindern und Jugendlichen in unserer Gemeinde wieder ein buntes und abwechslungsreiches Ferienprogramm bieten - mit spannenden Aktionen, kreativen Angeboten und jeder Menge Spaß! Mittwoch, 30. Juli 2025",
+        "url": "https://www.marxzell.de/ferienprogramm/kinder-und-jugendferienprogramm-2026-id_2975/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur im Kloster",
+        "url": "https://www.marxzell.de/kultur-im-kloster/kultur-im-kloster-id_2945/?cb=1778037151",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Maselheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/maselheim/",
+    "webseite": "http://www.maselheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/sport-freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Der Jakobusweg",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/sport-freizeit/der-jakobusweg",
+        "score": 20
+      },
+      {
+        "titel": "Badestelle Ellmannsweiler",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/sport-freizeit/freibad-ellmannsweiler",
+        "score": 20
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/fuer-gaeste/gastgeber",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus in der Region",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/fuer-gaeste/tourismus-in-der-region",
+        "score": 20
+      },
+      {
+        "titel": "Bus & Bahn",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/nahverkehr/bus-bahn",
+        "score": 20
+      },
+      {
+        "titel": "Mitfahrzentrale",
+        "url": "https://www.maselheim.de/de/freizeit-kultur/nahverkehr/mitfahrzentrale",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Massenbachhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/massenbachhausen/",
+    "webseite": "http://www.massenbachhausen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mauer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mauer/",
+    "webseite": "http://www.gemeinde-mauer.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maulbronn",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/maulbronn/",
+    "webseite": "http://www.maulbronn.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Maulburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/maulburg/",
+    "webseite": "http://www.maulburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.maulburg.de/de/Lebenswertes-Maulburg/Freizeit-Vereine-/Vereine-A-Z",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.maulburg.de/de/Lebenswertes-Maulburg/Freizeit-Vereine-",
+        "score": 30
+      },
+      {
+        "titel": "Alemannenhalle",
+        "url": "https://www.maulburg.de/de/Lebenswertes-Maulburg/Freizeit-Vereine-/Alemannenhalle",
+        "score": 30
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://www.maulburg.de/de/Lebenswertes-Maulburg/Freizeit-Vereine-/Hallenbad",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungen & Feiern",
+        "url": "https://www.maulburg.de/de/Lebenswertes-Maulburg/Freizeit-Vereine-/Veranstaltung-rund-ums-Rathaus",
+        "score": 30
+      },
+      {
+        "titel": "",
+        "url": "https://www.maulburg.de/termin-vereinbaren",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Meckenbeuren",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/meckenbeuren/",
+    "webseite": "http://www.meckenbeuren.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Meckesheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/meckesheim/",
+    "webseite": "http://www.meckesheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Meersburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/meersburg/",
+    "webseite": "http://www.meersburg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.meersburg.de/de/Leben-Rathaus/Machen_Sie_mit/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.meersburg.de/de/Tourismus/Kultur",
+        "score": 10
+      },
+      {
+        "titel": "vineum bodensee",
+        "url": "https://www.meersburg.de/de/Tourismus/Kultur/vineum-bodensee",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.meersburg.de/de/Veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Kultur vom Feinsten",
+        "url": "https://www.meersburg.de/de/Tourismus/Kultur/Kultur-vom-Feinsten",
+        "score": 10
+      },
+      {
+        "titel": "Musik",
+        "url": "https://www.meersburg.de/de/Tourismus/Kultur/Musik",
+        "score": 10
+      },
+      {
+        "titel": "Annette von Droste-Hülshoff",
+        "url": "https://www.meersburg.de/de/Tourismus/Kultur/Literatur-Droste",
+        "score": 10
+      },
+      {
+        "titel": "Museen / Galerien",
+        "url": "https://www.meersburg.de/de/Tourismus/Kultur/Museen-Galerien",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Meersburg Therme",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Meersburg-Therme",
+        "score": 10
+      },
+      {
+        "titel": "Frei- & Strandbad",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Frei-Strandbad",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Der Bodensee",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Der-Bodensee",
+        "score": 10
+      },
+      {
+        "titel": "Schifffahrt",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Schifffahrt",
+        "score": 10
+      },
+      {
+        "titel": "Sportlich aktiv",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Sportlich-aktiv",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbücherei",
+        "url": "https://www.meersburg.de/de/Tourismus/Freizeit/Stadtbuecherei",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mehrstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mehrstetten/",
+    "webseite": "http://www.mehrstetten.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Meißenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/meissenheim/",
+    "webseite": "http://www.meissenheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mengen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mengen/",
+    "webseite": "http://www.mengen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/freizeit/10_vereine.php",
+        "score": 30
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.mengen.de/de/soziales/06_overview-vereine.php",
+        "score": 20
+      },
+      {
+        "titel": "ONLINE-Terminvereinbarung",
+        "url": "https://www.mengen.de/de/rathaus/buergerservice/termineNEU.php",
+        "score": 10
+      },
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.mengen.de/de/wirtschaft/einzelhandel/gewerbeverein.php",
+        "score": 10
+      },
+      {
+        "titel": "Nette Toilette",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/tourismus/stadtrundgang/04_nette-tolilette.php",
+        "score": 10
+      },
+      {
+        "titel": "Fitness | Wellness",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/02_wellness.php",
+        "score": 10
+      },
+      {
+        "titel": "Einkaufen | Bummeln",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/freizeit/07_einkaufen-bummeln.php",
+        "score": 10
+      },
+      {
+        "titel": "Fitnessparcours",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/freizeit/fitnessparcour.php",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/freizeit/05_einrichtungen.php",
+        "score": 10
+      },
+      {
+        "titel": "Trekking-Camps",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/freizeit/02_trekking-camps.php",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.mengen.de/de/freizeit-tourismus/freizeit/01_wandern.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Merdingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/merdingen/",
+    "webseite": "http://www.merdingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Merklingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/merklingen/",
+    "webseite": "http://www.merklingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.merklingen.de/freizeit/vereine/vereinsliste",
+        "score": 90
+      },
+      {
+        "titel": "Gemeindebus",
+        "url": "https://www.merklingen.de/freizeit/vereine/gemeindebus",
+        "score": 60
+      },
+      {
+        "titel": "Geschirrmobil",
+        "url": "https://www.merklingen.de/freizeit/vereine/geschirrmobil",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.merklingen.de/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.merklingen.de/freizeit/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Backhausprogramm",
+        "url": "https://www.merklingen.de/freizeit/backhausprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.merklingen.de/freizeit/buecherei",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Merzhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/merzhausen/",
+    "webseite": "http://www.merzhausen.de",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Termine & Veranstaltungen",
+        "url": "https://www.merzhausen.de/freizeit-kultur/termine-veranstaltungen/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Erlebnis- & Vogellehrpfad",
+        "url": "https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/erlebnis-vogellehrpfad",
+        "score": 20
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/sportanlagen",
+        "score": 20
+      },
+      {
+        "titel": "BürgerBad",
+        "url": "https://www.merzhausen.de/freizeit-kultur/bewegung-entspannung/buergerbad",
+        "score": 20
+      },
+      {
+        "titel": "Jesuitenschloß",
+        "url": "https://www.merzhausen.de/freizeit-kultur/jesuitenschloss",
+        "score": 20
+      },
+      {
+        "titel": "Kurt-Heynicke-Archiv",
+        "url": "https://www.merzhausen.de/freizeit-kultur/kurt-heynicke-archiv",
+        "score": 20
+      },
+      {
+        "titel": "Wochenmarkt",
+        "url": "https://www.merzhausen.de/freizeit-kultur/maerkte/wochenmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.merzhausen.de/freizeit-kultur/maerkte/weihnachtsmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.merzhausen.de/freizeit-kultur/gastgeber-gastronomie/gastgeber",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Meßkirch",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/messkirch/",
+    "webseite": "http://www.messkirch.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.messkirch.de/de/leben-in-messkirch/Sport-Freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Kultur→",
+        "url": "https://www.messkirch.de/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Campus Galli",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Campus-Galli",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Essen,trinken,schlafen",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen→",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Meßkirch unplugged Musiknacht",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Messkirch-unplugged-Musiknacht-2025",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Veranstaltungen/Maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Schlossweihnacht",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Veranstaltungen/Schlossweihnacht",
+        "score": 10
+      },
+      {
+        "titel": "Sehen & staunen→",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen",
+        "score": 10
+      },
+      {
+        "titel": "Schloss Meßkirch",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen/Schloss-Messkirch",
+        "score": 10
+      },
+      {
+        "titel": "Museen im Schloss",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen/Museen-im-Schloss",
+        "score": 10
+      },
+      {
+        "titel": "Barockkirche St. Martin",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen/Barockkirche-St.Martin",
+        "score": 10
+      },
+      {
+        "titel": "Hofgarten",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen/Hofgarten",
+        "score": 10
+      },
+      {
+        "titel": "Burg Wildenstein",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen/Burg-Wildenstein",
+        "score": 10
+      },
+      {
+        "titel": "Sauldorfer Seen",
+        "url": "https://www.messkirch.de/de/tourismus-kultur/Sehen-staunen/Sauldorfer-Seen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Meßstetten",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/messstetten/",
+    "webseite": "http://www.messstetten.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.stadt-messstetten.de/",
+        "score": 10
+      },
+      {
+        "titel": "Kiosk Auszeit Blumersberg \n                            \n                            \n                                \n                                    geöffnet",
+        "url": "https://www.stadt-messstetten.de/freizeit-tourismus/gaststaetten?c7-item=14192453",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Metzingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/metzingen/",
+    "webseite": "http://www.metzingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.metzingen.de/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Kultur - Übersicht",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Kultur",
+        "score": 10
+      },
+      {
+        "titel": "LUNA Filmtheater",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Kultur/LUNA-Filmtheater",
+        "score": 10
+      },
+      {
+        "titel": "Kulturveranstaltungen im Jahreslauf",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Kultur/Kulturelle-Veranstaltungen-im-Jahreslauf",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Sport - Übersicht",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Freizeit-Sport",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmbäder",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Freizeit-Sport/Schwimmbaeder",
+        "score": 10
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Freizeit-Sport/Sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Minigolf",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Freizeit-Sport/Minigolf",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.metzingen.de/de/Leben-Rathaus/Leben/Freizeit-Sport/Veranstaltungsraeume",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Michelbach an der Bilz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/michelbach-an-der-bilz/",
+    "webseite": "http://www.michelbach-bilz.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Michelfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/michelfeld/",
+    "webseite": "http://www.michelfeld.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.michelfeld.de/leben-wohnen/vereinsleben",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit erleben",
+        "url": "https://www.michelfeld.de/familie-bildung/freizeit-erleben/kurzportrait",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.michelfeld.de/familie-bildung/freizeit-erleben/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Stausee",
+        "url": "https://www.michelfeld.de/familie-bildung/freizeit-erleben/stausee",
+        "score": 10
+      },
+      {
+        "titel": "Rad & Wanderwege",
+        "url": "https://www.michelfeld.de/familie-bildung/freizeit-erleben/rad-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Generationentreff Gnadental",
+        "url": "https://www.michelfeld.de/familie-bildung/freizeit-erleben/generationentreff-gnadental",
+        "score": 10
+      },
+      {
+        "titel": "Kultur erleben",
+        "url": "https://www.michelfeld.de/familie-bildung/kultur-erleben/peter-und-paul-kirche-in-michelfeld",
+        "score": 10
+      },
+      {
+        "titel": "Klosterkirche in Gnadental",
+        "url": "https://www.michelfeld.de/familie-bildung/kultur-erleben/klosterkirche-in-gnadental",
+        "score": 10
+      },
+      {
+        "titel": "Johanneskirche in Neunkirchen",
+        "url": "https://www.michelfeld.de/familie-bildung/kultur-erleben/johanneskirche-in-neunkirchen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mietingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mietingen/",
+    "webseite": "http://www.mietingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & KulturVereine, Gastronomie, Rad & Wan- derwege, Sehenswürdigkeiten und Spielplätze",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/kirchen",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/sehenswuerdigkeiten/jakobs-kapelle",
+        "score": 20
+      },
+      {
+        "titel": "Sandkeller",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/sehenswuerdigkeiten/sandkeller",
+        "score": 20
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/sehenswuerdigkeiten/museum",
+        "score": 20
+      },
+      {
+        "titel": "Wattwanderweg",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/sehenswuerdigkeiten/wattwanderweg",
+        "score": 20
+      },
+      {
+        "titel": "Naturschutzgebiet",
+        "url": "https://www.mietingen.de/de/freizeit-kultur/sehenswuerdigkeiten/naturschutzgebiet",
+        "score": 20
+      },
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.mietingen.de/de/wirtschaft-gewerbe/gewerbeverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mittelbiberach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mittelbiberach/",
+    "webseite": "http://www.mittelbiberach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.mittelbiberach.de/",
+        "score": 20
+      },
+      {
+        "titel": "Heimatlied",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/heimatlied",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/freizeitangebote",
+        "score": 20
+      },
+      {
+        "titel": "Sportplätze",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/freizeitangebote/sportplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/freizeitangebote/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Obstgarten",
+        "url": "https://www.mittelbiberach.de/kultur-freizeit/freizeitangebote/obstgarten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Möckmühl",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moeckmuehl/",
+    "webseite": "http://www.moeckmuehl.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/vereine-verbaende/seite-1/suche-none",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/veranstaltungen/uebersicht/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Meldeformular",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/veranstaltungen/meldeformular",
+        "score": 20
+      },
+      {
+        "titel": "Stadtrundgang",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/stadtrundgang/stadtrundgang-deutsch",
+        "score": 20
+      },
+      {
+        "titel": "Stadtrundgang (Englisch)",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/stadtrundgang/stadtrundgang-englisch",
+        "score": 20
+      },
+      {
+        "titel": "Gastgeberverzeichnis",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/gastgeberverzeichnis/unterkuenfte",
+        "score": 20
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/gastgeberverzeichnis/wohnmobilstellplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/gastgeberverzeichnis/gaststaetten",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/kultur/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/kultur/heimatmuseum",
+        "score": 20
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/kultur/fuehrungen",
+        "score": 20
+      },
+      {
+        "titel": "Theater",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/kultur/theater",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.moeckmuehl.de/kultur-freizeit/veranstaltungsraeume",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mögglingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moegglingen/",
+    "webseite": "http://www.moegglingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Möglingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moeglingen/",
+    "webseite": "http://www.moeglingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Service für Vereine in Möglingen",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Vereine/Vereine-in-Moeglingen",
+        "score": 40
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Kulturspiegel",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Sportstaetten",
+        "score": 20
+      },
+      {
+        "titel": "Möglinger Bürgerfest & Kirbe",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/MoeglingerBuergerfest-Kirbe",
+        "score": 20
+      },
+      {
+        "titel": "Essen, Trinken, Schlafen",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Essen,-Trinken,-Schlafen",
+        "score": 20
+      },
+      {
+        "titel": "Natur- & Erlebnispfad",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Natur-Erlebnispfad",
+        "score": 20
+      },
+      {
+        "titel": "Regionale Produkte",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Regionale-Produkte/Hoflaeden",
+        "score": 20
+      },
+      {
+        "titel": "Möglinger Apfelsaft",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Regionale-Produkte/Moeglinger-Apfelsaft",
+        "score": 20
+      },
+      {
+        "titel": "Möglinger Kräutergarten",
+        "url": "https://www.moeglingen.de/de/Kultur-Freizeit/Moeglinger-Kraeutergarten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mönchweiler",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moenchweiler/",
+    "webseite": "http://www.moenchweiler.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://moenchweiler.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit& Kultur",
+        "url": "https://moenchweiler.de/freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://moenchweiler.de/freizeit-kultur/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://moenchweiler.de/freizeit-kultur/ferienwohnungen/",
+        "score": 20
+      },
+      {
+        "titel": "Partnergemeinde",
+        "url": "https://moenchweiler.de/freizeit-kultur/partnergemeinde/",
+        "score": 20
+      },
+      {
+        "titel": "Kunstrundgang",
+        "url": "https://moenchweiler.de/freizeit-kultur/kunstrundgang/",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://moenchweiler.de/freizeit-kultur/tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://moenchweiler.de/freizeit-kultur/geschichte/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mönsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moensheim/",
+    "webseite": "https://www.estellen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Moos",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moos/",
+    "webseite": "http://www.moos.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Moosburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moosburg/",
+    "webseite": "http://www.moosburg-am-federsee.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnis Oberschwaben",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/erlebnis-oberschwaben",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren und Wandern",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/radfahren-und-wandern",
+        "score": 10
+      },
+      {
+        "titel": "Spielplatz",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/spielplatz",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/feuerwehr",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.moosburg-am-federsee.de/index.php/freizeit/naturschutz",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mosbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mosbach/",
+    "webseite": "http://www.mosbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsübersicht",
+        "url": "https://www.mosbach.de/leben-und-soziales/vereine/vereinsuebersicht",
+        "score": 80
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.mosbach.de/leben-und-soziales/vereine/vereinsfoerderung",
+        "score": 70
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.mosbach.de/leben-und-soziales/vereine/vereinsleben",
+        "score": 70
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.mosbach.de/leben-und-soziales/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitaktivitäten & Ausflüge",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/tourist+information/freizeitaktivitaeten+_+ausfluege",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/freizeitangebote",
+        "score": 20
+      },
+      {
+        "titel": "Wander- & Radwege",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/freizeitangebote/wander-+_+radwege",
+        "score": 20
+      },
+      {
+        "titel": "Stadtpark",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/freizeitangebote/stadtpark",
+        "score": 20
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/freizeitangebote/grillplatz",
+        "score": 20
+      },
+      {
+        "titel": "Geo-Naturpark Bergstraße-Odenwald",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/freizeitangebote/geo-naturpark+bergstrasse-odenwald",
+        "score": 20
+      },
+      {
+        "titel": "Naturpark Bergstraße-Odenwald",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/freizeitangebote/naturpark+bergstrasse-odenwald",
+        "score": 20
+      },
+      {
+        "titel": "Informationen für Institutionen & Vereine",
+        "url": "https://www.mosbach.de/leben-und-soziales/ehrenamt+und+quartiersentwicklung/tag+der+nachbarschaft+treffpunkt+offline/informationen+fuer+institutionen+_+vereine",
+        "score": 20
+      },
+      {
+        "titel": "Sportvereine & Sportangebote",
+        "url": "https://www.mosbach.de/leben-und-soziales/sport/sportvereine+_+sportangebote",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.mosbach.de/kultur-und-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Tourist Information",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/tourist+information",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/tourist+information/fuehrungen+_+reiseleitungen",
+        "score": 10
+      },
+      {
+        "titel": "Altstadtführung",
+        "url": "https://www.mosbach.de/kultur-und-tourismus/tourist+information/stadtfuehrungen/altstadtfuehrung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mössingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moessingen/",
+    "webseite": "http://www.moessingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Informieren/Vereine-A-Z",
+        "score": 40
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.moessingen.de/de/Stadt-Buerger/Engagement/Vereine-A-Z",
+        "score": 30
+      },
+      {
+        "titel": "Fördervereine & Selbsthilfegruppen",
+        "url": "https://www.moessingen.de/de/Stadt-Buerger/Engagement/Foerdervereine-Selbsthilfegruppen",
+        "score": 20
+      },
+      {
+        "titel": "Facharbeitskreis „Vernetzung Schule / Vereine / Ju",
+        "url": "https://www.moessingen.de/de/Stadt-Buerger/Bildung-Familie/Jugend/Planungsbeirat-Jugend-in-Moessingen/Facharbeitskreis-",
+        "score": 20
+      },
+      {
+        "titel": "Vereine, Sport, Geselligkeit",
+        "url": "https://www.moessingen.de/de/Stadt-Buerger/Bildung-Familie/Jugend/Praevention-in-der-Jugendarbeit(jugendgerechte-Kommune)/Vereine,Sport,Geselligkeit",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.moessingen.de/tourist",
+        "score": 10
+      },
+      {
+        "titel": "Gesund & fit",
+        "url": "https://www.moessingen.de/baeder",
+        "score": 10
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Gesund-fit/Sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Skaterpark",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Gesund-fit/Skaterpark",
+        "score": 10
+      },
+      {
+        "titel": "Walking & Running",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Gesund-fit/Walking-Running",
+        "score": 10
+      },
+      {
+        "titel": "Pilgerweg nach Saint- Julien",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Wandern-Radfahren/Pilgerweg-Moessingen-St.-Julien",
+        "score": 10
+      },
+      {
+        "titel": "Rosenmarkt",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Informieren/Rosenmarkt",
+        "score": 10
+      },
+      {
+        "titel": "Kulturherbst",
+        "url": "https://www.moessingen.de/kulturherbst",
+        "score": 10
+      },
+      {
+        "titel": "100 Jahre Pausa - 100 Jahre Bauhaus",
+        "url": "https://www.moessingen.de/de/Freizeit-Tourismus/Sehen-Erleben/100-Jahre-Pausa-100-Jahre-Bauhaus",
+        "score": 10
+      },
+      {
+        "titel": "Interkulturelle Elternmentor*innen",
+        "url": "https://www.moessingen.de/de/Stadt-Buerger/Engagement/Integration/Interkulturelle-Elternmentor_innen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mötzingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/moetzingen/",
+    "webseite": "http://www.moetzingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mudau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mudau/",
+    "webseite": "http://www.mudau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.mudau.de/freizeit-tourismus/vereine/vereinsliste",
+        "score": 90
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.mudau.de/freizeit-tourismus/vereine/vereinsfoerderung",
+        "score": 80
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.mudau.de/",
+        "score": 20
+      },
+      {
+        "titel": "Outdoor",
+        "url": "https://www.mudau.de/freizeit-tourismus/aktivitaeten-sehenswertes/outdoor",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele im Umkreis",
+        "url": "https://www.mudau.de/freizeit-tourismus/aktivitaeten-sehenswertes/ausflugsziele-im-umkreis",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze in Mudau",
+        "url": "https://www.mudau.de/freizeit-tourismus/spielplaetze/spielplaetze-in-mudau",
+        "score": 10
+      },
+      {
+        "titel": "SMART Pfad",
+        "url": "https://www.mudau.de/freizeit-tourismus/spielplaetze/smart-pfad",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.mudau.de/freizeit-tourismus/gastronomie-uebernachtung/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.mudau.de/freizeit-tourismus/gastronomie-uebernachtung/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.mudau.de/freizeit-tourismus/mudau-aktiv/maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Schlosskonzert",
+        "url": "https://www.mudau.de/freizeit-tourismus/mudau-aktiv/schlosskonzert",
+        "score": 10
+      },
+      {
+        "titel": "Geopark",
+        "url": "https://www.mudau.de/freizeit-tourismus/mudau-aktiv/geopark",
+        "score": 10
+      },
+      {
+        "titel": "Partner",
+        "url": "https://www.mudau.de/freizeit-tourismus/mudau-aktiv/partner",
+        "score": 10
+      },
+      {
+        "titel": "Informationen",
+        "url": "https://www.mudau.de/freizeit-tourismus/badische-landesbuehne/informationen",
+        "score": 10
+      },
+      {
+        "titel": "Stücke Spielzeit 2025/26",
+        "url": "https://www.mudau.de/freizeit-tourismus/badische-landesbuehne/stuecke-spielzeit-202526",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Muggensturm",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muggensturm/",
+    "webseite": "http://www.muggensturm.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.muggensturm.de/kultur-freizeit/vereinsliste",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.muggensturm.de/kultur-freizeit/vereinsleben",
+        "score": 50
+      },
+      {
+        "titel": "Fuß- & Radwege",
+        "url": "https://www.muggensturm.de/kultur-freizeit/fuss-radwege",
+        "score": 20
+      },
+      {
+        "titel": "Radwege rund um Muggensturm",
+        "url": "https://www.muggensturm.de/kultur-freizeit/fuss-radwege/radwege-rund-um-muggensturm",
+        "score": 20
+      },
+      {
+        "titel": "KreativKreis",
+        "url": "https://www.muggensturm.de/kultur-freizeit/kreativkreis",
+        "score": 20
+      },
+      {
+        "titel": "Kunstpfad",
+        "url": "https://www.muggensturm.de/kultur-freizeit/kreativkreis/kunstpfad",
+        "score": 20
+      },
+      {
+        "titel": "Gemeinschaftsprojekt \"Bewegung\"",
+        "url": "https://www.muggensturm.de/kultur-freizeit/kreativkreis/gemeinschaftsprojekt-bewegung",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.muggensturm.de/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitanlage",
+        "url": "https://www.muggensturm.de/kultur-freizeit/freizeitanlage",
+        "score": 20
+      },
+      {
+        "titel": "Naturfreibad",
+        "url": "https://www.muggensturm.de/kultur-freizeit/naturfreibad",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindewald",
+        "url": "https://www.muggensturm.de/kultur-freizeit/gemeindewald",
+        "score": 20
+      },
+      {
+        "titel": "Essen & Übernachten",
+        "url": "https://www.muggensturm.de/kultur-freizeit/essen-uebernachten",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.muggensturm.de/kultur-freizeit/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Kunst in Muggensturm",
+        "url": "https://www.muggensturm.de/kultur-freizeit/kunst-in-muggensturm",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.muggensturm.de/kultur-freizeit/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.muggensturm.de/kultur-freizeit/weihnachtsmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.muggensturm.de/gemeinde/muggensturm-stellt-sich-vor/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Obst- und Gartenbauverein",
+        "url": "https://www.muggensturm.de/leben-wohnen/klimaschutz/mitmachen-engagement/obst-und-gartenbauverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühlacker",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlacker/",
+    "webseite": "http://www.muehlacker.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/freizeit-tourismus/vereine.php",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.muehlacker.de/stadt/rathaus-politik/vereinsfoerderung/",
+        "score": 30
+      },
+      {
+        "titel": "Kulturelles Leben",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/",
+        "score": 20
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.muehlacker.de/stadt/freizeit-bildung/kulturelles-leben/stadtarchiv.php",
+        "score": 20
+      },
+      {
+        "titel": "Bibliothek",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/bibliothek.php",
+        "score": 20
+      },
+      {
+        "titel": "Theater und Konzerte",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/theater-konzerte.php",
+        "score": 20
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/heimatmuseum.php",
+        "score": 20
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/museen/heimatmuseum/aktuelles-de.php",
+        "score": 20
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/museen/heimatmuseum/ausstellungen-de.php",
+        "score": 20
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/museen/heimatmuseum/fuehrungen-de.php",
+        "score": 20
+      },
+      {
+        "titel": "Presseinformationen",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/museen/heimatmuseum/heimatmuseum-presseinformationen.php",
+        "score": 20
+      },
+      {
+        "titel": "Christbaumständer Museum",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/christbaumstaendermuseum.php",
+        "score": 20
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/museen/christbaumstaendermuseum/aktuelles-de.php",
+        "score": 20
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/museen/christbaumstaendermuseum/fuehrungen-de.php",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsorte",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/veranstaltungsorte.php",
+        "score": 20
+      },
+      {
+        "titel": "Enzgärten",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/kulturelles-leben/enzgaerten.php",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit · Bildung",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Bildung und Familie",
+        "url": "https://www.muehlacker.de/stadt/bildung-freizeit/bildung-familie/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühlenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlenbach/",
+    "webseite": "http://www.muehlenbach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Heimatabend des Trachtenvereins Mühlenbach12. Jun. 2026Freitagtime17.00 - 23.00 UhrplacePlatz vor NarrenkellerorganiserTrachtenverein Mühlenbach e.V.",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/veranstaltungskalender/200/heimatabend-des-trachtenvereins-muehlenbach",
+        "score": 40
+      },
+      {
+        "titel": "Heimatabend des Trachtenvereins Mühlenbach10. Jul. 2026Freitagtime17.00 - 23.00 UhrplacePlatz vor NarrenkellerorganiserTrachtenverein Mühlenbach e.V.",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/veranstaltungskalender/205/heimatabend-des-trachtenvereins-muehlenbach",
+        "score": 40
+      },
+      {
+        "titel": "Jugendzeltlager VfK Mühlenbach19. Jun. 2026Freitagtime14.00 Uhrplacenoch nicht bekanntorganiserVerein für Kraftsport e.V.",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/veranstaltungskalender/201/jugendzeltlager-vfk-muehlenbach",
+        "score": 20
+      },
+      {
+        "titel": "Jugendzeltlager VfK Mühlenbach20. Jun. 2026SamstagtimeBisher keine genaue Uhrzeit bekanntplacenoch nicht bekanntorganiserVerein für Kraftsport e.V.",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/veranstaltungskalender/203/jugendzeltlager-vfk-muehlenbach",
+        "score": 20
+      },
+      {
+        "titel": "Jugendzeltlager VfK Mühlenbach21. Jun. 2026Sonntagtimebis 14.00 Uhrplacenoch nicht bekanntorganiserVerein für Kraftsport e.V.",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/veranstaltungskalender/204/jugendzeltlager-vfk-muehlenbach",
+        "score": 20
+      },
+      {
+        "titel": "Gemeinde & Kultur",
+        "url": "https://www.muehlenbach.de/buergerbereich/gemeinde-kultur/zahlen-fakten",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte & Wappen",
+        "url": "https://www.muehlenbach.de/buergerbereich/gemeinde-kultur/geschichte-wappen",
+        "score": 10
+      },
+      {
+        "titel": "Bildergalerie",
+        "url": "https://www.muehlenbach.de/buergerbereich/gemeinde-kultur/bildergalerie",
+        "score": 10
+      },
+      {
+        "titel": "Imagefilm",
+        "url": "https://www.muehlenbach.de/buergerbereich/gemeinde-kultur/imagefilm",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.muehlenbach.de/buergerbereich/gemeinde-kultur/feuerwehr",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/tourist-information",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/unterkuenfte",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Aktivitäten",
+        "url": "https://www.muehlenbach.de/buergerbereich/freizeit-tourismus/freizeit-aktivitaeten/sportstaetten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühlhausen (Kraichgau)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlhausen-kraichgau/",
+    "webseite": "http://www.muehlhausen-kraichgau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/vereine/vereinsliste",
+        "score": 100
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/vereine/vereinsfoerderung",
+        "score": 90
+      },
+      {
+        "titel": "Café Mulin",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/gastronomie/cafe-mulin",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Fasching",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/maerkte-feste-1/fasching",
+        "score": 20
+      },
+      {
+        "titel": "Weinfeste/Straßenkerwen",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/maerkte-feste",
+        "score": 20
+      },
+      {
+        "titel": "Bürgerfest",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/maerkte-feste-1/buergerfest",
+        "score": 20
+      },
+      {
+        "titel": "Adventsmärkte",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/maerkte-feste-1/adventsmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/kultur-im-buergerhaus/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Allgemein",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/der-weinbau/allgemein",
+        "score": 20
+      },
+      {
+        "titel": "Pfarrweinberg Mühlhausen",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/der-weinbau/pfarrweinberg-muehlhausen",
+        "score": 20
+      },
+      {
+        "titel": "Museumshaus",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/museen/museumshaus",
+        "score": 20
+      },
+      {
+        "titel": "Schloss Tairnbach",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/museen/schloss-tairnbach",
+        "score": 20
+      },
+      {
+        "titel": "Natur- und Landschaftsschutzgebiete",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/naherholung",
+        "score": 20
+      },
+      {
+        "titel": "Hohlwegpfad",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/hohlwegpfad",
+        "score": 20
+      },
+      {
+        "titel": "Wanderrouten",
+        "url": "https://www.muehlhausen-kraichgau.de/de/freizeit-kultur/naherholung-2/wanderrouten",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mühlhausen im Täle",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlhausen-im-taele/",
+    "webseite": "http://www.muehlhausen-taele.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Öffentliche Einrichtungen",
+        "url": "https://www.muehlhausen-taele.de/gemeinde-muehlhausen/oeffentliche-einrichtungen/vereinszimmer",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Grillplätze",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/grillplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Bikepark",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/bikepark",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/wandern/schoenbachrunde",
+        "score": 10
+      },
+      {
+        "titel": "Eselhöfe-Tour",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/wandern/eselhoefe-tour",
+        "score": 10
+      },
+      {
+        "titel": "Buchweg",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/wandern/buchweg",
+        "score": 10
+      },
+      {
+        "titel": "Albtraufgängerweg (Abschnitt Mühlhausen)",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/wandern/albtraufgaengerweg-abschnitt-muehlhausen",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Sonstiger Freizeitsport",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/sonstiger-freizeitsport",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/feste-maerkte/kuckucksfest",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/tourismus/erlebnisregion-schwaebischer-albtrauf",
+        "score": 10
+      },
+      {
+        "titel": "TV Schwäbische Alb",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/tourismus/tv-schwaebische-alb",
+        "score": 10
+      },
+      {
+        "titel": "Fotoalbum",
+        "url": "https://www.muehlhausen-taele.de/freizeit-tourismus/tourismus/fotoalbum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühlhausen-Ehingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlhausen-ehingen/",
+    "webseite": "http://www.muehlhausen-ehingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehlhausen-ehingen.de/de/Unsere-Gemeinde/Vereine",
+        "score": 20
+      },
+      {
+        "titel": "Jahresrückblicke",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Jahresrueckblicke",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Erzählzeit 2025",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Erzaehlzeit-2025",
+        "score": 10
+      },
+      {
+        "titel": "STADTRADELN",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/STADTRADELN",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Wandern-Radfahren-",
+        "score": 10
+      },
+      {
+        "titel": "Rundweg Ursula-Brunnen",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Rundweg-Ursula-Brunnen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsräume",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Veranstaltungsraeume",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Spielplaetze-",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele rund um Mühlhausen-Ehingen",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Ausflugsziele-rund-um-Muehlhausen-Ehingen",
+        "score": 10
+      },
+      {
+        "titel": "Regio Konstanz-Bodensee-Hegau e.V.",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Hegau-Tourismus-e.V.",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/Gaststaetten-",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.muehlhausen-ehingen.de/de/Freizeit-Tourismus/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Donnerstag \n            14.05.2026 \n            Fischerfest des Angelsportverein Mühlhausen- Ehing...\n             \n             Immisriedweiher Mühlhausen- Ehingen an der Bahnlinie hi...\n             Angelsportverein Mühlhausen-Ehingen e.V.",
+        "url": "https://www.muehlhausen-ehingen.de/de/Aktuelles/Veranstaltungskalender/Veranstaltung?view=publish&item=eventDate&id=1697",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mühlheim an der Donau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlheim-an-der-donau/",
+    "webseite": "http://www.muehlheim-donau.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mühlingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlingen/",
+    "webseite": "http://www.muehlingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://muehlingen.de/?page_id=1220",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Mulfingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mulfingen/",
+    "webseite": "http://www.mulfingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Müllheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muellheim/",
+    "webseite": "http://www.muellheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine - Infos",
+        "url": "https://www.muellheim.de/buerger/vereine-infos/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine in Müllheim",
+        "url": "https://www.muellheim.de/buerger/vereine-in-muellheim/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur, Tourismus",
+        "url": "https://www.muellheim.de/kultur-tourismus/markgraefler-museum/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen (externe Website)",
+        "url": "https://www.muellheim.de/kultur-tourismus/veranstaltungen-externe-website/",
+        "score": 10
+      },
+      {
+        "titel": "Mediathek",
+        "url": "https://www.muellheim.de/kultur-tourismus/mediathek/",
+        "score": 10
+      },
+      {
+        "titel": "Tourist-Info (externe Website)",
+        "url": "https://www.muellheim.de/kultur-tourismus/tourist-info-externe-website/",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerhaus",
+        "url": "https://www.muellheim.de/kultur-tourismus/buergerhaus/",
+        "score": 10
+      },
+      {
+        "titel": "Martinskirche",
+        "url": "https://www.muellheim.de/kultur-tourismus/martinskirche/",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmbad",
+        "url": "https://www.muellheim.de/kultur-tourismus/schwimmbad/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.muellheim.de/rathaus/stadtarchiv/",
+        "score": 10
+      },
+      {
+        "titel": "Onlinetermin im Rathaus vereinbaren",
+        "url": "https://www.terminland.de/Stadt_Muellheim/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Mundelsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mundelsheim/",
+    "webseite": "http://www.mundelsheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Munderkingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/munderkingen/",
+    "webseite": "http://www.munderkingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Münsingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muensingen/",
+    "webseite": "http://www.muensingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Münstertal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/muenstertal/",
+    "webseite": "http://www.muenstertal.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muenstertal.de/freizeit-kultur/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.muenstertal.de/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Wochenmarkt",
+        "url": "https://www.muenstertal.de/freizeit-kultur/wochenmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Grillstelle Riggenbach",
+        "url": "https://www.muenstertal.de/freizeit-kultur/grillstelle-riggenbach",
+        "score": 20
+      },
+      {
+        "titel": "Bildung & Kultur",
+        "url": "https://www.muenstertal.de/freizeit-kultur/bildung-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Entdecken & Erleben",
+        "url": "https://www.muenstertal.de/freizeit-kultur/entdecken-erleben",
+        "score": 20
+      },
+      {
+        "titel": "Termin Bürgerbüro",
+        "url": "https://www.muenstertal.de/buergerservice/terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Parteien/Wählervereinigungen",
+        "url": "https://www.muenstertal.de/lokalpolitik/parteien",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Murg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/murg/",
+    "webseite": "http://www.murg.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Murr",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/murr/",
+    "webseite": "http://www.gemeinde-murr.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/vereine/seite-1/suche-none",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit, Kultur & Tourismus",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/hardy-pfad",
+        "score": 20
+      },
+      {
+        "titel": "Sport & Freizeitanlagen",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/sport-freizeitanlagen/in-murr",
+        "score": 20
+      },
+      {
+        "titel": "Jugendhaus",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/jugendhaus",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/tourismus",
+        "score": 20
+      },
+      {
+        "titel": "Kulturprisma Murr",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/kulturprisma-murr",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-murr.de/freizeit-kultur-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Murrhardt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/murrhardt/",
+    "webseite": "http://www.murrhardt.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Mutlangen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/mutlangen/",
+    "webseite": "http://www.mutlangen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nagold",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/nagold/",
+    "webseite": "http://www.nagold.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nattheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/nattheim/",
+    "webseite": "http://www.nattheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.nattheim.de/de/Leben-in-Nattheim/Unsere-Vereine",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neckarbischofsheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/neckarbischofsheim/",
+    "webseite": "http://www.neckarbischofsheim.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeitangebot",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/freizeitangebot/",
+        "score": 20
+      },
+      {
+        "titel": "August-Schütz-Freibad",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/freizeitangebot/august-schuetz-freibad/",
+        "score": 20
+      },
+      {
+        "titel": "Hallenbad Neckarbischofsheim",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/freizeitangebot/hallenbad-neckarbischofsheim/",
+        "score": 20
+      },
+      {
+        "titel": "Sportplätze",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/freizeitangebot/sportplaetze/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender 2026",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/veranstaltungen/veranstaltungskalender-2025/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Historischer Rundgang",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/historischer-rundgang/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten & Genießen",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/unterkuenfte-gaststaetten/",
+        "score": 10
+      },
+      {
+        "titel": "Krebsbachtalbahn",
+        "url": "http://www.neckarbischofsheim.de/tourismus-kultur/krebsbachtalbahn/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neckargemünd",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/neckargemuend/",
+    "webseite": "http://www.neckargemuend.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Treffpunkt für Vereine",
+        "url": "https://www.neckargemuend.de/start/erleben/treffpunkt+fuer+vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Selbsteintrag Vereine",
+        "url": "https://www.neckargemuend.de/2627751.html",
+        "score": 20
+      },
+      {
+        "titel": "Kultur-Haltepunkt Altes Rathaus",
+        "url": "https://www.neckargemuend.de/start/erleben/kultur-haltepunkt+altes+rathaus.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.neckargemuend.de/2448854_2449027_2626197_2621066.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Begegnung",
+        "url": "https://www.neckargemuend.de/2448854_2449027_2626197_2628448.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.neckargemuend.de/start/entdecken/freizeit+und+sport.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Begegnung",
+        "url": "https://www.neckargemuend.de/start/entdecken/freizeit+und+begegnung.html",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerbüro: Termin vereinbaren",
+        "url": "https://www.neckargemuend.de/start/nah+am+buerger/termine.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neckargerach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/neckargerach/",
+    "webseite": "http://www.neckargerach.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.neckargerach.de/de/freizeit/vereine/vereinsliste",
+        "score": 90
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.neckargerach.de/de/freizeit/freizeit-kultur/freizeiteinrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.neckargerach.de/de/freizeit/freizeit-kultur/wanderwege",
+        "score": 20
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.neckargerach.de/de/freizeit/freizeit-kultur/heimatmuseum",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.neckargerach.de/de/freizeit/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.neckargerach.de/de/freizeit/freizeit-kultur/buecherei",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.neckargerach.de/de/freizeit/freizeit-kultur/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Sport- und Kulturhalle Neckargerach",
+        "url": "https://www.neckargerach.de/de/leben/gemeindehallen/sport-und-kulturhalle-neckargerach",
+        "score": 10
+      },
+      {
+        "titel": "Erholungsort",
+        "url": "https://www.neckargerach.de/de/freizeit/erholungsort",
+        "score": 10
+      },
+      {
+        "titel": "Unesco Geopark",
+        "url": "https://www.neckargerach.de/de/freizeit/unesco-geopark",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.neckargerach.de/de/freizeit/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Minneburg",
+        "url": "https://www.neckargerach.de/de/freizeit/sehenswuerdigkeiten/minneburg",
+        "score": 10
+      },
+      {
+        "titel": "Margaretenschluchtpfad",
+        "url": "https://www.neckargerach.de/de/freizeit/sehenswuerdigkeiten/margaretenschluchtpfad",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neckarsulm",
+    "typ": "Stadt",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/neckarsulm/",
+    "webseite": "http://www.neckarsulm.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neckartailfingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.staatsanzeiger.de/kommunen/neckartailfingen/",
+    "webseite": "http://www.neckartailfingen.de/",
+    "bundesland": "Baden-Württemberg",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/vereinsliste/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Vernissage",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/vernissage",
+        "score": 20
+      },
+      {
+        "titel": "Kinderfest",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/kinderfest",
+        "score": 20
+      },
+      {
+        "titel": "Postkarten",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/postkarten",
+        "score": 20
+      },
+      {
+        "titel": "Naherholungsgebiet Aileswasen",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/naherholungsgebiet-aileswasen/das-naturerholungsgebiet",
+        "score": 20
+      },
+      {
+        "titel": "Benutzungsordnung",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/naherholungsgebiet-aileswasen/benutzungsordnung",
+        "score": 20
+      },
+      {
+        "titel": "Wasserqualität",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/naherholungsgebiet-aileswasen/wasserqualitaet",
+        "score": 20
+      },
+      {
+        "titel": "Polizeiverordnung",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/naherholungsgebiet-aileswasen/polizeiverordnung",
+        "score": 20
+      },
+      {
+        "titel": "Hinweise für Hundehalter",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/naherholungsgebiet-aileswasen/hinweise-fuer-hundehalter",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/sehenswertes",
+        "score": 20
+      },
+      {
+        "titel": "Bücherregal im Rathaus",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/buecherregal-im-rathaus",
+        "score": 20
+      },
+      {
+        "titel": "Radtour & Neckartalradweg",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/radtour-neckartalradweg",
+        "score": 20
+      },
+      {
+        "titel": "Jakobsweg",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/jakobsweg",
+        "score": 20
+      },
+      {
+        "titel": "Grillstelle Burg Liebenau",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/grillstelle-burg-liebenau",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Unterkunftsmöglichkeiten",
+        "url": "https://www.neckartailfingen.de/freizeit-kultur/unterkunftsmoeglichkeiten",
+        "score": 20
+      }
+    ]
   }
 ]

@@ -9,14 +9,27 @@ const PLURAL_SEARCH_TERM = "vereine";
 const LOW_CONFIDENCE_SCORE = 10;
 const EXCLUDED_TITLE_OR_URL_TERMS = [
   "terminvereinbarung",
+  "förderverein",
+  "foerderverein",
+  "mütterverein",
+  "muetterverein",
   "turnhalle",
   "hallenbelegung",
+  "haus der vereine",
+  "hauptversammlung",
+  "vereins-news",
+  "vereinsraum",
+  "festakt",
+  "wanderwege",
+  "verein melden",
+  "vereins-challenges",
   "sicherheitskonzept",
   "förderrichtlinien",
   "foerderrichtlinien",
   "vermietung",
+  "vereine - termine",
 ];
-const EXCLUDED_URL_TERMS = ["event", "/veranstaltungen/"];
+const EXCLUDED_URL_TERMS = ["event", "/veranstaltungen/", "/veranstaltungskalender/"];
 
 const state = {
   rawData: [],
@@ -83,11 +96,46 @@ function hasExcludedTitleOrUrlTerm(title, url) {
   return EXCLUDED_TITLE_OR_URL_TERMS.some((term) => combinedText.includes(term));
 }
 
+function hasDateInTitle(title) {
+  const normalizedTitle = normalize(title);
+  const datePatterns = [
+    /\b\d{1,2}\.\d{1,2}\.(?:\d{2}|\d{4})?/,
+    /\b\d{4}-\d{1,2}-\d{1,2}\b/,
+    /\b\d{1,2}\s*(?:jan|januar|feb|februar|mär|maerz|märz|apr|april|mai|jun|juni|jul|juli|aug|august|sep|sept|september|okt|oktober|nov|november|dez|dezember)\s*\d{2,4}\b/,
+    /\b(?:montag|dienstag|mittwoch|donnerstag|freitag|samstag|sonntag)\b/,
+  ];
+
+  return datePatterns.some((pattern) => pattern.test(normalizedTitle));
+}
+
+function hasExcludedTitleOrUrlPattern(title, url) {
+  const combinedText = `${title ?? ""} ${url ?? ""}`.toLocaleLowerCase("de-DE");
+  return /\bverein[\s-]+(?:für|fuer)\b/.test(combinedText);
+}
+
+function hasExcludedTitlePattern(title) {
+  const normalizedTitle = normalize(title).trim();
+
+  if (!normalizedTitle || normalizedTitle === "kein titel" || normalizedTitle === "ohne titel") {
+    return true;
+  }
+
+  return (
+    hasDateInTitle(title) ||
+    /\bdes\s+.+\s+vereins\b/.test(normalizedTitle) ||
+    /(^|[^a-zäöüß])e\s*\.?\s*v\.?($|[^a-zäöüß])/.test(normalizedTitle)
+  );
+}
+
 function shouldExcludePage(page) {
   const url = page.url ?? "";
   const title = page.titel ?? "";
   const score = page.score;
-  const hasExclusion = hasExcludedUrlTerm(url) || hasExcludedTitleOrUrlTerm(title, url);
+  const hasExclusion =
+    hasExcludedUrlTerm(url) ||
+    hasExcludedTitleOrUrlTerm(title, url) ||
+    hasExcludedTitleOrUrlPattern(title, url) ||
+    hasExcludedTitlePattern(title);
 
   if (!hasExclusion) {
     return false;
@@ -111,8 +159,9 @@ function normalizeData(data) {
           titel_enthaelt_verein: Boolean(page.titel_enthaelt_verein ?? containsVerein(page.titel)),
         }))
         .sort((a, b) => {
-          if (a.titel_enthaelt_verein !== b.titel_enthaelt_verein) {
-            return a.titel_enthaelt_verein ? -1 : 1;
+          const scoreDifference = Number(b.score ?? 0) - Number(a.score ?? 0);
+          if (scoreDifference !== 0) {
+            return scoreDifference;
           }
 
           return (
