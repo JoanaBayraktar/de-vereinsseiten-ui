@@ -7260,5 +7260,3227 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Bruck i.d.OPf.",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11775362521",
+    "webseite": "http://www.bruck.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/unsere-vereine",
+        "score": 40
+      },
+      {
+        "titel": "Trachtenverein Enzian Bruck",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/unsere-vereine/trachtenverein-enzian-bruck",
+        "score": 40
+      },
+      {
+        "titel": "Heimat- und Bauernmuseumsverein Mappach",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/unsere-vereine/heimat-und-bauernmuseumsverein-mappach",
+        "score": 40
+      },
+      {
+        "titel": "Kultur- und Festspielverein Bruck in der Oberpfalz",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/unsere-vereine/kunst-und-festspielverein-bruck-in-der-oberpfalz",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/unsere-vereine/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit, Kultur, Tourismus",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/was-ist-los-in-bruck",
+        "score": 20
+      },
+      {
+        "titel": "Dorfheldentour 2024",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/was-ist-los-in-bruck/dorfheldentour-2024",
+        "score": 20
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/was-ist-los-in-bruck/weihnachtsmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/freizeit/marktbuecherei",
+        "score": 20
+      },
+      {
+        "titel": "Heimat- und Bauernmuseum",
+        "url": "https://www.markt-bruck.de/freizeit-kultur-tourismus/freizeit/heimat-und-bauernmuseum",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Bruckberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28553139521",
+    "webseite": "http://www.bruckberg.org",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bruckberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45330916521",
+    "webseite": "http://www.bruckberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "VereineAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Vereine.html",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus & FreizeitAlt+6",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "VeranstaltungenAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Veranstaltungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Ortsplan & FahrpläneAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Ortsplan-Fahrplaene.html",
+        "score": 10
+      },
+      {
+        "titel": "Regionale AusflugszieleAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Regionale-Ausflugsziele.html",
+        "score": 10
+      },
+      {
+        "titel": "SinnenwegAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Sinnenweg.html",
+        "score": 10
+      },
+      {
+        "titel": "Wander- und RadwegeAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Wander-und-Radwege.html",
+        "score": 10
+      },
+      {
+        "titel": "AusflugstippsAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Ausflugstipps.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & ÜbernachtungenAlt+",
+        "url": "https://www.bruckberg.de/Tourismus-Freizeit/Gastronomie-Uebernachtungen.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bruckmühl",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62108693521",
+    "webseite": "https://www.bruckmuehl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.bruckmuehl.de/bruckmuehl-erleben/freizeit-und-vereine/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Stadtmarketing",
+        "url": "https://www.bruckmuehl.de/bruckmuehl-erleben/freizeit-und-vereine/stadtmarketing",
+        "score": 30
+      },
+      {
+        "titel": "Bruckmühl App",
+        "url": "https://www.bruckmuehl.de/bruckmuehl-erleben/freizeit-und-vereine/bruckmuehl-app",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.bruckmuehl.de/bruckmuehl-erleben/freizeit-und-vereine/veranstaltungen",
+        "score": 30
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.bruckmuehl.de/bruckmuehl-erleben/freizeit-und-vereine/maerkte",
+        "score": 30
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.bruckmuehl.de/bruckmuehl-erleben/kunst-und-kultur/galerie-markt-bruckmuehl",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Brunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78886470521",
+    "webseite": "http://www.gemeinde-brunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit, Kultur und Tourismus",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitmöglichkeiten",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/freizeitmoeglichkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Radtouren",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/freizeitmoeglichkeiten/radtouren/",
+        "score": 20
+      },
+      {
+        "titel": "Wandertouren",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/freizeitmoeglichkeiten/wandertouren/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Quartiersuche",
+        "url": "https://www.gemeinde-brunn.de/freizeit-kultur-und-tourismus/tourismus/quartiersuche/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Brunnen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95664247521",
+    "webseite": "http://www.gemeindebrunnen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeindebrunnen.de/vereine-brunnen",
+        "score": 50
+      },
+      {
+        "titel": "Änderung Vereinsdaten",
+        "url": "https://www.gemeindebrunnen.de/aenderung-vereinsdaten",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Brunnthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12442024522",
+    "webseite": "https://www.brunnthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.brunnthal.de/kultur-freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.brunnthal.de/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Erwachsenenbildung",
+        "url": "https://www.brunnthal.de/kultur-freizeit/erwachsenenbildung/",
+        "score": 20
+      },
+      {
+        "titel": "Musikhaus Brunnthal",
+        "url": "https://www.brunnthal.de/kultur-freizeit/musikhaus-brunnthal/",
+        "score": 20
+      },
+      {
+        "titel": "Musikschule Brunnthal",
+        "url": "https://www.brunnthal.de/kultur-freizeit/musikschule-brunnthal/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Bubenreuth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29219801522",
+    "webseite": "https://www.bubenreuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bubesheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45997578522",
+    "webseite": "http://www.bubesheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Gäste",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Freizeittipps",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/freizeittipps/legoland",
+        "score": 10
+      },
+      {
+        "titel": "Kino",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/freizeittipps/kino",
+        "score": 10
+      },
+      {
+        "titel": "Baden & Wellnes",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/freizeittipps/baden-wellnes",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerhaus",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/buergerhaus",
+        "score": 10
+      },
+      {
+        "titel": "14MaiDonnerstagVatertagsfestWer: Blasorchester KötzWo: Günzhallenparkplatz Großkötz",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/veranstaltungskalender/468/vatertagsfest",
+        "score": 10
+      },
+      {
+        "titel": "16MaiSamstagPfarrjubiläum Herr VoggWer: Pfarrgemeinde",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/veranstaltungskalender/422/pfarrjubilaeum-herr-vogg",
+        "score": 10
+      },
+      {
+        "titel": "29MaiFreitagSpeedertreffenWer: Modellfluggruppe",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/veranstaltungskalender/423/speedertreffen",
+        "score": 10
+      },
+      {
+        "titel": "04JunDonnerstagFronleichnam",
+        "url": "https://www.bubesheim.de/freizeit-gaeste/veranstaltungskalender/424/fronleichnam",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buch",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62775355522",
+    "webseite": "http://www.markt-buch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.markt-buch.de/vereine-und-organisationen",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-buch.de/vereine-buch",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Buch a.Buchrain",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79553132522",
+    "webseite": "https://www.buchambuchrain.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bürgerinformation – Kostenlose Rentenberatung im LRA Erding\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tKostenlose Rentenberatung im Landratsamt Erding – jeden 2. Montag im Monat Bitte vereinbaren Sie einen Termin unter: 0800 1000 48015 Hier finden Sie das Informationsblatt...\t\t\t\t\t\n\t\t\t\t\t                    \n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tweiterlesen",
+        "url": "https://buchambuchrain.de/buergerinformation-kostenlose-rentenberatung-im-lra-erding/",
+        "score": 10
+      },
+      {
+        "titel": "Bürgermeistersprechstunde\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tDie Bürgermeistersprechstunde des ersten Bürgermeisters findet jeden zweiten Donnerstag im Monat von 18.15 Uhr bis 19.00 Uhr im Gemeindehaus in Buch a.Buchrain statt. Terminvereinbarungen sind...\t\t\t\t\t\n\t\t\t\t\t                    \n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tweiterlesen",
+        "url": "https://buchambuchrain.de/buergermeistersprechstunde/",
+        "score": 10
+      },
+      {
+        "titel": "Münchener Familienpass 2026\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tMünchner Familienpass 2026 – Freizeitspaß zum kleinen Preis für die ganze Familie Der Münchner Familienpass...\t\t\t\t\t\n\t\t\t\t\t                    \n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tweiterlesen",
+        "url": "https://buchambuchrain.de/muenchener-familienpass-2026/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buch a.Erlbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96330909522",
+    "webseite": "http://www.buch-am-erlbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.buch-am-erlbach.de/erleben/vereine/ehrenamtskarte",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.buch-am-erlbach.de/erleben/veranstaltungen/feste-und-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.buch-am-erlbach.de/erleben/freizeit-und-sport/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "13.04.2026\n                            Anmeldung für Mitwirkende am Weihnachtsmarkt 2026 …\n                        \n                            \n                                    Am 28. und 29. November 2026 (1. Adventswochenende) organisiert der Kultur- und…\n                                \n                        \n                            Mehr lesen",
+        "url": "https://www.buch-am-erlbach.de/nachrichten/artikel/anmeldung-fuer-mitwirkende-am-weihnachtsmarkt-2026-in-buch",
+        "score": 10
+      },
+      {
+        "titel": "10.04.2026\n                            Anmeldung für Mitwirkende zum 5. Bucher Dorffest e…\n                        \n                            \n                                    Der Kultur- und Festausschuss der Gemeinde Buch lädt herzlich zur 1.…\n                                \n                        \n                            Mehr lesen",
+        "url": "https://www.buch-am-erlbach.de/nachrichten/artikel/anmeldung-fuer-mitwirkende-zum-5-bucher-dorffest-erbeten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buch a.Wald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13108686523",
+    "webseite": "http://www.buchamwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Buchbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29886463523",
+    "webseite": "http://www.buchbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Buchbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46664240523",
+    "webseite": "http://www.buchbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Einrichtungen & Vereine",
+        "url": "https://www.buchbrunn.de/vereine--einrichtungen/vereine-und-gruppen/index.php",
+        "score": 50
+      },
+      {
+        "titel": "Einrichtungen",
+        "url": "https://www.buchbrunn.de/vereine--einrichtungen/einrichtungen/index.php",
+        "score": 50
+      },
+      {
+        "titel": "Gewerbe",
+        "url": "https://www.buchbrunn.de/vereine--einrichtungen/gewerbe/index.php",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.buchbrunn.de/tourismus/index.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buchdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63442017523",
+    "webseite": "http://www.gemeinde-buchdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Buchenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96997571523",
+    "webseite": "http://www.buchenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.buchenberg.de/leben-wohnen/vereine/auflistung",
+        "score": 50
+      },
+      {
+        "titel": "Fit im Verein",
+        "url": "https://www.buchenberg.de/leben-wohnen/vereine/fit-im-verein",
+        "score": 50
+      },
+      {
+        "titel": "Führungszeugnis für Vereine",
+        "url": "https://www.buchenberg.de/leben-wohnen/vereine/fuehrungszeugnis-fuer-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/oeffnungszeiten-anfahrt",
+        "score": 10
+      },
+      {
+        "titel": "ALLGÄU-WALSER-PASS – dein digitaler Urlaubsbegleiter",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/allgaeu-walser-pass-dein-digitaler-urlaubsbegleiter",
+        "score": 10
+      },
+      {
+        "titel": "MOBIL PASS ALLGÄU",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/mobil-pass-allgaeu",
+        "score": 10
+      },
+      {
+        "titel": "DAHEIM PASS",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/daheim-pass",
+        "score": 10
+      },
+      {
+        "titel": "Folgt dem Weg des Wassers",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/folgt-dem-weg-des-wassers",
+        "score": 10
+      },
+      {
+        "titel": "Prospektanforderung",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/prospektanforderung",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/wohnmobilstellplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Busverbindung",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/busverbindung",
+        "score": 10
+      },
+      {
+        "titel": "Parkgebühren",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/parkgebuehren",
+        "score": 10
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/heimatmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Panorama Bikepark Eschach",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/panorama-bikepark-eschach",
+        "score": 10
+      },
+      {
+        "titel": "Sommer",
+        "url": "https://www.buchenberg.de/tourismus-freizeit/sommer",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buchhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13775348524",
+    "webseite": "https://www.gemeinde-buchhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Neuer Vereinskalender 2026 verfügbar\n                        \n                            Stand 16.04.2026",
+        "url": "https://www.gemeinde-buchhofen.de/aktuelle-meldungen/neuer-vereinskalender-2026-verfuegbar/",
+        "score": 30
+      },
+      {
+        "titel": "Vereine in Buchhofen\n                                \n                                                            Vereine in Niederbayern",
+        "url": "https://buchhofen.dahoam-in-niederbayern.de/vereine/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Buchloe",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13442367448",
+    "webseite": "https://www.buchloe.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine der Stadtteile Honsolgen und Hausen",
+        "url": "https://www.buchloe.de/freizeit-tourismus/vereine/vereine-der-stadtteile-honsolgen-und-hausen/",
+        "score": 60
+      },
+      {
+        "titel": "Vereine des Stadtteils Lindenberg",
+        "url": "https://www.buchloe.de/freizeit-tourismus/vereine/vereine-des-stadtteils-lindenberg/",
+        "score": 60
+      },
+      {
+        "titel": "Kulturportal Ostallgäu",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/kulturportal-ostallgaeu/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n                \n            \n        \n            Inspirationen am Frühstückstisch",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/detail/inspirationen-am-fruehstueckstisch/",
+        "score": 10
+      },
+      {
+        "titel": "Sa., 09.05.2026\n                    \n                \n            \n                \n            \n        \n            Musikschul-Schnuppertag",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/detail/musikschul-schnuppertag/",
+        "score": 10
+      },
+      {
+        "titel": "Di., 12.05.2026\n                    \n                \n            \n                \n            \n        \n            Tanznachmittag in der Alp Villa",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/detail/tanznachmittag-in-der-alp-villa-1/",
+        "score": 10
+      },
+      {
+        "titel": "Land & Leute in Buchloe",
+        "url": "https://www.buchloe.de/freizeit-tourismus/land-leute-in-buchloe/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienfreizeit",
+        "url": "https://www.buchloe.de/bildung-betreuung/jugendeinrichtungen-ferien/ferienfreizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/veranstaltung-melden/",
+        "score": 10
+      },
+      {
+        "titel": "Wissenswertes",
+        "url": "https://www.buchloe.de/freizeit-tourismus/veranstaltungen/wissenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Buchloer Sommer im Park 2026",
+        "url": "https://www.buchloe.de/freizeit-tourismus/feste-und-maerkte/buchloer-sommer-im-park/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.buchloe.de/freizeit-tourismus/gastronomie/uebernachtungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buckenhof",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47330902524",
+    "webseite": "http://www.buckenhof.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Wandern und mehr in und um Buckenhof",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/feuerwehr/",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten/Säle/Spielstätten",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/sportstaetten-saele-spielstaetten/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturbühne",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/kulturbuehne/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/gastronomie-und-uebernachtung/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://buckenhof.vg-uttenreuth.de/kultur-freizeit/sehenswuerdigkeiten/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Büchenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80219794523",
+    "webseite": "http://www.buechenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Büchlberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30553125524",
+    "webseite": "https://www.buechlberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bürgstadt",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65442003526",
+    "webseite": "http://www.buergstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.buergstadt.de/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Weinkulturnacht",
+        "url": "https://www.buergstadt.de/freizeit-tourismus/maerkte-feste/weinkulturnacht/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.buergstadt.de/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Josefsmarkt",
+        "url": "https://www.buergstadt.de/freizeit-tourismus/maerkte-feste/josefsmarkt/",
+        "score": 10
+      },
+      {
+        "titel": "Kerbemarkt",
+        "url": "https://www.buergstadt.de/freizeit-tourismus/maerkte-feste/kerbemarkt/",
+        "score": 10
+      },
+      {
+        "titel": "Churfranken.de",
+        "url": "https://churfranken.de/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gäste-Info Bürgstadt",
+        "url": "https://gaeste-info-buergstadt.de/index.php/de/",
+        "score": 10
+      },
+      {
+        "titel": "Bayerische Bierkönigin 2016/2017",
+        "url": "https://www.buergstadt.de/freizeit-tourismus/tourismus/bayerische-bierkoenigin-20162017/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.buergstadt.de/gemeinde/gemeindliche-einrichtungen/spielplaetze/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bütthard",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99664219527",
+    "webseite": "http://www.buetthard.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.buetthard.de/seite/bh/markt/04/WB/Herzlich_Willkommen.html",
+        "score": 20
+      },
+      {
+        "titel": "Touristik. Kultur & Freizeit",
+        "url": "https://www.buetthard.de/seite/bh/markt/02:1337:1341/tn_1337/Touristik_Kultur_und_Freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Touristik. Kultur & Freizeit",
+        "url": "https://www.buetthard.de/seite/bh/markt/04:1337:1341/-/Touristik_Kultur_und_Freizeit.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.buetthard.de/seite/bh/markt/02:1337:3643/tn_1337/Vereinsnachrichten.html",
+        "score": 10
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.buetthard.de/seite/bh/markt/04:1337:3643/-/Vereinsnachrichten.html",
+        "score": 10
+      },
+      {
+        "titel": "Fr�hjahrskonzert Musikverein Frankonia",
+        "url": "https://www.buetthard.de/kalender/bh/markt/-/6486_10424/calendar_show_details",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Bundorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64108679524",
+    "webseite": "http://www.bundorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Burgau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96664590447",
+    "webseite": "https://www.burgau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.burgau.de/Freizeit-Kultur",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen &Termine",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Veranstaltungen-Termine",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen & Termine im Überblick",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Veranstaltungen-Termine/ueberblick",
+        "score": 20
+      },
+      {
+        "titel": "Kultur in der Kapuziner-Halle",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Kapuziner-Halle",
+        "score": 20
+      },
+      {
+        "titel": "Feste & Feiern",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Veranstaltungen-Termine/Feste-Feiern",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Blockhausturm",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Blockhausturm",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Kirchen",
+        "score": 20
+      },
+      {
+        "titel": "Kapellen",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Kapellen",
+        "score": 20
+      },
+      {
+        "titel": "Stadt- & Turmführungen",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Stadt-Turmfuehrungen",
+        "score": 20
+      },
+      {
+        "titel": "Städtisches Museum",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Museum",
+        "score": 20
+      },
+      {
+        "titel": "Marienbrunnen",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Marienbrunnen",
+        "score": 20
+      },
+      {
+        "titel": "Burgauer Treppen",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Sehenswuerdigkeiten/Treppen",
+        "score": 20
+      },
+      {
+        "titel": "Freibad Burgau",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Freizeittipps/Freibad",
+        "score": 20
+      },
+      {
+        "titel": "Eisstadion Burgau",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Freizeittipps/Eisstadion",
+        "score": 20
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.burgau.de/Freizeit-Kultur/Freizeittipps/Radfahren",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgberg i.Allgäu",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80886456524",
+    "webseite": "https://www.gemeinde-burgberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-burgberg.de/unser-dorfleben/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Burgbernheim",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60442388443",
+    "webseite": "http://www.burgbernheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Soziale Vereinigungen",
+        "url": "https://www.burgbernheim.de/sozialvereine/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgebrach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97664233524",
+    "webseite": "http://www.burgebrach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Burggen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14442010525",
+    "webseite": "http://www.burggen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burggen.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.burggen.de/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Wappen",
+        "url": "https://www.burggen.de/kultur/wappen-1",
+        "score": 10
+      },
+      {
+        "titel": "Wandern und Radeln",
+        "url": "https://www.burggen.de/freizeit/wandern-und-radeln",
+        "score": 10
+      },
+      {
+        "titel": "Anfahrt",
+        "url": "https://www.burggen.de/freizeit/anfahrt",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte & Kultur",
+        "url": "https://www.burggen.de/kultur/geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Historisches Fenster",
+        "url": "https://www.burggen.de/kultur/historisches-fenster/alle-historischen-fenster",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen & Kapellen",
+        "url": "https://www.burggen.de/kultur/kirchen-kapellen",
+        "score": 10
+      },
+      {
+        "titel": "Ensemble St. Anna Strasse",
+        "url": "https://www.burggen.de/kultur/st-anna-strasse",
+        "score": 10
+      },
+      {
+        "titel": "Dorfkulturtage 2003",
+        "url": "https://www.burggen.de/kultur/dorfkulturtage-2003",
+        "score": 10
+      },
+      {
+        "titel": "Berichte zu den Dorfkulturtagen",
+        "url": "https://www.burggen.de/kultur/dorfkulturtage-2003/berichte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burghaslach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31219787525",
+    "webseite": "https://www.burghaslach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.burghaslach.de/erleben/freizeit-vereine/vereinsregister",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.burghaslach.de/erleben/freizeit-vereine/freibad",
+        "score": 30
+      },
+      {
+        "titel": "Sportzentrum",
+        "url": "https://www.burghaslach.de/erleben/freizeit-vereine/sportzentrum",
+        "score": 30
+      },
+      {
+        "titel": "Erlebnispfade",
+        "url": "https://www.burghaslach.de/erleben/naherholung-kultur/erlebnispfade",
+        "score": 10
+      },
+      {
+        "titel": "Kulturangebote",
+        "url": "https://www.burghaslach.de/erleben/naherholung-kultur/kulturangebote",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burghausen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74553517439",
+    "webseite": "http://www.burghausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Verbände A-Z",
+        "url": "https://www.burghausen.de/leben/ehrenamt-vereine/vereine-verbaende-a-z/",
+        "score": 50
+      },
+      {
+        "titel": "Sportarten, Sportstätten und Vereine",
+        "url": "https://www.burghausen.de/leben/sport-und-freizeitangebote/sportarten-sportstaetten-und-vereine/",
+        "score": 30
+      },
+      {
+        "titel": "Freie Szene/Kulturvereine",
+        "url": "https://www.burghausen.de/kultur/kulturstadt-burghausen/kulturvereine/",
+        "score": 30
+      },
+      {
+        "titel": "Ehrenamt und Vereine",
+        "url": "https://www.burghausen.de/leben/ehrenamt-und-vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Bürgerinsel",
+        "url": "https://www.burghausen.de/leben/ehrenamt-vereine/buergerinsel/",
+        "score": 20
+      },
+      {
+        "titel": "Deutscher Alpenverein Burghausen",
+        "url": "https://www.burghausen.de/leben/ehrenamt-vereine/deutscher-alpenverein-burghausen/",
+        "score": 20
+      },
+      {
+        "titel": "Ausstellungen regionaler Künstler, Ausstellungsorte, Kunstvereine",
+        "url": "https://www.burghausen.de/kunst/kunst-allgemein/ausstellungen-regionaler-kuenstler-ausstellungsorte-kunstvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Gewerbeverband Burghausen",
+        "url": "https://www.burghausen.de/wirtschaft/wirtschaftsfoerderung/gesellschaften-verbaende-und-vereine/gewerbeverband-burghausen/",
+        "score": 20
+      },
+      {
+        "titel": "IG Altstadt",
+        "url": "https://www.burghausen.de/wirtschaft/wirtschaftsfoerderung/gesellschaften-verbaende-und-vereine/ig-altstadt/",
+        "score": 20
+      },
+      {
+        "titel": "Werbering",
+        "url": "https://www.burghausen.de/wirtschaft/wirtschaftsfoerderung/gesellschaften-verbaende-und-vereine/werbering/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47997564525",
+    "webseite": "https://www.burgheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Leitfaden Vereinsfeiern\n\nDie Bayerische Staatskanzlei hat einen Leitfaden für Vereinsfeiern veröffentlicht, der Fragen rund um die Veranstaltung von Vereinsfeiern beantwortet. Er bietet einen Überblick über die richtige Organisation und sichere Durchführung von Vereinsfeiern und soll dadurch die Arbeit der Ehrenamtlichen spürbar erleichtern.",
+        "url": "https://www.bayern.de/buergerservice/vereinsfeiern/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Burgkirchen a.d.Alz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64775341525",
+    "webseite": "https://www.burgkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Burgkunstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44331273444",
+    "webseite": "http://www.burgkunstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultursonntag - KLASSIK TRIFFT TANGO",
+        "url": "https://www.burgkunstadt.eu/kalender/de/cms0605202615154439520335/-/1714_2823/calendar_show_details",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burglauer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81553118525",
+    "webseite": "http://www.burglauer.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burglauer.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.burglauer.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.burglauer.de/freizeit-tourismus/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Karam Pizza",
+        "url": "https://www.burglauer.de/freizeit-tourismus/gaststaetten/karam-pizza",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradwege & Wanderwege",
+        "url": "https://www.burglauer.de/freizeit-tourismus/fahrradwege-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Höhberg",
+        "url": "https://www.burglauer.de/freizeit-tourismus/hoehberg",
+        "score": 10
+      },
+      {
+        "titel": "Dorfplatz",
+        "url": "https://www.burglauer.de/freizeit-tourismus/dorfplatz",
+        "score": 10
+      },
+      {
+        "titel": "Naherholungsgebiet \"Hohnwiese\"",
+        "url": "https://www.burglauer.de/freizeit-tourismus/naherholungsgebiet-hohnwiese",
+        "score": 10
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.burglauer.de/freizeit-tourismus/sport",
+        "score": 10
+      },
+      {
+        "titel": "Obstpresse",
+        "url": "https://www.burglauer.de/freizeit-tourismus/obstpresse",
+        "score": 10
+      },
+      {
+        "titel": "Politiker Derbläggn",
+        "url": "https://www.burglauer.de/freizeit-tourismus/politiker-derblaeggn",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burglengenfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95997928446",
+    "webseite": "https://www.burglengenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/vereine/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "21.07. - 23.07.140-jähriges Gründungsfest Burschenverein \"3-Rosen Pirkensee\"",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/veranstaltungen/veranstaltung/140-jaehriges-gruendungsfest-burschenverein-3-rosen-pirkensee/2028-07-21?cHash=9795555f2e1dcff985337457822c534f",
+        "score": 30
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Feste und Märkte",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/feste-und-maerkte",
+        "score": 20
+      },
+      {
+        "titel": "Adventsmarkt",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/feste-und-maerkte/adventsmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Burg",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/burg",
+        "score": 20
+      },
+      {
+        "titel": "Stadthalle im Naabtalpark",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/kulturelle-einrichtungen/stadthalle-im-naabalpark",
+        "score": 20
+      },
+      {
+        "titel": "Kulturelle Einrichtungen",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/kulturelle-einrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Kino",
+        "url": "https://www.burglengenfeld.de/freizeit-tourismus/kunst-und-kultur/kino",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgoberbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98330895525",
+    "webseite": "https://www.burgoberbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burgoberbach.de/de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit/Natur",
+        "url": "https://www.burgoberbach.de/de/kultur/bluehende-landschaft/allgemeines",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.burgoberbach.de/index.php?id=361",
+        "score": 20
+      },
+      {
+        "titel": "Verleih von ...",
+        "url": "https://www.burgoberbach.de/de/freizeit/verleih",
+        "score": 10
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.burgoberbach.de/de/kultur/bluehende-landschaft/aktuelles",
+        "score": 10
+      },
+      {
+        "titel": "Hortus Insectrorum",
+        "url": "https://www.burgoberbach.de/de/kultur/bluehende-landschaft/hortus-insectrorum",
+        "score": 10
+      },
+      {
+        "titel": "Kontakt",
+        "url": "https://www.burgoberbach.de/de/kultur/bluehende-landschaft/kontakt",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitspaß",
+        "url": "https://www.burgoberbach.de/de/freizeit/spass-sport/beachvolleyball-niederoberbach",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.burgoberbach.de/de/freizeit/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Klassenzimmer im Grünen",
+        "url": "https://www.burgoberbach.de/de/kultur/klassenzimmer-im-gruenen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.burgoberbach.de/de/freizeit/veranstaltungen/leonhardi-ritt",
+        "score": 10
+      },
+      {
+        "titel": "Termine",
+        "url": "https://www.burgoberbach.de/de/freizeit/veranstaltungen/termine",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.burgoberbach.de/de/kultur/bibelweg",
+        "score": 10
+      },
+      {
+        "titel": "Entstehung",
+        "url": "https://www.burgoberbach.de/de/kultur/bibelweg/entstehung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burgpreppach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15108672526",
+    "webseite": "http://www.burgpreppach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ortsteile und Vereine",
+        "url": "https://www.burgpreppach.de/gemeindeleben/ortsteile-vereine/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgsalach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31886449526",
+    "webseite": "http://www.burgsalach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burgsalach.de/leben/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Förderverein Kunterbunt e.V.",
+        "url": "https://www.burgsalach.de/leben/foerdervereinkunterbunt/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Urlaub",
+        "url": "https://www.burgsalach.de/freizeit-urlaub/",
+        "score": 10
+      },
+      {
+        "titel": "Direktvermarkter",
+        "url": "https://www.burgsalach.de/freizeit-urlaub/direktvermarkter/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.burgsalach.de/freizeit-urlaub/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Burgus, Römer & Limes",
+        "url": "https://www.burgsalach.de/freizeit-urlaub/burgus-roemer-limes/",
+        "score": 10
+      },
+      {
+        "titel": "Urlaubsregion",
+        "url": "https://www.burgsalach.de/freizeit-urlaub/urlaubsregion/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.burgsalach.de/freizeit-urlaub/uebernachtung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burgsinn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48664226526",
+    "webseite": "http://www.burgsinn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://vgem-burgsinn.de/mspbranche/vg/cms0605202615163520132332/-/-/branche_searchresult",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgthann",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82219780526",
+    "webseite": "https://burgthann.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Kultur",
+        "url": "https://burgthann.de/aktuelles/alles-auf-einen-blick/veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturkreis Burgthann",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/kulturkreis-burgthann/",
+        "score": 20
+      },
+      {
+        "titel": "Haus der Musik",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/haus-der-musik/",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/unterkuenfte/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Heiraten in Burgthann",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/heiraten-in-burgthann/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchweihen",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/kirchweihen/",
+        "score": 20
+      },
+      {
+        "titel": "Eppelein-Festspiel",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/eppelein-festspiel/",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/museen/",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/spielplaetze/",
+        "score": 20
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/wohnmobilstellplaetze/",
+        "score": 20
+      },
+      {
+        "titel": "Tag der Regionen",
+        "url": "https://burgthann.de/leben/freizeit-und-kultur/tag-der-regionen/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burgwindheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98997557526",
+    "webseite": "https://www.burgwindheim.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Burk",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15775334527",
+    "webseite": "http://www.gemeinde-burk.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/vereinsliste/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/veranstaltungen/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Badespass",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/badespass",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/sehenswertes",
+        "score": 20
+      },
+      {
+        "titel": "Rad & Wanderweg",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/rad-wanderweg",
+        "score": 20
+      },
+      {
+        "titel": "Übernachtung & Gastronomie",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/uebernachtung-gastronomie/uebernachtungen",
+        "score": 20
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/uebernachtung-gastronomie/grillplatz",
+        "score": 20
+      },
+      {
+        "titel": "Anzeigepflicht von VeranstaltungenWichtiger Hinweis für alle Vereine, Organisationen und Veranstalter",
+        "url": "https://www.gemeinde-burk.de/rathaus-service/aktuelles-/-presse/90/anzeigepflicht-von-veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "06MaiGemeinderatssitzungorganiserGemeinde BurkplaceRathaus Burk - SitzungssaalUhrzeit18:00 Uhr                                                                            bis 21:00 Uhr",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/veranstaltungen/253/gemeinderatssitzung",
+        "score": 20
+      },
+      {
+        "titel": "06MaiKonzert Frühlingserwachenorganiserev. Kirchengemeinde BurkplaceSt. Michaelskirche BurkUhrzeit19:30 Uhr",
+        "url": "https://www.gemeinde-burk.de/kultur-freizeit/veranstaltungen/259/konzert-fruehlingserwachen",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Burkardroth",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32553111527",
+    "webseite": "http://www.Burkardroth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burkardroth.de/freizeit-bildung/frezeit/index.html",
+        "score": 30
+      },
+      {
+        "titel": "Kultur, Freizeit & Bildung",
+        "url": "https://www.burkardroth.de/freizeit-bildung/index.html",
+        "score": 20
+      },
+      {
+        "titel": "Fremdenverkehrsvereine",
+        "url": "https://www.burkardroth.de/tourismus/fremdenverkehrsvereine/index.html",
+        "score": 20
+      },
+      {
+        "titel": "Kindergärten",
+        "url": "https://www.burkardroth.de/freizeit-bildung/kindergarten/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Grundschule",
+        "url": "https://www.burkardroth.de/freizeit-bildung/grundschule/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Mittelschule Burkardroth",
+        "url": "https://www.burkardroth.de/freizeit-bildung/schule/index.html",
+        "score": 10
+      },
+      {
+        "titel": "VHS",
+        "url": "https://www.burkardroth.de/freizeit-bildung/vhs/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Pfarreiengemeinschaft",
+        "url": "https://www.burkardroth.de/freizeit-bildung/pfarreiengemeinschaft/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.burkardroth.de/freizeit-bildung/buecherei/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.burkardroth.de/freizeit-bildung/veranstaltungskalender/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Jugend",
+        "url": "https://www.burkardroth.de/freizeit-bildung/jugend/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Burtenbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49330888527",
+    "webseite": "https://www.burtenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burtenbach.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereine Burtenbach",
+        "url": "https://www.burtenbach.de/vereine/vereine-burtenbach",
+        "score": 50
+      },
+      {
+        "titel": "Vereine Kemnat",
+        "url": "https://www.burtenbach.de/vereine/vereine-kemnat",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Kultur",
+        "url": "https://www.burtenbach.de/freizeit-und-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.burtenbach.de/freizeit-und-kultur/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Kulturelle Einrichtungen",
+        "url": "https://www.burtenbach.de/freizeit-und-kultur/kulturelle-einrichtungen",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Buttenheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66108665527",
+    "webseite": "https://www.buttenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine für Kinder und Jugendliche",
+        "url": "https://www.buttenheim.de/leben/angebote-fuer-kinder-jugendliche/vereine-fuer-kinder-und-jugendliche",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsadresse melden",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/vereinsadresse-melden/login/-out",
+        "score": 40
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/vereinsadresse-melden/registrieren",
+        "score": 40
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/feste-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Hotels",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/hotel-gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/ausflugsziele",
+        "score": 10
+      },
+      {
+        "titel": "Levi Strauss Museum",
+        "url": "https://www.buttenheim.de/freizeit-tourismus/levi-strauss-museum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Buttenwiesen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82886442527",
+    "webseite": "https://www.buttenwiesen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Buxheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16441996528",
+    "webseite": "http://www.buxheim.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Buxheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33219773528",
+    "webseite": "http://www.buxheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Organisationen",
+        "url": "https://www.buxheim.de/oeffentliches-leben/vereine-und-organisationen",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.buxheim.de/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte und Entwicklung",
+        "url": "https://www.buxheim.de/kultur/geschichte-und-entwicklung",
+        "score": 10
+      },
+      {
+        "titel": "Brunogarten",
+        "url": "https://www.buxheim.de/kultur/brunogarten",
+        "score": 10
+      },
+      {
+        "titel": "Sommerkino",
+        "url": "https://www.buxheim.de/kultur/sommerkino",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.buxheim.de/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.buxheim.de/sport-und-freizeit/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.buxheim.de/sport-und-freizeit/rad-und-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Die Buxheimer Weiher",
+        "url": "https://www.buxheim.de/sport-und-freizeit/die-buxheimer-weiher",
+        "score": 10
+      },
+      {
+        "titel": "Walderlebnispfad",
+        "url": "https://www.buxheim.de/sport-und-freizeit/walderlebnispfad",
+        "score": 10
+      },
+      {
+        "titel": "Kneipp Tretanlagen",
+        "url": "https://www.buxheim.de/sport-und-freizeit/kneipp-tretanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Sport- und Spielplätze",
+        "url": "https://www.buxheim.de/sport-und-freizeit/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Skateplatz",
+        "url": "https://www.buxheim.de/sport-und-freizeit/skateplatz",
+        "score": 10
+      },
+      {
+        "titel": "Grillplatz",
+        "url": "https://www.buxheim.de/sport-und-freizeit/grillplatz",
+        "score": 10
+      },
+      {
+        "titel": "Bootsverleih",
+        "url": "https://www.buxheim.de/sport-und-freizeit/bootsverleih",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Cadolzburg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49997550528",
+    "webseite": "https://www.cadolzburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur im Bürgerhaus",
+        "url": "https://www.cadolzburg.de/kultur-freizeit/kultur-im-buergerhaus",
+        "score": 20
+      },
+      {
+        "titel": "In Cadolzburg",
+        "url": "https://www.cadolzburg.de/kultur-freizeit/kultur/in-cadolzburg",
+        "score": 20
+      },
+      {
+        "titel": "Kulturamt",
+        "url": "https://www.cadolzburg.de/kultur-freizeit/kultur/kulturamt",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie und Unterkünfte",
+        "url": "https://www.cadolzburg.de/kultur-freizeit/freizeit-erholung/gastronomie-und-unterkuenfte",
+        "score": 20
+      },
+      {
+        "titel": "Sport- und Freizeiteinrichtungen",
+        "url": "https://www.cadolzburg.de/kultur-freizeit/freizeit-erholung/sport-und-freizeiteinrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Kletterwald",
+        "url": "https://www.cadolzburg.de/kultur-freizeit/freizeit-erholung/kletterwald",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Castell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66775327528",
+    "webseite": "http://www.castell-gemeinde.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Cham",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93997942443",
+    "webseite": "https://www.cham.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Chamerau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83553104528",
+    "webseite": "https://www.chamerau.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.chamerau.de/freizeiterholung/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.chamerau.de/freizeiterholung/spielplaetze/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.chamerau.de/freizeiterholung/wanderwege/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Nordic Walking",
+        "url": "https://www.chamerau.de/freizeiterholung/nordicwalking/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.chamerau.de/freizeiterholung/radwege/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.chamerau.de/freizeiterholung/sportanlagen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://www.chamerau.de/freizeiterholung/angeln/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.chamerau.de/freizeiterholung/tourismus/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Chieming",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00330881529",
+    "webseite": "https://www.chieming.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.chieming.de/in-chieming-zuhause/senioren-und-menschen-mit-behinderung/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Kulturelles Chieming",
+        "url": "https://www.chieming.de/chieming-erleben/kulturelles-chieming/schloss-herrenchiemsee-unesco-weltkulturerbe",
+        "score": 10
+      },
+      {
+        "titel": "Chieming macht Musik",
+        "url": "https://www.chieming.de/chieming-erleben/kulturelles-chieming/chieming-macht-musik",
+        "score": 10
+      },
+      {
+        "titel": "Brauchtum und Tradition",
+        "url": "https://www.chieming.de/chieming-erleben/kulturelles-chieming/brauchtum-und-tradition",
+        "score": 10
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.chieming.de/chieming-erleben/kulturelles-chieming/kunst-und-kultur",
+        "score": 10
+      },
+      {
+        "titel": "Chiemings Historie",
+        "url": "https://www.chieming.de/chieming-erleben/kulturelles-chieming/chiemings-historie",
+        "score": 10
+      },
+      {
+        "titel": "Filmkulisse Chieming",
+        "url": "https://www.chieming.de/chieming-erleben/kulturelles-chieming/filmkulisse-chieming",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Chiemsee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17108658529",
+    "webseite": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/gemeinde-chiemsee/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/einrichtungen/vereine-1",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/einrichtungen/vereine-2",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Natur",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/segelhafen",
+        "score": 10
+      },
+      {
+        "titel": "Strandbad Stadl",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/strandbad-stadl",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/naturschutz",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-breitbrunn-achiemsee/freizeit-und-natur/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Natur",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/segelhafen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/naturschutz",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-gstadt-achiemsee/freizeit-und-natur/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Natur",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/freizeit-und-natur/verhalten-auf-und-am-see",
+        "score": 10
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.vg-breitbrunn.de/gemeinde-chiemsee/freizeit-und-natur/naturschutz",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Coburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56664870387",
+    "webseite": "https://www.coburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://www.coburg.de/rathaus-und-verwaltung/terminvereinbarung/termin-vereinbaren.php",
+        "score": 10
+      },
+      {
+        "titel": "HUK-COBURG open air sommer in der Kulturfabrik",
+        "url": "https://www.openairsommer.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Collenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33886435529",
+    "webseite": "http://www.collenberg-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "31. Mai 2026                            \n                        \n                        Heimatverein Collenberg e.V. - \"Backfest\"\n                            \nAusstellung \"Buntsandsteingeschichten\",  Alte Kirche Reistenhausen, Collenberg",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/veranstaltungen/heimatverein-collenberg-e-v-backfest/",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze / Sportanlagen",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/spielplaetze-sportanlagen/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/spielplaetze-sportanlagen/sportanlagen/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/uebernachtungsmoeglichkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Unternehmungen / Freizeitaktivitäten",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/unternehmungen-freizeitaktivitaeten/bogenschiessen-in-collenberg-und-der-region/",
+        "score": 10
+      },
+      {
+        "titel": "Mountainbike Touren",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/unternehmungen-freizeitaktivitaeten/mountainbike-touren/",
+        "score": 10
+      },
+      {
+        "titel": "Radwegtouren",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/unternehmungen-freizeitaktivitaeten/radwegtouren/",
+        "score": 10
+      },
+      {
+        "titel": "Wandertouren",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/unternehmungen-freizeitaktivitaeten/wandertouren/",
+        "score": 10
+      },
+      {
+        "titel": "Besichtigungstouren \"Traumhafte Schlösser und Burgen\"",
+        "url": "https://www.collenberg-main.de/freizeit-tourismus/unternehmungen-freizeitaktivitaeten/besichtigungstouren-traumhafte-schloesser-und-burgen/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://www.collenberg-main.de/kultur-geschichte/burgruine-kollenburg/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Colmberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50664212529",
+    "webseite": "http://www.colmberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Creußen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99997900452",
+    "webseite": "http://www.stadt-creussen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.stadt-creussen.de/creussen-erleben/vereinsleben/unsere-vereine",
+        "score": 40
+      },
+      {
+        "titel": "Vereinswiki",
+        "url": "https://www.stadt-creussen.de/creussen-erleben/vereinsleben/vereinswiki",
+        "score": 30
+      },
+      {
+        "titel": "Vereinsakademie",
+        "url": "https://www.stadt-creussen.de/creussen-erleben/vereinsleben/vereinsakademie",
+        "score": 30
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.stadt-creussen.de/creussen-erleben/vereinsleben/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.stadt-creussen.de/creussen-erleben/vereinsadresse-melden/registrieren",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Dachau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76553503442",
+    "webseite": "https://www.dachau.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://termine.dachau.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dachsbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67441989529",
+    "webseite": "http://www.dachsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Daiting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84219766529",
+    "webseite": "http://www.gemeinde-daiting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.daiting.eu/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Dammbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00997543530",
+    "webseite": "http://www.gemeinde-dammbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine der VG Mespelbrunn",
+        "url": "https://www.vgem-mespelbrunn.de/VGem-Mespelbrunn/Freizeit-Kultur/Vereine-der-VG-Mespelbrunn",
+        "score": 40
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Mespelbrunn/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Zuschussrichtlinien für Vereine/Verbände",
+        "url": "https://www.vgem-mespelbrunn.de/Mespelbrunn/Freizeit-Kultur/Zuschussrichtlinien-f%C3%BCr-Vereine-Verb%C3%A4nde",
+        "score": 40
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Dammbach/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Vereine der VG Mespelbrunn",
+        "url": "https://www.vgem-mespelbrunn.de/Dammbach/Freizeit-Kultur/Vereine-der-VG-Mespelbrunn",
+        "score": 40
+      },
+      {
+        "titel": "Zuschussrichtlinien für Vereine",
+        "url": "https://www.vgem-mespelbrunn.de/Dammbach/Freizeit-Kultur/Zuschussrichtlinien-f%C3%BCr-Vereine",
+        "score": 40
+      }
+    ]
+  },
+  {
+    "name": "Dasing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17775320530",
+    "webseite": "http://www.dasing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freibad Dasing",
+        "url": "https://www.dasing.de/leben-erleben/freizeit-kultur/freibad-dasing",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Deggendorf",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79220151446",
+    "webseite": "https://www.deggendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Deining",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34553097530",
+    "webseite": "http://www.deining.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Deiningen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51330874530",
+    "webseite": "http://www.deiningen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in Deiningen",
+        "url": "https://www.deiningen.de/index.php/lebenueberschrift/leben/vereine-in-deiningen",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Vergnügen",
+        "url": "https://www.deiningen.de/index.php/lebenueberschrift/leben/freizeit-vergnuegen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Deisenhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68108651530",
+    "webseite": "http://www.deisenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Denkendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84886428530",
+    "webseite": "http://www.gemeinde-denkendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-denkendorf.de/leben-wohnen/kultur-freizeit/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://gemeinde-denkendorf.de/leben-wohnen/kultur-freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://gemeinde-denkendorf.de/leben-wohnen/kultur-freizeit/veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://gemeinde-denkendorf.de/leben-wohnen/kultur-freizeit/ferienprogramm/",
+        "score": 20
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://gemeinde-denkendorf.de/leben-wohnen/kultur-freizeit/weihnachtsmarkt/",
+        "score": 20
+      },
+      {
+        "titel": "Faschingsumzug",
+        "url": "https://gemeinde-denkendorf.de/leben-wohnen/kultur-freizeit/faschingsumzug/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Denklingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01664205531",
+    "webseite": "http://www.denklingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Institutionen",
+        "url": "https://www.denklingen.de/kultur-soziales/vereine-institutionen/",
+        "score": 60
+      },
+      {
+        "titel": "Bürger- und Vereinszentrum",
+        "url": "https://www.denklingen.de/gemeinde-einrichtungen/buerger-und-vereinszentrum/",
+        "score": 30
+      },
+      {
+        "titel": "Epfach\n      Lebendige Kultur",
+        "url": "https://www.denklingen.de/kultur-soziales/museum/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur & Soziales",
+        "url": "https://www.denklingen.de/kultur-soziales/",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.denklingen.de/kultur-soziales/geschichte/",
+        "score": 10
+      },
+      {
+        "titel": "Städtepartnerschaft",
+        "url": "https://www.denklingen.de/kultur-soziales/staedtepartnerschaft/",
+        "score": 10
+      },
+      {
+        "titel": "Bildung & Erziehung",
+        "url": "https://www.denklingen.de/kultur-soziales/bildung-erziehung/",
+        "score": 10
+      },
+      {
+        "titel": "Gesundheit & Soziales",
+        "url": "https://www.denklingen.de/kultur-soziales/gesundheit-soziales/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.denklingen.de/kultur-soziales/buecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit Aktiv",
+        "url": "https://www.denklingen.de/tourismus/freizeit-aktiv/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dentlein a.Forst",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18441982531",
+    "webseite": "http://www.dentlein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Vereine.html",
+        "score": 30
+      },
+      {
+        "titel": "Leben & Freizeit",
+        "url": "https://www.dentlein.de/Leben-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Nachbarschaftshilfe",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Nachbarschaftshilfe.html",
+        "score": 10
+      },
+      {
+        "titel": "Kirche",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Kirche.html",
+        "score": 10
+      },
+      {
+        "titel": "Gesundheit",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Gesundheit.html",
+        "score": 10
+      },
+      {
+        "titel": "Heiraten in Dentlein am Forst",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Heiraten-in-Dentlein-am-Forst.html",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Buecherei.html",
+        "score": 10
+      },
+      {
+        "titel": "Links",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Links.html",
+        "score": 10
+      },
+      {
+        "titel": "Wirtschaft & Gewerbe",
+        "url": "https://www.dentlein.de/Leben-Freizeit/Wirtschaft-Gewerbe.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dettelbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61775712445",
+    "webseite": "https://www.dettelbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Deuerling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35219759531",
+    "webseite": "http://www.gemeinde-deuerling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit, Kultur und Tourismus",
+        "url": "https://www.gemeinde-deuerling.de/freizeit-kultur-und-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Rad-Wander-Weg im Tal der Schwarzen Laber",
+        "url": "https://www.gemeinde-deuerling.de/freizeit-kultur-und-tourismus/rad-wander-weg-im-tal-der-schwarzen-laber/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-deuerling.de/freizeit-kultur-und-tourismus/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Quartiersuche",
+        "url": "https://www.gemeinde-deuerling.de/freizeit-kultur-und-tourismus/tourismus/quartiersuche/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus im Landkreis",
+        "url": "https://www.gemeinde-deuerling.de/freizeit-kultur-und-tourismus/tourismus/freizeit-tourismus-im-landkreis/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Diebach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51997536531",
+    "webseite": "http://www.diebach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Diedorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68775313531",
+    "webseite": "https://www.markt-diedorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-diedorf.de/d/freizeit/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Unser Dienstleistungsangebot",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/kunstschule",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschulen",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/volkshochschulen",
+        "score": 10
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/buechereien",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Chronik",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/chronik",
+        "score": 10
+      },
+      {
+        "titel": "Markterhebung",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/markterhebung",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/kultur",
+        "score": 10
+      },
+      {
+        "titel": "Musik & Theater",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/musik-theater",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/museen",
+        "score": 10
+      },
+      {
+        "titel": "Partnerschaften",
+        "url": "https://www.markt-diedorf.de/d/leben/bildung-kultur/partnerschaften",
+        "score": 10
+      },
+      {
+        "titel": "Hier finden Sie zahlreiche Freizeitangebote",
+        "url": "https://www.markt-diedorf.de/d/freizeit/freizeit/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.markt-diedorf.de/d/freizeit/freizeit/sport",
+        "score": 10
+      },
+      {
+        "titel": "Belegungsplan",
+        "url": "https://www.markt-diedorf.de/d/freizeit/freizeit/belegungsplan",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.markt-diedorf.de/d/freizeit/freizeit/feuerwehr",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerhäuser",
+        "url": "https://www.markt-diedorf.de/d/freizeit/freizeit/buergerhaeuser",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Diespeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85553090531",
+    "webseite": "http://www.diespeck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.diespeck.de/freizeit-gastronomie/vereinsangebote",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Gastronomie",
+        "url": "https://www.diespeck.de/freizeit-gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Steigerwald Naturpark",
+        "url": "https://www.diespeck.de/freizeit-gastronomie/steigerwald-naturpark",
+        "score": 10
+      },
+      {
+        "titel": "Freilich",
+        "url": "https://www.diespeck.de/freizeit-gastronomie/freilich",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dießen am Ammersee",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02330867532",
+    "webseite": "http://www.diessen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sportlich unterwegs",
+        "url": "https://www.diessen.de/kultur-freizeit/sportlich-unterwegs/sporthallen-und-sportvereine",
+        "score": 40
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.diessen.de/in-diessen-zuhause/reges-vereinsleben/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    14\n                                                Förderverein Schacky-Park mit den Dießener Chören – Natur und Musik\n                                                                Schacky-Park, Vogelherdstraße, 86911 Dießen",
+        "url": "https://www.diessen.de/kultur-freizeit/veranstaltungen/veranstaltungskalender/veranstaltung/foerderverein-schacky-park-mit-den-diessener-choeren-natur-und-musik/2026-06-14?cHash=0d463aa464a6346f87f5bb53175d0a16",
+        "score": 30
+      },
+      {
+        "titel": "Kultur + Freizeit",
+        "url": "https://www.diessen.de/kultur-freizeit/veranstaltungen/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Diessener Töpfermarkt",
+        "url": "https://www.diessen.de/kultur-freizeit/veranstaltungen/diessener-toepfermarkt",
+        "score": 20
+      },
+      {
+        "titel": "Regionale Veranstaltungen",
+        "url": "https://www.diessen.de/kultur-freizeit/veranstaltungen/regionale-veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Kulturforum Blaues Haus",
+        "url": "https://www.diessen.de/kultur-freizeit/veranstaltungen/kulturforum-blaues-haus",
+        "score": 20
+      },
+      {
+        "titel": "Ausgezeichnetes Kino",
+        "url": "https://www.diessen.de/kultur-freizeit/veranstaltungen/ausgezeichnetes-kino",
+        "score": 20
+      },
+      {
+        "titel": "Kunst im Rathaus",
+        "url": "https://www.diessen.de/kultur-freizeit/kultur-geniessen/kunst-im-rathaus",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Dietenhofen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19108644532",
+    "webseite": "http://www.dietenhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dietersburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35886421532",
+    "webseite": "https://www.dietersburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://dietersburg.de/leben-in-dietersburg/freizeit-kultur/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://dietersburg.de/leben-in-dietersburg/freizeit-kultur/feuerwehren/",
+        "score": 20
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://dietersburg.de/leben-in-dietersburg/freizeit-kultur/buecherei/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://dietersburg.de/leben-in-dietersburg/freizeit-kultur/ferienprogramm/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://dietersburg.de/",
+        "score": 20
+      },
+      {
+        "titel": "Maibaumfest – Stockschützenverein Nöham e.V.",
+        "url": "https://dietersburg.de/veranstaltungen/maibaumfest-stockschuetzenverein-noeham-e-v/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dietersheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52664198532",
+    "webseite": "http://www.dietersheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Nov\n                                                \n                                                    27\n                                                Dietersheimer Vereine - Adventsabend",
+        "url": "https://www.dietersheim.de/veranstaltungen/veranstaltung/dietersheimer-vereine-adventsabend/2026-11-27?cHash=128c2f66fbf94541254374c8293cf627",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit gestalten",
+        "url": "https://www.dietersheim.de/leben-erleben/freizeit-gestalten/rad-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Mehrzweckhalle",
+        "url": "https://www.dietersheim.de/leben-erleben/freizeit-gestalten/mehrzweckhalle",
+        "score": 10
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    15\n                                                Krieger- und Militärverein - Gedenkfeier an den Kriegerdenkmälern",
+        "url": "https://www.dietersheim.de/veranstaltungen/veranstaltung/gedenkfeier-am-kriegerdenkmal/2026-11-15?cHash=9fe09b5e9855c923a10f2b0a024ad06c",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dieterskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69441975532",
+    "webseite": "http://www.dieterskirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dietfurt a.d.Altmühl",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63109036447",
+    "webseite": "https://www.dietfurt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.dietfurt.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Belegung und Reservierung",
+        "url": "https://www.dietfurt.de/vereine/belegung-reservierung/",
+        "score": 50
+      },
+      {
+        "titel": "Infos und Formulare für Vereine",
+        "url": "https://www.dietfurt.de/vereine/infos/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit von A bis Z",
+        "url": "https://www.dietfurt.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "China im Kulturhaus",
+        "url": "https://www.dietfurt.de/chinaimkulturhaus/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturaustausch",
+        "url": "https://www.dietfurt.de/kulturaustausch/",
+        "score": 10
+      },
+      {
+        "titel": "Partnerstadt Nanjing",
+        "url": "https://www.dietfurt.de/kulturaustausch/nanjing/",
+        "score": 10
+      },
+      {
+        "titel": "Meldung vom 20. April 2026 (10 Uhr)Freizeitbusse Start 01. Mai 2026 - mit Fahrradtransport ...",
+        "url": "https://www.dietfurt.de/aktuelles/freizeitbusse_start_01_mai_202-709/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dietmannsried",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86219752532",
+    "webseite": "http://www.dietmannsried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dietmannsried.de/index.php",
+        "score": 60
+      }
+    ]
+  },
+  {
+    "name": "Dietramszell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02997529533",
+    "webseite": "http://www.dietramszell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dillingen a.d.Donau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65775684451",
+    "webseite": "http://www.dillingen-donau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dingolfing",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08109071440",
+    "webseite": "https://www.dingolfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://dingolfing.dahoam-in-niederbayern.de/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Dingolshausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19775306533",
+    "webseite": "http://www.dingolshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dinkelsbühl",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70442318458",
+    "webseite": "http://www.dinkelsbuehl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/vereine/seite-1/suche-none",
+        "score": 70
+      },
+      {
+        "titel": "Krankenpflegevereine",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/leben-wohnen/gesundheit-soziales/krankenpflegevereine",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/veranstaltungen/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/veranstaltungen/veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Erlebnisangebote",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/erlebnisangebote",
+        "score": 20
+      },
+      {
+        "titel": "Landestheater",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/landestheater",
+        "score": 20
+      },
+      {
+        "titel": "Haus der Geschichte",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/haus-der-geschichte",
+        "score": 20
+      },
+      {
+        "titel": "Weitere Museen",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/weitere-museen/museum-3-dimension",
+        "score": 20
+      },
+      {
+        "titel": "Kinderzech-Zeughaus",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/weitere-museen/kinderzech-zeughaus",
+        "score": 20
+      },
+      {
+        "titel": "Mies-Pilsener-Heimatmuseum",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/weitere-museen/mies-pilsener-heimatmuseum",
+        "score": 20
+      },
+      {
+        "titel": "Medienrecherche",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/stadtbibliothek/medienrecherche",
+        "score": 20
+      },
+      {
+        "titel": "Unser Service",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/stadtbibliothek/unser-service",
+        "score": 20
+      },
+      {
+        "titel": "Online-Verlängerung",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/stadtbibliothek/online-verlaengerung",
+        "score": 20
+      },
+      {
+        "titel": "Öffnungszeiten & Kontakt",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/stadtbibliothek/oeffnungszeiten-kontakt",
+        "score": 20
+      },
+      {
+        "titel": "Knabenkapelle",
+        "url": "https://www.dinkelsbuehl.de/deutsch/alle/kultur-freizeit/knabenkapelle/allgemeine-informationen",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Dinkelscherben",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36553083533",
+    "webseite": "http://www.dinkelscherben.info",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://dinkelscherben.info/index.php/marktgemeinde/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/buechereien",
+        "score": 20
+      },
+      {
+        "titel": "Burg Zusameck",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/burg-zusameck",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel24",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel24",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel23",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel23",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel22",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel22",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel19",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel19",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel18",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel18",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel17",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel17",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel16",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel16",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel15",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel15",
+        "score": 20
+      },
+      {
+        "titel": "Dinkel25",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/dinkel-festival/dinkel25",
+        "score": 20
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/heimatmuseum",
+        "score": 20
+      },
+      {
+        "titel": "Kulturweg",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/kulturweg",
+        "score": 20
+      },
+      {
+        "titel": "Naturpark Augsburg - Westliche Wälder",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/naturpark-augsburg-westliche-waelder",
+        "score": 20
+      },
+      {
+        "titel": "Otto-Schneider-Rundweg",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/otto-schneider-rundweg",
+        "score": 20
+      },
+      {
+        "titel": "Panoramabad",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/panoramabad",
+        "score": 20
+      },
+      {
+        "titel": "Panoramabad Infos",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/panoramabad/panoramabad-infos",
+        "score": 20
+      },
+      {
+        "titel": "Schäfflertanz",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/schaefflertanz",
+        "score": 20
+      },
+      {
+        "titel": "Schullandheim",
+        "url": "https://dinkelscherben.info/index.php/freizeit-kultur/schullandheim",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Dirlewang",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53330860533",
+    "webseite": "http://www.dirlewang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dirlewang.de/Vereine.html",
+        "score": 20
+      },
+      {
+        "titel": "Fischereiverein Dirlewang e.V.",
+        "url": "https://www.dirlewang.de/Fischereiverein.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit-Club Dirlewang e.V.",
+        "url": "https://www.dirlewang.de/Freizeitclub.html",
+        "score": 10
+      },
+      {
+        "titel": "Förderverein \"Hand in Hand\"",
+        "url": "https://www.dirlewang.de/HandinHand.html",
+        "score": 10
+      },
+      {
+        "titel": "Imkerverein Dirlewang",
+        "url": "https://www.dirlewang.de/Imkerverein.html",
+        "score": 10
+      },
+      {
+        "titel": "Musikverein Dirlewang e.V.",
+        "url": "https://www.dirlewang.de/Musikverein.html",
+        "score": 10
+      },
+      {
+        "titel": "Obst- und Gartenbauverein Dirlewang e.V.",
+        "url": "https://www.dirlewang.de/Obst.html",
+        "score": 10
+      },
+      {
+        "titel": "Soldaten- und Veteranenverein Dirlewang/Helchenried",
+        "url": "https://www.dirlewang.de/Veteranen.html",
+        "score": 10
+      },
+      {
+        "titel": "Theaterverein Dirlewang e.V.",
+        "url": "https://www.dirlewang.de/Theaterverein.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dittelbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70108637533",
+    "webseite": "https://www.dittelbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/erleben/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Zur Termin- vereinbarung Bürgerbüro",
+        "url": "https://termin-online-buchen.de/app/book?cfid=000704001001",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Umwelt",
+        "url": "https://www.dittelbrunn.de/",
+        "score": 10
+      },
+      {
+        "titel": "Radwanderwege",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/erleben/radwanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Radrennsport Museum",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/erleben/radrennsport-museum/",
+        "score": 10
+      },
+      {
+        "titel": "Marienbachzentrum",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/sport/marienbachzentrum/",
+        "score": 10
+      },
+      {
+        "titel": "Mehrgenerationenpark Marienbach",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/sport/mehrgenerationenpark-marienbach/",
+        "score": 10
+      },
+      {
+        "titel": "Klimaschutz",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/klimaschutz/",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerenenergie Marienbachtal eG",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/klimaschutz/buergerenenergie-marienbachtal-eg/",
+        "score": 10
+      },
+      {
+        "titel": "Energienutzungsplan",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/klimaschutz/energienutzungsplan/",
+        "score": 10
+      },
+      {
+        "titel": "Wärmeplanung",
+        "url": "https://www.dittelbrunn.de/freizeit-umwelt/klimaschutz/waermeplanung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dittenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86886414533",
+    "webseite": "http://www.dittenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Döhlau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03664191534",
+    "webseite": "http://www.doehlau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.doehlau.de/content/de/leben/vereine.php",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Dörfles-Esbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87553076534",
+    "webseite": "https://www.doerfles-esbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dollnstein",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20441968534",
+    "webseite": "http://www.dollnstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Dombühl",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37219745534",
+    "webseite": "http://www.dombuehl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Donaustauf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53997522534",
+    "webseite": "http://www.donaustauf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Donauwörth",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85220109455",
+    "webseite": "http://www.donauwoerth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Donnersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70775299534",
+    "webseite": "http://www.donnersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://donnersdorf.de/wohnen/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Erholen & Freizeit▼",
+        "url": "https://donnersdorf.de/erholen-freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://donnersdorf.de/erholen-freizeit/gaststaetten.html",
+        "score": 10
+      },
+      {
+        "titel": "Selbstvermarkter",
+        "url": "https://donnersdorf.de/erholen-freizeit/selbstvermarkter.html",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte & Pensionen",
+        "url": "https://donnersdorf.de/erholen-freizeit/unterkuenfte-und-pensionen.html",
+        "score": 10
+      }
+    ]
   }
 ]
