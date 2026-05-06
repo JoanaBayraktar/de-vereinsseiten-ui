@@ -34143,5 +34143,3351 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Münster",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46774767649",
+    "webseite": "http://www.gemeinde-muenster.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Münsterhausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63552544649",
+    "webseite": "https://www.muensterhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.muensterhausen.de/vereine-und-verbaende-muensterhausen",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungen der Vereine",
+        "url": "https://www.vereinsring-muensterhausen.de/?suche=",
+        "score": 40
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.muensterhausen.de/freizeitangebote-muensterhausen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Muhr a.See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62885882648",
+    "webseite": "http://www.muhr-am-see.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://muhr-am-see.de/leben-wohnen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Aktivitäten",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/aktivitaeten/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Gästepass",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/gaestepass/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Alle Unterkünfte",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/unterkuenfte/alle-unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkunftssuche",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/unterkuenfte/freie-unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Campen und Zelten",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/campen-und-zelten/",
+        "score": 10
+      },
+      {
+        "titel": "Infomaterial online",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/infomaterial-online/",
+        "score": 10
+      },
+      {
+        "titel": "Parkplätze/Ladestationen/Fahrrad-Verleih",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/parkplaetze-ladestationen-fahrrad-verleih/",
+        "score": 10
+      },
+      {
+        "titel": "Altmühlsee-Informationszentrum (AIZ)",
+        "url": "https://muhr-am-see.de/tourismus-freizeit/altmuehlsee-informationszentrum-aiz/",
+        "score": 10
+      },
+      {
+        "titel": "Direkt online Termin im Rathaus vereinbaren",
+        "url": "https://www.terminland.de/www.muhr-am-see.de/?test=B2J4usH",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Munningen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13219213649",
+    "webseite": "http://www.munningen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Murnau a.Staffelsee",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80330321649",
+    "webseite": "http://www.murnau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://termin-online-buchen.de/live/booking?cfid=000922001391",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nabburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07331182464",
+    "webseite": "https://www.nabburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nabburg.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Weitere Termine",
+        "url": "https://www.nabburg.de/startseite/kurse-und-vereinstermine/",
+        "score": 30
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.nabburg.de/buergerinformation-stadtpolitik/kommunale-infrastruktur/sportvereine/",
+        "score": 20
+      },
+      {
+        "titel": "Familienarbeit",
+        "url": "https://www.nabburg.de/leben-wohnen/familie-freizeit/familienfoerderung/",
+        "score": 10
+      },
+      {
+        "titel": "Eltern-Kind-Gruppe",
+        "url": "https://www.nabburg.de/leben-wohnen/familie-freizeit/eltern-kind-gruppe/",
+        "score": 10
+      },
+      {
+        "titel": "Aktivitäten am Ort / E-Bike-Ladestation",
+        "url": "https://www.nabburg.de/leben-wohnen/familie-freizeit/aktivitaeten-am-ort-e-bike-ladestation/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.nabburg.de/leben-wohnen/familie-freizeit/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.nabburg.de/tourismus-kultur/auf-einen-blick/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Unsere Führungen - mit Buchungsportal!",
+        "url": "https://www.nabburg.de/tourismus-kultur/auf-einen-blick/unsere-fuehrungen-mit-buchungsportal/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.nabburg.de/tourismus-kultur/auf-einen-blick/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Ehemalige Spitalkirche St. Marien",
+        "url": "https://www.nabburg.de/tourismus-kultur/auf-einen-blick/ehemalige-spitalkirche-st-marien/",
+        "score": 10
+      },
+      {
+        "titel": "Schmidt-Haus",
+        "url": "https://www.nabburg.de/tourismus-kultur/auf-einen-blick/schmidt-haus/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nagel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97108098649",
+    "webseite": "http://www.erholungsort-nagel.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.erholungsort-nagel.de/vereine-und-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.erholungsort-nagel.de/sport-und-aktiv/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Naila",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97220025473",
+    "webseite": "https://www.naila.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.naila.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kulturelle Einrichtungen",
+        "url": "https://www.naila.de/freizeit-gaeste/kulturelle-einrichtungen",
+        "score": 20
+      },
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://stadt-naila.termine-reservieren.online/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & GästeTesten Sie uns",
+        "url": "https://www.naila.de/freizeit-gaeste",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.naila.de/freizeit-gaeste/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.naila.de/freizeit-gaeste/gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.naila.de/stadt-naila/einrichtungen/freizeiteinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff\n\n                    \n\n                    \n                        Im JuNaited erwartet dich ein abwechslungsreiches und vielfältiges Angebot für deine Freizeit…\n                    \n\n                    \n                        \n                            Mehr Erfahren",
+        "url": "https://jugendtreff-naila.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nandlstadt",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13885875650",
+    "webseite": "http://www.markt-nandlstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://nandlstadt-erleben.de/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Nassenfels",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30663652650",
+    "webseite": "https://www.nassenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nassenfels.de/oertliche-einrichtungen/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Förderungen",
+        "url": "https://www.nassenfels.de/oertliche-einrichtungen/vereine/foerderungen/",
+        "score": 50
+      },
+      {
+        "titel": "Meldung vom  6. Mai 2026Eröffnung der „Freizeit- und Erlebnisfläche für alle Generationen Schutterpark“",
+        "url": "https://www.nassenfels.de/aktuelles/eroeffnung_der_freizeit-_und_e-535/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nennslingen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47441429650",
+    "webseite": "https://www.nennslingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "06. Juni 2024Bitte um Prüfung der veröffentlichten Daten aller ortsansässigen Vereine auf der Homepage",
+        "url": "https://www.nennslingen.de/aktuelles/bitte_um_pruefung_der_veroeffe-267/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Urlaub",
+        "url": "https://www.nennslingen.de/freizeit-urlaub/",
+        "score": 10
+      },
+      {
+        "titel": "Urlaubsregion",
+        "url": "https://www.nennslingen.de/freizeit-urlaub/urlaubsregion/",
+        "score": 10
+      },
+      {
+        "titel": "Aktivitäten",
+        "url": "https://www.nennslingen.de/freizeit-urlaub/aktiv/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.nennslingen.de/freizeit-urlaub/sehenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.nennslingen.de/freizeit-urlaub/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.nennslingen.de/freizeit-urlaub/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "01. Dezember 2022Erfassung (historischer) Kulturlandschaft LEADER-Kooperationsprojekt Federführung LAG Südlicher Steigerwald e.V.",
+        "url": "https://www.nennslingen.de/aktuelles/erfassung_historischer_kulturl-61/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nersingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64219206650",
+    "webseite": "https://www.nersingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit, Kultur & Sport",
+        "url": "https://www.nersingen.de/leben-in-der-gemeinde/freizeit-kultur-sport/freizeit-kultur-sport.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Nesselwang",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80996983650",
+    "webseite": "https://www.nesselwang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Spielhaus/Freizeitanlagen",
+        "url": "https://www.nesselwang.de/spielhaus-im-feriendorf-reichenbach.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neu-Ulm",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20108987458",
+    "webseite": "https://nu.neu-ulm.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://nu.neu-ulm.de/neu-ulm-erleben/freizeit-sport/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Bildung, Kultur, Sport und Freizeit",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/bildung-kultur-sport-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://nu.neu-ulm.de/buerger-service/buergerservice/verwaltungsleistungen-online/kultur-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Dezernat 4 - Bildung, Kultur, Sport, Soziales",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales",
+        "score": 10
+      },
+      {
+        "titel": "Stabsstelle Interkulturelles Neu-Ulm",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/stabsstelle-interkulturelles-neu-ulm",
+        "score": 10
+      },
+      {
+        "titel": "Betreuung und Erziehung",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/betreuung-und-erziehung",
+        "score": 10
+      },
+      {
+        "titel": "Jugend, Soziales und Senioren",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/jugend-soziales-senioren",
+        "score": 10
+      },
+      {
+        "titel": "Museen, Städtische Sammlungen",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/museen-staedt-sammlungen",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/stadtarchiv",
+        "score": 10
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://nu.neu-ulm.de/stadt-politik/rathaus/organisation-der-stadtverwaltung/dezernat-4-bildung-kultur-sport-soziales/musikschule",
+        "score": 10
+      },
+      {
+        "titel": "Vereinfachtes Verfahren",
+        "url": "https://nu.neu-ulm.de/buerger-service/leben-in-neu-ulm/bauen-und-wohnen/baurechtliches-verfahren/vereinfachtes-verfahren",
+        "score": 10
+      },
+      {
+        "titel": "Interkulturelle Woche",
+        "url": "https://nu.neu-ulm.de/buerger-service/leben-in-neu-ulm/internationales-neu-ulm/interkulturelle-woche",
+        "score": 10
+      },
+      {
+        "titel": "Koordinierungsstelle Interkulturelles Neu-Ulm",
+        "url": "https://nu.neu-ulm.de/buerger-service/leben-in-neu-ulm/internationales-neu-ulm/interkulturelles-neu-ulm",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://nu.neu-ulm.de/neu-ulm-erleben/freizeit-sport",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmbäder",
+        "url": "https://nu.neu-ulm.de/neu-ulm-erleben/freizeit-sport/schwimmbaeder",
+        "score": 10
+      },
+      {
+        "titel": "Hallenbad",
+        "url": "https://nu.neu-ulm.de/neu-ulm-erleben/freizeit-sport/schwimmbaeder/hallenbad",
+        "score": 10
+      },
+      {
+        "titel": "Donaubad",
+        "url": "https://nu.neu-ulm.de/neu-ulm-erleben/freizeit-sport/schwimmbaeder/donaubad",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neubeuern",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14552537651",
+    "webseite": "https://www.kulturdorf-neubeuern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine melden",
+        "url": "https://www.kulturdorf-neubeuern.de/unser-kulturdorf/vereine-melden/login/-out",
+        "score": 60
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.kulturdorf-neubeuern.de/unser-kulturdorf/vereine-melden/registrieren",
+        "score": 60
+      },
+      {
+        "titel": "Trachtenvereine",
+        "url": "https://www.kulturdorf-neubeuern.de/unser-kulturdorf/kultur-leben/trachtenvereine",
+        "score": 30
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.kulturdorf-neubeuern.de/in-neubeuern-wohnen/senioren-familien-menschen-mit-behinderung/freizeitangebote",
+        "score": 20
+      },
+      {
+        "titel": "Datenschutzhinweisen",
+        "url": "https://www.kulturdorf-neubeuern.de/datenschutz",
+        "score": 10
+      },
+      {
+        "titel": "Zur Kenntnis genommen",
+        "url": "https://www.kulturdorf-neubeuern.de/",
+        "score": 10
+      },
+      {
+        "titel": "Impressum",
+        "url": "https://www.kulturdorf-neubeuern.de/impressum",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neubiberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31330314651",
+    "webseite": "http://www.neubiberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Vereinsleben",
+        "score": 40
+      },
+      {
+        "titel": "Vereinsbus",
+        "url": "https://www.neubiberg.de/vereinsbus",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Haus für Weiterbildung - Veranstaltungen planen",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Veranstaltungen-planen",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Ferienprogramm",
+        "score": 20
+      },
+      {
+        "titel": "Jugendzentrum Gleis 3",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Jugendzentrum-Gleis-3",
+        "score": 20
+      },
+      {
+        "titel": "Jugendparlament Neubiberg",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Jugendparlament-Neubiberg",
+        "score": 20
+      },
+      {
+        "titel": "Umweltgarten Neubiberg",
+        "url": "https://www.neubiberg.de/umweltgarten",
+        "score": 20
+      },
+      {
+        "titel": "Sportzentrum",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Sportzentrum",
+        "score": 20
+      },
+      {
+        "titel": "Kreativverzeichnis",
+        "url": "https://www.neubiberg.de/de/Leben-Erleben/Freizeit-Kultur/Kreativverzeichnis",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neubrunn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48108091651",
+    "webseite": "https://www.neubrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Mehr lesen",
+        "url": "https://www.neubrunn.de/aktuelles/sommerferienzeit-ist-circusfreizeit-kinder-und-jugendliche-stehen-in-den-startloechern/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neuburg a.d.Donau",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93220053467",
+    "webseite": "http://www.neuburg-donau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://neuburg-ist-kultur.de/",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Städtische Turnhallen",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit/staedtische-turnhallen",
+        "score": 10
+      },
+      {
+        "titel": "Sportplätze",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit/sportplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Öffentliche Parkanlagen",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit/oeffentliche-parkanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit/spielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitaktivitäten",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit/freizeitaktivitaeten",
+        "score": 10
+      },
+      {
+        "titel": "Baden und Schwimmen",
+        "url": "https://www.neuburg-donau.de/leben/sport-und-freizeit/baden-und-schwimmen",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://termine.neuburg-donau.de/m/stadt-neuburg/extern/calendar/?uid=160cf9b9-4199-4730-8d65-5f44cc2f5c8c&wsid=ade0b885-5744-4e4b-8e7c-f5493e28f2be&lang=de",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbücherei im Bücherturm",
+        "url": "https://neuburg-ist-kultur.de/buecherturm",
+        "score": 10
+      },
+      {
+        "titel": "Stadttheater",
+        "url": "https://neuburg-ist-kultur.de/stadttheater",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neuburg a.d.Kammel",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64885868651",
+    "webseite": "http://www.neuburg-ka.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.neuburg-ka.de/Vereine.n45.html",
+        "score": 40
+      }
+    ]
+  },
+  {
+    "name": "Neuburg a.Inn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81663645651",
+    "webseite": "http://www.neuburg-am-inn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/vereine/feuerwehr",
+        "score": 50
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    27\n                                                Adventskranzbinden des Gartenbauvereins Neukirchen a.Inn 2026",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/veranstaltungskalender/veranstaltung/adventskranzbinden-des-gartenbauvereins-neukirchen-ainn-2026/2026-11-27?cHash=128c2f66fbf94541254374c8293cf627",
+        "score": 40
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    07\n                                                Ausflug zum Inn bei Ering",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/veranstaltungskalender/veranstaltung/ausflug-des-gartenbauverein-neukirchen-ainn-in-den-naturnah-bewirtschafteten-kirchenwald-koesslarn/2026-06-07?cHash=4c30ec4c8834a0c496cd89b6d000c6fc",
+        "score": 20
+      },
+      {
+        "titel": "Jun\n                                                \n                                                    20\n                                                Sommersonnwendfeuer des Veteranen- und Kriegerverein Neuburg a.Inn\n                                                                Sportplatz Dommelstadl",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/veranstaltungskalender/veranstaltung/sommersondwendfeuer-der-reservistenkameradschaft-neuburg-ainn/2026-06-20?cHash=3aa2c04d86e3d7bbbfd6e0f34a482ab4",
+        "score": 20
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    14\n                                                Jahreshauptversammlung des Veteranen- und Kriegerverein Neuburg a.Inn",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/veranstaltungskalender/veranstaltung/jahrehauptversammlung-des-veteranen-und-kriegerverein-neuburg-ainn/2026-11-14?cHash=a3f16a8635b94ec6b62bbbb032be6277",
+        "score": 20
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    19\n                                                Wintersonnwendfeuer 2026 des Veteranen- und Kriegerverein Neuburg a.Inn",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/veranstaltungskalender/veranstaltung/wintersonnwendfeuer-2026-des-veteranen-und-kriegerverein-neuburg-ainn/2026-12-19?cHash=697608b9973f6024cc907032304f8aca",
+        "score": 20
+      },
+      {
+        "titel": "Neuburg erleben",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Schloss Neuburg a.Inn",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/schloss-neuburg-ainn",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.neuburg-am-inn.de/neuburg-erleben/kultur-und-veranstaltungen/ausflugsziele",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neuching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98441422651",
+    "webseite": "https://www.vg-oberneuching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Besuch des Rathauses mit Terminvereinbarung",
+        "url": "https://www.vg-oberneuching.de/index.php?option=com_content&view=article&id=1724:fuer-besucher-des-rathauses-gilt-3g-regel&catid=222&Itemid=53",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neudrossenfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15219199652",
+    "webseite": "http://www.neudrossenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neudrossenfeld.de/vereine.php",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Neuendettelsau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31996976652",
+    "webseite": "http://www.neuendettelsau.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.neuendettelsau.eu/leben-gewerbe/vereine-verbaende/seite-1/suche-none",
+        "score": 50
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/gemeindebuecherei",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Sommer im Garten",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/veranstaltungen/sommer-im-garten",
+        "score": 20
+      },
+      {
+        "titel": "RathausKultur",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/veranstaltungen/rathauskultur",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/veranstaltungen/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/veranstaltungen/veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Sportangebote",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/sportlich-aktiv/sportangebote",
+        "score": 20
+      },
+      {
+        "titel": "Dirtpark Neuendettelsau",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/sportlich-aktiv/dirtpark-neuendettelsau",
+        "score": 20
+      },
+      {
+        "titel": "Radtouren",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/sportlich-aktiv/radtouren",
+        "score": 20
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/sportlich-aktiv/wandern",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/museen/digitale-ortsfuehrung",
+        "score": 20
+      },
+      {
+        "titel": "Löhe-Zeit-Museum",
+        "url": "https://www.neuendettelsau.eu/freizeit-kultur/museen/loehe-zeit-museum",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neuendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48774753652",
+    "webseite": "http://www.neuendorf-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuendorf-main.de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Verein",
+        "url": "https://www.neuendorf-main.de/buergerwerkstatt_verein.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.neuendorf-main.de/kultur.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neuenmarkt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65552530652",
+    "webseite": "http://www.neuenmarkt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.neuenmarkt.de/vereine-und-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.neuenmarkt.de/freizeiteinrichtungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neufahrn b.Freising",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82330307652",
+    "webseite": "https://www.neufahrn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Spiel- und Bolzplätze Neufahrn Nord",
+        "url": "https://www.neufahrn.de/freizeit-kultur/sport-und-freizeiteinrichtungen/spiel-und-bolzplaetze/spiel-und-bolzplaetze-neufahrn-nord/",
+        "score": 20
+      },
+      {
+        "titel": "Spiel- und Bolzplätze Neufahrn Süd",
+        "url": "https://www.neufahrn.de/freizeit-kultur/sport-und-freizeiteinrichtungen/spiel-und-bolzplaetze/spiel-und-bolzplaetze-neufahrn-sued/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neufahrn i.NB",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99108084652",
+    "webseite": "http://www.gemeinde-neufahrn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/freizeitmoeglichkeiten/vereine-und-parteien",
+        "score": 60
+      },
+      {
+        "titel": "Freizeitgelände",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/fuer-die-jugend/freizeitgelaende",
+        "score": 10
+      },
+      {
+        "titel": "Minigolf",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/freizeitmoeglichkeiten/minigolf",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/freizeitmoeglichkeiten/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Badefahrten",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/freizeitmoeglichkeiten/badefahrten",
+        "score": 10
+      },
+      {
+        "titel": "Naturerfahrungsraum am Goldbach und Renaturierung",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/freizeitmoeglichkeiten/naturerfahrungsraum-am-goldbach-und-renaturierung",
+        "score": 10
+      },
+      {
+        "titel": "Parteien",
+        "url": "https://www.gemeinde-neufahrn.de/index.php/bildung-und-soziales/freizeitmoeglichkeiten/parteien",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neufraunhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15885861653",
+    "webseite": "https://www.neufraunhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine // Organisationen",
+        "url": "https://www.neufraunhofen.de/vereine-organisationen-1652.html",
+        "score": 50
+      },
+      {
+        "titel": "KULTUR+TOURISMUS",
+        "url": "https://www.neufraunhofen.de/kultur-und-freizeitangebote.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neuhaus a.d.Pegnitz",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32663638653",
+    "webseite": "https://www.neuhaus-pegnitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.neuhaus-pegnitz.de/freizeit-tourismus/veranstaltungskalender/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://www.neuhaus-pegnitz.de/freizeit-tourismus/freizeitgestaltung/",
+        "score": 10
+      },
+      {
+        "titel": "Unterk�nfte / Gastronomie",
+        "url": "https://www.neuhaus-pegnitz.de/freizeit-tourismus/unterkuenfte-gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Prospekte / Links",
+        "url": "https://www.neuhaus-pegnitz.de/freizeit-tourismus/prospekte-links/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.neuhaus-pegnitz.de/freizeit-tourismus/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neuhaus a.Inn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49441415653",
+    "webseite": "https://www.neuhaus-inn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neuhof a.d.Zenn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66219192653",
+    "webseite": "http://www.neuhof-zenn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/freizeittipps",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/freizeittipps/freibad",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/freizeittipps/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/freizeittipps/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Tipps",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/freizeittipps/weitere-tipps",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/veranstaltungen/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Treffpunkt \"Alte Schule\"",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/treffpunkt-alte-schule/ueber-uns",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/tourismus/die-geschichte-neuhofs",
+        "score": 10
+      },
+      {
+        "titel": "Die Museumsrunde",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/tourismus/die-museumsrunde",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/ferienwohnungen",
+        "score": 10
+      },
+      {
+        "titel": "Gasthäuser",
+        "url": "https://www.neuhof-zenn.de/freizeit-tourismus/gasthaeuser",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neuhütten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82996969653",
+    "webseite": "https://vg-partenstein.de/seite/ne/spessart/04/-/Startseite.html",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://vg-partenstein.de/mspbranche/vg/cms0605202617513329164504/-/-/branche_searchresult",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neukirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99774746653",
+    "webseite": "http://www.neukirchen.net",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neukirchen-bei-bogen.de/vereine-neukirchen",
+        "score": 50
+      },
+      {
+        "titel": "Carsharing - Mietauto",
+        "url": "https://www.neukirchen-bei-bogen.de/buerger-und-vereinsbus",
+        "score": 30
+      },
+      {
+        "titel": "Vereinsheim",
+        "url": "https://www.neukirchen-bei-bogen.de/vereinsheim",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.neukirchen-bei-bogen.de/freizeit-und-tourismus-neukirchen",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitpark EDELWIES",
+        "url": "https://www.neukirchen-bei-bogen.de/freizeitpark-edelwies",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.neukirchen-bei-bogen.de/index.php?id=0,337",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neukirchen b.Hl.Blut",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16552523654",
+    "webseite": "https://www.neukirchen.bayern",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Gewerbe und Vereine",
+        "url": "https://www.neukirchen.bayern/vereine-und-gewerbe.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur im Schloss",
+        "url": "https://www.neukirchen.bayern/tourismus/tourismus-information/kultur-im-schloss.html",
+        "score": 10
+      },
+      {
+        "titel": "Sport- und Freizeitangebot",
+        "url": "https://www.neukirchen.bayern/tourismus/sport-und-freizeitangebot.html",
+        "score": 10
+      },
+      {
+        "titel": "Im Sommer",
+        "url": "https://www.neukirchen.bayern/tourismus/sport-und-freizeitangebot/im-sommer.html",
+        "score": 10
+      },
+      {
+        "titel": "Im Winter",
+        "url": "https://www.neukirchen.bayern/tourismus/sport-und-freizeitangebot/im-winter.html",
+        "score": 10
+      },
+      {
+        "titel": "Langlaufzentrum Neurittsteig",
+        "url": "https://www.neukirchen.bayern/tourismus/sport-und-freizeitangebot/langlaufzentrum-neurittsteig.html",
+        "score": 10
+      },
+      {
+        "titel": "Naturbad",
+        "url": "https://www.neukirchen.bayern/tourismus/sport-und-freizeitangebot/naturbad.html",
+        "score": 10
+      },
+      {
+        "titel": "Nachbar Böhmen",
+        "url": "https://www.neukirchen.bayern/tourismus/sport-und-freizeitangebot/nachbar-boehmen.html",
+        "score": 10
+      },
+      {
+        "titel": "Wallfahrt und Kultur",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur im Schloss",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/kultur-im-schloss.html",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte des Marktes",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/marktgeschichte.html",
+        "score": 10
+      },
+      {
+        "titel": "Bedeutende Persönlichkeiten",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/persoenlichkeiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/ausstellungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Geschichte der Wallfahrt",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/geschichte-der-wallfahrt.html",
+        "score": 10
+      },
+      {
+        "titel": "Wallfahrtskirche",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/wallfahrtskirche.html",
+        "score": 10
+      },
+      {
+        "titel": "Franziskaner Kloster",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/franziskaner-kloster.html",
+        "score": 10
+      },
+      {
+        "titel": "Wallfahrtsmuseum",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/wallfahrtsmuseum.html",
+        "score": 10
+      },
+      {
+        "titel": "Alte Ansichtskarten",
+        "url": "https://www.neukirchen.bayern/wallfahrt-kultur/alte-ansichtskarten.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neukirchen b.Sulzbach-Rosenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33330300654",
+    "webseite": "http://www.neukirchen-bei-sulzbach-rosenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://neukirchen-bei-sulzbach-rosenberg.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Jugend- und Freizeitangebot",
+        "url": "https://neukirchen-bei-sulzbach-rosenberg.de/freizeit-und-gaeste/3280-2/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neukirchen vorm Wald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50108077654",
+    "webseite": "https://www.neukirchen-vorm-wald.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neukirchen-Balbini",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66885854654",
+    "webseite": "http://www.neukirchen-balbini.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neumarkt i.d.OPf.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91886729465",
+    "webseite": "http://www.neumarkt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.tourismus-neumarkt.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "LGS-Park",
+        "url": "https://www.neumarkt.de/leben-soziales/sport-und-freizeit/lgs-park/",
+        "score": 10
+      },
+      {
+        "titel": "Schlossbad",
+        "url": "https://schlossbad-neumarkt.de/",
+        "score": 10
+      },
+      {
+        "titel": "Golfen",
+        "url": "https://golfdorado-neumarkt.de/",
+        "score": 10
+      },
+      {
+        "titel": "Radeln",
+        "url": "https://www.tourismus-neumarkt.de/radfahren/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.tourismus-neumarkt.de/wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.neumarkt.de/leben-soziales/sport-und-freizeit/maerkte/",
+        "score": 10
+      },
+      {
+        "titel": "Spiel- und Bolzplätze",
+        "url": "https://www.neumarkt.de/leben-soziales/sport-und-freizeit/spiel-und-bolzplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Kartenvorverkauf",
+        "url": "https://www.neumarkt.de/kultur-stadtinfo/veranstaltungen-und-feste/kartenvorverkauf/",
+        "score": 10
+      },
+      {
+        "titel": "Klangraum",
+        "url": "https://www.neumarkt.de/kultur-stadtinfo/veranstaltungen-und-feste/klangraum/",
+        "score": 10
+      },
+      {
+        "titel": "Internationale Meistersinger Akademie",
+        "url": "https://www.neumarkt.de/kultur-stadtinfo/veranstaltungen-und-feste/internationale-meistersinger-akademie/",
+        "score": 10
+      },
+      {
+        "titel": "Feste",
+        "url": "https://www.neumarkt.de/kultur-stadtinfo/veranstaltungen-und-feste/feste/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neumarkt-Sankt Veit",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17442339454",
+    "webseite": "http://www.neumarkt-sankt-veit.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Ehrenamt",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/vereine-und-ehrenamt",
+        "score": 60
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/vereine-und-ehrenamt/feuerwehr",
+        "score": 60
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/vereine-und-ehrenamt/ehrenamt",
+        "score": 60
+      },
+      {
+        "titel": "Kulturbahnhof und Herzoglicher Kasten",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/veranstaltungen-und-feste/kulturbahnhof-und-herzoglicher-kasten",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit und Kultur",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/freizeit-und-kultur/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Städtische Musikschule Neumarkt-Sankt Veit",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/freizeit-und-kultur/staedtische-musikschule-neumarkt-sankt-veit",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule Neumarkt-Sankt Veit",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/freizeit-und-kultur/volkshochschule-neumarkt-sankt-veit",
+        "score": 20
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.neumarkt-sankt-veit.de/freizeit-und-naherholung/freizeit-und-kultur/museum",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neunburg vorm Wald",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25442283466",
+    "webseite": "https://www.neunburgvormwald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neunkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83663631654",
+    "webseite": "http://www.neunkirchen-unterfranken.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Termine",
+        "url": "https://www.neunkirchen-unterfranken.de/vereine/termine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Neunkirchen a.Brand",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00441408655",
+    "webseite": "http://www.neunkirchen-am-brand.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.neunkirchen-am-brand.de/themenwelten/ehrenamt_vereine/",
+        "score": 20
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/kirchen/",
+        "score": 10
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/buechereien/",
+        "score": 10
+      },
+      {
+        "titel": "Felix-Müller-Museum",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/fmm/",
+        "score": 10
+      },
+      {
+        "titel": "Synagoge Ermreuth",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/synagoge/",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/feuerwehren/",
+        "score": 10
+      },
+      {
+        "titel": "Spiel & Freizeit",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/spiel_freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/freibad/",
+        "score": 10
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/weihnachtsmarkt/",
+        "score": 10
+      },
+      {
+        "titel": "Sonderausstellung Müllers Blumen",
+        "url": "https://www.neunkirchen-am-brand.de/freizeit/fmm/sonderausstellungen/",
+        "score": 10
+      },
+      {
+        "titel": "09.05.2026 09:30\n          Gartenbauverein Neunkirchen am Brand: Veredeln hinter der Rinde an Obstgehölzen\n          Schellenberger Weg 26, Fußweg hinter der Mittelschule",
+        "url": "https://www.neunkirchen-am-brand.de/aktuelles/termine/details/6552/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neunkirchen a.Sand",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17219185655",
+    "webseite": "https://www.neunkirchen-am-sand.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neuötting",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98664576450",
+    "webseite": "http://www.neuoetting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.neuoetting.de/unsere-stadt/vereine-und-verbaende/",
+        "score": 50
+      },
+      {
+        "titel": "Leben &Freizeit",
+        "url": "https://www.neuoetting.de/leben-freizeit/bolzplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur &Tourismus",
+        "url": "https://www.neuoetting.de/kultur-tourismus/nette-toilette/",
+        "score": 10
+      },
+      {
+        "titel": "Parkbahn Neuötting",
+        "url": "https://www.neuoetting.de/leben-freizeit/freizeitgelaende-am-festplatz/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbücherei",
+        "url": "https://www.neuoetting.de/leben-freizeit/stadtbuecherei/allgemeines/",
+        "score": 10
+      },
+      {
+        "titel": "Flohmärkte",
+        "url": "https://www.neuoetting.de/leben-freizeit/flohmaerkte/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.neuoetting.de/leben-freizeit/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Trimmpfad",
+        "url": "https://www.neuoetting.de/leben-freizeit/trimmpfad/",
+        "score": 10
+      },
+      {
+        "titel": "Kreishallenbad",
+        "url": "https://www.neuoetting.de/leben-freizeit/kreishallenbad/",
+        "score": 10
+      },
+      {
+        "titel": "Jugendarbeit",
+        "url": "https://www.neuoetting.de/leben-freizeit/jugendarbeit/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtmuseum",
+        "url": "https://www.neuoetting.de/kultur-tourismus/stadtmuseum/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.neuoetting.de/kultur-tourismus/uebernachten/",
+        "score": 10
+      },
+      {
+        "titel": "Radwanderwege",
+        "url": "https://www.neuoetting.de/kultur-tourismus/radwanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtsaal",
+        "url": "https://www.neuoetting.de/kultur-tourismus/stadtsaal/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.neuoetting.de/kultur-tourismus/veranstaltungskalender/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.neuoetting.de/kultur-tourismus/sehenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Tourist-Information",
+        "url": "https://www.neuoetting.de/kultur-tourismus/tourist-information/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neureichenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33996962655",
+    "webseite": "http://www.neureichenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neuried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50774739655",
+    "webseite": "http://www.neuried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturpreis und Kulturförderpreis des Landkreises",
+        "url": "https://www.neuried.de/aktuelles/kulturpreis-und-kulturfoerderpreis-des-landkreises/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit Inklusiv",
+        "url": "https://www.neuried.de/aktuelles/freizeit-inklusiv/",
+        "score": 10
+      },
+      {
+        "titel": "Mehr lesen",
+        "url": "https://www.neuried.de/veranstaltungen/gartenbauverein-sommerfest/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitgestaltung",
+        "url": "https://www.neuried.de/ortsplan/?jsf=jet-engine:stadtplan-query-id&tax=adressen-kategorie:549",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neusäß",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20664422484",
+    "webseite": "http://www.neusaess.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neuschönau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67552516655",
+    "webseite": "https://www.neuschoenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neusitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84330293655",
+    "webseite": "http://www.neusitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Gruppen",
+        "url": "https://neusitz.de/gemeinde/vereine-gruppen/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://neusitz.de/freizeit-tourismus/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neusorg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01108070656",
+    "webseite": "https://www.neusorg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://neusorg.de/bauen-wohnen-leben/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "News & Bekanntmachungen",
+        "url": "https://neusorg.de/tourismus-und-kultur/aktuelles-und-bekanntmachungen/aktuelle-nachrichten-und-nachrichtenmeldung",
+        "score": 10
+      },
+      {
+        "titel": "Neusorg als Gastgeber",
+        "url": "https://neusorg.de/tourismus-und-kultur/neusorg-als-gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://neusorg.de/tourismus-und-kultur/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "aktuelle Veranstaltungen & Veranstaltungsmeldung",
+        "url": "https://neusorg.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen per Google-Kalender",
+        "url": "https://neusorg.de/tourismus-und-kultur/veranstaltungen/veranstaltungen-per-google-kalender",
+        "score": 10
+      },
+      {
+        "titel": "Aktuelles & Bekanntmachungen",
+        "url": "https://neusorg.de/tourismus-und-kultur/aktuelles-und-bekanntmachungen",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://neusorg.de/tourismus-und-kultur/aktuelles-und-bekanntmachungen/aktuelle-nachrichten-und-nachrichtenmeldung/2026/vollzug-der-wassergesetze-bekanntmachung-einleiten-gesammelter-abwaesser-aus-der-klaeranlage-neusor",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://vgem-neusorg.de/tourismus-und-kultur/bekannmachungen-nachrichten-und-veranstaltungen/aktuelles-und-bekanntmachungen/2026/stellenausschreibung-verwaltungsgemeinschaft-neusorg-verwaltungsangestellte-r-oder-buerokraft-f",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://vgem-neusorg.de/tourismus-und-kultur/bekannmachungen-nachrichten-und-veranstaltungen/aktuelles-und-bekanntmachungen/2026/bekanntmachung-fertigstellung-kommunale-waermeplanung",
+        "score": 10
+      },
+      {
+        "titel": "Frühstück im Haisl (Anmeldung bei Claudia Sturm Tel. 0160/4469793)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tDorfgemeinschaftshaus Wernersreuth\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t08.05.2026 - Zeit: 09:00 Uhr",
+        "url": "https://neusorg.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung/2026/fruehstueck-im-haisl-anmeldung-bei-claudia-sturm-tel-0160-4469797",
+        "score": 10
+      },
+      {
+        "titel": "Frühjahrskonzert\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tAula Grundschule\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t09.05.2026 - Zeit: 19:30 Uhr",
+        "url": "https://neusorg.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung/2026/fruehjahrskonzert",
+        "score": 10
+      },
+      {
+        "titel": "Monatsversammlung\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tKolpinghaus Riglasreuth\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t11.05.2026 - Zeit: 20:00 Uhr",
+        "url": "https://neusorg.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung/2026/monatsversammlung-8",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neustadt a.d.Aisch",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79108924471",
+    "webseite": "https://www.neustadt-aisch.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://freizeit.neustadt-aisch.de/",
+        "score": 10
+      },
+      {
+        "titel": "Stadtbummel",
+        "url": "https://freizeit.neustadt-aisch.de/stadtbummel",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnis",
+        "url": "https://freizeit.neustadt-aisch.de/erlebnis",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv",
+        "url": "https://freizeit.neustadt-aisch.de/aktiv",
+        "score": 10
+      },
+      {
+        "titel": "Infothek",
+        "url": "https://freizeit.neustadt-aisch.de/infothek",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://freizeit.neustadt-aisch.de/stadtbummel/museen-im-alten-schloss",
+        "score": 10
+      },
+      {
+        "titel": "Barrierefreiheitserklärung",
+        "url": "https://freizeit.neustadt-aisch.de/barrierefreiheit/barrierefreiheitserklaerung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neustadt a.d.Donau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61664485470",
+    "webseite": "https://www.neustadt-donau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neustadt-donau.de/freizeit/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/veranstaltungskalender/seite-1/suche-none",
+        "score": 20
+      },
+      {
+        "titel": "Faschingszug",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/faschingszug",
+        "score": 20
+      },
+      {
+        "titel": "Pfingstvolksfest",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/pfingstvolksfest",
+        "score": 20
+      },
+      {
+        "titel": "Kinderflohmarkt",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/stadtfest/kinderflohmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Open Air im Stadtgraben",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/open-air-im-stadtgraben",
+        "score": 20
+      },
+      {
+        "titel": "Andreasmarkt",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/andreasmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Kulturhaus Storchenwirt",
+        "url": "https://www.neustadt-donau.de/freizeit/kulturhaus-storchenwirt",
+        "score": 20
+      },
+      {
+        "titel": "StadtmagazinAktuelles aus dem Neustädter Rathaus, den Vereinen und der ganzen Stadt",
+        "url": "https://www.neustadt-donau.de/aktuelles/stadtmagazin",
+        "score": 20
+      },
+      {
+        "titel": "27AprRücken fit, 261ND431AorganizerVHS-Abensberg-Neustadt",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/veranstaltungskalender/2519/ruecken-fit-261nd431a",
+        "score": 20
+      },
+      {
+        "titel": "05MaiRücken fit mit Neuro Motion, 261ND430BorganizerVHS-Abensberg-Neustadt",
+        "url": "https://www.neustadt-donau.de/freizeit/veranstaltungen-kultur/veranstaltungskalender/2543/ruecken-fit-mit-neuro-motion-261nd430b",
+        "score": 20
+      },
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://www.neustadt-donau.de/rathaus/terminvereinbarung",
+        "score": 10
+      },
+      {
+        "titel": "Weltkulturerbe Limes bei Hienheim",
+        "url": "https://www.neustadt-donau.de/stadt-neustadt/heimatpflege/denkmaeler/weltkulturerbe-limes-bei-hienheim",
+        "score": 10
+      },
+      {
+        "titel": "Kultur, Tourismus & Bildung",
+        "url": "https://www.neustadt-donau.de/rathaus/verwaltung-aemter/kultur-tourismus-bildung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neustadt a.d.Waldnaab",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21442311460",
+    "webseite": "https://www.neustadt-waldnaab.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Neustadt a.Main",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17885847656",
+    "webseite": "http://www.neustadt-erlach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neustadt-erlach.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "FSV",
+        "url": "https://www.neustadt-erlach.de/Vereine/FSV",
+        "score": 20
+      },
+      {
+        "titel": "Vorstandschaft",
+        "url": "https://www.neustadt-erlach.de/Vereine/FSV/Vorstandschaft",
+        "score": 20
+      },
+      {
+        "titel": "Sportangebot",
+        "url": "https://www.neustadt-erlach.de/Vereine/FSV/Sportangebot",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neustadt am Kulm",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38886750461",
+    "webseite": "http://www.neustadt-am-kulm.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/vereine-und-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Kulturverein 1794 e.V.",
+        "url": "https://www.neustadt-am-kulm.de/kultur/kulturverein-1794",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.neustadt-am-kulm.de/kultur/naturwunder-rauher-kulm",
+        "score": 10
+      },
+      {
+        "titel": "Archäologie Fotogalerie",
+        "url": "https://www.neustadt-am-kulm.de/kultur/archaeologie-fotogalerie",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender VierStädtedreieck",
+        "url": "https://www.neustadt-am-kulm.de/kultur/veranstaltungskalender-vierstaedtedreieck",
+        "score": 10
+      },
+      {
+        "titel": "Musikschule VierStädtedreieck e.V.",
+        "url": "https://www.neustadt-am-kulm.de/kultur/musikschule-vierstaedtedreieck-e-v",
+        "score": 10
+      },
+      {
+        "titel": "Archäologie am Kulm",
+        "url": "https://www.neustadt-am-kulm.de/kultur/archaeologie-am-kulm",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Gasthöfe",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/gasthoefe",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Links",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/weitere-links",
+        "score": 10
+      },
+      {
+        "titel": "Vulkanlandschaft",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/vulkanlandschaft",
+        "score": 10
+      },
+      {
+        "titel": "Geologie",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/geologie",
+        "score": 10
+      },
+      {
+        "titel": "Felsenkeller",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/felsenkeller",
+        "score": 10
+      },
+      {
+        "titel": "Wanderkarte & Anfahrt",
+        "url": "https://www.neustadt-am-kulm.de/freizeit-tourismus/wanderkarte-anfahrt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Neustadt b.Coburg",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11331154470",
+    "webseite": "http://www.neustadt-bei-coburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "17.05.Sommerfest des Geflügelzuchtvereins",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender/veranstaltung/sommerfest-des-gefluegelzuchtvereins-1/2026-05-17?cHash=8b2720dbb8b50624672a900ba9c0b494",
+        "score": 50
+      },
+      {
+        "titel": "20.06.ab 14:00 UhrSommerfest des Obst- und Gartenbauvereins Wildenheid",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender/veranstaltung/sommerfest-des-obst-und-gartenbauvereins-wildenheid/2026-06-20?cHash=b44a60d887bed494930dbbb5c1115bbc",
+        "score": 50
+      },
+      {
+        "titel": "23.10.ab 18:00 UhrFischessen des Aquarienvereins",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender/veranstaltung/fischessen-des-aquarienvereins/2026-10-23?cHash=1f070885454d1e5b16589adaecf6b341",
+        "score": 50
+      },
+      {
+        "titel": "16.05.50 Jahre Bürgerverein",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender/veranstaltung/gemeinsames-buergerfest-der-im-anger-ansaessigen-vereine-1/2026-05-16?cHash=108274d5c268c0846067c0ca36727d07",
+        "score": 40
+      },
+      {
+        "titel": "23.08.ab 14:00 UhrGemeinsames Bürgerfest der im Anger ansässigen Vereine",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender/veranstaltung/gemeinsames-buergerfest-der-im-anger-ansaessigen-vereine/2026-08-23?cHash=ba0903e8995039bb2fbed32fc350dd68",
+        "score": 40
+      },
+      {
+        "titel": "13.05.19:30 - 21:30Neustadt.VEREINt",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender/veranstaltung/neustadtvereint-1/2026-05-13?cHash=bf333e10b63d5d393de6f4b6b21425b0",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.neustadt-bei-coburg.de/leben-in-neustadt/angebote-fuer-menschen-mit-behinderung/freizeit-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/kulturwerkstadt",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/museen",
+        "score": 20
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/ausstellungen",
+        "score": 20
+      },
+      {
+        "titel": "Besondere Feste",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/besondere-feste",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.neustadt-bei-coburg.de/freizeit-erholung/kunst-kultur/veranstaltungskalender",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Neutraubling",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35442213481",
+    "webseite": "http://www.stadt-neutraubling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Neutraublinger Stadtlauf",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/neutraublinger-stadtlauf/",
+        "score": 20
+      },
+      {
+        "titel": "Stadtradeln",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/stadtradeln/",
+        "score": 20
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/musikschule/",
+        "score": 20
+      },
+      {
+        "titel": "Unser Team",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/musikschule/unser-team/",
+        "score": 20
+      },
+      {
+        "titel": "Datenschutzinformationen",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/musikschule/datenschutzinformationen/",
+        "score": 20
+      },
+      {
+        "titel": "Aktuelles aus der Musikschule",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/musikschule/aktuelles-aus-der-musikschule/",
+        "score": 20
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/stadtarchiv/",
+        "score": 20
+      },
+      {
+        "titel": "Museum",
+        "url": "https://www.stadt-neutraubling.de/kultur-freizeit-veranstaltungen/museum/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Niederaichbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34663624656",
+    "webseite": "http://www.gemeinde-niederaichbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Niederalteich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51441401656",
+    "webseite": "https://www.niederalteich.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niederalteich.de/gemeinde/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Niederbergkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68219178656",
+    "webseite": "http://www.niederbergkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-rohrbach.de/niederbergkirchen",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Niederfüllbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84996955656",
+    "webseite": "http://www.niederfuellbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Niederlauer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01774732657",
+    "webseite": "http://www.niederlauer.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niederlauer.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.niederlauer.de/freizeit-tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.niederlauer.de/freizeit-tourismus/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Fahrradwege & Wanderwege",
+        "url": "https://www.niederlauer.de/freizeit-tourismus/fahrradwege-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Saalestrand",
+        "url": "https://www.niederlauer.de/freizeit-tourismus/saalestrand",
+        "score": 10
+      },
+      {
+        "titel": "Lauerstrand",
+        "url": "https://www.niederlauer.de/freizeit-tourismus/lauerstrand",
+        "score": 10
+      },
+      {
+        "titel": "Naherholungsgebiet \"Grüne Au\"",
+        "url": "https://www.niederlauer.de/freizeit-tourismus/naherholungsgebiet-gruene-au",
+        "score": 10
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.niederlauer.de/freizeit-tourismus/sport",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Niedermurach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18552509657",
+    "webseite": "http://www.niedermurach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verb�nde",
+        "url": "https://www.vg-oberviechtach.de/Gemeinde-Niedermurach",
+        "score": 40
+      }
+    ]
+  },
+  {
+    "name": "Niedernberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35330286657",
+    "webseite": "https://www.niedernberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niedernberg.de/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Geschichtsverein",
+        "url": "https://geschichtsverein-niedernberg.de/",
+        "score": 20
+      },
+      {
+        "titel": "Kulturweg",
+        "url": "https://www.kulturweg-niedernberg.de/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://www.niedernberg.de/kultur-geschichte/",
+        "score": 10
+      },
+      {
+        "titel": "Ortsgeschichte",
+        "url": "https://www.niedernberg.de/kultur-geschichte/ortsgeschichte/",
+        "score": 10
+      },
+      {
+        "titel": "Chronologie Niedernbergs",
+        "url": "https://www.niedernberg.de/kultur-geschichte/ortsgeschichte/chronologie-niedernbergs/",
+        "score": 10
+      },
+      {
+        "titel": "Honischland",
+        "url": "https://www.niedernberg.de/kultur-geschichte/ortsgeschichte/honischland/",
+        "score": 10
+      },
+      {
+        "titel": "Geschichtsbrunnen",
+        "url": "https://www.niedernberg.de/kultur-geschichte/ortsgeschichte/geschichtsbrunnen/",
+        "score": 10
+      },
+      {
+        "titel": "Wasserturm",
+        "url": "https://www.niedernberg.de/kultur-geschichte/ortsgeschichte/wasserturm/",
+        "score": 10
+      },
+      {
+        "titel": "Literatur",
+        "url": "https://www.niedernberg.de/kultur-geschichte/ortsgeschichte/literatur/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchengebäude",
+        "url": "https://www.niedernberg.de/kultur-geschichte/kirchengebaeude/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.niedernberg.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.niedernberg.de/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Niederrieden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52108063657",
+    "webseite": "http://www.vgem-boos.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Niederschönenfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68885840657",
+    "webseite": "http://www.niederschoenenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Niedertaufkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85663617657",
+    "webseite": "http://www.niedertaufkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-rohrbach.de/niedertaufkirchen",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Niederviehbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02441394658",
+    "webseite": "http://www.niederviehbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/freizeit/vereinsverzeichnis/",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsfeste / Gaststättenrechtliche Gestattung",
+        "url": "https://www.niederviehbach.de/service/antraege-und-formulare/vereinsfeste-gaststattenrechtliche-gestattung/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/sport/",
+        "score": 30
+      },
+      {
+        "titel": "Sporthallen",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/sport/sporthallen/",
+        "score": 30
+      },
+      {
+        "titel": "Kegelbahn",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/sport/kegelbahn/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/freizeit/veranstaltungskalender/",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/tourismus/essen-trinken/",
+        "score": 30
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.niederviehbach.de/freizeit-vereine/tourismus/uebernachten/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Niederwerrn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19219171658",
+    "webseite": "http://www.niederwerrn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/vereine/index.html",
+        "score": 60
+      },
+      {
+        "titel": "FREIZEIT & KULTUR",
+        "url": "https://www.niederwerrn.de/freizeit/index.html",
+        "score": 20
+      },
+      {
+        "titel": "kulturell & aktiv",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/turn--und-sportsttten/index.html",
+        "score": 20
+      },
+      {
+        "titel": "Einrichtungen",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/jugendtreff/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Naherholung",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/naherholung1/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/gastronomie/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Pensionen",
+        "url": "https://www.niederwerrn.de/freizeit/einrichtungen/pensionen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.niederwerrn.de/freizeit/veranstaltungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.niederwerrn.de/freizeit/sehenswertes/index.html",
+        "score": 10
+      },
+      {
+        "titel": "06.\n                 Mai\n                   15:00 Uhr -17:00 Uhr\n                              \n            \n                \n                    Offener Kaffeetreff Oberwerrn - Pfarrheimteam und Frauenbund",
+        "url": "https://www.niederwerrn.de/freizeit/veranstaltungen/index.html?ev%5Bid%5D=954",
+        "score": 10
+      },
+      {
+        "titel": "06.\n                 Mai\n                   19:30 Uhr -21:30 Uhr\n                              \n            \n                \n                    Treffen des Ortsteam",
+        "url": "https://www.niederwerrn.de/freizeit/veranstaltungen/index.html?ev%5Bid%5D=968",
+        "score": 10
+      },
+      {
+        "titel": "07.\n                 Mai\n                   14:30 Uhr -16:30 Uhr\n                              \n            \n                \n                    Kaffeeklatsch - AWO Frau Zink",
+        "url": "https://www.niederwerrn.de/freizeit/veranstaltungen/index.html?ev%5Bid%5D=969",
+        "score": 10
+      },
+      {
+        "titel": "07.\n                 Mai\n                   19:00 Uhr -21:00 Uhr\n                              \n            \n                \n                    Austauschabend - Bündnis90 die Grünen - Ortsverband Niederwerrn/Oberwerrn",
+        "url": "https://www.niederwerrn.de/freizeit/veranstaltungen/index.html?ev%5Bid%5D=970",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Niederwinkling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35996948658",
+    "webseite": "https://www.niederwinkling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Erholung",
+        "url": "https://www.niederwinkling.de/freizeiterholung/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.niederwinkling.de/freizeiterholung/gastgeber/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.niederwinkling.de/freizeiterholung/gastronomie/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.niederwinkling.de/freizeiterholung/sehenswuerdigkeiten/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.niederwinkling.de/freizeiterholung/veranstaltungen/index.html",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.niederwinkling.de/freizeiterholung/volkshochschule/index.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nittenau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26775607468",
+    "webseite": "https://www.nittenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nittendorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52774725658",
+    "webseite": "http://www.nittendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nördlingen",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21331084485",
+    "webseite": "http://www.noerdlingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Kultur und Freizeit",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Rieser.Heimat.Mugge.",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/rundum-kultur-1",
+        "score": 20
+      },
+      {
+        "titel": "Kulturbüro",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/kulturbuero",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/volkshochschule",
+        "score": 20
+      },
+      {
+        "titel": "Musik und Tanz",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/musik-und-tanz",
+        "score": 20
+      },
+      {
+        "titel": "Bäder",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/baeder",
+        "score": 20
+      },
+      {
+        "titel": "Sportstätten",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/sportstaetten",
+        "score": 20
+      },
+      {
+        "titel": "Theater und Kleinkunst",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/theater-und-kleinkunst",
+        "score": 20
+      },
+      {
+        "titel": "Informationen zum Jüdischen Friedhof",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/informationen-zum-juedischen-friedhof",
+        "score": 20
+      },
+      {
+        "titel": "Stadtradeln",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/stadtradeln",
+        "score": 20
+      },
+      {
+        "titel": "Stadtschreiber",
+        "url": "https://www.noerdlingen.de/kultur-und-freizeit/stadtschreiber",
+        "score": 20
+      },
+      {
+        "titel": "26. Rieser Kulturtage",
+        "url": "https://www.noerdlingen.de/events-in-noerdlingen/37957_2026-04-17_26-rieser-kulturtage/event.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nonnenhorn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69552502658",
+    "webseite": "http://www.nonnenhorn.eu",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nonnenhorn.de/buergerinfo/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Nordendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86330279658",
+    "webseite": "http://www.nordendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.nordendorf.de/index.php/leben-wohnen-arbeiten/vereine-organisationen",
+        "score": 50
+      },
+      {
+        "titel": "",
+        "url": "https://www.nordendorf.de/index.php/aktuelles/aktuelle-themen/1207-wechsel-an-der-spitze-des-krankenpflegevereins-angebote-fuer-buergerinnen-und-buerger",
+        "score": 30
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.nordendorf.de/index.php/leben-wohnen-arbeiten/freizeitangebote",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nordhalben",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03108056659",
+    "webseite": "http://www.nordhalben.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nordheim a.Main",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19885833659",
+    "webseite": "https://www.nordheim-main.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nordheim v.d.Rhön",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36663610659",
+    "webseite": "https://www.nordheim-rhoen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nüdlingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53441387659",
+    "webseite": "http://www.nuedlingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Einrichtungen",
+        "url": "https://www.nuedlingen.de/gemeinde/vereine/feuerwehr/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.nuedlingen.de/buergerservice/freizeit--tourismus/index.html",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.nuedlingen.de/buergerservice/aktuelles/7589.Vereinsring.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nürnberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40553755388",
+    "webseite": "https://www.nuernberg.de/internet/stadtportal/behoerdenwegweiser.html",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Nußdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70219164659",
+    "webseite": "http://www.nussdorf-chiemgau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.nussdorf-chiemgau.de/freizeit-und-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.nussdorf-chiemgau.de/Vereine.n45.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.nussdorf-chiemgau.de/Freizeitangebote.n52.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Nußdorf a.Inn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86996941659",
+    "webseite": "http://www.nussdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Wandern und Radln",
+        "url": "https://www.nussdorf.de/leben-in-nussdorf/vereine-und-freizeitangebote/wandern-und-radln",
+        "score": 60
+      },
+      {
+        "titel": "Schwimmen und Baden",
+        "url": "https://www.nussdorf.de/leben-in-nussdorf/vereine-und-freizeitangebote/schwimmen-und-baden",
+        "score": 60
+      },
+      {
+        "titel": "Paragliding",
+        "url": "https://www.nussdorf.de/leben-in-nussdorf/vereine-und-freizeitangebote/paragliding",
+        "score": 60
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.nussdorf.de/leben-in-nussdorf/vereine-und-freizeitangebote/wintersport",
+        "score": 60
+      },
+      {
+        "titel": "Tradition und Kultur",
+        "url": "https://www.nussdorf.de/tourismus-und-freizeit/was-ist-los-in-nussdorf/tradition-und-kultur",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.nussdorf.de/leben-in-nussdorf/senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus und Freizeit",
+        "url": "https://tportal.tomas.travel/nussdorf/ukv?reset=1",
+        "score": 10
+      },
+      {
+        "titel": "Rechte und Pflichten",
+        "url": "https://www.nussdorf.de/tourismus-und-freizeit/gastgeber/rechte-und-pflichten",
+        "score": 10
+      },
+      {
+        "titel": "Essen und Trinken",
+        "url": "https://www.nussdorf.de/tourismus-und-freizeit/gastgeber/essen-und-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Was ist los in Nußdorf",
+        "url": "https://www.nussdorf.de/tourismus-und-freizeit/was-ist-los-in-nussdorf/veranstaltungskalender",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberammergau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03774718660",
+    "webseite": "https://www.gemeinde-oberammergau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberasbach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97331252448",
+    "webseite": "http://www.oberasbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt & Vereine",
+        "url": "https://www.oberasbach.de/leben-erleben/ehrenamt-vereine/mitmachen-engagieren",
+        "score": 20
+      },
+      {
+        "titel": "Ehrenamtsbörse",
+        "url": "https://www.oberasbach.de/leben-erleben/ehrenamt-vereine/ehrenamtsboerse",
+        "score": 20
+      },
+      {
+        "titel": "Repair-Café",
+        "url": "https://www.oberasbach.de/leben-erleben/ehrenamt-vereine/repair-cafe",
+        "score": 20
+      },
+      {
+        "titel": "28.04.2026Rathaus NewsVereine\n                            Sportler des Jahres 2024 und 2025\n                        \n                            \n                                    In ihrer letzten Stadtratssitzung als Erste Bürgermeisterin überreichten Birgit…\n                                \n                        \n                            Mehr lesen",
+        "url": "https://www.oberasbach.de/nachrichten/artikel/sportlerdes-jahres-2024-und-2025",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.oberasbach.de/leben-erleben/angebote-fuer-senioren-menschen-mit-behinderung-demenz/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Förderverein Quartiersmanagement e.V.",
+        "url": "https://www.oberasbach.de/leben-erleben/angebote-fuer-senioren-menschen-mit-behinderung-demenz/foerderverein-quartiersmanagement-ev",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit, Sport & Naherholung",
+        "url": "https://www.oberasbach.de/leben-erleben/freizeit-sport-naherholung/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.oberasbach.de/leben-erleben/freizeit-sport-naherholung/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Rad- & Wanderwege",
+        "url": "https://www.oberasbach.de/leben-erleben/freizeit-sport-naherholung/rad-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.oberasbach.de/leben-erleben/freizeit-sport-naherholung/essen-trinken",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20552495660",
+    "webseite": "http://www.gemeinde-oberau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-oberau.de/?page_id=149",
+        "score": 20
+      },
+      {
+        "titel": "Ortsvereinekomitee",
+        "url": "https://www.gemeinde-oberau.de/?page_id=210",
+        "score": 20
+      },
+      {
+        "titel": "Kur- und Kulturpark",
+        "url": "https://www.gemeinde-oberau.de/?page_id=1352",
+        "score": 10
+      },
+      {
+        "titel": "Arbeiter- und Familienunterstützungsverein St. Josef Oberau e.V.",
+        "url": "https://www.gemeinde-oberau.de/?page_id=155",
+        "score": 10
+      },
+      {
+        "titel": "Bartverein",
+        "url": "https://www.gemeinde-oberau.de/?page_id=161",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehrverein",
+        "url": "https://www.gemeinde-oberau.de/?page_id=1931",
+        "score": 10
+      },
+      {
+        "titel": "Obst- und Gartenbauverein",
+        "url": "https://www.gemeinde-oberau.de/?page_id=196",
+        "score": 10
+      },
+      {
+        "titel": "Sterbeverein",
+        "url": "https://www.gemeinde-oberau.de/?page_id=900",
+        "score": 10
+      },
+      {
+        "titel": "Veteranenverein",
+        "url": "https://www.gemeinde-oberau.de/?page_id=244",
+        "score": 10
+      },
+      {
+        "titel": "Volkstrachtenverein",
+        "url": "https://www.gemeinde-oberau.de/?page_id=228",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberaudorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37330272660",
+    "webseite": "http://www.oberaudorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberaurach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54108049660",
+    "webseite": "https://www.oberaurach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismus, Freizeit, Kultur",
+        "url": "https://www.oberaurach.de/tourismus-freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.oberaurach.de/tourismus-freizeit-kultur/freizeitangebote/",
+        "score": 20
+      },
+      {
+        "titel": "Tourenportal-Naturpark Steigerwald",
+        "url": "https://www.oberaurach.de/tourismus-freizeit-kultur/tourenportal-naturpark-steigerwald/",
+        "score": 20
+      },
+      {
+        "titel": "Steigerwald Tourismus e.V.",
+        "url": "https://www.oberaurach.de/tourismus-freizeit-kultur/steigerwald-tourismus-e-v/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Oberbergkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70885826660",
+    "webseite": "http://www.oberbergkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberdachstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87663603660",
+    "webseite": "http://www.oberdachstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04441380661",
+    "webseite": "http://www.oberding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberdolling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21219157661",
+    "webseite": "http://www.oberdolling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberelsbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37996934661",
+    "webseite": "http://www.oberelsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Obergriesbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54774711661",
+    "webseite": "http://www.obergriesbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Sporteinrichtungen",
+        "url": "https://www.obergriesbach.de/leben-erleben/freizeit-kultur/vereine-sporteinrichtungen",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit, Ehrenamt & Kultur",
+        "url": "https://www.obergriesbach.de/leben-erleben/freizeit-kultur/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Pedelecs zum Ausleihen",
+        "url": "https://www.obergriesbach.de/leben-erleben/freizeit-kultur/pedelecs-zum-ausleihen",
+        "score": 20
+      },
+      {
+        "titel": "Natur & Umgebung",
+        "url": "https://www.obergriesbach.de/leben-erleben/freizeit-kultur/natur-umgebung",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Obergünzburg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71552488661",
+    "webseite": "http://www.oberguenzburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.oberguenzburg.de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Terminvereinbarung online",
+        "url": "https://www.vg-oberguenzburg.de/buergerservice-online/terminvereinbarung-online-1",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.oberguenzburg.de/freizeit/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Günztaler Ferienfreizeit",
+        "url": "https://www.oberguenzburg.de/ferienfreizeit",
+        "score": 10
+      },
+      {
+        "titel": "Märkte",
+        "url": "https://www.oberguenzburg.de/freizeit/maerkte",
+        "score": 10
+      },
+      {
+        "titel": "AKKU-Treff",
+        "url": "https://www.oberguenzburg.de/freizeit/akku-treff",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.oberguenzburg.de/freizeit/jugendtreff",
+        "score": 10
+      },
+      {
+        "titel": "Kino im Alten Rathaus",
+        "url": "https://www.oberguenzburg.de/freizeit/kino-im-alten-rathaus",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.oberguenzburg.de/freizeit/volkshochschule",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.oberguenzburg.de/freizeit/buecherei",
+        "score": 10
+      },
+      {
+        "titel": "Kinderspielplätze",
+        "url": "https://www.oberguenzburg.de/freizeit/kinderspielplaetze",
+        "score": 10
+      },
+      {
+        "titel": "Geistliche Einrichtungen",
+        "url": "https://www.oberguenzburg.de/freizeit/geistliche-einrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Bäder/Eislaufen",
+        "url": "https://www.oberguenzburg.de/freizeit/baeder",
+        "score": 10
+      },
+      {
+        "titel": "Radeln, Wandern, Langlauf",
+        "url": "https://www.oberguenzburg.de/freizeit/radeln-wandern-langlauf",
+        "score": 10
+      },
+      {
+        "titel": "Ortsvorstellung Obergünzburg",
+        "url": "https://www.oberguenzburg.de/kultur-und-tourismus/ortsvorstellung-oberguenzburg",
+        "score": 10
+      },
+      {
+        "titel": "DenkStätte",
+        "url": "https://www.oberguenzburg.de/kultur-und-tourismus/denkstaette-am-bichtholzer-bach",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.oberguenzburg.de/kultur-und-tourismus/museen",
+        "score": 10
+      },
+      {
+        "titel": "Öffentliche Verkehrsmittel",
+        "url": "https://www.oberguenzburg.de/kultur-und-tourismus/oeffentliche-verkehrsmittel",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberhaching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88330265661",
+    "webseite": "http://www.oberhaching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-Kultur/Vereine",
+        "score": 40
+      },
+      {
+        "titel": "Informationen für Vereine & Organisationen",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Aktuelles/Kyberg-Nachrichten/Informationen-fuer-Vereine-Organisationen",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit | Kultur",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Kulturamt/Veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Vorverkauf",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Kulturamt/Vorverkauf",
+        "score": 20
+      },
+      {
+        "titel": "Rabatt-Pakete",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Kulturamt/Rabatt-Paket",
+        "score": 20
+      },
+      {
+        "titel": "Wir über uns",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Kulturamt/Wir-ueber-uns",
+        "score": 20
+      },
+      {
+        "titel": "Bibliothek",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Bibliothek",
+        "score": 20
+      },
+      {
+        "titel": "Bäder | Spielplätze | Sportstätten",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Baeder-|-Spielplaetze-|-Sportstaetten",
+        "score": 20
+      },
+      {
+        "titel": "Spiel- und Bolzplätze",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Baeder-|-Spielplaetze-|-Sportstaetten/Spiel-und-Bolzplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Naturbad Furth",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Baeder-|-Spielplaetze-|-Sportstaetten/Naturbad-Furth",
+        "score": 20
+      },
+      {
+        "titel": "Bürgerschwimmen in der Sportschule",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Freizeit-|-Kultur/Baeder-|-Spielplaetze-|-Sportstaetten/Buergerschwimmen-in-der-Sportschule",
+        "score": 20
+      },
+      {
+        "titel": "Kulturamt",
+        "url": "https://www.oberhaching.de/Kulturamt",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit Angebote",
+        "url": "https://www.oberhaching.de/de/Leben-Erleben/Soziales|Wohnen/aelter-werden/Freizeit-Angebote-",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberhaid",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05108042662",
+    "webseite": "http://www.oberhaid.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit, Kultur & Tourismus",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/",
+        "score": 20
+      },
+      {
+        "titel": "Kellergasse Unterhaid",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kellergasse-unterhaid/",
+        "score": 20
+      },
+      {
+        "titel": "Informationen",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kellergasse-unterhaid/informationen/",
+        "score": 20
+      },
+      {
+        "titel": "Bilder",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kellergasse-unterhaid/bilder/",
+        "score": 20
+      },
+      {
+        "titel": "Führungen",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kellergasse-unterhaid/fuhrungen/",
+        "score": 20
+      },
+      {
+        "titel": "Anfahrt & vor Ort",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kellergasse-unterhaid/anfahrt-vor-ort/",
+        "score": 20
+      },
+      {
+        "titel": "Wirtschaftsbetrieb",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kellergasse-unterhaid/wirtschaftsbetrieb/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitgestaltung & Wandern",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/freizeitgestaltung-wandern/",
+        "score": 20
+      },
+      {
+        "titel": "Wein & Gäste",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/wein-gaeste/",
+        "score": 20
+      },
+      {
+        "titel": "Sport- und Spielgelegenheiten",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/sport-und-spiel/",
+        "score": 20
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/ubernachtungsmoglichkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Naturwaldreservat \"Seelaub\"",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/naturwaldreservat-seelaub/",
+        "score": 20
+      },
+      {
+        "titel": "Kreislehrgarten Oberhaid",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/kreislehrgarten-oberhaid/",
+        "score": 20
+      },
+      {
+        "titel": "Alte Mühle Oberhaid",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/alte-muhle-oberhaid/",
+        "score": 20
+      },
+      {
+        "titel": "Informationen Umbau und Sanierung",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/alte-muhle-oberhaid/informationen-umbau-und-sanierung/",
+        "score": 20
+      },
+      {
+        "titel": "Impressionen - Bilder Vorher und Nachher",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/alte-muhle-oberhaid/bilder/",
+        "score": 20
+      },
+      {
+        "titel": "Wirtschaftsbetrieb - Eiscafé Eis & Heiß",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/alte-muhle-oberhaid/wirtschaftsbetrieb-cafe-mit-eisdiele/",
+        "score": 20
+      },
+      {
+        "titel": "Kunst in der Alten Mühle - Vernissage WinnetoU",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/alte-muhle-oberhaid/kunst-in-der-alten-muhle/",
+        "score": 20
+      },
+      {
+        "titel": "Kunst in der Alten Mühle - Dieter Kraft",
+        "url": "http://www.oberhaid.de/freizeit-kultur-tourismus/alte-muhle-oberhaid/kunst-in-der-alten-muhle-dieter-kraft/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Oberhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38663596662",
+    "webseite": "https://oberhausen-obb.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oberhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21885819662",
+    "webseite": "https://oberhausen-donau.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://oberhausen-donau.de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://oberhausen-donau.de/freizeit/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://oberhausen-donau.de/freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Waldbad e.V.",
+        "url": "https://oberhausen-donau.de/freizeit/waldbad-e-v",
+        "score": 10
+      },
+      {
+        "titel": "Kreativwerkstatt",
+        "url": "https://oberhausen-donau.de/freizeit/kreativwerkstatt",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberickelsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55441373662",
+    "webseite": "http://www.oberickelsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.oberickelsheim.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      },
+      {
+        "titel": "Gartenbauverein",
+        "url": "https://www.oberickelsheim.de/seite/545506/gartenbauverein.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Oberkotzau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72219150662",
+    "webseite": "http://www.oberkotzau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://oberkotzau.de/freizeit/wanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://oberkotzau.de/freizeit/jugendtreff/",
+        "score": 10
+      },
+      {
+        "titel": "Terrassenfreibad",
+        "url": "https://oberkotzau.de/freizeit/terassenfreibad/",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://oberkotzau.de/freizeit/radwege/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturhaus Altes E-Werk",
+        "url": "https://oberkotzau.de/veranstaltungen/kulturhauses-altes-e-werk/",
+        "score": 10
+      }
+    ]
   }
 ]
