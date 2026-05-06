@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vereinsseiten Filter</title>
+    <link rel="stylesheet" href="vereinsseiten_ui.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="toolbar">
+        <div>
+          <h1>Vereinsseiten Filter</h1>
+          <p id="sourceLabel">Lade Daten...</p>
+        </div>
+        <div class="toolbar-actions">
+          <label class="file-button" title="JSON-Datei laden">
+            Datei laden
+            <input id="fileInput" type="file" accept="application/json,.json">
+          </label>
+          <button id="resetButton" type="button" title="Filter zuruecksetzen">Zuruecksetzen</button>
+        </div>
+      </header>
+
+      <section class="filters" aria-label="Filter">
+        <label>
+          Suche
+          <input id="searchInput" type="search" placeholder="Gemeinde, Titel oder URL">
+        </label>
+        <label>
+          Mindestscore
+          <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
+        </label>
+        <label>
+          Hoechstscore
+          <input id="maxScoreInput" type="number" min="0" step="10" placeholder="egal">
+        </label>
+        <label>
+          Bundesland
+          <select id="stateSelect">
+            <option value="">Alle</option>
+          </select>
+        </label>
+        <label class="checkbox-row">
+          <input id="titleOnlyInput" type="checkbox">
+          Nur Titel mit Verein
+        </label>
+      </section>
+
+      <section class="summary" aria-live="polite">
+        <strong id="summaryText">0 Gemeinden, 0 URLs</strong>
+        <span id="selectedText">Alle Gemeinden</span>
+      </section>
+
+      <div class="workspace">
+        <aside class="municipality-panel" aria-label="Gemeinden">
+          <div class="panel-head">
+            <h2>Gemeinden</h2>
+            <button id="allButton" type="button" title="Alle Gemeinden anzeigen">Alle</button>
+          </div>
+          <ol id="municipalityList" class="municipality-list"></ol>
+        </aside>
+
+        <section class="results-panel" aria-label="Ergebnisse">
+          <div id="emptyState" class="empty-state" hidden>Keine passenden Ergebnisse.</div>
+          <div id="resultsList" class="results-list"></div>
+        </section>
+      </div>
+    </main>
+
+    <script src="vereinsseiten_ui.js"></script>
+  </body>
+</html>

@@ -1,0 +1,2976 @@
+[
+  {
+    "name": "Aach",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.aach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aach.de/de/Freizeit-Tourismus/Vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.aach.de/de/Unsere-Stadt/Vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Abstatt",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.abstatt.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.abstatt.de/kultur-freizeit/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Abtsgmünd",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.abtsgmuend.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Förderverein Bibliothek Abtsgmünd e.V.",
+        "url": "https://www.abtsgmuend.de/bildung-betreuung/bibliotheken/foerderverein-bibliothek-abtsgmuend-ev",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Kulturverein Schloss Laubach",
+        "url": "https://www.abtsgmuend.de/leben-wohnen/vereine/kulturverein-schloss-laubach",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Kunstverein KISS - Kunst im Schloss",
+        "url": "https://www.abtsgmuend.de/leben-wohnen/vereine/kunstverein-kiss-kunst-im-schloss",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Partnerschaftsverein",
+        "url": "https://www.abtsgmuend.de/leben-wohnen/vereine/partnerschaftsverein",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Verein Fürstenzug Untergröningen",
+        "url": "https://www.abtsgmuend.de/leben-wohnen/vereine/verein-fuerstenzug-untergroeningen",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.abtsgmuend.de/leben-wohnen/vereine/vereinsliste/seite-1/suche-none",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Friedrich-von-Keller-Schule",
+        "url": "https://www.abtsgmuend.de/bildung-betreuung/foerdervereine/friedrich-von-keller-schule",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Grundschule Hohenstadt",
+        "url": "https://www.abtsgmuend.de/bildung-betreuung/foerdervereine/grundschule-hohenstadt",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Schule Untergröningen",
+        "url": "https://www.abtsgmuend.de/bildung-betreuung/foerdervereine/schule-untergroeningen",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Achberg",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.achberg.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.achberg.de/de/Freizeit-und-Erholung/Vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.achberg.de/de/Von-Jung-bis-Alt/Vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Hallenbelegung",
+        "url": "https://www.achberg.de/de/Freizeit-und-Erholung/Vereine/Hallenbelegung",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Hallenbelegung",
+        "url": "https://www.achberg.de/de/Von-Jung-bis-Alt/Vereine/Hallenbelegung",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Achern",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.achern.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.achern.de/de/Unsere-Stadt/Vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Adelberg",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.adelberg.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.adelberg.de/wohnen-freizeit/vereine-organisationen/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Kindertagespflege Landkreis Göppingen e.V.",
+        "url": "https://www.adelberg.de/bildung-betreuung/bildungseinrichtungen/tagesmuetterverein",
+        "score": 10,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.adelberg.de/wohnen-freizeit/vereine-organisationen/kirchen",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Adelmannsfelden",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.adelmannsfelden.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.adelmannsfelden.de/de/freizeit/vereine/vereins-nachrichten",
+        "score": 80,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Adelsheim",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.adelsheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.adelsheim.de/leben-wohnen/vereine.html",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ahorn",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.gemeindeahorn.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeindeahorn.de/kultur-und-freizeit/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Aichstetten",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.aichstetten.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.aichstetten.de/Vereine.html",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Aichwald",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.gemeinde-aichwald.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.aichwald.de/start/freizeit+_+kultur/vereine.html",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Aidlingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.aidlingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Fairtrade Familie, Vereine & Betriebe",
+        "url": "https://www.aidlingen.de/gemeinde/fairtrade-gemeinde/fairtrade-familie-vereine-betriebe",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereins-News",
+        "url": "https://www.aidlingen.de/buerger/vereinsleben/vereins-news/seite-1/suche-none",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.aidlingen.de/buerger/vereinsleben/vereinsliste/seite-1/suche-none",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Albbruck",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.albbruck.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.albbruck.de/unsere-gemeinde/gewerbe-handel/gewerbeverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.albbruck.de/freizeit-tourismus/vereine-hallen/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Turn-, Sport- und Mehrzweckhallen",
+        "url": "https://www.albbruck.de/freizeit-tourismus/vereine-hallen/turn-sport-und-mehrzweckhallen",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Albershausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.albershausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.albershausen.de/de/freizeit-kultur/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Albstadt",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.albstadt.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.albstadt.de/vereinsleben",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Alleshausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.alleshausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.alleshausen.de/leben-geniessen/vereine/seite-1/suche-none",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Allmendingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.allmendingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://allmendingen.de/freizeit/einrichtungen/vereine/",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Alpirsbach",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.alpirsbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.alpirsbach.de/oeffentliches-leben/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Altbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.altbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Parteien und Wählervereinigungen",
+        "url": "https://www.altbach.de/freizeit-kultur/parteien-und-waehlervereinigungen",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.altbach.de/freizeit-kultur/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Altdorf (bei Böblingen)",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.altdorf-bb.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.altdorf-boeblingen.de/de/freizeit-kultur/vereine.php",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Musikunterricht",
+        "url": "https://www.altdorf-boeblingen.de/de/freizeit-kultur/verein.php?id=24",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Altheim (bei Ehingen)",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "https://www.Altheim-Info.de",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://altheim-info.de/freizeittipps/einrichtungen/vereine/",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Altlußheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.altlussheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.altlussheim.de/freizeit-erholung/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Altshausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.altshausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.altshausen.de/de/leben-wohnen/sport-freizeit/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Amstetten",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.amstetten.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Sozialer Förderverein in Schalkstetten und Waldhausen e.V.",
+        "url": "http://www.amstetten.de/sozialer_foerderverein.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Angelbachtal",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.angelbachtal.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.angelbachtal.de/leben-wohnen/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Appenweier",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.appenweier.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.appenweier.de/de/vereinsverzeichnis/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Argenbühl",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.argenbuehl.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Unternehmen",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.argenbuehl.de/de/Vereine-A-Z",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "FFW Abteilung Eglofs",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen/Feuerwehr/FFW-Abteilung-Eglofs",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "FFW Abteilung Eisenharz",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen/Feuerwehr/FFW-Abteilung-Eisenharz",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "FFW Abteilung Göttlishofen",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen/Feuerwehr/FFW-Abteilung-Goettlishofen",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "FFW Abteilung Ratzenried",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen/Feuerwehr/FFW-Abteilung-Ratzenried",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen/Kirchen",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Stiftungen",
+        "url": "https://www.argenbuehl.de/de/Leben-in-Argenbuehl/Vereine-Organisationen/Stiftungen",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Aspach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.aspach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "41. Ferienprogramm: Aufruf an VereineDas Aspacher Ferienprogramm lebt von der Unterstützung der Vereine, Organisationen und Engagierten vor Ort – jetzt sind ...",
+        "url": "https://www.aspach.de/rathaus-service/aktuelles/aspach-aktuell/2047/41-ferienprogramm-aufruf-an-vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.aspach.de/leben-wohnen/vereine/seite-1/suche-none",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Asperg",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.asperg.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Haus der Vereine",
+        "url": "https://www.asperg.de/leben-soziales/weitere-kommunale-einrichtungen/haus-der-vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine von A bis Z",
+        "url": "https://www.asperg.de/kultur-freizeit/vereine-von-a-bis-z",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Assamstadt",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.assamstadt.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.assamstadt.de/buerger-info/vereine.html",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Asselfingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.asselfingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.asselfingen.de/avada_portfolio/foerderverein-verbandsgrundschule-heusteige/",
+        "score": 10,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.asselfingen.de/avada_portfolio/gesangsverein-asselfingen/",
+        "score": 10,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.asselfingen.de/avada_portfolio/landwirtschaftlicher-ortsverein/",
+        "score": 10,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Attenweiler",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.attenweiler.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.attenweiler.de/de/freizeit/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Auggen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.auggen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in Auggen",
+        "url": "https://www.auggen.de/buerger/vereine-in-auggen/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "PDF 758 kB",
+        "url": "https://www.auggen.de/media/anschreiben_veranstalter_vereine.pdf",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Aulendorf",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.aulendorf.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Kirchen und rel. Vereinigungen",
+        "url": "https://www.aulendorf.de/leben-freizeit/kirchen-und-rel-vereinigungen",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Seniorenvereinigungen",
+        "url": "https://www.aulendorf.de/leben-freizeit/senioren/seniorenvereinigungen",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.aulendorf.de/leben-freizeit/vereinsleben/seite-1/suche-none",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Jugend",
+        "url": "https://www.aulendorf.de/leben-freizeit/jugend/jugendvereinigungen",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Bad Bellingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.gemeinde-bad-bellingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Aktiv in den Vereinen",
+        "url": "https://www.gemeinde-bad-bellingen.de/de/Leben-Arbeiten/Aktiv-in-den-Vereinen",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bad Buchau",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.badbuchau.de",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-buchau.de/buerger-neu/de/kinder-jugend/vereine/seite-1/suche-none",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-buchau.de/buerger-neu/de/leben-wohnen/vereine/seite-1/suche-none",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bad Rappenau",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.badrappenau.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.badrappenau.de/stadtleben/vereine-und-organisationen/vereine?kategorie_id[0]=216&kategorie_id[1]=218&kategorie_id[2]=219&kategorie_id[3]=220&kategorie_id[4]=221&kategorie_id[5]=222&kategorie_id[6]=223&kategorie_id[7]=224&kategorie_id[8]=225",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Parteien",
+        "url": "https://www.badrappenau.de/stadtleben/vereine-und-organisationen/parteien",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Bad Säckingen",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bad-saeckingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-saeckingen.de/leben-wohnen/vereine/seite-1/suche-none",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bad Schönborn",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bad-schoenborn.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.bad-schoenborn.de/gemeinde/leben-in-bad-schoenborn/freizeit-vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.bad-schoenborn.de/gemeinde/leben-in-bad-schoenborn/freizeit-vereine/vereine-A-Z",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.bad-schoenborn.de/gemeinde/leben-in-bad-schoenborn/freizeit-vereine/ehrenamt",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Erlebenswertes",
+        "url": "https://www.bad-schoenborn.de/gemeinde/leben-in-bad-schoenborn/freizeit-vereine/erlebenswertes",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.bad-schoenborn.de/gemeinde/leben-in-bad-schoenborn/freizeit-vereine/essen-trinken",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.bad-schoenborn.de/gemeinde/leben-in-bad-schoenborn/freizeit-vereine/feuerwehr",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Bad Schussenried",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bad-schussenried.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.bad-schussenried.de/de/leben-wohnen/unsere-vereine/seite-1/suche-none",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bad Teinach-Zavelstein",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bad-teinach-zavelstein.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.bad-teinach-zavelstein.de/kultur-freizeit/vereine-verbaende/seite-1/suche-none",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bad Überkingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bad-ueberkingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-ueberkingen.de/de/buerger-soziales/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Badenweiler",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.gemeinde-badenweiler.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-badenweiler.de/freizeit-kultur/sportbad-vereine/vereine/seite-1/suche-none",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Sport- & Freizeitbad",
+        "url": "https://www.gemeinde-badenweiler.de/freizeit-kultur/sportbad-vereine/sport-freizeitbad",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Baindt",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.baindt.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.baindt.de/leben-wohnen/freizeit/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Balgheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.balgheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Plattform Vereine & Gruppen",
+        "url": "https://www.balgheim.de/plattform-vereine-gruppen",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.balgheim.de/de/Leben-Wohnen/Vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ballrechten-Dottingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.ballrechten-dottingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Vereine",
+        "url": "https://www.ballrechten-dottingen.de/Gemeindeleben/Freizeit-und-Vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Balzheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.balzheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.balzheim.de/freizeit-vereinsleben/vereine/seite-1/suche-none",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.balzheim.de/freizeit-vereinsleben/feuerwehr",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.balzheim.de/freizeit-vereinsleben/gastronomie",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Spielplätze & Sportanlagen",
+        "url": "https://www.balzheim.de/freizeit-vereinsleben/spielplaetze-sportanlagen",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Stiftung Oberbalzheim",
+        "url": "https://www.balzheim.de/freizeit-vereinsleben/stiftung-oberbalzheim",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Bammental",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bammental.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bammental.de/freizeit-kultur/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bärenthal",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.baerenthal.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/gewerbe/274-sven-beig-landschaftspflege",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/gewerbe/279-daniel-trockenbau",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/gewerbe/295-dorfladen-baerenthal",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/gewerbe/334-boos-technologie",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/136-roteskreuz",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/137-freiwillige-feuerwehr-baerenthal",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/138-fun-club-06-baerenthal-e-v",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/140-motorradfreunde-baerenthal",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/141-musikverein-baerenthal-e-v",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/142-narrenvereinigung-baerenthal",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/143-schuetzenverein-baerenthal",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/145-sportverein-baerenthal",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/146-sozialverband-vdk-baden-wuerttemberg",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/147-feuerwehrverein",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/vereine/324-foerderverein-musikverein",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Gewerbe",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/gewerbe",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Wirtschaftsverband Heuberg",
+        "url": "https://www.baerenthal.de/index.php/gewerbe-vereine/wirtschaftsverband-heuberg",
+        "score": 20,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Beilstein",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.beilstein.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.beilstein.de/vereinsregister/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bempflingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bempflingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.bempflingen.de/freizeit-kultur/vereinsliste/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Benningen am Neckar",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.benningen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereins-Liste",
+        "url": "https://www.benningen.de/de/leben/vereine/vereins-liste",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Berg",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.berg-schussental.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Institutionen",
+        "url": "https://www.berg-schussental.de/de/freizeit-kultur/vereine-freizeit/vereine-und-institutionen",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Inliner-Strecken",
+        "url": "https://www.berg-schussental.de/de/freizeit-kultur/vereine-freizeit/inliner-strecken",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Nordic-Walking-Strecke",
+        "url": "https://www.berg-schussental.de/de/freizeit-kultur/vereine-freizeit/nordic-walking-strecke",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.berg-schussental.de/de/freizeit-kultur/vereine-freizeit/sport-freizeit",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Sport- & Turnhalle",
+        "url": "https://www.berg-schussental.de/de/freizeit-kultur/vereine-freizeit/sport-turnhalle",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Bergatreute",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bergatreute.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Gemeinsamer Ausschusses der Vereinbarten Verwaltungsgemeinschaft Bad Waldsee-Bergatreute",
+        "url": "https://www.bergatreute.de/de/rathaus-service/politik/gemeinsamer-ausschusses-der-vereinbarten-verwaltungsgemeinschaft-bad-waldsee-bergatreute",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Krankenpflegeverein",
+        "url": "https://www.bergatreute.de/de/gemeinde-bergatreute/soziales/krankenpflegeverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine und Gruppierungen",
+        "url": "https://www.bergatreute.de/de/freizeit-gestalten/vereine-und-gruppierungen/nikolausmarkt-2025",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsindex",
+        "url": "https://www.bergatreute.de/de/freizeit-gestalten/vereine-und-gruppierungen/vereinsindex/seite-1/suche-none",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Bergatreuter Künstler & Kreative",
+        "url": "https://www.bergatreute.de/de/freizeit-gestalten/vereine-und-gruppierungen/bergatreuter-kuenstler-kreative",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Buchverkauf: \"Und das alles wegen einer Straßenlampe...\"",
+        "url": "https://www.bergatreute.de/de/freizeit-gestalten/vereine-und-gruppierungen/buchverkauf-und-das-alles-wegen-einer-strassenlampe",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Kinderkleiderbörse",
+        "url": "https://www.bergatreute.de/de/freizeit-gestalten/vereine-und-gruppierungen/kinderkleiderboerse",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Berghaupten",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.berghaupten.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.berghaupten.de/freizeit--tourismus/vereine-a-z",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Berghülen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.berghuelen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Gewerbevereinigung",
+        "url": "https://www.berghuelen.de/unsere-gemeinde/gewerbe/gewerbevereinigung",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.berghuelen.de/freizeit-wohlfuehlen/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Berkheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.gemeinde-berkheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-berkheim.de/bildung-soziales/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bermatingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bermatingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bermatingen.de/de/freizeit/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Besigheim",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.besigheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Organisationen",
+        "url": "https://www.besigheim.de/leben-und-familie/freizeitangebote/vereine-und-organisationen",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Betzenweiler",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.betzenweiler.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.betzenweiler.de/leben-freizeit/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Biberach (Baden)",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.biberach-baden.de//",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.biberach-baden.de/pb/freizeit/vereine.html",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Biederbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.biederbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.biederbach.de/start/deine+freizeit/vereine.html",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bietigheim-Bissingen",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bietigheim-bissingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Kirchliche Vereine",
+        "url": "https://www.bietigheim-bissingen.de/kultur-sport-freizeit/vereine/kirchliche-vereine/",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Kulturelle Vereine",
+        "url": "https://www.bietigheim-bissingen.de/kultur-sport-freizeit/vereine/kulturelle-vereine/",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.bietigheim-bissingen.de/kultur-sport-freizeit/vereine/sportvereine/",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.bietigheim-bissingen.de/kultur-sport-freizeit/vereine/",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "weitere Vereine & Dachverbände",
+        "url": "https://www.bietigheim-bissingen.de/kultur-sport-freizeit/vereine/weitere-vereine-dachverbaende/",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Förderung",
+        "url": "https://www.bietigheim-bissingen.de/kultur-sport-freizeit/vereine/foerderung/",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Billigheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.billigheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Fördervereine",
+        "url": "https://www.billigheim.de/de/leben-wohnen/feuerwehr/foerdervereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.billigheim.de/de/freizeit-tourismus/vereinsleben",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Binau",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.binau.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.binau.de/freizeit-aktuelles/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Birenbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.birenbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.birenbach.de/wohnen-freizeit/vereine-organisationen",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bissingen an der Teck",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bissingen-teck.de/",
+    "vereinsseiten": [
+      {
+        "titel": "12.05.2026Schülervereinsmeisterschaften mit der GrundschuleorganiserTVB - Leichtathletik und Grundschule BissingenplaceSportplatz",
+        "url": "https://www.bissingen-teck.de/freizeit-gaeste/veranstaltungskalender/585/schuelervereinsmeisterschaften-mit-der-grundschule",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "13.05.2026VereinsvorständesitzungorganiserVereinsgemeinschaftplaceProberaum MGV - Alte Schule",
+        "url": "https://www.bissingen-teck.de/freizeit-gaeste/veranstaltungskalender/586/vereinsvorstaendesitzung",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Krankenpflegeverein",
+        "url": "https://www.bissingen-teck.de/leben-wohnen/gesundheit-soziales/krankenpflegeverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Tagesmutter/ Tageselternverein",
+        "url": "https://www.bissingen-teck.de/leben-wohnen/kindergarten-betreuung/tagesmutter/-tageselternverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.bissingen-teck.de/freizeit-gaeste/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Blaubeuren",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.blaubeuren.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.blaubeuren.de/de/Buerger/Lebenswertes-Staedtle/Vereine-",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Blumberg",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.stadt-blumberg.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Sicherheitskonzept für Vereine",
+        "url": "https://www.stadt-blumberg.de/leben-wohnen/vereine-verbaende/sicherheitskonzept-fuer-vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Förderrichtlinien der Stadt Blumberg",
+        "url": "https://www.stadt-blumberg.de/leben-wohnen/vereine-verbaende/foerderrichtlinien-der-stadt-blumberg",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Neutrale Stelle §72a SGB VIII - Kinder- und Jugendschutz",
+        "url": "https://www.stadt-blumberg.de/leben-wohnen/vereine-verbaende/neutrale-stelle-72a-sgb-viii-kinder-und-jugendschutz",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Vermietung Toilettenwagen",
+        "url": "https://www.stadt-blumberg.de/leben-wohnen/vereine-verbaende/vermietung-toilettenwagen",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Wurzelsucher",
+        "url": "https://www.stadt-blumberg.de/leben-wohnen/vereine-verbaende/wurzelsucher",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Böblingen",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.boeblingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Service für Vereine",
+        "url": "https://www.boeblingen.de/freizeit--kultur/vereine--kirchen/service-fuer-vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine & Kirchen",
+        "url": "https://www.boeblingen.de/freizeit--kultur/vereine--kirchen",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bodelshausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bodelshausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bodelshausen.de/leben-und-wohnen/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bodman-Ludwigshafen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bodman-ludwigshafen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Gewerbeverein",
+        "url": "https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Gewerbe/Gewerbeverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.bodman-ludwigshafen.de/de/Daheim-am-See/Freizeit/Vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bollschweil",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bollschweil.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.bollschweil.de/de/Engagement/Vereine-A-Z",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Boms",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.boms.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.boms.de/de/buerger-informationen/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bondorf",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bondorf.de",
+    "vereinsseiten": [
+      {
+        "titel": "Parteien & Wählervereinigungen",
+        "url": "https://www.bondorf.de/rathaus-gemeinderat/gemeinderat/parteien-waehlervereinigungen",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereins News",
+        "url": "https://www.bondorf.de/engagement-freizeit/vereine/vereins-news",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.bondorf.de/engagement-freizeit/vereine/vereinsfoerderung",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.bondorf.de/engagement-freizeit/vereine/vereinsliste",
+        "score": 90,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Anzeige eines vorübergehenden Gaststättengewerbes",
+        "url": "https://www.bondorf.de/engagement-freizeit/vereine/anzeige-eines-voruebergehenden-gaststaettengewerbes",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Selbst inserieren",
+        "url": "https://www.bondorf.de/engagement-freizeit/vereine/selbst-inserieren",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Bönnigheim",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.boennigheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Alle Veranstaltungen",
+        "url": "https://www.boennigheim.de/eventcalendar?calendar=1&cats_as_string=verwaltung;familienangebote;musikschule;kultur;vereine;staedtepartnerschaften;",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Börtlingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.boertlingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Heimatverein Breech",
+        "url": "https://www.boertlingen.de/heimatverein-breech.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Krankenpflegeverein Börtlingen e.V.",
+        "url": "https://www.boertlingen.de/krankenpflegeverein-boertlingen.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Landfrauenverein Börtlingen",
+        "url": "https://www.boertlingen.de/landfrauenverein-boertlingen.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Musikverein Börtlingen",
+        "url": "https://www.boertlingen.de/musikverein-boertlingen.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Turnverein Börtlingen 1903 e.V.",
+        "url": "https://www.boertlingen.de/turnverein-boertlingen-e-v.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.boertlingen.de/vereine.html",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Böttingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.boettingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.boettingen.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bötzingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.boetzingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Förderverein",
+        "url": "https://www.boetzingen.de/start/ffw/foerderverein.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Brackenheim",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.brackenheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Kunstverein e.V.",
+        "url": "https://www.brackenheim.de/tourismus-freizeit/kultur-museen/kunstverein-ev",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsanmeldung",
+        "url": "https://www.brackenheim.de/tourismus-freizeit/freizeit-sport/vereine/vereinsanmeldung",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.brackenheim.de/tourismus-freizeit/freizeit-sport/vereine/vereinsliste/seite-1/suche-none",
+        "score": 90,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Braunsbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.braunsbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.braunsbach.de/freizeit-tourismus/vereinsleben/vereine/seite-1/suche-none",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereins News",
+        "url": "https://www.braunsbach.de/freizeit-tourismus/vereinsleben/vereins-news/seite-1/suche-none",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Breitingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.breitingen-lonetal.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://breitingen.de/leben-und-soziales/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Brühl",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.bruehl-baden.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bruehl-baden.de/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Buchenbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.buchenbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Verein Umwelt- und Landschaftsschutz Unteribental",
+        "url": "https://www.buchenbach.de/p/verein-umwelt-und-landschaftsschutz-unteribental",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.buchenbach.de/p/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Bühl",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.buehl.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.buehl.de/de/Kultur-Freizeit/Freizeit-Sport/Vereine",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.buehl.de/de/Stadt-Buerger/Leben-in-Buehl/Vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.buehl.de/de/Stadt-Buerger/Leben-in-Buehl/Vereine/Vereine-A-Z",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine nach Kategorien",
+        "url": "https://www.buehl.de/de/Stadt-Buerger/Leben-in-Buehl/Vereine/Vereine-nach-Kategorien",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine nach Stadtteilen",
+        "url": "https://www.buehl.de/de/Stadt-Buerger/Leben-in-Buehl/Vereine/Vereine-nach-Stadtteilen",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Burgrieden",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.burgrieden.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsübersicht",
+        "url": "https://www.burgrieden.de/de/freizeit/vereinsuebersicht",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Burgstetten",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.burgstetten.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burgstetten.de/de/kultur-freizeit/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Büsingen am Hochrhein",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.buesingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Tagesmütterverein",
+        "url": "https://www.buesingen.de/de/Unser-Buesingen/Kinder,Jugend-Familie/Tagesmuetterverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.buesingen.de/de/Freizeit-Tourismus/Vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Creglingen",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.creglingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Veranstaltungen & Vereine",
+        "url": "https://www.creglingen.de/de/tourismus-freizeit/veranstaltungen-vereine/veranstaltungskalender",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.creglingen.de/de/tourismus-freizeit/veranstaltungen-vereine/vereine-verbaende/liste",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Märkte und Feste",
+        "url": "https://www.creglingen.de/de/tourismus-freizeit/veranstaltungen-vereine/maerkte-und-feste/pferdemarkt",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Daisendorf",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.daisendorf.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.daisendorf.de/de/freizeit/vereinsleben",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dauchingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dauchingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Bürgerverein",
+        "url": "https://www.dauchingen.de/soziales/buergerverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine & Parteien A-Z",
+        "url": "https://www.dauchingen.de/freizeit/vereine-parteien-a-z",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dautmergen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.gemeinde-dautmergen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-dautmergen.de/vereine-unternehmen/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsnews",
+        "url": "https://www.gemeinde-dautmergen.de/vereine-unternehmen/vereinsnews/",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Unternehmen",
+        "url": "https://www.gemeinde-dautmergen.de/vereine-unternehmen/unternehmen/",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Deggenhausertal",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.deggenhausertal.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.deggenhausertal.de/de/freizeit-tourismus/freizeit/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Deißlingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.deisslingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Parteien A-Z",
+        "url": "https://www.deisslingen.de/de/Leben,Lernen,Lachen/Vereine-Parteien-A-Z",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Deizisau",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.deizisau.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.deizisau.de/start/aktive+freizeit/vereine.html",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Denkendorf",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.denkendorf.de/",
+    "vereinsseiten": [
+      {
+        "titel": "ARGE Denkendorfer Vereine",
+        "url": "https://www.denkendorf.de/freizeit-kultur/arge-denkendorfer-vereine/ueber-uns",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereins-Challenges",
+        "url": "https://www.denkendorf.de/freizeit-kultur/arge-denkendorfer-vereine/vereins-challenges",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.denkendorf.de/freizeit-kultur/vereine/vereinsliste/seite-1/suche-none",
+        "score": 100,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "ARGE-Chronik",
+        "url": "https://www.denkendorf.de/freizeit-kultur/arge-denkendorfer-vereine/arge-chronik",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Beteiligungsprozess #mit.Denkendorf.machen",
+        "url": "https://www.denkendorf.de/freizeit-kultur/vereine/beteiligungsprozess-mitdenkendorfmachen",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Denkingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.denkingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Sport & Freizeit",
+        "url": "https://www.denkingen.de/Aktiv-in-der-Natur/Vereine,-Sport-Freizeit",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine, Sport & Freizeit",
+        "url": "https://www.denkingen.de/de/Lebenswertes-Denkingen/Vereine,-Sport-Freizeit",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Denzlingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.denzlingen-online.de",
+    "vereinsseiten": [
+      {
+        "titel": "Einrichtungen, Institutionen & Vereine",
+        "url": "https://www.denzlingen-online.de/p/einrichtungen-institutionen-vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dettenhausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dettenhausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Krankenpflegeverein",
+        "url": "https://www.dettenhausen.de/Bildung-Soziales/Senioren-Soziales/Krankenpflegeverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.dettenhausen.de/Bildung-Soziales/Buecherei/Vereine-A-Z",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.dettenhausen.de/Entdecken-Erleben/Sport-Freizeit/Vereine-A-Z",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dettighofen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dettighofen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dettighofen.de/bildung--freizeit/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dischingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dischingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dischingen.de/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dogern",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dogern.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dogern.de/de/leben-freizeit/sport-spass/vereinsliste",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Donaueschingen",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.donaueschingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Termine vereinbaren",
+        "url": "https://www.donaueschingen.de/de/Stadt-Buerger/Rathaus/Service-A-Z/Termine-vereinbaren",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.donaueschingen.de/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Donzdorf",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.donzdorf.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Vereine",
+        "url": "https://www.donzdorf.de/kultur-freizeit/kultur-vereine/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.donzdorf.de/kultur-freizeit/kultur-vereine/ausstellungen",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Kammermusik",
+        "url": "https://www.donzdorf.de/kultur-freizeit/kultur-vereine/kammermusik",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Kulturring Donzdorf",
+        "url": "https://www.donzdorf.de/kultur-freizeit/kultur-vereine/kulturring-donzdorf",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Dormettingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dormettingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dormettingen.de/freizeit-tourismus/vereine/",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dornhan",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dornhan.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Deutsches Rotes Kreuz Ortsverein Dornhan",
+        "url": "https://www.dornhan.de/startseite/wohnen/soziales/deutsches-rotes-kreuz-ortsverein-dornhan",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Diakonieverein",
+        "url": "https://www.dornhan.de/startseite/wohnen/soziales/diakonieverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Verein Lebenshilfe Horb-Sulz e.V.",
+        "url": "https://www.dornhan.de/startseite/wohnen/soziales/verein-lebenshilfe-horb-sulz-ev",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.dornhan.de/startseite/freizeit/sehen-erleben/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dornstetten",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dornstetten.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.dornstetten.de/vereine/",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dörzbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.doerzbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.doerzbach.de/leben/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dotternhausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.dotternhausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dotternhausen.de/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Drackenstein",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.drackenstein.de/",
+    "vereinsseiten": [
+      {
+        "titel": "06JunHauptversammlung Schützenverein ...Veranstalter:VeranstalterSchützenverein",
+        "url": "https://www.drackenstein.de/freizeit-tourismus/veranstaltungskalender/1155/hauptversammlung-schuetzenverein-drackenstein",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.drackenstein.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Dürbheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.duerbheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsmeisterschaft Tischtennis Jugend",
+        "url": "https://www.duerbheim.de/freizeit-kultur/veranstaltungskalender/386/vereinsmeisterschaft-tischtennis-jugend",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.duerbheim.de/freizeit-kultur/vereine-sportanlagen/vereine-organisationen/seite-1/suche-none",
+        "score": 70,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Durchhausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.durchhausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.durchhausen.de/Gemeinde-Freizeit/Vereine-Organisationen",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ebersbach-Musbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.ebersbach-musbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ebersbach-musbach.de/kultur-freizeit-und-einrichtungen/einrichtungen-und-vereine/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Bürgerbus",
+        "url": "https://www.ebersbach-musbach.de/kultur-freizeit-und-einrichtungen/einrichtungen-und-vereine/buergerbus",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Evangelische Kirche",
+        "url": "https://www.ebersbach-musbach.de/kultur-freizeit-und-einrichtungen/einrichtungen-und-vereine/evangelische-kirche",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.ebersbach-musbach.de/kultur-freizeit-und-einrichtungen/einrichtungen-und-vereine/feuerwehr",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Maschinengemeinschaft",
+        "url": "https://www.ebersbach-musbach.de/kultur-freizeit-und-einrichtungen/einrichtungen-und-vereine/maschinengemeinschaft",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "PENDLA",
+        "url": "https://www.ebersbach-musbach.de/kultur-freizeit-und-einrichtungen/einrichtungen-und-vereine/pendla",
+        "score": 40,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Edingen-Neckarhausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.edingen-neckarhausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "VEREINSFÖRDERUNGArtikel vom 23.10,2025Förderleistungen für die Kultur- und Sportvereine neu geregelt...Mehr Informationen",
+        "url": "https://www.edingen-neckarhausen.de/rathaus/aktuelles/1235/vereinsfoerderung",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Egenhausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.egenhausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://egenhausen.de/leben-wohnen/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Egesheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.egesheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.egesheim.de/de/freizeit-spass/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eggenstein-Leopoldshafen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.egg-leo.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.egg-leo.de/de/Familie-Soziales/Freizeit-Kultur/Vereine-A-Z",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ehingen (Donau)",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.ehingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ehingen.de/kultur-freizeit/entdecken/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eichstegen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eichstegen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.gemeinde-eichstegen.de/unsere-vereine/",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eigeltingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eigeltingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.eigeltingen.de/vereine/",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eislingen an der Fils",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eislingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine + Organisationen",
+        "url": "https://www.eislingen.de/vereine",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ellenberg",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.ellenberg.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Heiraten Vereinsraum",
+        "url": "https://www.ellenberg.de/galerie/43872/heiraten-in-der-gemeinde-vereinsraum.html",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Heiraten Flurbereinigungshütte",
+        "url": "https://www.ellenberg.de/galerie/43875/vereinsraum-heiraten-in-der-gemeinde-flurbereinigungsh%C3%BCtte.html",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Elztal",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.elztal.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.elztal.de/freizeit-kultur/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Emerkingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.emerkingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Soziales",
+        "url": "https://www.emerkingen.de/start/leben+_+wohnen/vereine.html",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Engelsbrand",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.engelsbrand.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.engelsbrand.de/vereine/freiwillige-feuerwehr-engelsbrand-id_4/",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Engen",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.engen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.engen.de/leben+in+engen/miteinander/Vereine",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Engstingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.engstingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Handel/Gewerbeverein",
+        "url": "https://www.engstingen.de/startseite/wirtschaft+_+handel/handel_gewerbeverein.html",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eningen unter Achalm",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eningen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.eningen.de/leben-in-eningen/vereine-und-gruppen/liste-der-vereine.html",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.eningen.de/buergerservice/dienstleistungen-a-z/vereins-und-versammlungswesen.html",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Freiwillige Feuerwehr",
+        "url": "https://www.eningen.de/leben-in-eningen/vereine-und-gruppen/freiwillige-feuerwehr.html",
+        "score": 50,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Eppelheim",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eppelheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Zur Vereinsübersicht",
+        "url": "https://www.eppelheim.de/verein",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Erdmannhausen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.erdmannhausen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.erdmannhausen.de/sport-kultur-freizeit/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Erkenbrechtsweiler",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.erkenbrechtsweiler.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Tageselternverein",
+        "url": "https://www.erkenbrechtsweiler.de/leben-wohnen/kinder-betreuung/tageselternverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.erkenbrechtsweiler.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Erlenbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.erlenbach-hn.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.erlenbach-hn.de/freizeit-tourismus/vereine/vereinsleben",
+        "score": 80,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.erlenbach-hn.de/freizeit-tourismus/vereine/vereinsliste/seite-1/suche-none",
+        "score": 90,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Erlenmoos",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.erlenmoos.de",
+    "vereinsseiten": [
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.erlenmoos.de/freizeit/sport-freizeit/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Erligheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.erligheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.erligheim.de/website/de/leben-und-wohnen/vereinsverzeichnis",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Erolzheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.erolzheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.erolzheim.de/freizeit/vereinsliste/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ertingen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.ertingen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ertingen.de/kultur/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.ertingen.de/kultur/vereine/vereinsliste",
+        "score": 90,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Ehrenordnung",
+        "url": "https://www.ertingen.de/kultur/vereine/ehrenordnung",
+        "score": 60,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Eschach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eschach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Organisationen",
+        "url": "https://www.eschach.de/leben-freizeit/vereine-und-organisationen",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eschbronn",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eschbronn.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.eschbronn.de/de/Freizeit/Vereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Ettenheim",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.ettenheim.de/",
+    "vereinsseiten": [
+      {
+        "titel": "News Förderverein",
+        "url": "https://www.ettenheim.de/tourismus-und-kultur/aktiv-in-ettenheim/schwimmen/news-foerderverein",
+        "score": 20,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine & Vereinigungen",
+        "url": "https://www.ettenheim.de/bildung-und-soziales/vereine+_+vereinigungen",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Eutingen im Gäu",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.eutingen-im-gaeu.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.eutingen-im-gaeu.de/freizeit-kultur/vereine",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Fahrenbach",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.fahrenbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.fahrenbach.de/freizeit-tourismus/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Fellbach",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.fellbach.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturvereine",
+        "url": "https://www.fellbach.de/de/Kultur,Genuss,Wein/Kultur/Kulturvereine",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine A-Z",
+        "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Vereine,Sport,Freizeit/Vereine-A-Z-",
+        "score": 40,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Sport-Ass",
+        "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Vereine,Sport,Freizeit/Sport-Ass-2022",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Sportbox",
+        "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Vereine,Sport,Freizeit/Sportbox",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Sportportal",
+        "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Vereine,Sport,Freizeit/Sporteinrichtungen",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Trimm Dich Pfad",
+        "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Vereine,Sport,Freizeit/Trimm-Dich-Pfad-",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      },
+      {
+        "titel": "Umweltknigge",
+        "url": "https://www.fellbach.de/de/Leben-in-Fellbach/Vereine,Sport,Freizeit/Umweltknigge",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Flein",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.flein.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Heimatverein Flein e.V.",
+        "url": "https://www.flein.de/freizeit-kultur/freizeitmoeglichkeiten/heimatverein-flein-ev",
+        "score": 30,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.flein.de/freizeit-kultur/vereine/seite-1/suche-none",
+        "score": 70,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "",
+        "url": "https://www.flein.de/freizeit-kultur/veranstaltungskalender/1140/maifest-bei-bubecks-festscheune-musikverein-frohsinn",
+        "score": 30,
+        "titel_enthaelt_verein": false
+      }
+    ]
+  },
+  {
+    "name": "Fleischwangen",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.fleischwangen.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Förderverein",
+        "url": "http://www.fleischwangen.de/de/foerderverein/",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "http://www.fleischwangen.de/de/buerger-informationen/vereine/",
+        "score": 50,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Forchheim",
+    "typ": "Gemeinde",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.forchheim-am-kaiserstuhl.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.forchheim-am-kaiserstuhl.de/de/kultur-und-tourismus/vereine",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  },
+  {
+    "name": "Forchtenberg",
+    "typ": "Stadt",
+    "bundesland": "Baden-Württemberg",
+    "webseite": "http://www.forchtenberg.de/",
+    "vereinsseiten": [
+      {
+        "titel": "Diakoniestation & Krankenpflegeverein",
+        "url": "https://www.forchtenberg.de/leben-wohnen/pflege-altenbetreuung/diakoniestation-krankenpflegeverein",
+        "score": 10,
+        "titel_enthaelt_verein": true
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.forchtenberg.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60,
+        "titel_enthaelt_verein": true
+      }
+    ]
+  }
+]
