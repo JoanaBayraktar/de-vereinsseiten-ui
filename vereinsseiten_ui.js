@@ -16,9 +16,9 @@ const MUNICIPALITY_SOURCES = [
   "gemeinden_webseiten_schleswig_holstein.json",
   "gemeinden_webseiten_thueringen.json",
 ];
-
 const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json"];
 const SEARCH_TERM = "verein";
+const PAGE_SIZE = 18;
 const EXCLUDED_TITLE_OR_URL_TERMS = [
   "terminvereinbarung",
   "förderverein",
@@ -45,7 +45,10 @@ const EXCLUDED_TITLE_OR_URL_TERMS = [
 const state = {
   municipalities: [],
   activeTab: "clubs",
-  selectedMunicipality: "",
+  selectedState: "",
+  expandedGroups: new Set(),
+  allGroupsOpen: true,
+  page: 1,
   sourceName: "",
 };
 
@@ -54,13 +57,14 @@ const elements = {
   fileInput: document.querySelector("#fileInput"),
   resetButton: document.querySelector("#resetButton"),
   menuButton: document.querySelector("#menuButton"),
-  sideNav: document.querySelector("#sideNav"),
+  stateSidebar: document.querySelector("#stateSidebar"),
   navBackdrop: document.querySelector("#navBackdrop"),
   searchInput: document.querySelector("#searchInput"),
   minScoreInput: document.querySelector("#minScoreInput"),
-  stateSelect: document.querySelector("#stateSelect"),
   sortSelect: document.querySelector("#sortSelect"),
   withClubsOnlyInput: document.querySelector("#withClubsOnlyInput"),
+  expandGroupsButton: document.querySelector("#expandGroupsButton"),
+  clearStateButton: document.querySelector("#clearStateButton"),
   municipalityMetric: document.querySelector("#municipalityMetric"),
   municipalitySubMetric: document.querySelector("#municipalitySubMetric"),
   homepageMetric: document.querySelector("#homepageMetric"),
@@ -69,15 +73,14 @@ const elements = {
   clubCoverageSubMetric: document.querySelector("#clubCoverageSubMetric"),
   clubLinkMetric: document.querySelector("#clubLinkMetric"),
   clubLinkSubMetric: document.querySelector("#clubLinkSubMetric"),
-  progressSummary: document.querySelector("#progressSummary"),
-  stateProgressList: document.querySelector("#stateProgressList"),
-  summaryText: document.querySelector("#summaryText"),
-  selectedText: document.querySelector("#selectedText"),
   activeTabLabel: document.querySelector("#activeTabLabel"),
-  allButton: document.querySelector("#allButton"),
-  municipalityList: document.querySelector("#municipalityList"),
+  resultsTitle: document.querySelector("#resultsTitle"),
+  summaryText: document.querySelector("#summaryText"),
+  stateProgressList: document.querySelector("#stateProgressList"),
   resultsList: document.querySelector("#resultsList"),
   emptyState: document.querySelector("#emptyState"),
+  paginationTop: document.querySelector("#paginationTop"),
+  paginationBottom: document.querySelector("#paginationBottom"),
 };
 
 function normalize(value) {
@@ -162,7 +165,6 @@ function shouldExcludeClubPage(page) {
 
 function normalizeClubPages(pages) {
   const seen = new Set();
-
   return (pages || [])
     .filter((page) => !shouldExcludeClubPage(page))
     .map((page) => ({
@@ -196,27 +198,17 @@ function mergeData(municipalityData, clubData) {
 
   for (const entry of municipalityData.flat()) {
     const key = recordKey(entry);
-    if (!records.has(key)) {
-      records.set(key, makeMunicipalityRecord(entry));
-    }
+    if (!records.has(key)) records.set(key, makeMunicipalityRecord(entry));
   }
 
   for (const entry of clubData.flat()) {
     const key = recordKey(entry);
-    if (!records.has(key)) {
-      records.set(key, makeMunicipalityRecord(entry));
-    }
-
+    if (!records.has(key)) records.set(key, makeMunicipalityRecord(entry));
     const record = records.get(key);
     record.vereinsseiten = normalizeClubPages([...(record.vereinsseiten || []), ...(entry.vereinsseiten || [])]);
   }
 
-  return [...records.values()].sort((a, b) => {
-    return (
-      String(a.bundesland || "").localeCompare(String(b.bundesland || ""), "de-DE") ||
-      String(a.name || "").localeCompare(String(b.name || ""), "de-DE")
-    );
-  });
+  return sortMunicipalities([...records.values()], "state");
 }
 
 async function loadDefaultData() {
@@ -227,7 +219,7 @@ async function loadDefaultData() {
     try {
       municipalitySources.push(await fetchJson(fileName));
     } catch {
-      // Missing state files are ignored so local development remains easy.
+      // Optional source for local/dev builds.
     }
   }
 
@@ -235,36 +227,21 @@ async function loadDefaultData() {
     try {
       clubSources.push(await fetchJson(fileName));
     } catch {
-      // Missing club files are ignored.
+      // Optional source while scraping is still running.
     }
   }
 
   state.municipalities = mergeData(municipalitySources, clubSources);
-  state.sourceName = `${municipalitySources.length} Gemeindelisten, ${clubSources.length} Vereinslisten`;
+  state.sourceName = `${municipalitySources.length} Gemeindelisten · ${clubSources.length} Vereinslisten`;
   elements.sourceLabel.textContent = state.sourceName;
-  fillStateSelect();
   render();
-}
-
-function fillStateSelect() {
-  const states = [...new Set(state.municipalities.map((entry) => entry.bundesland).filter(Boolean))].sort((a, b) =>
-    a.localeCompare(b, "de-DE")
-  );
-
-  elements.stateSelect.innerHTML = '<option value="">Alle</option>';
-  for (const stateName of states) {
-    const option = document.createElement("option");
-    option.value = stateName;
-    option.textContent = stateName;
-    elements.stateSelect.append(option);
-  }
 }
 
 function getFilters() {
   return {
     search: normalize(elements.searchInput.value.trim()),
     minScore: numberOrNull(elements.minScoreInput.value),
-    bundesland: elements.stateSelect.value,
+    state: state.selectedState,
     sort: elements.sortSelect.value,
     withClubsOnly: elements.withClubsOnlyInput.checked,
   };
@@ -288,12 +265,10 @@ function filteredClubPages(entry, filters) {
   });
 }
 
-function getFilteredMunicipalities({ ignoreSelection = false } = {}) {
+function getFilteredMunicipalities() {
   const filters = getFilters();
-
   const filtered = state.municipalities
-    .filter((entry) => ignoreSelection || !state.selectedMunicipality || entry.id === state.selectedMunicipality)
-    .filter((entry) => !filters.bundesland || entry.bundesland === filters.bundesland)
+    .filter((entry) => !filters.state || entry.bundesland === filters.state)
     .filter((entry) => municipalityMatchesSearch(entry, filters.search))
     .map((entry) => ({ ...entry, visibleVereinsseiten: filteredClubPages(entry, filters) }))
     .filter((entry) => !filters.withClubsOnly || entry.visibleVereinsseiten.length > 0);
@@ -303,25 +278,16 @@ function getFilteredMunicipalities({ ignoreSelection = false } = {}) {
 
 function sortMunicipalities(entries, sortMode) {
   const sorted = [...entries];
-
   if (sortMode === "clubs") {
-    return sorted.sort((a, b) => b.visibleVereinsseiten.length - a.visibleVereinsseiten.length || a.name.localeCompare(b.name, "de-DE"));
+    return sorted.sort((a, b) => (b.visibleVereinsseiten || b.vereinsseiten || []).length - (a.visibleVereinsseiten || a.vereinsseiten || []).length || a.name.localeCompare(b.name, "de-DE"));
   }
-
   if (sortMode === "score") {
     return sorted.sort((a, b) => getMaxScore(b) - getMaxScore(a) || a.name.localeCompare(b.name, "de-DE"));
   }
-
   if (sortMode === "name") {
     return sorted.sort((a, b) => a.name.localeCompare(b.name, "de-DE"));
   }
-
-  return sorted.sort((a, b) => {
-    return (
-      String(a.bundesland || "").localeCompare(String(b.bundesland || ""), "de-DE") ||
-      String(a.name || "").localeCompare(String(b.name || ""), "de-DE")
-    );
-  });
+  return sorted.sort((a, b) => String(a.bundesland || "").localeCompare(String(b.bundesland || ""), "de-DE") || String(a.name || "").localeCompare(String(b.name || ""), "de-DE"));
 }
 
 function getMaxScore(entry) {
@@ -330,36 +296,31 @@ function getMaxScore(entry) {
 
 function getStateStats() {
   const stats = new Map();
-
   for (const entry of state.municipalities) {
     const key = entry.bundesland || "Unbekannt";
     if (!stats.has(key)) {
-      stats.set(key, {
-        name: key,
-        total: 0,
-        withHomepage: 0,
-        withClub: 0,
-        clubLinks: 0,
-      });
+      stats.set(key, { name: key, total: 0, withHomepage: 0, withClub: 0, clubLinks: 0 });
     }
-
     const stat = stats.get(key);
     stat.total += 1;
     if (entry.webseite) stat.withHomepage += 1;
     if ((entry.vereinsseiten || []).length > 0) stat.withClub += 1;
     stat.clubLinks += (entry.vereinsseiten || []).length;
   }
-
   return [...stats.values()].sort((a, b) => a.name.localeCompare(b.name, "de-DE"));
 }
 
 function render() {
   const filtered = getFilteredMunicipalities();
+  const pageCount = Math.max(1, Math.ceil(getResultCount(filtered) / PAGE_SIZE));
+  state.page = Math.min(state.page, pageCount);
+
   renderMetrics(filtered);
-  renderStateProgress();
-  renderMunicipalityList(getFilteredMunicipalities({ ignoreSelection: true }));
+  renderStateSidebar();
   renderResults(filtered);
   syncTabButtons();
+  elements.expandGroupsButton.hidden = state.activeTab !== "clubs";
+  elements.expandGroupsButton.textContent = state.allGroupsOpen ? "Alle Gruppen schließen" : "Alle Gruppen öffnen";
 }
 
 function renderMetrics(filtered) {
@@ -379,221 +340,165 @@ function renderMetrics(filtered) {
   elements.clubLinkSubMetric.textContent = `${formatNumber(visibleClubLinks)} sichtbar`;
 }
 
-function renderStateProgress() {
-  const stats = getStateStats();
-  const selectedState = elements.stateSelect.value;
-  const visibleStats = selectedState ? stats.filter((item) => item.name === selectedState) : stats;
-
-  elements.progressSummary.textContent = `${formatNumber(visibleStats.length)} Bundeslaender`;
+function renderStateSidebar() {
   elements.stateProgressList.replaceChildren();
-
-  for (const stat of visibleStats) {
-    const card = document.createElement("article");
-    card.className = "state-card";
-
-    const head = document.createElement("div");
-    head.className = "state-card-head";
-    const title = document.createElement("h3");
-    title.textContent = stat.name;
-    const count = document.createElement("span");
-    count.className = "count-pill";
-    count.textContent = `${formatNumber(stat.total)} Gemeinden`;
-    head.append(title, count);
-
-    const progress = document.createElement("div");
-    progress.className = "progress-stack";
-    progress.append(
-      createProgressRow("Homepages", stat.withHomepage, stat.total, "orange"),
-      createProgressRow("Vereinsseiten", stat.withClub, stat.total, "green")
-    );
-
-    const meta = document.createElement("div");
-    meta.className = "state-card-meta";
-    meta.innerHTML = `<span>${formatNumber(stat.clubLinks)} Vereinslinks</span><span>${percent(stat.withClub, stat.total)}% Trefferquote</span>`;
-
-    card.append(head, progress, meta);
-    elements.stateProgressList.append(card);
+  for (const stat of getStateStats()) {
+    const button = document.createElement("button");
+    button.className = `state-button ${state.selectedState === stat.name ? "active" : ""}`;
+    button.type = "button";
+    button.append(createStateHead(stat), createStateProgress(stat));
+    button.addEventListener("click", () => {
+      state.selectedState = state.selectedState === stat.name ? "" : stat.name;
+      state.page = 1;
+      closeMenu();
+      render();
+    });
+    elements.stateProgressList.append(button);
   }
 }
 
-function createProgressRow(label, value, total, color) {
+function createStateHead(stat) {
+  const head = document.createElement("div");
+  head.className = "state-button-head";
+  const title = document.createElement("h3");
+  title.textContent = stat.name;
+  const pill = document.createElement("span");
+  pill.className = "pill";
+  pill.textContent = formatNumber(stat.total);
+  head.append(title, pill);
+  return head;
+}
+
+function createStateProgress(stat) {
+  const wrap = document.createElement("div");
+  wrap.className = "state-progress";
+  wrap.append(createProgressLine("Home", percent(stat.withHomepage, stat.total), false));
+  wrap.append(createProgressLine("Verein", percent(stat.withClub, stat.total), true));
+  return wrap;
+}
+
+function createProgressLine(label, value, green) {
   const row = document.createElement("div");
-  row.className = "progress-row";
-
-  const text = document.createElement("span");
-  text.textContent = label;
-
-  const track = document.createElement("div");
-  track.className = "progress-track";
-  const fill = document.createElement("div");
-  fill.className = `progress-fill ${color === "green" ? "green" : ""}`;
-  fill.style.width = `${percent(value, total)}%`;
-  track.append(fill);
-
-  const percentText = document.createElement("strong");
-  percentText.textContent = `${percent(value, total)}%`;
-
-  row.append(text, track, percentText);
+  row.className = "state-progress-line";
+  row.innerHTML = `<span>${label}</span><div class="state-track"><div class="state-fill ${green ? "green" : ""}" style="width:${value}%"></div></div><strong>${value}%</strong>`;
   return row;
 }
 
-function renderMunicipalityList(entries) {
-  elements.municipalityList.replaceChildren();
+function getResultCount(entries) {
+  if (state.activeTab === "clubs") return entries.filter((entry) => entry.visibleVereinsseiten.length > 0).length;
+  return entries.length;
+}
 
-  for (const entry of entries) {
-    const item = document.createElement("li");
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = entry.id === state.selectedMunicipality ? "active" : "";
-    button.title = entry.name;
-
-    const labelWrap = document.createElement("span");
-    const label = document.createElement("span");
-    label.className = "municipality-name";
-    label.textContent = entry.name;
-    const subline = document.createElement("span");
-    subline.className = "municipality-subline";
-    subline.textContent = `${entry.bundesland || "Unbekannt"} · ${entry.webseite ? "Homepage" : "keine Homepage"}`;
-    labelWrap.append(label, subline);
-
-    const pill = document.createElement("span");
-    pill.className = "count-pill";
-    pill.textContent = (entry.visibleVereinsseiten || []).length;
-
-    button.append(labelWrap, pill);
-    button.addEventListener("click", () => {
-      state.selectedMunicipality = entry.id;
-      closeMenu();
-      render();
-      document.querySelector("#results").scrollIntoView({ block: "start" });
-    });
-
-    item.append(button);
-    elements.municipalityList.append(item);
-  }
+function paginate(items) {
+  const start = (state.page - 1) * PAGE_SIZE;
+  return items.slice(start, start + PAGE_SIZE);
 }
 
 function renderResults(entries) {
   elements.resultsList.replaceChildren();
-  elements.selectedText.textContent =
-    state.municipalities.find((entry) => entry.id === state.selectedMunicipality)?.name || "Alle Gemeinden";
   elements.activeTabLabel.textContent = tabLabel(state.activeTab);
+  elements.resultsTitle.textContent = state.selectedState || "Alle Bundeslaender";
 
-  if (state.activeTab === "clubs") {
-    renderClubResults(entries);
-  } else if (state.activeTab === "homepages") {
-    renderHomepageResults(entries);
-  } else {
-    renderMunicipalityResults(entries);
-  }
+  if (state.activeTab === "clubs") renderClubResults(entries);
+  if (state.activeTab === "homepages") renderHomepageResults(entries);
+  if (state.activeTab === "municipalities") renderMunicipalityResults(entries);
 }
 
 function renderClubResults(entries) {
-  const rows = entries.flatMap((entry) => (entry.visibleVereinsseiten || []).map((page) => ({ entry, page })));
-  elements.summaryText.textContent = `${formatNumber(rows.length)} Vereinslinks`;
-  elements.emptyState.hidden = rows.length > 0;
+  const groups = entries.filter((entry) => entry.visibleVereinsseiten.length > 0);
+  const totalLinks = groups.reduce((sum, entry) => sum + entry.visibleVereinsseiten.length, 0);
+  elements.summaryText.textContent = `${formatNumber(groups.length)} Gemeinden · ${formatNumber(totalLinks)} Links`;
+  elements.emptyState.hidden = groups.length > 0;
+  renderPagination(groups.length);
+  for (const entry of paginate(groups)) elements.resultsList.append(createClubGroup(entry));
+}
 
-  for (const { entry, page } of rows) {
-    elements.resultsList.append(createClubRow(entry, page));
-  }
+function createClubGroup(entry) {
+  const group = document.createElement("article");
+  const isOpen = state.allGroupsOpen || state.expandedGroups.has(entry.id);
+  group.className = `club-group ${isOpen ? "open" : ""}`;
+  const head = document.createElement("button");
+  head.className = "club-group-head";
+  head.type = "button";
+  head.innerHTML = `<span class="club-group-title"><strong>${entry.name}</strong><span>${entry.typ || "Gemeinde"} · ${entry.bundesland} · ${entry.webseite || "keine Homepage"}</span></span><span class="pill orange">${entry.visibleVereinsseiten.length} Links</span><span class="pill">Score ${getMaxScore(entry)}</span>`;
+  head.addEventListener("click", () => toggleGroup(entry.id));
+  const body = document.createElement("div");
+  body.className = "club-group-body";
+  for (const page of entry.visibleVereinsseiten) body.append(createClubRow(page));
+  group.append(head, body);
+  return group;
+}
+
+function createClubRow(page) {
+  const row = document.createElement("div");
+  row.className = "club-row";
+  const score = Math.max(0, Math.min(100, Number(page.score ?? 0)));
+  row.innerHTML = `<div><strong>${page.titel}</strong><a href="${page.url}" target="_blank" rel="noopener noreferrer">${page.url}</a></div><div class="score-block"><div class="score-top"><span>Score</span><strong>${page.score ?? "-"}</strong></div><div class="score-track"><div class="score-fill" style="width:${score}%"></div></div></div>`;
+  return row;
 }
 
 function renderHomepageResults(entries) {
   const rows = entries.filter((entry) => entry.webseite);
   elements.summaryText.textContent = `${formatNumber(rows.length)} Homepages`;
   elements.emptyState.hidden = rows.length > 0;
+  renderPagination(rows.length);
+  const table = document.createElement("div");
+  table.className = "homepage-table";
+  for (const entry of paginate(rows)) table.append(createHomepageRow(entry));
+  elements.resultsList.append(table);
+}
 
-  for (const entry of rows) {
-    elements.resultsList.append(createHomepageRow(entry));
-  }
+function createHomepageRow(entry) {
+  const row = document.createElement("article");
+  row.className = "homepage-row";
+  row.innerHTML = `<div><strong>${entry.name}</strong><span class="muted-line">${entry.typ || "Gemeinde"} · ${entry.bundesland}</span></div><a href="${entry.webseite}" target="_blank" rel="noopener noreferrer">${entry.webseite}</a><div><span class="pill ${entry.visibleVereinsseiten.length ? "green" : "orange"}">${entry.visibleVereinsseiten.length ? "Vereinsseite" : "offen"}</span></div>`;
+  return row;
 }
 
 function renderMunicipalityResults(entries) {
   elements.summaryText.textContent = `${formatNumber(entries.length)} Gemeinden`;
   elements.emptyState.hidden = entries.length > 0;
-
-  for (const entry of entries) {
-    elements.resultsList.append(createMunicipalityRow(entry));
-  }
+  renderPagination(entries.length);
+  const grid = document.createElement("div");
+  grid.className = "municipality-grid";
+  for (const entry of paginate(entries)) grid.append(createMunicipalityCard(entry));
+  elements.resultsList.append(grid);
 }
 
-function createClubRow(entry, page) {
-  return createResultRow({
-    entry,
-    title: page.titel,
-    url: page.url,
-    meta: [
-      [`Score ${page.score ?? "-"}`, "score-pill"],
-      [entry.bundesland, "state-pill"],
-      [page.titel_enthaelt_verein ? "Titel" : "URL", "title-pill"],
-    ],
-  });
+function createMunicipalityCard(entry) {
+  const card = document.createElement("article");
+  card.className = "municipality-card";
+  card.innerHTML = `<h3>${entry.name}</h3><span class="muted-line">${entry.typ || "Gemeinde"} · ${entry.bundesland}</span><div class="card-stat-row"><span class="pill ${entry.webseite ? "green" : "orange"}">${entry.webseite ? "Homepage" : "keine Homepage"}</span><span class="pill blue">${entry.visibleVereinsseiten.length} Vereinslinks</span><span class="pill">Score ${getMaxScore(entry)}</span></div>${entry.webseite ? `<a href="${entry.webseite}" target="_blank" rel="noopener noreferrer">${entry.webseite}</a>` : ""}`;
+  return card;
 }
 
-function createHomepageRow(entry) {
-  return createResultRow({
-    entry,
-    title: entry.webseite ? "Gemeindehomepage" : "Keine Homepage",
-    url: entry.webseite,
-    meta: [
-      [entry.bundesland, "state-pill"],
-      [entry.webseite ? "erfasst" : "fehlt", entry.webseite ? "status-pill green" : "status-pill orange"],
-    ],
-  });
+function renderPagination(totalItems) {
+  const pageCount = Math.max(1, Math.ceil(totalItems / PAGE_SIZE));
+  const renderTarget = (target) => {
+    target.replaceChildren();
+    if (pageCount <= 1) return;
+    for (let page = 1; page <= pageCount; page++) {
+      if (pageCount > 9 && page !== 1 && page !== pageCount && Math.abs(page - state.page) > 1) continue;
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = page === state.page ? "active" : "";
+      button.textContent = page;
+      button.addEventListener("click", () => {
+        state.page = page;
+        render();
+        document.querySelector(".results-card").scrollIntoView({ block: "start" });
+      });
+      target.append(button);
+    }
+  };
+  renderTarget(elements.paginationTop);
+  renderTarget(elements.paginationBottom);
 }
 
-function createMunicipalityRow(entry) {
-  return createResultRow({
-    entry,
-    title: `${entry.name} (${entry.typ || "Typ unbekannt"})`,
-    url: entry.webseite,
-    meta: [
-      [entry.bundesland, "state-pill"],
-      [`${(entry.visibleVereinsseiten || []).length} Vereinslinks`, "count-pill"],
-      [entry.webseite ? "Homepage" : "keine Homepage", entry.webseite ? "status-pill green" : "status-pill orange"],
-    ],
-  });
-}
-
-function createResultRow({ entry, title, url, meta }) {
-  const row = document.createElement("article");
-  row.className = "result-row";
-
-  const location = document.createElement("div");
-  location.className = "result-location";
-  const name = document.createElement("strong");
-  name.textContent = entry.name || "Unbekannte Gemeinde";
-  const details = document.createElement("span");
-  details.textContent = [entry.typ, entry.bundesland].filter(Boolean).join(" · ");
-  location.append(name, details);
-
-  const content = document.createElement("div");
-  const titleNode = document.createElement("span");
-  titleNode.className = "result-title";
-  titleNode.textContent = title || "Ohne Titel";
-  content.append(titleNode);
-
-  if (url) {
-    const link = document.createElement("a");
-    link.className = "result-url";
-    link.href = url;
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
-    link.textContent = url;
-    content.append(link);
-  }
-
-  const metaNode = document.createElement("div");
-  metaNode.className = "result-meta";
-  for (const [text, className] of meta.filter(([value]) => value)) {
-    const pill = document.createElement("span");
-    pill.className = className;
-    pill.textContent = text;
-    metaNode.append(pill);
-  }
-
-  row.append(location, content, metaNode);
-  return row;
+function toggleGroup(id) {
+  if (state.expandedGroups.has(id)) state.expandedGroups.delete(id);
+  else state.expandedGroups.add(id);
+  render();
 }
 
 function tabLabel(tab) {
@@ -604,7 +509,7 @@ function tabLabel(tab) {
 
 function setActiveTab(tab) {
   state.activeTab = tab;
-  closeMenu();
+  state.page = 1;
   render();
 }
 
@@ -617,10 +522,10 @@ function syncTabButtons() {
 function resetFilters() {
   elements.searchInput.value = "";
   elements.minScoreInput.value = "";
-  elements.stateSelect.value = "";
   elements.sortSelect.value = "state";
   elements.withClubsOnlyInput.checked = false;
-  state.selectedMunicipality = "";
+  state.selectedState = "";
+  state.page = 1;
   render();
 }
 
@@ -637,47 +542,46 @@ function closeMenu() {
 }
 
 function toggleMenu() {
-  if (document.body.classList.contains("nav-open")) {
-    closeMenu();
-  } else {
-    openMenu();
-  }
+  document.body.classList.contains("nav-open") ? closeMenu() : openMenu();
 }
 
 elements.fileInput.addEventListener("change", async (event) => {
   const file = event.target.files?.[0];
   if (!file) return;
-
-  const text = await file.text();
-  const uploadedClubData = JSON.parse(text);
+  const uploadedClubData = JSON.parse(await file.text());
   state.municipalities = mergeData([state.municipalities], [uploadedClubData]);
-  state.sourceName = `${state.sourceName} + ${file.name}`;
+  state.sourceName = `${state.sourceName} · ${file.name}`;
   elements.sourceLabel.textContent = state.sourceName;
-  fillStateSelect();
   render();
 });
 
 elements.resetButton.addEventListener("click", resetFilters);
-elements.allButton.addEventListener("click", () => {
-  state.selectedMunicipality = "";
+elements.clearStateButton.addEventListener("click", () => {
+  state.selectedState = "";
+  state.page = 1;
   render();
 });
 elements.menuButton.addEventListener("click", toggleMenu);
 elements.navBackdrop.addEventListener("click", closeMenu);
+elements.expandGroupsButton.addEventListener("click", () => {
+  state.allGroupsOpen = !state.allGroupsOpen;
+  state.expandedGroups.clear();
+  render();
+});
 
 for (const button of document.querySelectorAll("[data-tab-target]")) {
   button.addEventListener("click", () => setActiveTab(button.dataset.tabTarget));
 }
 
-for (const input of [
-  elements.searchInput,
-  elements.minScoreInput,
-  elements.stateSelect,
-  elements.sortSelect,
-  elements.withClubsOnlyInput,
-]) {
-  input.addEventListener("input", render);
-  input.addEventListener("change", render);
+for (const input of [elements.searchInput, elements.minScoreInput, elements.sortSelect, elements.withClubsOnlyInput]) {
+  input.addEventListener("input", () => {
+    state.page = 1;
+    render();
+  });
+  input.addEventListener("change", () => {
+    state.page = 1;
+    render();
+  });
 }
 
 loadDefaultData();

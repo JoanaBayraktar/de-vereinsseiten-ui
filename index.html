@@ -3,180 +3,134 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>🏛️ Vereinsradar Dashboard</title>
+    <title>Vereinsradar Dashboard</title>
     <link rel="stylesheet" href="vereinsseiten_ui.css">
   </head>
   <body>
-    <main class="dashboard-shell">
-
-      <!-- ══ SIDEBAR ══ -->
-      <aside id="sideNav" class="side-nav" aria-label="Dashboard Navigation">
-        <div class="brand-block">
-          <span class="brand-mark">🏛️</span>
+    <main class="app-shell">
+      <header class="app-header">
+        <div class="brand-area">
+          <button id="menuButton" class="burger-button" type="button" aria-label="Bundesland-Menue oeffnen" aria-expanded="false">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+          <div class="brand-mark" aria-hidden="true">VR</div>
           <div>
-            <strong>Vereinsradar</strong>
-            <span>Kommunen &amp; Vereinsseiten</span>
+            <p class="eyebrow">Vereinsradar</p>
+            <h1>Kommunen & Vereinsseiten</h1>
           </div>
         </div>
 
-        <nav class="nav-stack" aria-label="Ansichten">
-          <button class="nav-link active" type="button" data-tab-target="clubs">
-            <span class="nav-ico">🤝</span> Vereine
-          </button>
-          <button class="nav-link" type="button" data-tab-target="homepages">
-            <span class="nav-ico">🌐</span> Gemeindeseiten
-          </button>
-          <button class="nav-link" type="button" data-tab-target="municipalities">
-            <span class="nav-ico">🏘️</span> Gemeinden
-          </button>
-        </nav>
-
-        <div class="source-box">
-          <span>📂 Datenquellen</span>
-          <strong id="sourceLabel">Lade Daten…</strong>
+        <div class="header-search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="Gemeinde, Bundesland, Homepage oder Vereinslink suchen">
         </div>
-      </aside>
 
-      <!-- ══ MAIN ══ -->
-      <section class="main-area">
+        <div class="header-actions">
+          <label class="ghost-button">
+            Datei laden
+            <input id="fileInput" type="file" accept="application/json,.json">
+          </label>
+          <button id="resetButton" class="primary-button" type="button">Reset</button>
+        </div>
+      </header>
 
-        <!-- Mobile Header -->
-        <header class="mobile-header">
-          <button id="menuButton" class="icon-button" type="button"
-                  aria-label="Menü öffnen" aria-expanded="false">
-            <span></span><span></span><span></span>
-          </button>
-          <div class="brand-block compact-brand">
-            <span class="brand-mark">🏛️</span>
-            <strong>Vereinsradar</strong>
-          </div>
-        </header>
-
-        <!-- Topbar -->
-        <header class="topbar">
+      <section class="metric-grid" aria-label="Kennzahlen">
+        <article class="metric-card">
+          <span class="metric-icon" aria-hidden="true">◎</span>
           <div>
-            <p class="eyebrow">🇩🇪 Deutschland Dashboard</p>
-            <h1>Gemeinden, Homepages &amp; Vereinsseiten</h1>
-          </div>
-          <div class="topbar-actions">
-            <label class="ghost-button" title="JSON-Datei laden">
-              📂 Datei laden
-              <input id="fileInput" type="file" accept="application/json,.json">
-            </label>
-            <button id="resetButton" class="primary-button" type="button">🔄 Filter resetten</button>
-          </div>
-        </header>
-
-        <!-- ── KPI GRID ── -->
-        <section id="overview" class="metric-grid" aria-label="Kennzahlen">
-          <article class="metric-tile orange">
-            <div class="metric-icon">🏘️</div>
-            <span>Gemeinden gesamt</span>
+            <span>Gemeinden</span>
             <strong id="municipalityMetric">0</strong>
             <small id="municipalitySubMetric">0 sichtbar</small>
-          </article>
-          <article class="metric-tile blue">
-            <div class="metric-icon">🌐</div>
+          </div>
+        </article>
+        <article class="metric-card">
+          <span class="metric-icon orange" aria-hidden="true">⌂</span>
+          <div>
             <span>Gemeindehomepages</span>
             <strong id="homepageMetric">0%</strong>
             <small id="homepageSubMetric">0 von 0</small>
-          </article>
-          <article class="metric-tile green">
-            <div class="metric-icon">🤝</div>
-            <span>Vereinsseiten gefunden</span>
+          </div>
+        </article>
+        <article class="metric-card">
+          <span class="metric-icon green" aria-hidden="true">✓</span>
+          <div>
+            <span>Vereinsseiten</span>
             <strong id="clubCoverageMetric">0%</strong>
             <small id="clubCoverageSubMetric">0 Gemeinden</small>
-          </article>
-          <article class="metric-tile purple">
-            <div class="metric-icon">🔗</div>
+          </div>
+        </article>
+        <article class="metric-card">
+          <span class="metric-icon blue" aria-hidden="true">↗</span>
+          <div>
             <span>Vereinslinks</span>
             <strong id="clubLinkMetric">0</strong>
             <small id="clubLinkSubMetric">0 sichtbar</small>
-          </article>
-        </section>
-
-        <!-- ── FILTER BAR ── -->
-        <section class="filter-bar" aria-label="Filter">
-          <label class="wide-control">
-            🔍 Suche
-            <input id="searchInput" type="search"
-                   placeholder="Gemeinde, Bundesland, Homepage oder Vereinslink">
-          </label>
-          <label>
-            🗺️ Bundesland
-            <select id="stateSelect">
-              <option value="">Alle</option>
-            </select>
-          </label>
-          <label>
-            ↕️ Sortierung
-            <select id="sortSelect">
-              <option value="state">Bundesland</option>
-              <option value="name">Gemeinde A–Z</option>
-              <option value="clubs">Vereinslinks</option>
-              <option value="score">Höchster Score</option>
-            </select>
-          </label>
-          <label>
-            🎯 Mindestscore
-            <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
-          </label>
-          <label class="switch-row">
-            <input id="withClubsOnlyInput" type="checkbox">
-            <span>✅ Nur mit Vereinsseite</span>
-          </label>
-        </section>
-
-        <!-- ── PROGRESS PANEL ── -->
-        <section class="progress-panel">
-          <div class="section-head">
-            <div>
-              <p class="eyebrow">📊 Abdeckung</p>
-              <h2>Stand je Bundesland</h2>
-            </div>
-            <strong id="progressSummary" class="result-count">0 Bundesländer</strong>
           </div>
-          <div id="stateProgressList" class="state-progress-list"></div>
-        </section>
+        </article>
+      </section>
 
-        <!-- ── TABS ── -->
-        <section class="tab-strip" aria-label="Tab-Auswahl">
-          <button class="tab-button active" type="button" data-tab-target="clubs">🤝 Vereine</button>
-          <button class="tab-button" type="button" data-tab-target="homepages">🌐 Gemeindeseiten</button>
-          <button class="tab-button" type="button" data-tab-target="municipalities">🏘️ Gemeinden</button>
-        </section>
-
-        <!-- ── RESULTS ── -->
-        <section id="results" class="results-layout">
-
-          <aside class="municipality-panel" aria-label="Gemeinden">
-            <div class="section-head sticky-head">
-              <div>
-                <p class="eyebrow">🔎 Auswahl</p>
-                <h2>Gemeinden</h2>
-              </div>
-              <button id="allButton" class="compact-button" type="button">Alle</button>
-            </div>
-            <ol id="municipalityList" class="municipality-list"></ol>
-          </aside>
-
-          <section class="result-panel" aria-label="Gefilterte Ergebnisse">
-            <div class="section-head">
-              <div>
-                <p class="eyebrow" id="activeTabLabel">Vereine</p>
-                <h2 id="selectedText">Alle Gemeinden</h2>
-              </div>
-              <strong id="summaryText" class="result-count">0 Ergebnisse</strong>
-            </div>
-            <div id="emptyState" class="empty-state" hidden>
-              <div class="empty-icon">🔍</div>
-              <p>Keine passenden Ergebnisse.</p>
-              <p class="empty-hint">Andere Filter oder Suchbegriffe ausprobieren.</p>
-            </div>
-            <div id="resultsList" class="result-table"></div>
+      <section class="workspace">
+        <section class="content-column">
+          <section class="filter-card" aria-label="Filter">
+            <label>
+              Mindestscore
+              <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
+            </label>
+            <label>
+              Sortierung
+              <select id="sortSelect">
+                <option value="state">Bundesland</option>
+                <option value="name">Gemeinde A-Z</option>
+                <option value="clubs">Vereinslinks</option>
+                <option value="score">Hoechster Score</option>
+              </select>
+            </label>
+            <label class="switch-row">
+              <input id="withClubsOnlyInput" type="checkbox">
+              <span>Nur mit Vereinsseite</span>
+            </label>
+            <button id="expandGroupsButton" class="ghost-button" type="button">Alle Gruppen öffnen</button>
           </section>
 
+          <section class="tab-card" aria-label="Ansichten">
+            <button class="tab-button active" type="button" data-tab-target="clubs">Vereine</button>
+            <button class="tab-button" type="button" data-tab-target="homepages">Gemeindeseiten</button>
+            <button class="tab-button" type="button" data-tab-target="municipalities">Gemeinden</button>
+          </section>
+
+          <section class="results-card" aria-label="Ergebnisse">
+            <div class="results-head">
+              <div>
+                <p id="activeTabLabel" class="eyebrow">Vereine</p>
+                <h2 id="resultsTitle">Alle Bundeslaender</h2>
+              </div>
+              <div class="results-meta">
+                <strong id="summaryText">0 Ergebnisse</strong>
+                <div id="paginationTop" class="pagination compact"></div>
+              </div>
+            </div>
+            <div id="emptyState" class="empty-state" hidden>Keine passenden Ergebnisse.</div>
+            <div id="resultsList" class="results-list"></div>
+            <div id="paginationBottom" class="pagination"></div>
+          </section>
         </section>
+
+        <aside id="stateSidebar" class="state-sidebar" aria-label="Bundeslaender">
+          <div class="sidebar-head">
+            <div>
+              <p class="eyebrow">Abdeckung</p>
+              <h2>Bundeslaender</h2>
+            </div>
+            <button id="clearStateButton" class="text-button" type="button">Alle</button>
+          </div>
+          <div id="stateProgressList" class="state-list"></div>
+          <div class="source-card">
+            <span>Datenquellen</span>
+            <strong id="sourceLabel">Lade Daten...</strong>
+          </div>
+        </aside>
       </section>
     </main>
 
