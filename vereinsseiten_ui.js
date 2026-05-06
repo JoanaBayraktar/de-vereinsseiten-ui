@@ -1,4 +1,4 @@
-const DATA_FILES = ["filtered vereinsseiten.json", "filtered_vereinsseiten.json"];
+const DATA_FILES = ["filtered-vereinsseiten.json", "filtered_vereinsseiten.json"];
 
 const state = {
   rawData: [],
