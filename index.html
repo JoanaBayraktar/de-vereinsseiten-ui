@@ -3,69 +3,148 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Vereinsseiten Filter</title>
+    <title>DE Vereinsseiten Dashboard</title>
     <link rel="stylesheet" href="vereinsseiten_ui.css">
   </head>
   <body>
-    <main class="app-shell">
-      <header class="toolbar">
-        <div>
-          <h1>Vereinsseiten Filter</h1>
-          <p id="sourceLabel">Lade Daten...</p>
-        </div>
-        <div class="toolbar-actions">
-          <label class="file-button" title="JSON-Datei laden">
-            Datei laden
-            <input id="fileInput" type="file" accept="application/json,.json">
-          </label>
-          <button id="resetButton" type="button" title="Filter zuruecksetzen">Zuruecksetzen</button>
-        </div>
-      </header>
-
-      <section class="filters" aria-label="Filter">
-        <label>
-          Suche
-          <input id="searchInput" type="search" placeholder="Gemeinde, Titel oder URL">
-        </label>
-        <label>
-          Mindestscore
-          <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
-        </label>
-        <label>
-          Hoechstscore
-          <input id="maxScoreInput" type="number" min="0" step="10" placeholder="egal">
-        </label>
-        <label>
-          Bundesland
-          <select id="stateSelect">
-            <option value="">Alle</option>
-          </select>
-        </label>
-        <label class="checkbox-row">
-          <input id="titleOnlyInput" type="checkbox">
-          Nur Titel mit Verein
-        </label>
-      </section>
-
-      <section class="summary" aria-live="polite">
-        <strong id="summaryText">0 Gemeinden, 0 URLs</strong>
-        <span id="selectedText">Alle Gemeinden</span>
-      </section>
-
-      <div class="workspace">
-        <aside class="municipality-panel" aria-label="Gemeinden">
-          <div class="panel-head">
-            <h2>Gemeinden</h2>
-            <button id="allButton" type="button" title="Alle Gemeinden anzeigen">Alle</button>
+    <main class="dashboard-shell">
+      <aside class="side-nav" aria-label="Dashboard Navigation">
+        <div class="brand-block">
+          <span class="brand-mark">VR</span>
+          <div>
+            <strong>Vereinsradar</strong>
+            <span>DE Kommunen</span>
           </div>
-          <ol id="municipalityList" class="municipality-list"></ol>
-        </aside>
+        </div>
+        <nav class="nav-stack" aria-label="Ansichten">
+          <a class="active" href="#overview">Overview</a>
+          <a href="#results">Ergebnisse</a>
+          <a href="#quality">Qualitaet</a>
+        </nav>
+        <div class="source-box">
+          <span>Datenquelle</span>
+          <strong id="sourceLabel">Lade Daten...</strong>
+        </div>
+      </aside>
 
-        <section class="results-panel" aria-label="Ergebnisse">
-          <div id="emptyState" class="empty-state" hidden>Keine passenden Ergebnisse.</div>
-          <div id="resultsList" class="results-list"></div>
+      <section class="main-area">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Admin Dashboard</p>
+            <h1>Vereinsseiten Review</h1>
+          </div>
+          <div class="topbar-actions">
+            <label class="ghost-button" title="JSON-Datei laden">
+              Datei laden
+              <input id="fileInput" type="file" accept="application/json,.json">
+            </label>
+            <button id="resetButton" class="primary-button" type="button">Filter resetten</button>
+          </div>
+        </header>
+
+        <section id="overview" class="metric-grid" aria-label="Kennzahlen">
+          <article class="metric-tile">
+            <span>Gemeinden</span>
+            <strong id="municipalityMetric">0</strong>
+            <small id="municipalitySubMetric">0 sichtbar</small>
+          </article>
+          <article class="metric-tile">
+            <span>URLs</span>
+            <strong id="urlMetric">0</strong>
+            <small id="urlSubMetric">0 sichtbar</small>
+          </article>
+          <article class="metric-tile">
+            <span>Titel-Treffer</span>
+            <strong id="titleHitMetric">0%</strong>
+            <small id="titleHitSubMetric">0 Treffer</small>
+          </article>
+          <article class="metric-tile">
+            <span>Durchschnittsscore</span>
+            <strong id="scoreMetric">0</strong>
+            <small id="scoreSubMetric">Score-Mix</small>
+          </article>
         </section>
-      </div>
+
+        <section class="filter-bar" aria-label="Filter">
+          <label class="wide-control">
+            Suche
+            <input id="searchInput" type="search" placeholder="Gemeinde, Titel, URL, Bundesland">
+          </label>
+          <label>
+            Mindestscore
+            <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
+          </label>
+          <label>
+            Hoechstscore
+            <input id="maxScoreInput" type="number" min="0" step="10" placeholder="egal">
+          </label>
+          <label>
+            Bundesland
+            <select id="stateSelect">
+              <option value="">Alle</option>
+            </select>
+          </label>
+          <label>
+            Sortierung
+            <select id="sortSelect">
+              <option value="name">Gemeinde A-Z</option>
+              <option value="count">Meiste URLs</option>
+              <option value="score">Hoechster Score</option>
+            </select>
+          </label>
+          <label class="switch-row">
+            <input id="titleOnlyInput" type="checkbox">
+            <span>Nur Titel-Treffer</span>
+          </label>
+        </section>
+
+        <section id="quality" class="insight-grid">
+          <article class="insight-panel">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow">Verteilung</p>
+                <h2>Score-Buckets</h2>
+              </div>
+            </div>
+            <div id="scoreDistribution" class="bar-list"></div>
+          </article>
+
+          <article class="insight-panel">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow">Hotspots</p>
+                <h2>Top Gemeinden</h2>
+              </div>
+            </div>
+            <ol id="topMunicipalities" class="top-list"></ol>
+          </article>
+        </section>
+
+        <section id="results" class="results-layout">
+          <aside class="municipality-panel" aria-label="Gemeinden">
+            <div class="section-head sticky-head">
+              <div>
+                <p class="eyebrow">Auswahl</p>
+                <h2>Gemeinden</h2>
+              </div>
+              <button id="allButton" class="compact-button" type="button">Alle</button>
+            </div>
+            <ol id="municipalityList" class="municipality-list"></ol>
+          </aside>
+
+          <section class="result-panel" aria-label="Gefilterte Ergebnisse">
+            <div class="section-head">
+              <div>
+                <p class="eyebrow">Review Queue</p>
+                <h2 id="selectedText">Alle Gemeinden</h2>
+              </div>
+              <strong id="summaryText" class="result-count">0 URLs</strong>
+            </div>
+            <div id="emptyState" class="empty-state" hidden>Keine passenden Ergebnisse.</div>
+            <div id="resultsList" class="result-table"></div>
+          </section>
+        </section>
+      </section>
     </main>
 
     <script src="vereinsseiten_ui.js"></script>
