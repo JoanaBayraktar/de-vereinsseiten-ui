@@ -10482,5 +10482,2692 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Dorfen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10109057443",
+    "webseite": "https://www.dorfen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bildung & Kultur",
+        "url": "https://www.dorfen.de/Bildung-Kultur",
+        "score": 10
+      },
+      {
+        "titel": "Online-Terminvereinbarung",
+        "url": "https://dorfen.konsentas.de/modules/ota_public/form/5/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Dorfprozelten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04330853535",
+    "webseite": "http://www.dorfprozelten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "03.                            \n–                                \n                                    05. Juli 2026\n                                \n                        \n                        Musikverein - Jubiläumsfest 150 Jahre Blasmusik & 75 Jahre Musikkapelle\n                            \nDorfplatz, Dorfprozelten",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/veranstaltungen/musikverein-jubilaeumsfest-150-jahre-blasmusik-75-jahre-musikkapelle/",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus, Freizeit & Kultur",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Führungen und Wanderungen",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/fuehrungen-und-wanderungen/",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/sehenswuerdigkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Wildgehege",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/wildgehege/",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "Wald erFahren",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/wald-erfahren/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/tourist-info/uebernachten/",
+        "score": 20
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/jugendtreff/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/veranstaltung-melden/",
+        "score": 20
+      },
+      {
+        "titel": "Bildergalerie",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/bildergalerie/",
+        "score": 20
+      },
+      {
+        "titel": "Neubau Kindertagesstätte",
+        "url": "https://www.dorfprozelten.de/tourismus-freizeit-kultur/bildergalerie/neubau-kindertagesstaette/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Dormitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21108630535",
+    "webseite": "https://www.dormitz.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Zur Online Terminvereinbarung",
+        "url": "https://www.terminland.de/vgdormitz/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturerlebnis Fränkische Schweiz",
+        "url": "https://www.kulturerlebnis-fraenkische-schweiz.de/sport-und-freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Drachselsried",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37886407535",
+    "webseite": "http://www.drachselsried.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.drachselsried.de/de/einrichtungen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.drachselsried.de/de/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Dürrlauingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88219738535",
+    "webseite": "https://www.duerrlauingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.duerrlauingen.de/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Dürrwangen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04997515536",
+    "webseite": "http://www.duerrwangen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Duggendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54664184535",
+    "webseite": "http://www.duggendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.duggendorf.de/leben-in-duggendorf/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Durach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71441961535",
+    "webseite": "http://www.durach-allgaeu.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ebelsbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21775292536",
+    "webseite": "http://www.ebelsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/vereine-verbaende.html",
+        "score": 70
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://vg-ebelsbach.de/ebelsbach/freizeit-kultur-tourismus/vereine-verbaende.html",
+        "score": 70
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://vg-ebelsbach.de/gemeinde-kirchlauter/freizeit-kultur-tourismus/vereine-verbaende.html",
+        "score": 70
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://vg-ebelsbach.de/stettfeld/freizeit-kultur-tourismus/vereine-verbaende.html",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur & Tourismus",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus.html",
+        "score": 20
+      },
+      {
+        "titel": "Kreuzweg Breitbrunn",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/aktivitaeten-sehenswuerdigkeiten/kreuzweg-breitbrunn.html",
+        "score": 20
+      },
+      {
+        "titel": "Veitensteinhöhle",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/aktivitaeten-sehenswuerdigkeiten/veitensteinhoehle.html",
+        "score": 20
+      },
+      {
+        "titel": "Dorfgemeinschaftshaus Kottendorf",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/dorfgemeinschaftshaus-kottendorf.html",
+        "score": 20
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/ferienprogramm.html",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/gastronomie.html",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindearchiv",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/gemeindearchiv.html",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindezentrum Breitbrunn",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/gemeindezentrum-breitbrunn.html",
+        "score": 20
+      },
+      {
+        "titel": "evangelische Kirche",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/kirchen/evangelische-kirche.html",
+        "score": 20
+      },
+      {
+        "titel": "katholische Kirche",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/kirchen/katholische-kirche.html",
+        "score": 20
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/unterkuenfte.html",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/veranstaltungen.html",
+        "score": 20
+      },
+      {
+        "titel": "Wandern & Radeln",
+        "url": "https://vg-ebelsbach.de/gemeinde-breitbrunn/freizeit-kultur-tourismus/wandern-radeln.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Kultur & Tourismus",
+        "url": "https://vg-ebelsbach.de/ebelsbach/freizeit-kultur-tourismus.html",
+        "score": 20
+      },
+      {
+        "titel": "Sektkellerei Ebelsbach",
+        "url": "https://vg-ebelsbach.de/ebelsbach/freizeit-kultur-tourismus/aktivitaeten-sehenswuerdigkeiten/sektkellerei-bunkeranlage-ebelsbach.html",
+        "score": 20
+      },
+      {
+        "titel": "Golfplatz Steinbach",
+        "url": "https://vg-ebelsbach.de/ebelsbach/freizeit-kultur-tourismus/aktivitaeten-sehenswuerdigkeiten/golfplatz-steinbach.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Ebensfeld",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38553069536",
+    "webseite": "http://www.ebensfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.ebensfeld.de/de/leben-wohnen/vereinsverzeichnis.php",
+        "score": 40
+      }
+    ]
+  },
+  {
+    "name": "Eberfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55330846536",
+    "webseite": "https://eberfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ebermannsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72108623536",
+    "webseite": "http://www.ebermannsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ebermannsdorf.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.ebermannsdorf.de/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Ebermannstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79886813447",
+    "webseite": "http://www.ebermannstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kulturfest                            \n                17. Mai 2026        \n    \n        \n        \n                Beginn: 13:00 Uhr        \n        \n                Weiterlesen",
+        "url": "https://www.ebermannstadt.de/veranstaltungen/kulturfest/",
+        "score": 10
+      },
+      {
+        "titel": "Alle Termine",
+        "url": "https://www.ebermannstadt.de/freizeit-tourismus/veranstaltungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ebern",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34886778455",
+    "webseite": "http://www.ebern.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereins- und Jugendförderung der Stadt erhöht",
+        "url": "https://www.ebern.de/index.php/9-cms-vg/aktuelles/1243-vereins-und-jugendfoerderung-der-stadt-erhoeht",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus | Kultur | Freizeit",
+        "url": "https://www.ebern.de/index.php/tkf",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.ebern.de/index.php/verwaltungsgemeinschaft/online-terminvereinbarung",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ebersberg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93331280442",
+    "webseite": "http://www.ebersberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ebersdorf b.Coburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88886400536",
+    "webseite": "https://www.ebersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ebershausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05664177537",
+    "webseite": "http://www.ebershausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ebnath",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/22441954537",
+    "webseite": "http://www.ebnath.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://ebnath.de/bauen-wohnen-leben/leben/vereine",
+        "score": 50
+      },
+      {
+        "titel": "News & Bekanntmachungen",
+        "url": "https://ebnath.de/tourismus-und-kultur/akutelles-und-bekanntmachungen/aktuelle-nachrichten-und-nachrichtenmeldung",
+        "score": 10
+      },
+      {
+        "titel": "Ebnath als Gastgeber",
+        "url": "https://ebnath.de/tourismus-und-kultur/ebnath-als-gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege rund um Ebnath",
+        "url": "https://ebnath.de/tourismus-und-kultur/wanderwege-rund-um-ebnath",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://ebnath.de/tourismus-und-kultur/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "aktuelle Veranstaltungen & Veranstaltungsmeldung",
+        "url": "https://ebnath.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung",
+        "score": 10
+      },
+      {
+        "titel": "Akutelles & Bekanntmachungen",
+        "url": "https://ebnath.de/tourismus-und-kultur/akutelles-und-bekanntmachungen",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://vgem-neusorg.de/tourismus-und-kultur/bekannmachungen-nachrichten-und-veranstaltungen/aktuelles-und-bekanntmachungen/2026/stellenausschreibung-verwaltungsgemeinschaft-neusorg-verwaltungsangestellte-r-oder-buerokraft-f",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://vgem-neusorg.de/tourismus-und-kultur/bekannmachungen-nachrichten-und-veranstaltungen/aktuelles-und-bekanntmachungen/2026/bekanntmachung-fertigstellung-kommunale-waermeplanung",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://vgem-neusorg.de/tourismus-und-kultur/bekannmachungen-nachrichten-und-veranstaltungen/aktuelles-und-bekanntmachungen/2026/information-zum-landesweit-einheitlichen-probealarm-am-12-03-2026",
+        "score": 10
+      },
+      {
+        "titel": "Gemeinderatssitzung\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tRathaus\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t07.05.2026 - Zeit: 19 Uhr",
+        "url": "https://ebnath.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung/2026/gemeinderatssitzung-5",
+        "score": 10
+      },
+      {
+        "titel": "Praxisübung aller Maschinisten\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tFeuerwehrhaus\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t07.05.2026 - Zeit: 19 Uhr",
+        "url": "https://ebnath.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung/2026/praxisuebung-aller-maschinisten",
+        "score": 10
+      },
+      {
+        "titel": "Maiandacht\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t-\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t08.05.2026 - Zeit: 18 Uhr",
+        "url": "https://ebnath.de/tourismus-und-kultur/veranstaltungen/aktuelle-veranstaltungen-und-veranstaltungsmeldung/2026/maiandacht",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ebrach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39219731537",
+    "webseite": "https://www.ebrach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/72775285537",
+    "webseite": "https://www.eching-ndb.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eching",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/55997508537",
+    "webseite": "https://www.eching.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eching am Ammersee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/89553062537",
+    "webseite": "https://www.eching-ammersee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.eching-ammersee.de/kultur-freizeit/ferienprogramm",
+        "score": 20
+      },
+      {
+        "titel": "Bayerische Seenschifffahrt",
+        "url": "https://www.eching-ammersee.de/kultur-freizeit/bayerische-seenschifffahrt",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.eching-ammersee.de/kultur-freizeit/tourismus",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.eching-ammersee.de/kultur-freizeit/gaststaetten",
+        "score": 20
+      },
+      {
+        "titel": "Computer-Treff",
+        "url": "https://www.eching-ammersee.de/kultur-freizeit/computer-treff",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Eckental",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06330839538",
+    "webseite": "https://www.eckental.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eckersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23108616538",
+    "webseite": "https://www.eckersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Edelsfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/39886393538",
+    "webseite": "https://www.edelsfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Sehensw�rdigkeiten",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/sehenswuerdigkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege / Radwege",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/wanderwege-radwege/",
+        "score": 20
+      },
+      {
+        "titel": "Gastro / Unterk�nfte",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/gastronomie-unterkuenfte/",
+        "score": 20
+      },
+      {
+        "titel": "Sportm�glichkeiten",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/sportmoeglichkeiten/",
+        "score": 20
+      },
+      {
+        "titel": "Musikgruppen",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/musikgruppen/",
+        "score": 20
+      },
+      {
+        "titel": "Eindr�cke der Gemeinde",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/eindruecke-gemeinde/",
+        "score": 20
+      },
+      {
+        "titel": "Ferien-Jugendprogramm",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/ferien-jugendprogramm/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit, Tourismus& Kultur",
+        "url": "https://www.edelsfeld.de/freizeit-tourismus-kultur/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Ederheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/56664170538",
+    "webseite": "http://www.ederheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ederheim.de/index.php/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Edling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/73441947538",
+    "webseite": "http://www.edling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.edling.de/index.php?seite=veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Vereine & Interessengemeinschaften",
+        "url": "https://www.edling.de/index.php?seite=vereine",
+        "score": 20
+      },
+      {
+        "titel": "KulturSpur",
+        "url": "https://www.edling.de/index.php?seite=kulturspur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Effeltrich",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90219724538",
+    "webseite": "https://www.effeltrich.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Egenhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06997501539",
+    "webseite": "http://www.egenhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sporteinrichtungen",
+        "url": "https://www.egenhofen.de/freizeit-und-sport/vereine-und-verbaende/sporteinrichtungen",
+        "score": 60
+      },
+      {
+        "titel": "Gemeinnützige Unternehmen/Vereine",
+        "url": "https://www.egenhofen.de/bildung-und-soziales/gemeinnuetzige-unternehmen-vereine",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.egenhofen.de/freizeit-und-sport/gaststaetten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Egg a.d.Günz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/23775278539",
+    "webseite": "http://www.gemeinde-egg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Lebendiges Vereinsleben",
+        "url": "https://www.gemeinde-egg.de/freizeit-geniessen/lebendiges-vereinsleben/vereinsregister",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.gemeinde-egg.de/freizeit-geniessen/lebendiges-vereinsleben/feuerwehren",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.gemeinde-egg.de/freizeit-geniessen/was-ist-los-in-egg-adguenz/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.gemeinde-egg.de/freizeit-geniessen/freizeitangebote/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Wassertretanlage",
+        "url": "https://www.gemeinde-egg.de/freizeit-geniessen/freizeitangebote/wassertretanlage",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.gemeinde-egg.de/freizeit-geniessen/gastronomie-und-uebernachtung/uebernachten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eggenfelden",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77220165443",
+    "webseite": "http://www.eggenfelden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eggenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/40553055539",
+    "webseite": "https://www.eggenthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine\n                                                                                    & Verbände",
+        "url": "https://www.eggenthal.de/vereine-und-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Tourismus\n                                                                                    & Freizeit",
+        "url": "https://www.eggenthal.de/",
+        "score": 10
+      },
+      {
+        "titel": "Bildungs- & Freizeitangebote",
+        "url": "https://www.eggenthal.de/familie-und-bildung/bildungs--und-freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus-Info",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/tourismus-info",
+        "score": 10
+      },
+      {
+        "titel": "Ferienfreizeit",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/ferienfreizeit",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Urlaub",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub",
+        "score": 10
+      },
+      {
+        "titel": "Angeln",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/angeln",
+        "score": 10
+      },
+      {
+        "titel": "Familien und Kinder",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/familien-und-kinder",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen und Kapellen",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/kirchen-und-kapellen",
+        "score": 10
+      },
+      {
+        "titel": "Kunst",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/kunst",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/wintersport",
+        "score": 10
+      },
+      {
+        "titel": "Lehrpfade",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/lehrpfade",
+        "score": 10
+      },
+      {
+        "titel": "Pilgern",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/pilgern",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Reiten",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/reiten",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Nordic Walking",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/freizeit-und-urlaub/wandern-und-nordic-walking",
+        "score": 10
+      },
+      {
+        "titel": "360° Panorama",
+        "url": "https://www.eggenthal.de/tourismus-freizeit/360-panorama",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Egglham",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57330832539",
+    "webseite": "https://www.egglham.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine der Gemeinde Egglham",
+        "url": "https://www.egglham.de/bei-uns-dahoam/gemeindeleben/vereine-der-gemeinde-egglham",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitmöglichkeit",
+        "url": "https://www.egglham.de/bei-uns-dahoam/gemeindeleben/freizeitmoeglichkeit",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Egglkofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74108609539",
+    "webseite": "http://www.egglkofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Ehrenamt",
+        "url": "https://www.egglkofen.de/freizeit-und-naherholung/vereine-und-ehrenamt/vereinsliste",
+        "score": 90
+      },
+      {
+        "titel": "Freizeit und Kultur",
+        "url": "https://www.egglkofen.de/freizeit-und-naherholung/freizeit-und-kultur/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit und Naherholung",
+        "url": "https://www.egglkofen.de/freizeit-und-naherholung/veranstaltungen-und-feste",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.egglkofen.de/freizeit-und-naherholung/veranstaltungen-und-feste/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Sport und Fitness",
+        "url": "https://www.egglkofen.de/freizeit-und-naherholung/sport-und-fitness/sportanlagen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eggolsheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90886386539",
+    "webseite": "http://www.eggolsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eggstätt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/07664163540",
+    "webseite": "http://www.eggstaett.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.eggstaett.de/leben-in-eggstaett/freizeit-und-vereine/feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.eggstaett.de/leben-in-eggstaett/freizeit-und-vereine/gemeindebuecherei",
+        "score": 30
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.eggstaett.de/leben-in-eggstaett/freizeit-und-vereine/essen-und-trinken",
+        "score": 30
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.eggstaett.de/leben-in-eggstaett/senioren-und-junggebliebene/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.eggstaett.de/erleben/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Bodenbrüterschutz in Eggstätt",
+        "url": "https://www.eggstaett.de/erleben/freizeitangebote/bodenbrueterschutz-in-eggstaett",
+        "score": 10
+      },
+      {
+        "titel": "Radeln und Wandern",
+        "url": "https://www.eggstaett.de/erleben/freizeitangebote/radeln-und-wandern",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eging a.See",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/24441940540",
+    "webseite": "http://www.eging.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine + Verbände",
+        "url": "https://eging.de/gemeinde-rathaus/vereine-verbaende",
+        "score": 50
+      },
+      {
+        "titel": "Übersicht Urlaub + Freizeit",
+        "url": "https://eging.de/urlaub-freizeit/uebersicht",
+        "score": 10
+      },
+      {
+        "titel": "Sonnen-Therme",
+        "url": "https://eging.de/urlaub-freizeit/sonnen-therme",
+        "score": 10
+      },
+      {
+        "titel": "Pullman City",
+        "url": "https://eging.de/urlaub-freizeit/pullman-city",
+        "score": 10
+      },
+      {
+        "titel": "Kurpark + Garten der Sinne",
+        "url": "https://eging.de/urlaub-freizeit/kurpark-garten-der-sinne",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://eging.de/urlaub-freizeit/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit + Radfahren",
+        "url": "https://eging.de/urlaub-freizeit/freizeit-radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://eging.de/urlaub-freizeit/uebernachten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eglfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41219717540",
+    "webseite": "https://eglfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://eglfing.de/de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://eglfing.de/de/kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://eglfing.de/de/sport-freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Arbeiter- und Krankenunterstützungsverein",
+        "url": "https://eglfing.de/de/arbeiter-und-krankenunterstuetzungsverein.html",
+        "score": 10
+      },
+      {
+        "titel": "Heimat- und Museumsverein",
+        "url": "https://eglfing.de/de/heimatmuseum.html",
+        "score": 10
+      },
+      {
+        "titel": "Schützenverein",
+        "url": "https://schuetzengesellschaft-eglfing.jimdosite.com/",
+        "score": 10
+      },
+      {
+        "titel": "Veteranen- und Reservistenverein",
+        "url": "https://eglfing.de/de/veteranen-und-reservistenverein.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Egling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/57997494540",
+    "webseite": "http://www.egling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Muttertagsbasteln für Kinder - Gartenbauverein Egling und Umgebung e.V.",
+        "url": "https://www.egling.de/termin/Muttertagsbasteln-fuer-Kinder-Gartenbauverein-Egling-und-Umgebung-e-V-event-appointment6186",
+        "score": 10
+      },
+      {
+        "titel": "Bieranstich - 50-jähr. Gründungsfest Burschenverein Deining",
+        "url": "https://www.egling.de/termin/Bieranstich-50-jaehr-Gruendungsfest-Burschenverein-Deining-event-appointment6163",
+        "score": 10
+      },
+      {
+        "titel": "Weinfest - 50-jähr. Gründungsfest Burschenverein Deining",
+        "url": "https://www.egling.de/termin/Weinfest-50-jaehr-Gruendungsfest-Burschenverein-Deining-event-appointment6165",
+        "score": 10
+      },
+      {
+        "titel": "Burschenfest - 50-jähr. Gründungsfest Burschenverein Deining",
+        "url": "https://www.egling.de/termin/Burschenfest-50-jaehr-Gruendungsfest-Burschenverein-Deining-event-appointment6167",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Egling a.d.Paar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/74775271540",
+    "webseite": "https://egling.com",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://egling.com/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Egloffstein",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/91553048540",
+    "webseite": "https://www.egloffstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://www.egloffstein.de/seite/de/cms0605202615365934203973/614/-/Veranstaltungshinweise_des_Tourismusvereins_Egloffstein_und_Umgebung.html",
+        "score": 30
+      },
+      {
+        "titel": "Verzeichnis der Ansprechpartner in den Vereinen und Organisationen",
+        "url": "https://www.egloffstein.de/seite/de/cms0605202615365934203973/01398:1910/-/Verzeichnis_der_Ansprechpartner_in_den_Vereinen_und_Organisationen.html",
+        "score": 20
+      },
+      {
+        "titel": "Informationen zum Vereinsrecht",
+        "url": "https://www.egloffstein.de/seite/de/cms0605202615365934203973/01398:1834/-/Informationen_zum_Vereinsrecht.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "https://www.egloffstein.de/seite/de/cms0605202615365934203973/01397/-/Freizeit_und_Tourismus.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeittipps",
+        "url": "https://www.egloffstein.de/seite/de/cms0605202615365934203973/01397:1424/-/Freizeittipps.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Egmating",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08330825541",
+    "webseite": "http://www.egmating.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Egweil",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25108602541",
+    "webseite": "https://www.egweil.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.egweil.de/oertliche-einrichtungen/vereine/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ehekirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/41886379541",
+    "webseite": "http://www.ehekirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ehingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/75441933541",
+    "webseite": "http://www.ehingen-gemeinde.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ehingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/58664156541",
+    "webseite": "http://www.ehingen-hesselberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ehingen a.Ries",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92219710541",
+    "webseite": "http://www.ehingen-am-ries.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eibelstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65109022450",
+    "webseite": "http://www.eibelstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eichenau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/08997487542",
+    "webseite": "http://www.eichenau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.eichenau.org/index.php?id=0,423",
+        "score": 20
+      },
+      {
+        "titel": "KINO IN EICHENAU: Das Projekt „Kino - Frauen aller Kulturen“ präsentiert am 07.05.2026 den Film\n„HIDDEN FIGURES“ im Sitzungssaal des Rathauses.",
+        "url": "https://www.eichenau.org/kino-in-eichenau-am-07-mai-2026-hidden-figures",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eichenbühl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/25775264542",
+    "webseite": "https://www.eichenbuehl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit, Kultur & Fremdenverkehr",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/",
+        "score": 20
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/uebernachten/",
+        "score": 20
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/gastronomie/",
+        "score": 20
+      },
+      {
+        "titel": "Markttag 2019",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/bildergalerie/markttag-2019/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienspiele 2023",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/bildergalerie/ferienspiele-2023/",
+        "score": 20
+      },
+      {
+        "titel": "Ferienspiele 2024",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/bildergalerie/ferienspiele-2024/",
+        "score": 20
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/wanderwege/",
+        "score": 20
+      },
+      {
+        "titel": "10. Mai 2026                            \n                        \n                        Kapellenweihe und Patrozinium der Pfarrei Windischbuchen\n                            \nKapelle Windischbuchen, Eichenbühl - Windischbuchen",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/veranstaltungen/kapellenweihe-und-patrozinium-der-pfarrei-windischbuchen/",
+        "score": 20
+      },
+      {
+        "titel": "14. Mai 2026                            \n                        \n                        Frühlingsfest \n                            \nGarten an der Gemeindebücherei, Eichenbühl",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/veranstaltungen/fruehlingsfest/",
+        "score": 20
+      },
+      {
+        "titel": "17. Mai 2026                            \n                        \n                        Florianstag der Freiwilligen Feuerwehr Eichenbühl\n                            \nFeuerwehrhaus Eichenbühl, Eichenbühl",
+        "url": "https://www.eichenbuehl.de/freizeit-kultur-fremdenverkehr/veranstaltungen/florianstag/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Eichendorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42553041542",
+    "webseite": "https://www.markt-eichendorf.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit, Vereine & Tourismus",
+        "url": "https://www.markt-eichendorf.de/index.php/gastronomie-uebernachtungen",
+        "score": 30
+      },
+      {
+        "titel": "Bildung & Kultur",
+        "url": "https://www.markt-eichendorf.de/index.php/joseph-von-eichendorff",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eichstätt",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47664583449",
+    "webseite": "http://www.eichstaett.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eiselfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59330818542",
+    "webseite": "https://www.eiselfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.eiselfing.de/freizeit-kultur/kultur-veranstaltungen/veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Die Natur erleben",
+        "url": "https://www.eiselfing.de/freizeit-kultur/die-natur-erleben/naturlehrpfad-schwarzmoosbach",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Sport",
+        "url": "https://www.eiselfing.de/freizeit-kultur/freizeit-sport/eiselfinger-buecherschrank",
+        "score": 20
+      },
+      {
+        "titel": "Meldung zum Veranstaltungskalender",
+        "url": "https://www.eiselfing.de/freizeit-kultur/kultur-veranstaltungen/meldung-zum-veranstaltungskalender",
+        "score": 20
+      },
+      {
+        "titel": "Kunst im Rathaus",
+        "url": "https://www.eiselfing.de/freizeit-kultur/kultur-veranstaltungen/kunst-im-rathaus",
+        "score": 20
+      },
+      {
+        "titel": "Eiselfinger Dorf-Flohmarkt",
+        "url": "https://www.eiselfing.de/freizeit-kultur/kultur-veranstaltungen/eiselfinger-dorf-flohmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.eiselfing.de/freizeit-kultur/kultur-veranstaltungen/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Regionale Ausflugsziele",
+        "url": "https://www.eiselfing.de/freizeit-kultur/kultur-veranstaltungen/regionale-ausflugsziele",
+        "score": 20
+      },
+      {
+        "titel": "Naturschutzgebiet Murner Filz",
+        "url": "https://www.eiselfing.de/freizeit-kultur/die-natur-erleben/naturschutzgebiet-murner-filz",
+        "score": 20
+      },
+      {
+        "titel": "Radeln & Wandern",
+        "url": "https://www.eiselfing.de/freizeit-kultur/die-natur-erleben/radeln-wandern",
+        "score": 20
+      },
+      {
+        "titel": "Spiel- & Bolzplätze",
+        "url": "https://www.eiselfing.de/freizeit-kultur/freizeit-sport/spiel-bolzplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://www.eiselfing.de/freizeit-kultur/freizeit-sport/sportanlagen",
+        "score": 20
+      },
+      {
+        "titel": "Bikepark \"Weihertrail\"",
+        "url": "https://www.eiselfing.de/freizeit-kultur/freizeit-sport/bikepark-weihertrail",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Eisenberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76108595542",
+    "webseite": "http://www.eisenberg-allgaeu.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eisenheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/92886372542",
+    "webseite": "http://www.eisenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eisingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09664149543",
+    "webseite": "http://www.eisingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://eisingen.de/freizeit-kultur/vereine-organisationen/",
+        "score": 70
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://eisingen.de/freizeit-kultur/freizeiteinrichtungen/",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindepartnerschaft",
+        "url": "https://eisingen.de/freizeit-kultur/gemeindepartnerschaft/",
+        "score": 20
+      },
+      {
+        "titel": "Umgebung",
+        "url": "https://eisingen.de/freizeit-kultur/natur-bewegung/umgebung/",
+        "score": 20
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://eisingen.de/freizeit-kultur/natur-bewegung/radwege/",
+        "score": 20
+      },
+      {
+        "titel": "E-Bike-Ladestation",
+        "url": "https://eisingen.de/freizeit-kultur/natur-bewegung/e-bike-ladestation/",
+        "score": 20
+      },
+      {
+        "titel": "Nordic Walking",
+        "url": "https://eisingen.de/freizeit-kultur/natur-bewegung/nordic-walking/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitwegweiser",
+        "url": "https://eisingen.de/freizeit-kultur/natur-bewegung/freizeitwegweise-der-allianz-waldsassengau/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Eitensheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/26441926543",
+    "webseite": "http://www.eitensheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine\n                                        \n\n                                            \n\n                                                    Hier finden Sie die Eitensheimer Vereine",
+        "url": "https://www.eitensheim.de/leben-in-eitensheim/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "30.03.2026\n\n                                                     Presse\n                                            \n\n                                            Das aktuelle Gmoabladl ist erschienen\n                                        \n\n                                            \n\n                                                    Die Osterausgabe mit Informationen aus VG, Gemeinde und den Vereinen wird in dieser Woche an alle Haushalte in Eitensheim verteilt.",
+        "url": "https://www.eitensheim.de/aktuelles/aktuelle-meldungen/das-aktuelle-mitteilungsblatt-ist-online-1_2026/",
+        "score": 20
+      },
+      {
+        "titel": "Verein",
+        "url": "https://www.eitensheim.de/rossstall/verein/",
+        "score": 10
+      },
+      {
+        "titel": "Verein und Vorstand",
+        "url": "https://www.eitensheim.de/rossstall/verein/verein-und-vorstand/",
+        "score": 10
+      },
+      {
+        "titel": "Mitgliedschaft",
+        "url": "https://www.eitensheim.de/rossstall/verein/mitgliedschaft/",
+        "score": 10
+      },
+      {
+        "titel": "28.04.2026\n\n                                                     Presse\n                                            \n\n                                            Freizeitbusse im Naturpark Altmühltal starten in die Saison 2026\n                                        \n\n                                            \n\n                                                    Die Freizeitbusse fahren wieder",
+        "url": "https://www.eitensheim.de/aktuelles/aktuelle-meldungen/freizeitbusse-im-naturpark-altmuehltal-starten-in-die-saison-2026/",
+        "score": 10
+      },
+      {
+        "titel": "Bilderausstellung „65. Weihetag der Pfarrkirche St. Andreas Eitensheim“\n                                            \n        \n            \n                von 10.05.2026,  Uhr\n            \n        \n        \n            \n                bis 05.06.2026,  Uhr\n            \n        \n    \n    \n        \n            Kirche St. Andreas, Eitensheim\n\n            \n            \n        \n    \n    \n        \n            Heimatverein, Pfarrei",
+        "url": "https://www.eitensheim.de/aktuelles/veranstaltungen/bilderausstellung-65-weihetag-der-pfarrkirche-st-andreas-eitensheim/",
+        "score": 10
+      },
+      {
+        "titel": "Petzenhauser & Wählt \n                                            \n        \n            \n                am 16.05.2026\n            \n        \n    \n    \n        \n            \n                ab 20:00 Uhr  \n            \n        \n    \n    \n        \n            Roßstall, Eitensheim\n\n            \n            \n        \n    \n    \n        \n            KuK - Kunst und Kultur",
+        "url": "https://www.eitensheim.de/aktuelles/veranstaltungen/petzenhauser-waehlt/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eitting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43219703543",
+    "webseite": "http://www.eitting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Elchingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/59997480543",
+    "webseite": "http://www.elchingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.elchingen.de/index.php?id=46",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.elchingen.de/index.php?id=70",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Elfershausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/76775257543",
+    "webseite": "http://www.elfershausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.elfershausen.de/marktelfershausen/gemeindepolitik/vereine/index.html",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "http://www.elfershausen.de/marktelfershausen/gemeindepolitik/vereine/veranstaltungskalender/index.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ellgau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/93553034543",
+    "webseite": "http://www.ellgau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Organisationen",
+        "url": "https://www.ellgau.de/leben-wohnen-arbeiten/vereine-und-organisationen",
+        "score": 50
+      },
+      {
+        "titel": "Vatertagsfeier Sportverein",
+        "url": "https://www.ellgau.de/aktuelles/terminkalender/eventdetail/2229/-/vatertagsfeier-sportverein",
+        "score": 10
+      },
+      {
+        "titel": "Nachholtermin: Theaterstück \"Der süßeste Wahnsinn\" vom Obst- und Gartenbauverein",
+        "url": "https://www.ellgau.de/aktuelles/terminkalender/eventdetail/2265/-/nachholtermin-theaterstueck-der-suesseste-wahnsinn-vom-obst-und-gartenbauverein",
+        "score": 10
+      },
+      {
+        "titel": "Nachholtermin: Theaterstück \"Der süßeste Wahnsinn\" vom Obst- und Gartenbauverein",
+        "url": "https://www.ellgau.de/aktuelles/terminkalender/eventdetail/2266/-/nachholtermin-theaterstueck-der-suesseste-wahnsinn-vom-obst-und-gartenbauverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ellingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32220130451",
+    "webseite": "https://www.stadt-ellingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ellzee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10330811544",
+    "webseite": "http://www.gemeinde-ellzee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/vereinsleben/vereinsregister",
+        "score": 40
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/vereinsleben/freiwillige-feuerwehr",
+        "score": 30
+      },
+      {
+        "titel": "Vereinsadresse melden",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/vereinsadresse-melden/login/-out",
+        "score": 30
+      },
+      {
+        "titel": "Registrieren",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/vereinsadresse-melden/registrieren",
+        "score": 30
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/sport-und-freizeit/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmbäder",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/sport-und-freizeit/schwimmbaeder",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/sport-und-freizeit/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.gemeinde-ellzee.de/ellzee-erleben/sport-und-freizeit/wandern",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Elsendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27108588544",
+    "webseite": "http://www.elsendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Heimat- und Kulturkreis",
+        "url": "https://elsendorf.de/wp-content/uploads/2025/01/Heimat-und-Kulturkreis-Elsendorf.pdf",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Elsenfeld",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/43886365544",
+    "webseite": "https://www.elsenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "07. Mai 2026                            \n                        \n                        Lesung mit Laura Bachmann im Rahmen der Kulturwoche\n                            \nBibliothek, Elsenfeld",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/veranstaltungen/2605-lesung-biblio/",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/veranstaltungen/",
+        "score": 30
+      },
+      {
+        "titel": "Bürgerzentrum",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/buergerzentrum/",
+        "score": 30
+      },
+      {
+        "titel": "Elsavamar",
+        "url": "https://elsavamar.de/",
+        "score": 30
+      },
+      {
+        "titel": "Elsavapark",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/elsavapark/",
+        "score": 30
+      },
+      {
+        "titel": "Freundeskreis Elsavapark mit Tiergehege",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/elsavapark/freundeskreis-elsavapark-mit-tiergehege/",
+        "score": 30
+      },
+      {
+        "titel": "Gemeindebibliothek",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/gemeindebibliothek/",
+        "score": 30
+      },
+      {
+        "titel": "Städtepartnerschaft",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/staedtepartnerschaft/",
+        "score": 30
+      },
+      {
+        "titel": "08. Mai 2026                            \n                        \n                        Weinprobe JUNGE WEINE\n                            \nBürgerzentrum Elsenfeld, Elsenfeld",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/veranstaltungen/2605-junge-weine/",
+        "score": 30
+      },
+      {
+        "titel": "01.                            \n–                                \n                                    25. Mai 2026\n                                \n                        \n                        Häckertermine im Mai",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/veranstaltungen/2605-haeckertermine/",
+        "score": 30
+      },
+      {
+        "titel": "06. Mai 2026                            \n                        \n                        3-Stunden-Mountainbike-Rennen \n                            \nKloster Himmelthal, Elsenfeld",
+        "url": "https://www.elsenfeld.de/freizeit-vereine/veranstaltungen/2605-3-stunden-rennen/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Eltmann",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85886771456",
+    "webseite": "https://www.eltmann.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://eltmann.de/freizeit-kultur/vereine-und-verbaende.html",
+        "score": 70
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://eltmann.de/freizeit-kultur/sehenswuerdigkeiten.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://eltmann.de/freizeit-kultur/tourismus-ritz.html",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://eltmann.de/freizeit-kultur/veranstaltungskalender.html",
+        "score": 20
+      },
+      {
+        "titel": "Wohnmobilstellplatz",
+        "url": "https://eltmann.de/freizeit-kultur/wohnmobilstellplatz.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Emersacker",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/60664142544",
+    "webseite": "http://www.emersacker.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.gemeinde-emersacker.de/kirchen-vereinsleben.html",
+        "score": 40
+      },
+      {
+        "titel": "Kirchen und Vereinsleben",
+        "url": "https://gemeinde-emersacker.de/kirchen-vereinsleben.html",
+        "score": 30
+      },
+      {
+        "titel": "Kulturangebot",
+        "url": "https://gemeinde-emersacker.de/kulturangebot.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Emmering",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94219696544",
+    "webseite": "https://www.emmering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Jugendtreff Emmering",
+        "url": "https://www.emmering.de/leben-in-emmering/freizeit/jugendtreff-emmering/",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.emmering.de/leben-in-emmering/kultur/",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerhauskonzerte 2026",
+        "url": "https://www.emmering.de/leben-in-emmering/kultur/buergerhauskonzerte-2026/",
+        "score": 10
+      },
+      {
+        "titel": "Alle Veranstaltungen",
+        "url": "https://www.emmering.de/leben-in-emmering/kultur/gemeindebuecherei/buechereiveranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Die Bücherei",
+        "url": "https://www.emmering.de/leben-in-emmering/kultur/gemeindebuecherei/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Emmering",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/77441919544",
+    "webseite": "http://www.vg-assling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Emmerting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10997473545",
+    "webseite": "https://www.gemeinde-emmerting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine / Verbände",
+        "url": "https://www.gemeinde-emmerting.de/kategorie/vereine-verbaende/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Emskirchen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/27775250545",
+    "webseite": "http://www.emskirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.emskirchen.de/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Märkte und Feste",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/veranstaltungen/maerkte-und-feste",
+        "score": 10
+      },
+      {
+        "titel": "Fotowettbewerb",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/aktionen/fotowettbewerb",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie & Unterkunft",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/fremdenverkehr/gastronomie-unterkunft",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/fremdenverkehr/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusverbände und Naturparks",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/fremdenverkehr/tourismusverbaende-und-naturparks",
+        "score": 10
+      },
+      {
+        "titel": "Interaktive Karte",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/fremdenverkehr/interaktive-karte",
+        "score": 10
+      },
+      {
+        "titel": "Rundfunkmuseum",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/museen/rundfunkmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/museen/heimatmuseum",
+        "score": 10
+      },
+      {
+        "titel": "In der Übersicht",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/freizeiteinrichtungen/in-der-uebersicht",
+        "score": 10
+      },
+      {
+        "titel": "Hallen",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/freizeiteinrichtungen/hallen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendeinrichtungen",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/freizeiteinrichtungen/jugendeinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Skateranlage",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/freizeiteinrichtungen/skateranlage",
+        "score": 10
+      },
+      {
+        "titel": "Mini-Spielfeld",
+        "url": "https://www.emskirchen.de/freizeit-tourismus/freizeiteinrichtungen/mini-spielfeld",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Emtmannsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44553027545",
+    "webseite": "https://emtmannsberg.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://emtmannsberg.de/vereineverbaende",
+        "score": 50
+      },
+      {
+        "titel": "Bürgerstiftung",
+        "url": "https://emtmannsberg.de/leben-wohnen/vereine-verbaende/buergerstiftung",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.emtmannsberg.de/freizeitportal",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://emtmannsberg.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Feste Veranstaltungstermine",
+        "url": "https://emtmannsberg.de/freizeit-tourismus/veranstaltungen/feste-veranstaltungstermine",
+        "score": 10
+      },
+      {
+        "titel": "Informationen und Kontakt",
+        "url": "https://emtmannsberg.de/freizeit-tourismus/tourismus/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://emtmannsberg.de/freizeit-tourismus/tourismus/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://emtmannsberg.de/freizeit-tourismus/tourismus/radfahren",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Engelsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61330804545",
+    "webseite": "http://www.engelsberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Engelthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78108581545",
+    "webseite": "http://www.engelthal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://engelthal.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Tag der Vereine 15.9.2024 – kleiner Rückblick",
+        "url": "http://engelthal.de/tag-der-vereine-15-9-2024-kleiner-rueckblick/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "http://engelthal.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ensdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94886358545",
+    "webseite": "http://www.ensdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ensdorf.de/gemeindeleben/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Eppenschlag",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/11664135546",
+    "webseite": "http://www.eppenschlag.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Jahreshauptversammlung des Krieger- und Soldatenvereins",
+        "url": "https://www.eppenschlag.de/aktuelles/news/jahreshauptversammlung-des-krieger-und-soldatenvereins",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.eppenschlag.de/",
+        "score": 10
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.eppenschlag.de/freizeit-erleben/jugendtreff",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitpark",
+        "url": "https://www.eppenschlag.de/freizeit-erleben/freizeitpark",
+        "score": 10
+      },
+      {
+        "titel": "Tourist Information",
+        "url": "https://www.eppenschlag.de/freizeit-erleben/tourist-information",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.eppenschlag.de/freizeit-erleben/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.eppenschlag.de/freizeit-erleben/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Wintersport",
+        "url": "https://www.eppenschlag.de/freizeit-erleben/wintersport",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit & Erleben",
+        "url": "https://www.eppenschlag.de/freizeit-erleben",
+        "score": 10
+      },
+      {
+        "titel": "Erster Faschingsball des Kulturkreises Eppenschlag",
+        "url": "https://www.eppenschlag.de/aktuelles/news/1-faschingsball-des-kulturkreises-eppenschlag",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eppishausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28441912546",
+    "webseite": "https://eppishausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://eppishausen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://eppishausen.de/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Erbendorf",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/10775719444",
+    "webseite": "http://www.erbendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Erding",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/94664604444",
+    "webseite": "http://www.erding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "KULTUR",
+        "url": "https://www.erding.de/museum-erding",
+        "score": 10
+      },
+      {
+        "titel": "TERMIN VEREINBAREN",
+        "url": "https://stadterding.flexappoint.de/",
+        "score": 10
+      },
+      {
+        "titel": "KULTUR",
+        "url": "https://www.erding.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.erding.de/webcam",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.erding.de/kronthaler-weiher",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Erdweg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45219689546",
+    "webseite": "http://www.erdweg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eresing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/61997466546",
+    "webseite": "https://www.eresing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ergersheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/78775243546",
+    "webseite": "http://www.ergersheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://ergersheim.de/gemeinde/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "https://ergersheim.de/gemeinde/freizeit-und-tourismus/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ergolding",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/95553020546",
+    "webseite": "http://www.ergolding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/vereine/",
+        "score": 70
+      },
+      {
+        "titel": "Bildung, Freizeit & Kultur",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Bildung & Erziehung",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/bildung-erziehung/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeiteinrichtungen & Sport",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/freizeiteinrichtungen-sport/",
+        "score": 20
+      },
+      {
+        "titel": "Jugend- & Seniorenarbeit",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/jugend-und-seniorenarbeit/",
+        "score": 20
+      },
+      {
+        "titel": "Bildung, Freizeit & Kultur",
+        "url": "https://www.ergolding.de/",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/volkshochschule/",
+        "score": 20
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.ergolding.de/bildung-freizeit-kultur/buecherei/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Ergoldsbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12330797547",
+    "webseite": "http://www.markt-ergoldsbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online Terminvereinbarung vorhanden?",
+        "url": "https://www.markt-ergoldsbach.de/",
+        "score": 10
+      },
+      {
+        "titel": "Musikgruppen, Chöre und Kultur",
+        "url": "https://www.markt-ergoldsbach.de/lage-ortsplan/?jsf=jet-engine:stadtplan-query-id&tax=adressen-kategorie:866",
+        "score": 10
+      },
+      {
+        "titel": "Kultur Veranstaltungen",
+        "url": "https://www.markt-ergoldsbach.de/kultur-veranstaltungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Erharting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29108574547",
+    "webseite": "http://www.erharting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vg-rohrbach.de/erharting",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Ering",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/45886351547",
+    "webseite": "http://www.ering-inn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismusverein Europareservat Unterer Inn e.V.",
+        "url": "http://www.tourismusverein-ering.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Erkheim",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/62664128547",
+    "webseite": "http://www.erkheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.erkheim.de/de/freizeit-vereine/vereinsregister",
+        "score": 60
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.erkheim.de/de/freizeit-vereine/ehrenamt",
+        "score": 30
+      },
+      {
+        "titel": "Dorfschulmuseum",
+        "url": "https://www.erkheim.de/de/freizeit-vereine/dorfschulmuseum",
+        "score": 30
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.erkheim.de/de/freizeit-vereine/veranstaltungen",
+        "score": 30
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.erkheim.de/de/freizeit-vereine/freibad",
+        "score": 30
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.erkheim.de/index.php?id=326",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.erkheim.de/de/leben-wohnen/freizeit/tourismus-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.erkheim.de/de/leben-wohnen/kultur",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Erlabrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/79441905547",
+    "webseite": "http://www.gemeinde-erlabrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://weinort-erlabrunn.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "APG-ServiceTaxi",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/apg-servicetaxi",
+        "score": 10
+      },
+      {
+        "titel": "Badesee",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/badesee",
+        "score": 10
+      },
+      {
+        "titel": "Clematisdorf",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/clematisdorf",
+        "score": 10
+      },
+      {
+        "titel": "Einkehren & Übernachten",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/einkehren-uebernachten",
+        "score": 10
+      },
+      {
+        "titel": "Erlabrunner Flur",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/erlabrunner-flur",
+        "score": 10
+      },
+      {
+        "titel": "Erlabrunner Wald",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/erlabrunner-wald",
+        "score": 10
+      },
+      {
+        "titel": "Ewiger Garten",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/ewiger-garten",
+        "score": 10
+      },
+      {
+        "titel": "ILE Main-Wein-Garten",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/ile-main-wein-garten",
+        "score": 10
+      },
+      {
+        "titel": "Main-Radweg",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/main-radweg",
+        "score": 10
+      },
+      {
+        "titel": "Schwarzkiefernwald",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/schwarzkiefernwald",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Streuobst",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/streuobst",
+        "score": 10
+      },
+      {
+        "titel": "Termine im Ort",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/termine-im-ort",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://weinort-erlabrunn.de/freizeit-tourismus/wohnmobilstellplaetze",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Erlangen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06998201388",
+    "webseite": "https://www.erlangen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Woche der Meinungsfreiheit<img alt=\"Palais Stutterheim mit Eingang Stadtbibliothek, vor dem Gebäude läuf ein Mann, dazu mehrere abgestellte Fahrräder\" src=\"https://erlangen.de/uwao-api/faila/files/bypath/Bilder/Aktuelles/11-Kultur/Palais_Stutterheim_Eingang_Stadtbibliothek.jpeg?tn=1&amp;q=normal&amp;s=card\" decoding=\"async\" data-nimg=\"responsive\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:cover;object-position:center\" class=\"rs_skip transform group-hover:scale-105 group-focus-visible:scale-105 transition-transform\" loading=\"lazy\"/>",
+        "url": "https://erlangen.de/aktuelles/woche-der-meinungsfreiheit",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Erlbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96219682547",
+    "webseite": "http://www.erlbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Erlenbach a.Main",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30886806449",
+    "webseite": "http://www.stadt-erlenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bergschwimmbad",
+        "url": "https://www.stadt-erlenbach.de/vereine-freizeit/bergschwimmbad/",
+        "score": 60
+      },
+      {
+        "titel": "Camping",
+        "url": "https://www.stadt-erlenbach.de/kultur-tourismus/camping/",
+        "score": 60
+      }
+    ]
+  },
+  {
+    "name": "Erlenbach b.Marktheidenfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/12997459548",
+    "webseite": "https://www.gemeinde-erlenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinstermine 2026",
+        "url": "https://www.gemeinde-erlenbach.de/aktuelles/vereinstermine-2026/",
+        "score": 30
+      },
+      {
+        "titel": "Dorfmuseum",
+        "url": "https://www.gemeinde-erlenbach.de/kultur-vereine/dorfmuseum/",
+        "score": 30
+      },
+      {
+        "titel": "Erlenbacher Weinlied",
+        "url": "https://www.gemeinde-erlenbach.de/kultur-vereine/erlenbacher-weinlied/",
+        "score": 30
+      },
+      {
+        "titel": "Ortsvereine",
+        "url": "https://www.gemeinde-erlenbach.de/kultur-vereine/ortsvereine/",
+        "score": 30
+      },
+      {
+        "titel": "Ortswappen",
+        "url": "https://www.gemeinde-erlenbach.de/kultur-vereine/ortswappen/",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus/Freizeit",
+        "url": "https://www.gemeinde-erlenbach.de/tourismusfreizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Routenplaner",
+        "url": "https://www.gemeinde-erlenbach.de/tourismusfreizeit/routenplaner/",
+        "score": 10
+      },
+      {
+        "titel": "Lokalnachrichten der Region",
+        "url": "https://www.gemeinde-erlenbach.de/tourismusfreizeit/umgebung/lokalnachrichten-der-region/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ermershausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29775236548",
+    "webseite": "http://www.ermershausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Bürgerservice",
+        "url": "https://vghofheim.de/verwaltung/mitgliedsgemeinden-im-portraet/ermershausen/zahlen-daten-fakten.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&cHash=f67662d26223d6ac9b19df152c119b02",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Ernsgaden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46553013548",
+    "webseite": "http://www.ernsgaden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eschau",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63330790548",
+    "webseite": "http://www.eschau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Freizeit und Tourismus",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/",
+        "score": 60
+      },
+      {
+        "titel": "Veranstaltungsstätten",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/veranstaltungsstaetten/",
+        "score": 60
+      },
+      {
+        "titel": "Burgen und Schlösser",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/burgen-und-schloesser/",
+        "score": 60
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/freizeitanlagen/",
+        "score": 60
+      },
+      {
+        "titel": "Jugendtreff",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/jugendtreff/",
+        "score": 60
+      },
+      {
+        "titel": "Kinderspielplätze",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/kinderspielplaetze/",
+        "score": 60
+      },
+      {
+        "titel": "Skulpturengarten Sommerau",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/skulpturengarten-sommerau/",
+        "score": 60
+      },
+      {
+        "titel": "Links",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/links/",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.eschau.de/vereine-freizeit-und-tourismus/vereine/",
+        "score": 60
+      }
+    ]
+  },
+  {
+    "name": "Eschenbach i.d.OPf.",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/28220158445",
+    "webseite": "http://www.eschenbach-opf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ferienfreizeit",
+        "url": "https://www.eschenbach-opf.de/vereine-veranstaltungen/ferienfreizeit",
+        "score": 60
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.eschenbach-opf.de/vereine-veranstaltungen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Veranstaltungskalender ESB",
+        "url": "https://www.eschenbach-opf.de/vereine-veranstaltungen/veranstaltungskalender",
+        "score": 50
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.eschenbach-opf.de/vereine-veranstaltungen/ferienprogramm",
+        "score": 50
+      },
+      {
+        "titel": "Malzhaus",
+        "url": "https://www.eschenbach-opf.de/vereine-veranstaltungen/malzhaus",
+        "score": 50
+      },
+      {
+        "titel": "Bürger- & Vereinsbus",
+        "url": "https://www.eschenbach-opf.de/stadt-buerger/buerger-vereinsbus",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.eschenbach-opf.de/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeiteinrichtungen",
+        "url": "https://www.eschenbach-opf.de/freizeit-tourismus/freizeiteinrichtungen/sportstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Tourist-Info",
+        "url": "https://www.eschenbach-opf.de/freizeit-tourismus/tourist-info",
+        "score": 10
+      },
+      {
+        "titel": "Natur",
+        "url": "https://www.eschenbach-opf.de/freizeit-tourismus/natur",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.eschenbach-opf.de/freizeit-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.eschenbach-opf.de/freizeit-tourismus/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Stadtverband",
+        "url": "https://www.eschenbach-opf.de/freizeit-tourismus/stadtverband",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eschenlohe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80108567548",
+    "webseite": "http://www.eschenlohe.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.eschenlohe.de/leben-in-eschenlohe/vereine",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Eschlkam",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/96886344548",
+    "webseite": "http://www.eschlkam.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://eschlkam.de/vereine.html",
+        "score": 50
+      },
+      {
+        "titel": "Startseite",
+        "url": "https://eschlkam.de/eschlkam-kultur-und-natur.html",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://eschlkam.de/freizeitangebot.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://eschlkam.de/kunstprojekte-eschlkam.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur Geschichte",
+        "url": "https://eschlkam.de/72.html",
+        "score": 10
+      },
+      {
+        "titel": "Kultur im Waldschmidthaus",
+        "url": "https://eschlkam.de/kultur-im-waldschmidthaus.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Eslarn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/13664121549",
+    "webseite": "http://www.eslarn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeittipps",
+        "url": "https://pages.et4.de/de/eslarn/wlan/portal",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Esselbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30441898549",
+    "webseite": "http://www.esselbach-online.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
   }
 ]
