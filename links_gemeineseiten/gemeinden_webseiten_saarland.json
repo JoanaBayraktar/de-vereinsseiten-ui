@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Beckingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beckingen",
+    "webseite": "https://www.beckingen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Bexbach",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bexbach",
+    "webseite": "https://www.bexbach.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Blieskastel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blieskastel",
+    "webseite": "https://www.blieskastel.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Bous",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bous_(Saar)",
+    "webseite": "https://www.bous.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Dillingen/Saar",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dillingen/Saar",
+    "webseite": "https://www.dillingen-saar.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Ensdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ensdorf_(Saar)",
+    "webseite": "https://www.gemeinde-ensdorf.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Eppelborn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eppelborn",
+    "webseite": "https://www.eppelborn.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Freisen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Freisen",
+    "webseite": "https://www.freisen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Friedrichsthal",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Friedrichsthal_(Saar)",
+    "webseite": "https://www.friedrichsthal.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Gersheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gersheim",
+    "webseite": "https://gersheim.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Großrosseln",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Großrosseln",
+    "webseite": "https://www.grossrosseln.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Heusweiler",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Heusweiler",
+    "webseite": "https://www.heusweiler.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Homburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Homburg",
+    "webseite": "https://www.homburg.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Illingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Illingen_(Saar)",
+    "webseite": "https://www.illingen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Kirkel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kirkel",
+    "webseite": "https://www.kirkel.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Kleinblittersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kleinblittersdorf",
+    "webseite": "https://www.kleinblittersdorf.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Lebach",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lebach",
+    "webseite": "https://www.lebach.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Losheim am See",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Losheim_am_See",
+    "webseite": "https://www.losheim.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Mandelbachtal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mandelbachtal",
+    "webseite": "https://www.mandelbachtal.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Marpingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Marpingen",
+    "webseite": "https://marpingen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Merchweiler",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Merchweiler",
+    "webseite": "https://www.merchweiler.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Merzig",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Merzig",
+    "webseite": "https://www.merzig.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Mettlach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mettlach",
+    "webseite": "https://www.mettlach.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Nalbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nalbach",
+    "webseite": "https://www.nalbach.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Namborn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Namborn",
+    "webseite": "https://www.namborn.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Neunkirchen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neunkirchen_(Saar)",
+    "webseite": "https://www.neunkirchen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Nohfelden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nohfelden",
+    "webseite": "https://www.nohfelden.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Nonnweiler",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nonnweiler",
+    "webseite": "https://www.nonnweiler.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Oberthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberthal_(Saar)",
+    "webseite": "https://www.oberthal.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Ottweiler",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ottweiler",
+    "webseite": "https://ottweiler.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Perl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Perl_(Mosel)",
+    "webseite": "https://perl.saarland/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Püttlingen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Püttlingen",
+    "webseite": "https://www.puettlingen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Quierschied",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Quierschied",
+    "webseite": "https://www.quierschied.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Rehlingen-Siersburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rehlingen-Siersburg",
+    "webseite": "https://www.rehlingen-siersburg.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Riegelsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Riegelsberg",
+    "webseite": "https://www.riegelsberg.eu/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Saarbrücken",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Saarbrücken",
+    "webseite": "https://www.saarbruecken.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Saarlouis",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Saarlouis",
+    "webseite": "https://www.saarlouis.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Saarwellingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Saarwellingen",
+    "webseite": "https://www.saarwellingen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Schiffweiler",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schiffweiler",
+    "webseite": "https://www.schiffweiler.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Schmelz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schmelz_(Saar)",
+    "webseite": "https://www.schmelz.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Schwalbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwalbach_(Saar)",
+    "webseite": "https://www.schwalbach-saar.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Spiesen-Elversberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Spiesen-Elversberg",
+    "webseite": "https://www.spiesen-elversberg.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "St. Ingbert",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/St._Ingbert",
+    "webseite": "https://www.st-ingbert.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "St. Wendel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/St._Wendel",
+    "webseite": "https://www.sankt-wendel.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Sulzbach/Saar",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sulzbach/Saar",
+    "webseite": "https://www.stadt-sulzbach.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Tholey",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tholey",
+    "webseite": "https://www.tholey.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Völklingen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Völklingen",
+    "webseite": "https://www.voelklingen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Wadern",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wadern",
+    "webseite": "https://ssl.wadern.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Wadgassen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wadgassen",
+    "webseite": "https://www.wadgassen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Wallerfangen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wallerfangen",
+    "webseite": "https://www.wallerfangen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Weiskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weiskirchen",
+    "webseite": "https://www.weiskirchen.de/",
+    "bundesland": "Saarland"
+  },
+  {
+    "name": "Überherrn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Überherrn",
+    "webseite": "https://ueberherrn.de/",
+    "bundesland": "Saarland"
+  }
+]

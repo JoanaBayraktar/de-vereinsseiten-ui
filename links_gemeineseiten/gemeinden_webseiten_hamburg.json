@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Altona",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Altona",
+    "webseite": "http://www.hamburg.de/altona/",
+    "bundesland": "Hamburg"
+  },
+  {
+    "name": "Bergedorf",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Bergedorf",
+    "webseite": "https://hamburg.de/bergedorf/",
+    "bundesland": "Hamburg"
+  },
+  {
+    "name": "Eimsbüttel",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Eimsbüttel",
+    "webseite": "https://www.hamburg.de/eimsbuettel/",
+    "bundesland": "Hamburg"
+  },
+  {
+    "name": "Hamburg-Mitte",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Hamburg-Mitte",
+    "webseite": "http://www.hamburg.de/mitte/",
+    "bundesland": "Hamburg"
+  },
+  {
+    "name": "Hamburg-Nord",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Hamburg-Nord",
+    "webseite": "http://www.hamburg.de/hamburg-nord/",
+    "bundesland": "Hamburg"
+  },
+  {
+    "name": "Harburg",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Harburg",
+    "webseite": "http://www.hamburg.de/harburg",
+    "bundesland": "Hamburg"
+  },
+  {
+    "name": "Wandsbek",
+    "typ": "Bezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bezirk_Wandsbek",
+    "webseite": "https://www.hamburg.de/politik-und-verwaltung/bezirke/wandsbek",
+    "bundesland": "Hamburg"
+  }
+]

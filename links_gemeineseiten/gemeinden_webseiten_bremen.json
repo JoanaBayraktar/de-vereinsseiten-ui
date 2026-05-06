@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Blumenthal",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blumenthal_(Bremen)",
+    "webseite": "http://www.ortsamt-blumenthal.bremen.de",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Burglesum",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burglesum",
+    "webseite": "http://www.ortsamt-burglesum.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Findorff",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Findorff_(Bremen)",
+    "webseite": "https://www.ortsamtwest.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Gröpelingen",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gröpelingen",
+    "webseite": "http://www.ortsamtwest.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Hemelingen",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hemelingen",
+    "webseite": "http://www.ortsamt-hemelingen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Horn-Lehe",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Horn-Lehe",
+    "webseite": "",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Huchting",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Huchting_(Bremen)",
+    "webseite": "http://bremen.de/ortsamt-huchting-336179",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Häfen",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Häfen_(Bremen)",
+    "webseite": "",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Mitte",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mitte_(Bremen)",
+    "webseite": "http://www.ortsamtmitte.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Neustadt",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Neustadt_(Bremen)",
+    "webseite": "https://www.ortsamt-neustadt.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Nord",
+    "typ": "Stadtbezirk",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bremen-Nord",
+    "webseite": "",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Oberneuland",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberneuland",
+    "webseite": "https://www.ortsamt-oberneuland.bremen.de",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Obervieland",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Obervieland",
+    "webseite": "http://www.ortsamt-obervieland.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Osterholz",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Osterholz_(Bremen)",
+    "webseite": "http://www.oaosterholz.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Schwachhausen",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwachhausen",
+    "webseite": "https://www.ortsamtschwachhausenvahr.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Vahr",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vahr",
+    "webseite": "",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Vegesack",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Vegesack",
+    "webseite": "https://www.ortsamt-vegesack.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Walle",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Walle_(Bremen)",
+    "webseite": "http://www.ortsamtwest.bremen.de/",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Woltmershausen",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Woltmershausen",
+    "webseite": "https://www.bremen.de/leben-in-bremen/wohnen/stadtteile/woltmershausen",
+    "bundesland": "Bremen"
+  },
+  {
+    "name": "Östliche Vorstadt",
+    "typ": "Stadtteil",
+    "quelle_url": "https://de.wikipedia.org/wiki/Östliche_Vorstadt",
+    "webseite": "http://www.ortsamtmitte.bremen.de",
+    "bundesland": "Bremen"
+  }
+]
