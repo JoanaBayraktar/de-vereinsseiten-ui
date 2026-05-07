@@ -55991,5 +55991,3157 @@
         "score": 10
       }
     ]
+  },
+  {
+    "name": "Valley",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/46996521750",
+    "webseite": "http://www.gemeinde-valley.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.gemeinde-valley.de/freizeit-und-kultur/veranstaltungen/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.gemeinde-valley.de/freizeit-und-kultur/kultur/valleyer-kulturtage",
+        "score": 20
+      },
+      {
+        "titel": "Orgelzentrum",
+        "url": "https://www.gemeinde-valley.de/freizeit-und-kultur/kultur/orgelzentrum",
+        "score": 20
+      },
+      {
+        "titel": "Sportangebote",
+        "url": "https://www.gemeinde-valley.de/freizeit-und-kultur/freizeit-und-sport/sportangebote",
+        "score": 20
+      },
+      {
+        "titel": "Unterwegs in Valley",
+        "url": "https://www.gemeinde-valley.de/freizeit-und-kultur/unterwegs-in-valley/gastronomie",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus in Valley",
+        "url": "https://www.gemeinde-valley.de/freizeit-und-kultur/unterwegs-in-valley/tourismus-in-valley",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Vaterstetten",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/63774298750",
+    "webseite": "http://www.vaterstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Veitsbronn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80552075750",
+    "webseite": "http://www.veitsbronn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://veitsbronn.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Erlebnis Landkreis Fürth",
+        "url": "https://veitsbronn.de/freizeit/erlebnis-landkreis-fuerth/",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnisradweg",
+        "url": "https://veitsbronn.de/freizeit/erlebnisradweg/",
+        "score": 10
+      },
+      {
+        "titel": "Heimatpflege",
+        "url": "https://veitsbronn.de/freizeit/heimatpflege/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://veitsbronn.de/freizeit/uebernachten/",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://veitsbronn.de/freizeit/spielplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://veitsbronn.de/freizeit/veranstaltungskalender/",
+        "score": 10
+      },
+      {
+        "titel": "VHS",
+        "url": "https://veitsbronn.de/freizeit/vhs/",
+        "score": 10
+      },
+      {
+        "titel": "Zenngrundhalle",
+        "url": "https://veitsbronn.de/freizeit/zenngrundhalle/",
+        "score": 10
+      },
+      {
+        "titel": "Zenngrundorchester",
+        "url": "https://veitsbronn.de/freizeit/zenngrundorchester/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Veitshöchheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97329852750",
+    "webseite": "http://www.veitshoechheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Velburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17331112479",
+    "webseite": "https://www.velburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Velden",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14107629751",
+    "webseite": "https://www.markt-velden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine // Organisationen",
+        "url": "https://www.markt-velden.de/vereine-organisationen.html",
+        "score": 50
+      },
+      {
+        "titel": "KULTUR",
+        "url": "https://www.markt-velden.de/kulturangebote.html",
+        "score": 10
+      },
+      {
+        "titel": "FREIZEIT",
+        "url": "https://www.markt-velden.de/freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit- und Erholungsgelände",
+        "url": "https://www.markt-velden.de/2450.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Velden",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48886680476",
+    "webseite": "http://www.velden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.velden.de/vereine-velden",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.velden.de/leben-und-freizeit-1",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.velden.de/freizeitangebote-velden",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Vestenbergsgreuth",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/30885406751",
+    "webseite": "http://www.vestenbergsgreuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Viechtach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/90553405463",
+    "webseite": "https://www.viechtach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.viechtach.de/leben-vereinsleben",
+        "score": 30
+      },
+      {
+        "titel": "Kulturzentren",
+        "url": "https://www.viechtach.de/erleben-kulturzentren",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Viereth-Trunstadt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47663183751",
+    "webseite": "https://www.viereth-trunstadt.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/vereine-und-verbaende/sportvereine",
+        "score": 60
+      },
+      {
+        "titel": "Musik- und Gesangsverein",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/vereine-und-verbaende/musik-und-gesangsverein",
+        "score": 60
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/vereine-und-verbaende/feuerwehren",
+        "score": 60
+      },
+      {
+        "titel": "Kirchliche und soziale Einrichtungen",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/vereine-und-verbaende/kirchliche-und-soziale-einrichtungen",
+        "score": 60
+      },
+      {
+        "titel": "Weitere Vereine, Verbände und Gruppen",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/vereine-und-verbaende/weitere-vereine-verbaende-und-gruppen",
+        "score": 60
+      },
+      {
+        "titel": "Projekt \"Kunst und Kultur\"",
+        "url": "https://www.viereth-trunstadt.de/ueber-die-gemeinde/buerger-aktiv/projekt-kunst-und-kultur",
+        "score": 10
+      },
+      {
+        "titel": "Belegungsplan",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/veranstaltungen/belegungsplan",
+        "score": 10
+      },
+      {
+        "titel": "Kath. Pfarramt Viereth",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/kirchen-und-pfarraemter/kath-pfarramt-viereth",
+        "score": 10
+      },
+      {
+        "titel": "Kath. Pfarramt Trunstadt",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/kirchen-und-pfarraemter/kath-pfarramt-trunstadt",
+        "score": 10
+      },
+      {
+        "titel": "Ev.-luth. Kirchengemeinde Trabelsdorf",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/kirchen-und-pfarraemter/ev-luth-kirchengemeinde-trabelsdorf",
+        "score": 10
+      },
+      {
+        "titel": "Kapelle Weiher",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/kirchen-und-pfarraemter/kapelle-weiher",
+        "score": 10
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/bildung-und-erziehung/aktuelles",
+        "score": 10
+      },
+      {
+        "titel": "Kindertagesstätten",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/bildung-und-erziehung/kindertagesstaetten",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.viereth-trunstadt.de/leben-und-freizeit/bildung-und-erziehung/schulen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Vierkirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64440960751",
+    "webseite": "https://www.vierkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Vilgertshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81218737751",
+    "webseite": "https://www.vilgertshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Brauchtumsvereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/brauchtumsvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.vilgertshofen.de/einrichtungen-soziales/feuerwehren/",
+        "score": 60
+      },
+      {
+        "titel": "Frauenkreis",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/frauenbund/",
+        "score": 60
+      },
+      {
+        "titel": "Gartenbauvereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/gartenbauvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Kinder- und Jugendgruppen",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/kinder-und-jugendgruppen/",
+        "score": 60
+      },
+      {
+        "titel": "Musikgruppen und -vereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/musikgruppen-und-vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Schützenvereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/schuetzenvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Soldaten- und Veteranenvereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/soldaten-und-veteranenvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Sportvereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/sportvereine/",
+        "score": 60
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/vereine/sonstige-vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/freizeit/kunst-und-kultur/",
+        "score": 40
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/freizeit/",
+        "score": 30
+      },
+      {
+        "titel": "Bäder",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/freizeit/baeder/",
+        "score": 30
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.vilgertshofen.de/einrichtungen-soziales/buecherei/",
+        "score": 30
+      },
+      {
+        "titel": "Jugendräume",
+        "url": "https://www.vilgertshofen.de/einrichtungen-soziales/kinder-und-jugendliche/jugendraeume/",
+        "score": 30
+      },
+      {
+        "titel": "Kinos",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/freizeit/kinos/",
+        "score": 30
+      },
+      {
+        "titel": "Oldtimer-Museum Issing",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/freizeit/oldtimer-museum-issing/",
+        "score": 30
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.vilgertshofen.de/freizeit-vereine/freizeit/tourismus/",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Villenbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/97996514751",
+    "webseite": "https://www.villenbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Vilsbiburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87108868483",
+    "webseite": "https://www.vilsbiburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vilsbiburg.de/Vereine.n46.html",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.vilsbiburg.de/kultur-und-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Kulturkalender \"wogehmahi\"",
+        "url": "https://www.vilsbiburg.de/Kulturkalender-wogehmahi.n476.html",
+        "score": 10
+      },
+      {
+        "titel": "Kulturpreis der Stadt Vilsbiburg",
+        "url": "https://www.vilsbiburg.de/kulturpreis",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitführer",
+        "url": "https://www.vilsbiburg.de/freizeitfuehrer",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Vilseck",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/80442248473",
+    "webseite": "http://www.vilseck.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.vilseck.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Vilsheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14774291752",
+    "webseite": "http://www.vilsheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Vilshofen an der Donau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/29442255472",
+    "webseite": "https://www.vilshofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinstermine",
+        "url": "https://www.vilshofen.de/vereinstermine",
+        "score": 30
+      },
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.vilshofen.de/in-vilshofen-zuhause/gesundheit-und-soziales/ehrenamt",
+        "score": 20
+      },
+      {
+        "titel": "Vereinstermin melden",
+        "url": "https://www.vilshofen.de/freizeit-geniessen/was-ist-los-in-vilshofen/veranstaltungskalender/einreichen",
+        "score": 20
+      },
+      {
+        "titel": "Galerien und Ausstellungen",
+        "url": "https://www.vilshofen.de/freizeit-geniessen/kultur-erleben/ausstellungen",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit genießen",
+        "url": "https://www.vilshofen.de/freizeit-geniessen/was-ist-los-in-vilshofen/veranstaltungs-highlights",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Vöhringen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32775565477",
+    "webseite": "https://www.voehringen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "https://voehringer-vereine.de/",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/kulturzentrum",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/josef-cardijn-haus",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/kulturabo-2026-2027",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/kulturabo-2025-2026",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/kulturabo-2024-2025",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/veranstaltungsraeume",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur/kirchen-und-glaubensgemeinschaften",
+        "score": 20
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/kultur",
+        "score": 20
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    09\n                                                Spatz und Engel - 7.Abo\n                                                                Kulturzentrum Wolfgang-Eychmüller-Haus Vöhringen",
+        "url": "https://www.voehringen.de/freizeit-und-erholung/veranstaltungen/veranstaltungskalender/veranstaltung/spatz-und-engel-7abo/2026-05-09?cHash=4d5416c8d958e1821f095b6ade90e531",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Vogtareuth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31552068752",
+    "webseite": "http://www.vogtareuth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.vogtareuth.de/Vereine-und-Organisationen.n45.html",
+        "score": 40
+      },
+      {
+        "titel": "Einladung des Gartenbauvereins Vogtareuth zum Jahresausflug am 04.07.2026",
+        "url": "https://www.vogtareuth.de/einladung-des-gartenbauvereins-vogtareuth-zum-jahresausflug-am-04.07.2026",
+        "score": 30
+      }
+    ]
+  },
+  {
+    "name": "Vohburg a.d.Donau",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/14664464475",
+    "webseite": "https://www.vohburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.vohburg.de/freizeit/vereine-und-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.vohburg.de/freizeit/touristinformation-1",
+        "score": 20
+      },
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.vohburg.de/stadtleben/sport-und-freizeit",
+        "score": 10
+      },
+      {
+        "titel": "Warmbad Irsching",
+        "url": "https://www.vohburg.de/freizeit/warmbad-irsching",
+        "score": 10
+      },
+      {
+        "titel": "Ferienpass",
+        "url": "https://www.vohburg.de/freizeit/ferienpass",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungsmöglichkeiten",
+        "url": "https://www.vohburg.de/freizeit/uebernachtungsmoeglichkeiten",
+        "score": 10
+      },
+      {
+        "titel": "E-Bike Ladestation",
+        "url": "https://www.vohburg.de/kultur-tourismus/e-bike-ladestation",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vohburg.de/kultur-tourismus/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Geschichtsweg",
+        "url": "https://www.vohburg.de/freizeit/geschichtsweg",
+        "score": 10
+      },
+      {
+        "titel": "Karte der Sehenswürdigkeiten",
+        "url": "https://www.vohburg.de/kultur-tourismus/karte-der-sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Stadtführungen",
+        "url": "https://www.vohburg.de/kultur-tourismus/stadtfuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Persönlichkeiten",
+        "url": "https://www.vohburg.de/kultur-tourismus/persoenlichkeiten",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Vohenstrauß",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99220011476",
+    "webseite": "https://www.vohenstrauss.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/kultur/friedrichsburg",
+        "score": 20
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/kultur/museen",
+        "score": 20
+      },
+      {
+        "titel": "Kultursommer",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/kultur/kultursommer",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/tourist-info",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugtipps",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/ausflugtipps",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Gästeführungen",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/gaestefuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Simultankirchen-Radweg",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/simultankirchen-radweg",
+        "score": 10
+      },
+      {
+        "titel": "Urlaubsbörse",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/urlaubsboerse",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobile",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/wohnmobile",
+        "score": 10
+      },
+      {
+        "titel": "Weitere Infos",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/tourismus/weitere-infos",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/freizeit/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Jugendbeauftragte",
+        "url": "https://www.vohenstrauss.de/tourismus-amp-freizeit/freizeit/jugendbeauftragte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Volkach",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68997767481",
+    "webseite": "http://www.stadt-volkach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Übersicht der Verbände und Vereine",
+        "url": "https://www.stadt-volkach.de/vereine-verbaende/uebersicht-der-verbaende-und-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Kitas & Schulen",
+        "url": "https://www.stadt-volkach.de/bildung-freizeit/kitas-schulen",
+        "score": 10
+      },
+      {
+        "titel": "Soziale Einrichtungen",
+        "url": "https://www.stadt-volkach.de/bildung-freizeit/soziale-einrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Sport- und Freizeiteinrichtungen",
+        "url": "https://www.stadt-volkach.de/bildung-freizeit/sport-und-freizeiteinrichtungen",
+        "score": 10
+      },
+      {
+        "titel": "Bildungseinrichtungen",
+        "url": "https://www.stadt-volkach.de/bildung-freizeit/bildungseinrichtungen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Volkenschwand",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48329845752",
+    "webseite": "http://www.volkenschwand.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Vorbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65107622752",
+    "webseite": "http://www.vg-kirchenthumbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Vorra",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/81885399752",
+    "webseite": "http://www.vorra-mfr.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vorra-mfr.de/vereine-vorra",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.vorra-mfr.de/freizeit-und-tourismus-vorra",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waakirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98663176752",
+    "webseite": "http://www.waakirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.waakirchen.de/de/freizeit/vereine/vereinsliste",
+        "score": 90
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.waakirchen.de/de/freizeit/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.waakirchen.de/de/freizeit/sport-freizeit/golfplatz-margarethenhof",
+        "score": 10
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.waakirchen.de/de/leben/oeffentliche-einrichtungen/buecherhaeuschen",
+        "score": 10
+      },
+      {
+        "titel": "Tourismusunternehmen",
+        "url": "https://www.waakirchen.de/de/freizeit/aktuelles/tourismusunternehmen",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.waakirchen.de/de/freizeit/aktuelles/veranstaltungen",
+        "score": 10
+      },
+      {
+        "titel": "Musikunterricht",
+        "url": "https://www.waakirchen.de/de/freizeit/musikunterricht",
+        "score": 10
+      },
+      {
+        "titel": "Jugend",
+        "url": "https://www.waakirchen.de/de/freizeit/aktuelles/jugend",
+        "score": 10
+      },
+      {
+        "titel": "Ferienprogramm",
+        "url": "https://www.waakirchen.de/de/freizeit/aktuelles/ferienprogramm",
+        "score": 10
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.waakirchen.de/de/freizeit/aktuelles/senioren",
+        "score": 10
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.waakirchen.de/de/freizeit/sport-freizeit/golfplatz-piesenkam",
+        "score": 10
+      },
+      {
+        "titel": "Turnhalle",
+        "url": "https://www.waakirchen.de/de/freizeit/sport-freizeit/sportanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Information",
+        "url": "https://www.waakirchen.de/de/freizeit/sport-freizeit/information",
+        "score": 10
+      },
+      {
+        "titel": "Schlafen & Genießen",
+        "url": "https://www.waakirchen.de/de/freizeit/schlafen-geniessen/gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Bürgerinitiative - Wos Guads vor Ort",
+        "url": "https://www.waakirchen.de/de/freizeit/schlafen-geniessen/buergerinitiative-wos-guads-vor-ort",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.waakirchen.de/de/freizeit/schlafen-geniessen/gastronomie",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waal",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15440953753",
+    "webseite": "http://www.waal.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Waal",
+        "url": "https://www.waal.de/freizeit-tourismus/vereine/waal/",
+        "score": 60
+      },
+      {
+        "titel": "Bronnen",
+        "url": "https://www.waal.de/freizeit-tourismus/vereine/bronnen/",
+        "score": 60
+      },
+      {
+        "titel": "Emmenhausen",
+        "url": "https://www.waal.de/freizeit-tourismus/vereine/emmenhausen/",
+        "score": 60
+      },
+      {
+        "titel": "Waalhaupten",
+        "url": "https://www.waal.de/freizeit-tourismus/vereine/waalhaupten/",
+        "score": 60
+      },
+      {
+        "titel": "Vereinsförderung",
+        "url": "https://www.waal.de/gemeinde-verwaltung/vereinsfoerderung/",
+        "score": 30
+      },
+      {
+        "titel": "Kulturelles",
+        "url": "https://www.waal.de/freizeit-tourismus/kulturelles-und-kuenstler/kulturelles/",
+        "score": 20
+      },
+      {
+        "titel": "Künstler",
+        "url": "https://www.waal.de/freizeit-tourismus/kulturelles-und-kuenstler/kuenstler/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen VG",
+        "url": "https://www.waal.de/freizeit-tourismus/veranstaltungen-1/",
+        "score": 10
+      },
+      {
+        "titel": "Nähere Informationen",
+        "url": "https://www.waal.de/freizeit-tourismus/passionsspiele/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.waal.de/freizeit-tourismus/veranstaltungen/veranstaltung-melden/",
+        "score": 10
+      },
+      {
+        "titel": "Wissenswertes",
+        "url": "https://www.waal.de/freizeit-tourismus/veranstaltungen/wissenswertes/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.waal.de/freizeit-tourismus/gastronomie/uebernachtungen/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.waal.de/freizeit-tourismus/gastronomie/gaststaetten/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wachenroth",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32218730753",
+    "webseite": "http://www.wachenroth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "",
+        "url": "http://wachenroth.de/freizeit/villa-kunterbunt/",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "http://wachenroth.de/freizeit/kleine-strolche/",
+        "score": 10
+      },
+      {
+        "titel": "NotruftafelINFO",
+        "url": "https://wachenroth.de/freizeit/notruftafel/",
+        "score": 10
+      },
+      {
+        "titel": "Ärzte & Heilpraktiker",
+        "url": "https://wachenroth.de/freizeit/aerzte-heilpraktiker/",
+        "score": 10
+      },
+      {
+        "titel": "Apotheken",
+        "url": "https://wachenroth.de/freizeit/apotheken/",
+        "score": 10
+      },
+      {
+        "titel": "Krankenhaus",
+        "url": "https://wachenroth.de/freizeit/krankenhaus/",
+        "score": 10
+      },
+      {
+        "titel": "Tiermedizin",
+        "url": "https://wachenroth.de/freizeit/tiermedizin/",
+        "score": 10
+      },
+      {
+        "titel": "Jugendraum",
+        "url": "https://wachenroth.de/freizeit/jugendraum/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://wachenroth.de/freizeit/buecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://wachenroth.de/freizeit/schulen/",
+        "score": 10
+      },
+      {
+        "titel": "Schulkindbetreuung",
+        "url": "https://wachenroth.de/freizeit/schulkindbetreuung/",
+        "score": 10
+      },
+      {
+        "titel": "Mutter-Kind-Gruppe",
+        "url": "https://wachenroth.de/freizeit/mutter-kind-gruppe/",
+        "score": 10
+      },
+      {
+        "titel": "Kindertagesstätten",
+        "url": "https://wachenroth.de/freizeit/kindertagesstaetten/",
+        "score": 10
+      },
+      {
+        "titel": "Villa Kunterbunt",
+        "url": "https://wachenroth.de/freizeit/villa-kunterbunt/",
+        "score": 10
+      },
+      {
+        "titel": "Kleine Strolche",
+        "url": "https://wachenroth.de/freizeit/kleine-strolche/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://wachenroth.de/freizeit/kirchen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wackersberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48996507753",
+    "webseite": "http://www.wackersberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wackersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65774284753",
+    "webseite": "http://www.wackersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waffenbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82552061753",
+    "webseite": "http://www.waffenbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.waffenbrunn.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Waging a.See",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99329838753",
+    "webseite": "http://www.waging.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waidhaus",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16107615754",
+    "webseite": "http://www.waidhaus.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeitanlage",
+        "url": "https://www.waidhaus.de/rathaus/verwaltung/freizeitanlage/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitanlage \"Bäckeröd\"",
+        "url": "https://www.waidhaus.de/tourismus/aktiv/freizeitanlage-baeckeroed/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waidhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32885392754",
+    "webseite": "http://www.waidhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waigolshausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49663169754",
+    "webseite": "https://www.waigolshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Termin mit dem Bürgerservice vereinbaren",
+        "url": "https://termin-online-buchen.de/live/booking?cfid=000799001169",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waischenfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38108861485",
+    "webseite": "https://www.waischenfeld.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83218723754",
+    "webseite": "http://www.wald-allgaeu.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.wald-allgaeu.de/cms/vereinsverzeichnis/",
+        "score": 50
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "http://www.wald-allgaeu.de/cms/leben-in-wald/sport-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Loipen",
+        "url": "http://www.wald-allgaeu.de/cms/leben-in-wald/sport-freizeit/loipen.php",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wald",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66440946754",
+    "webseite": "https://www.gemeinde-wald.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldaschaff",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99996500754",
+    "webseite": "https://www.waldaschaff.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/vereine.html",
+        "score": 70
+      },
+      {
+        "titel": "Vereinswesen",
+        "url": "https://www.waldaschaff.de/spalte1-2/buergerservice/vereinswesen.html",
+        "score": 30
+      },
+      {
+        "titel": "Vereinswesen",
+        "url": "https://www.waldaschaff.de/spalte1/buergerservice/vereinswesen.html",
+        "score": 30
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/weihnachtsmarkt.html",
+        "score": 20
+      },
+      {
+        "titel": "Wanderheim",
+        "url": "https://www.waldaschaff.de/spalte3-2/freizeit-kultur/wanderheim.html",
+        "score": 20
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/volkshochschule.html",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/freizeitangebote.html",
+        "score": 20
+      },
+      {
+        "titel": "Gemeindebücherei",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/gemeindebuecherei.html",
+        "score": 20
+      },
+      {
+        "titel": "Musikschule",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/musikschule.html",
+        "score": 20
+      },
+      {
+        "titel": "Wanderheim",
+        "url": "https://www.waldaschaff.de/freizeit-kultur/wanderheim.html",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Waldbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/16774277755",
+    "webseite": "http://www.gemeinde-waldbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldbüttelbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/33552054755",
+    "webseite": "https://www.waldbuettelbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Walderbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50329831755",
+    "webseite": "https://www.walderbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldershof",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/64331133474",
+    "webseite": "https://www.waldershof.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldkirchen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/44220046469",
+    "webseite": "http://www.waldkirchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldkraiburg",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/09331168467",
+    "webseite": "https://www.waldkraiburg.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://waldkraiburg.konsentas.de/modules/ota_public/form/5/?signup_new=1",
+        "score": 10
+      },
+      {
+        "titel": "Waldbad",
+        "url": "https://www.stadtwerke-waldkraiburg.de/sport-freizeit/waldbad",
+        "score": 10
+      },
+      {
+        "titel": "Eissporthalle",
+        "url": "https://www.stadtwerke-waldkraiburg.de/sport-freizeit/eissporthalle-raiffeisen-arena",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waldmünchen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68331105480",
+    "webseite": "http://www.waldmuenchen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldsassen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/31442241475",
+    "webseite": "https://www.waldsassen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Hier finden Sie eine Auflistung der Vereine von Waldsassen.",
+        "url": "https://www.waldsassen.de/wohnen-leben/vereinsverzeichnis",
+        "score": 50
+      },
+      {
+        "titel": "Europäisches Kulturerbesiegel - Cisterscapes",
+        "url": "https://www.waldsassen.de/rathaus/auszeichnungen-der-stadt-waldsassen/europaeisches-kulturerbesiegel-cisterscapes",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.tourismus.waldsassen.de/aktivitaeten/freizeit-von-a-z/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waldstetten",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67107608755",
+    "webseite": "http://www.markt-waldstetten.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waldthurn",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83885385755",
+    "webseite": "https://www.waldthurn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.waldthurn.de/default.asp?SID=N1ALN1AM4",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.waldthurn.de/default.asp?SID=TM4",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Walkertshofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/00663162756",
+    "webseite": "https://www.walkertshofen.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wallenfels",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03886645484",
+    "webseite": "https://www.wallenfels.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wallerfing",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/17440939756",
+    "webseite": "https://www.wallerfing.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Veranstaltungen",
+        "url": "https://vg-oberpoering.de/rathaus",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Wallersdorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34218716756",
+    "webseite": "http://www.markt-wallersdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wallerstein",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/50996493756",
+    "webseite": "http://www.markt-wallerstein.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://markt-wallerstein.de/index.php/leben/vereinsliste-gesamt",
+        "score": 50
+      },
+      {
+        "titel": "Weitere Sportvereine",
+        "url": "https://markt-wallerstein.de/index.php/leben/weitere-sportvereine",
+        "score": 20
+      },
+      {
+        "titel": "Schützenverein",
+        "url": "https://markt-wallerstein.de/index.php/leben/schuetzenverein",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wallgau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/67774270756",
+    "webseite": "https://www.gemeinde-wallgau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Ortsvereine",
+        "url": "https://www.gemeinde-wallgau.de/ortsvereine",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Walpertskirchen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/84552047756",
+    "webseite": "http://www.vg-hoerlkofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Jun\n                                                \n                                                    05\n                                                Letzter Schießabend und Vereinsgrillfest\n                                                                Schützenheim Wörth",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/letzter-schiessabend-und-vereinsgrillfest/2026-06-05?cHash=abce9c3e07ca85e904b74401c268e789",
+        "score": 30
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    20\n                                                Gottesdienst anschl. Vereinsessen 40 Jahre KLB\n                                                                Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/gottesdienst-anschl-vereinsessen-40-jahre-klb/2026-09-20?cHash=cb6effa25cb3d5ebf688ca8cb2df953c",
+        "score": 30
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    26\n                                                Vereinsmeisterschaft Stockschützen\n                                                                Stockbahn Walpertskirchen",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/vereinsmeisterschaft-stockschuetzen/2026-09-26?cHash=9c6e629b3fbcc0e65fe8d62be9b0f425",
+        "score": 30
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    03\n                                                Runder Tisch und Vereinsessen\n                                                                Schule, Mehrzweckraum Walpertskirchen/Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/runder-tisch-und-vereinsessen/2026-11-03?cHash=91fa27fddabd54077ceb5cb567017640",
+        "score": 30
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    08\n                                                –\n                                                        09\n                                                    Turniere mit Gastvereinen\n                                                                Stockbahn Walpertskirchen",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/turniere-mit-gastvereinen/2026-05-08?cHash=6e9541dbde86432fc7518b1f54834cbf",
+        "score": 20
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    31\n                                                –\n                                                        01\n                                                    Turniere mit Gastvereinen\n                                                                Stockbahn Walpertskirchen",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/turniere-mit-gastvereinen-1/2026-07-31?cHash=e9f835aa3272eabcb7bf7088cffb13e5",
+        "score": 20
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://tempus-termine.com/termine/index.php?anlagennr=180&anlagentoken=H1WPke7",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    08\n                                                Ausflug Schützenverein Freischütz",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/ausflug/2026-05-08?cHash=6e9541dbde86432fc7518b1f54834cbf",
+        "score": 10
+      },
+      {
+        "titel": "Mai\n                                                \n                                                    15\n                                                Mitgliederversammlung Theaterverein Walpertskirchner Brettl\n                                                                Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/mitgliederversammlung-mit-wahlen-theaterverein-walpertskirchner-brettl/2026-05-15?cHash=59f240e1e149842678ff5ec2fa120e34",
+        "score": 10
+      },
+      {
+        "titel": "Jul\n                                                \n                                                    25\n                                                Grillfeier Theaterverein\n                                                                Fam. Hackl, Deuting",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/grillfest-3/2026-07-25?cHash=e56f30975a25d4438d8118f67d080c42",
+        "score": 10
+      },
+      {
+        "titel": "Aug\n                                                \n                                                    08\n                                                Kameradschaftsabend Krieger- und Soldatenverein\n                                                                Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/kameradschaftsabend/2026-08-08?cHash=fd0d72d68d67296bdccb5eddd47c8bcd",
+        "score": 10
+      },
+      {
+        "titel": "Sep\n                                                \n                                                    25\n                                                Anfangsschießen Schützenverein Freischütz\n                                                                Schießstand Walpertskirchen",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/anfangsschiessen/2026-09-25?cHash=4d15d3d32a0f101e0c54ccd8c1a0470c",
+        "score": 10
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    09\n                                                150 Jahre Krieger- und Soldatenverein Bieranstich, Dämmerungsschießen, geselliger Abend\n                                                                Festzelt Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/150-jahre-krieger-und-soldatenverein-bieranstich-daemmerungsschiessen-geselliger-abend/2026-10-09?cHash=3e9c589e51ec5904fb21e78b78d72f3a",
+        "score": 10
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    10\n                                                150 Jahre Krieger- und Soldatenverein - Hoagarten mit vier Musikgruppen\n                                                                Festzelt Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/150-jahre-krieger-und-soldatenverein-hoagarten-mit-vier-musikgruppen/2026-10-10?cHash=07e13f535952edb04643ca43f97ddfd5",
+        "score": 10
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    11\n                                                150 Jahre Krieger- und Soldatenverein - Gründungsfest mit Frühschoppen/Festgottesdienst und Mittagessen\n                                                                Festzelt Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/150-jahre-krieger-und-soldatenverein-gruendungsfest-mit-fruehschoppenfestgottesdienst-und-mittagessen/2026-10-11?cHash=b2b5ee0dc37b39b8f82de6b5ac8bd5f5",
+        "score": 10
+      },
+      {
+        "titel": "Okt\n                                                \n                                                    24\n                                                Herbstfeier Verschönerungsverein Wifling\n                                                                Hof der Familie Knauer",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/herbstfeier-verschoenerungsverein-wifling/2026-10-24?cHash=1e9113778625689917d7cdb2484c7aec",
+        "score": 10
+      },
+      {
+        "titel": "Nov\n                                                \n                                                    18\n                                                Jahreshauptversammlung Förderverein Fendsbacher Hof\n                                                                Fendsbacher Hof",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/jahreshauptversammlung-foerderverein-fendsbacher-hof/2026-11-18?cHash=c1dc04a834c6da76fc09ca5c0e5396af",
+        "score": 10
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    04\n                                                Weihnachtsfeier Schützenverein Moosrösl Wörth e.V.\n                                                                Schützenheim Wörth",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/weihnachtsfeier-schuetzenverein-moosroesl-woerth-ev/2026-12-04?cHash=520f0f3495357fa14577664f314de519",
+        "score": 10
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    11\n                                                Christbaumversteigerung Schützenverein Freischütz\n                                                                Gasthaus Büchlmann",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/christbaumversteigerung-5/2026-12-11?cHash=cdfb943baa453440715352456cac0bff",
+        "score": 10
+      },
+      {
+        "titel": "Dez\n                                                \n                                                    12\n                                                Christbaumversteigerung Hörlkofener Sportverein e.V.\n                                                                Sportheim Hörlkofen",
+        "url": "https://www.vg-hoerlkofen.de/leben-wohnen/termine-veranstaltungen/veranstaltungen/veranstaltung/christbaumversteigerung-hoerlkofener-sportverein-ev/2026-12-12?cHash=cfc5905db448595544445efed105a9e5",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Walsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01329824757",
+    "webseite": "http://www.walsdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Sehensw�rdigkeiten",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Sehensw%c3%bcrdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Beweidungsprojekt im Aurachgrund",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Sehensw%c3%bcrdigkeiten/Beweidungsprojekt-im-Aurachgrund/",
+        "score": 10
+      },
+      {
+        "titel": "Trimm-Dich-Pfad",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Sehensw%c3%bcrdigkeiten/Trimm-Dich-Pfad/",
+        "score": 10
+      },
+      {
+        "titel": "Erlebnis-Wanderweg Aurachtal",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Sehensw%c3%bcrdigkeiten/Erlebnis-Wanderweg-Aurachtal/",
+        "score": 10
+      },
+      {
+        "titel": "Kneipp-Anlage am Br�nnla",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Sehensw%c3%bcrdigkeiten/Kneipp-Anlage-am-Br%c3%bcnnla/",
+        "score": 10
+      },
+      {
+        "titel": "Historischer Weg",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Sehensw%c3%bcrdigkeiten/Historischer-Weg/",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren & Wandern",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Radfahren-Wandern/",
+        "score": 10
+      },
+      {
+        "titel": "Gastst�tten",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Gastst%c3%a4tten/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsr�ume",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Veranstaltungsr%c3%a4ume/",
+        "score": 10
+      },
+      {
+        "titel": "Zur Anmeldung",
+        "url": "https://walsdorf.de/Freizeit-Tourismus/Ferienprogramm/Zur-Anmeldung/",
+        "score": 10
+      },
+      {
+        "titel": "09\n                            Mai\n                        \n                        \n                            Pflanzenbörse Obst- und Gartenbauverein\n                            \n                                                                          Datum:  9. Mai 2026\n                                                                               Uhrzeit: 14:00 Uhr",
+        "url": "https://walsdorf.de/index.php?object=tx,3507.4.1&ModID=11&FID=3507.77.1&kuo=2",
+        "score": 10
+      },
+      {
+        "titel": "13\n                            Mai\n                        \n                        \n                            Kerwasverein Helferessen\n                            \n                                                                          Datum: 13. Mai 2026\n                                                                               Uhrzeit: 18:00 Uhr",
+        "url": "https://walsdorf.de/index.php?object=tx,3507.4.1&ModID=11&FID=3507.109.1&kuo=2",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Waltenhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18107601757",
+    "webseite": "http://www.gemeinde-waltenhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Waltenhofen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/34885378757",
+    "webseite": "http://www.waltenhofen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Tourismusverein Niedersonthofen",
+        "url": "https://www.niedersonthofen-see.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Walting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/51663155757",
+    "webseite": "http://www.walting.com",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.walting.com/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "http://www.walting.com/infomaterial/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wang",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/68440932757",
+    "webseite": "http://www.gemeinde-wang.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Online Terminvereinbarung",
+        "url": "https://terminvereinbarung.vg-mauern.de/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Warmensteinach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85218709757",
+    "webseite": "http://www.warmensteinach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Terminstornierung",
+        "url": "https://warmensteinach.de/gemeinde/buergerservice/terminvereinbarung-online/terminstornierung-gemeinde/",
+        "score": 10
+      },
+      {
+        "titel": "Ihre Terminreservierung",
+        "url": "https://warmensteinach.de/gemeinde/buergerservice/terminvereinbarung-online/ihre-terminreservierung/",
+        "score": 10
+      },
+      {
+        "titel": "Videos",
+        "url": "https://warmensteinach.de/urlaub-tourismus-freizeit/aktuelles-news/videos/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Warngau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/01996486758",
+    "webseite": "http://www.warngau.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Terminplan Warngau und Wall",
+        "url": "https://www.warngau.de/freizeit-und-tourismus/vereinsleben/terminplan-warngau-und-wall",
+        "score": 40
+      },
+      {
+        "titel": "Sporteinrichtungen",
+        "url": "https://www.warngau.de/freizeit-und-tourismus/vereinsleben/sporteinrichtungen",
+        "score": 40
+      },
+      {
+        "titel": "Anmeldung von Veranstaltungen",
+        "url": "https://www.warngau.de/freizeit-und-tourismus/vereinsleben/anmeldung-von-veranstaltungen",
+        "score": 40
+      },
+      {
+        "titel": "Sportangebote für Kinder",
+        "url": "https://www.warngau.de/freizeit-und-tourismus/vereinsleben/sportangebote-fuer-kinder",
+        "score": 40
+      },
+      {
+        "titel": "Engagierte Vereine",
+        "url": "https://www.warngau.de/leben-und-wohnen/engagierte-vereine/nachbarschaftshilfe-warngau",
+        "score": 20
+      },
+      {
+        "titel": "Förderverein der Warngauer Kinder und Jugend e.V.",
+        "url": "https://www.warngau.de/leben-und-wohnen/engagierte-vereine/foerderverein-der-warngauer-kinder-und-jugend-ev",
+        "score": 20
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://www.warngau.de/leben-und-wohnen/fuer-senioren/freizeitangebote",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Tourismus",
+        "url": "https://www.warngau.de/freizeit-und-tourismus",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wartenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/18774263758",
+    "webseite": "http://www.wartenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wartmannsroth",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/35552040758",
+    "webseite": "http://www.wartmannsroth.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wartmannsroth.de/leben-wohnen-bauen/vereine/index.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Wasserburg (Bodensee)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52329817758",
+    "webseite": "https://www.wasserburg-bodensee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Brauchtum",
+        "url": "https://www.wasserburg-bodensee.de/kunst-und-kultur/brauchtum/",
+        "score": 10
+      },
+      {
+        "titel": "Geschichtsträchtiges",
+        "url": "https://www.wasserburg-bodensee.de/kunst-und-kultur/geschichtstraechtiges/",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen und Kapellen",
+        "url": "https://www.wasserburg-bodensee.de/kunst-und-kultur/kirchen-und-kapellen/",
+        "score": 10
+      },
+      {
+        "titel": "Kunstbahnhof",
+        "url": "https://www.wasserburg-bodensee.de/kunst-und-kultur/kunstbahnhof/",
+        "score": 10
+      },
+      {
+        "titel": "Skulpturenausstellung 2026 bis 2027",
+        "url": "https://www.wasserburg-bodensee.de/skulturenausstellung-2027/",
+        "score": 10
+      },
+      {
+        "titel": "Kunstverein KUBA",
+        "url": "https://www.wasserburg-bodensee.de/ausstellungen/kunstverein-kuba/",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://media.canvayo.com/uploads/sites/c712258d4a51d434127c95a0835e70b3/2021/02/Musikverein-Wasserburg.jpg",
+        "score": 10
+      },
+      {
+        "titel": "",
+        "url": "https://www.wasserburg-bodensee.de/kunst-und-kultur/kirchen-und-kapellen/antoniuskapelle/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wasserburg a.Inn",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36775537483",
+    "webseite": "https://www.wasserburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.wasserburg.de/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Vereinsmobil",
+        "url": "https://www.wasserburg.de/vereinsmobil",
+        "score": 30
+      },
+      {
+        "titel": "Equipmentbörse Vereine",
+        "url": "https://www.wasserburg.de/equipmentboerse",
+        "score": 20
+      },
+      {
+        "titel": "Bibliothek",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/bibliothek/bibliothek-wasserburg",
+        "score": 10
+      },
+      {
+        "titel": "Museen",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/museen/museum-wasserburg",
+        "score": 10
+      },
+      {
+        "titel": "Ihre Gästekarte",
+        "url": "https://www.wasserburg.de/de/tourismus-freizeit/gastgeber/ihre-gaestekarte",
+        "score": 10
+      },
+      {
+        "titel": "Camping & Wohnmobil",
+        "url": "https://www.wasserburg.de/de/tourismus-freizeit/gastgeber/camping-und-wohnmobil",
+        "score": 10
+      },
+      {
+        "titel": "Kapellen & Chöre",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/musik/kapellen-choere",
+        "score": 10
+      },
+      {
+        "titel": "Theater Herwegh",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/theater-kabarett/theater-herwegh",
+        "score": 10
+      },
+      {
+        "titel": "Kino Utopia",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/kino/kino-utopia",
+        "score": 10
+      },
+      {
+        "titel": "Region 18",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/kino/region-18",
+        "score": 10
+      },
+      {
+        "titel": "Biennale Bavaria International",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/kino/biennale-bavaria-international",
+        "score": 10
+      },
+      {
+        "titel": "Film und Fernsehen",
+        "url": "https://www.wasserburg.de/de/kunst-kultur/kino/film-und-fernsehen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wasserlosen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69107594758",
+    "webseite": "http://www.wasserlosen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Die Vereine in der Gemeinde",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/vereinsliste",
+        "score": 70
+      },
+      {
+        "titel": "Freizeit & Kultur",
+        "url": "https://www.wasserlosen.de/",
+        "score": 20
+      },
+      {
+        "titel": "Zeltplatz Wülfershausen",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/zeltplatz-wuelfershausen",
+        "score": 20
+      },
+      {
+        "titel": "Dr.-Maria-Probst-Halle",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/dr-maria-probst-halle",
+        "score": 20
+      },
+      {
+        "titel": "Bücherei Greßthal",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/buecherei-gressthal",
+        "score": 20
+      },
+      {
+        "titel": "Wander- und Radwege",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/wander-und-radwege",
+        "score": 20
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/sehenswuerdigkeiten",
+        "score": 20
+      },
+      {
+        "titel": "Feste",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/feste",
+        "score": 20
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.wasserlosen.de/de/freizeit-kultur/gaststaetten",
+        "score": 20
+      },
+      {
+        "titel": "Heimische Wirtschaft",
+        "url": "https://www.wasserlosen.de/bauen-wohnen/heimische-wirtschaft/gewerbeverein-wasserlosen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wassertrüdingen",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38775523486",
+    "webseite": "https://www.wassertruedingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wattendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/85885371758",
+    "webseite": "http://www.wattendorf-oberfranken.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.wattendorf-oberfranken.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Wandern & Radfahren",
+        "url": "https://www.wattendorf-oberfranken.de/freizeit-tourismus/wandern-radfahren/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.wattendorf-oberfranken.de/freizeit-tourismus/ferienwohnungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wechingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02663148759",
+    "webseite": "http://www.wechingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wegscheid",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19440925759",
+    "webseite": "https://www.wegscheid-aktuell.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/vereine",
+        "score": 60
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/sport-freizeit",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Tourismus",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/2025-kalenderaktion",
+        "score": 10
+      },
+      {
+        "titel": "Wegscheider Tourenplaner",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/wegscheider-tourenplaner",
+        "score": 10
+      },
+      {
+        "titel": "Kurbeitrag",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/kurbeitrag",
+        "score": 10
+      },
+      {
+        "titel": "Touristinfo / Gästeinfo",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/touristinfo-gaesteinfo",
+        "score": 10
+      },
+      {
+        "titel": "Gastgeber",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/gastgeber",
+        "score": 10
+      },
+      {
+        "titel": "Aktivprogramm",
+        "url": "https://www.wegscheid-aktuell.de/kultur-tourismus/aktivprogramm",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Wehringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36218702759",
+    "webseite": "https://www.wehringen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wehringen.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Bürgerversammlung: Rückschau auf die wichtigsten Daten und Projekte des Jahres 2025 in Wehringen und Abschied der Vereine von Bürgermeister Manfred Nerlinger",
+        "url": "https://www.wehringen.de/aktuelles/detail/eintrag/buergerversammlung-rueckschau-auf-die-wichtigsten-daten-und-projekte-des-jahres-2025-in-wehringen-und-abschied-der-vereine-von-buergermeister-manfred-nerlinger/",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Weibersbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52996479759",
+    "webseite": "http://www.weibersbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/vereine/seite-1/suche-none",
+        "score": 60
+      },
+      {
+        "titel": "",
+        "url": "http://www.vereinsring-weibersbrunn.de/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/kurzportrait",
+        "score": 10
+      },
+      {
+        "titel": "Watch My City",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/watch-my-city",
+        "score": 10
+      },
+      {
+        "titel": "Mehrzweckhalle",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/mehrzweckhalle/turnhallenbelegungsplan",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswertes",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/sehenswertes/heimatmuseum",
+        "score": 10
+      },
+      {
+        "titel": "Spessarträuber",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/sehenswertes/spessartraeuber",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/aktiv/nordicwalking",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/aktiv/wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Schlafen",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/essen-schlafen/restaurants-gasthoefe",
+        "score": 10
+      },
+      {
+        "titel": "Hotels, Pensionen & Ferienwohnungen",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/essen-schlafen/hotels-pensionen-ferienwohnungen",
+        "score": 10
+      },
+      {
+        "titel": "Weihnachtsmarkt",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/weihnachtsmarkt",
+        "score": 10
+      },
+      {
+        "titel": "Grillhütte",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/grillhuette",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.weibersbrunn.de/freizeit-tourismus/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weichering",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/69774256759",
+    "webseite": "http://www.weichering.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weichs",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/86552033759",
+    "webseite": "http://www.weichs.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weiden i.d.OPf.",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/06331539387",
+    "webseite": "https://www.weiden.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weiden.de/kultur/freizeit/vereine",
+        "score": 70
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.weiden.de/kultur/freizeit/veranstaltungen",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.weiden.de/kultur/freizeit/veranstaltungen/form-veranstaltung-melden",
+        "score": 20
+      },
+      {
+        "titel": "Ausstellungen",
+        "url": "https://www.weiden.de/kultur/freizeit/veranstaltungen/ausstellungen",
+        "score": 20
+      },
+      {
+        "titel": "Jugendzentrum",
+        "url": "https://www.weiden.de/kultur/freizeit/jugendzentrum",
+        "score": 20
+      },
+      {
+        "titel": "PlanB",
+        "url": "https://www.weiden.de/kultur/freizeit/planb",
+        "score": 20
+      },
+      {
+        "titel": "Eisstadion",
+        "url": "https://www.weiden.de/kultur/freizeit/eisstadion",
+        "score": 20
+      },
+      {
+        "titel": "Thermenwelt",
+        "url": "https://www.weiden.de/kultur/freizeit/thermenwelt",
+        "score": 20
+      },
+      {
+        "titel": "Wander- und Radwege",
+        "url": "https://www.weiden.de/kultur/freizeit/wander-und-radwege",
+        "score": 20
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.weiden.de/kultur/freizeit/sport",
+        "score": 20
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.weiden.de/kultur/freizeit/spielplaetze",
+        "score": 20
+      },
+      {
+        "titel": "",
+        "url": "https://www.weiden.de/kultur/freizeit/veranstaltungen/details/fruehlingsfest-2026",
+        "score": 20
+      },
+      {
+        "titel": "Osteoporose-Gymnastik Do., 07. Mai bis Do., 30. Juli Maria-Seltmann-Haus",
+        "url": "https://www.weiden.de/kultur/freizeit/veranstaltungen/details/osteoporose-gymnastik-1",
+        "score": 20
+      },
+      {
+        "titel": "Orthopädische Gymnastik Do., 07. Mai bis Do., 30. Juli Maria-Seltmann-Haus",
+        "url": "https://www.weiden.de/kultur/freizeit/veranstaltungen/details/orthopaedische-gymnastik-1",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Weidenbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03329810760",
+    "webseite": "http://www.weidenbach-triesdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weidenbach-triesdorf.de/leben-wohnen/vereine",
+        "score": 50
+      },
+      {
+        "titel": "Geschichte",
+        "url": "https://www.weidenbach-triesdorf.de/freizeit-und-tourismus/geschichte",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.weidenbach-triesdorf.de/freizeit-und-tourismus/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Tourist-Infos",
+        "url": "https://www.weidenbach-triesdorf.de/freizeit-und-tourismus/tourist-infos",
+        "score": 10
+      },
+      {
+        "titel": "Rad- und Wanderwege",
+        "url": "https://www.weidenbach-triesdorf.de/freizeit-und-tourismus/rad-und-wanderwege",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.weidenbach-triesdorf.de/freizeit-und-tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.weidenbach-triesdorf.de/freizeit-und-tourismus/unterkuenfte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weidenberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20107587760",
+    "webseite": "https://www.markt-weidenberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.markt-weidenberg.de/vereineverbaende",
+        "score": 50
+      },
+      {
+        "titel": "Bürgerstiftung",
+        "url": "https://www.markt-weidenberg.de/leben-wohnen/vereine-verbaende/buergerstiftung",
+        "score": 50
+      },
+      {
+        "titel": "Andreasmarkt",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/kultur/andreasmarkt",
+        "score": 20
+      },
+      {
+        "titel": "Historische Führung",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/kultur/historische-fuehrung",
+        "score": 20
+      },
+      {
+        "titel": "Kellernacht",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/kultur/kellernacht",
+        "score": 20
+      },
+      {
+        "titel": "Museen & Museumsweg",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/kultur/museen-sammlungen",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsorte",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/kultur/veranstaltungsorte",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.markt-weidenberg.de/freizeitportal",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/veranstaltungen/veranstaltungskalender",
+        "score": 10
+      },
+      {
+        "titel": "Feste Veranstaltungstermine",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/veranstaltungen/feste-veranstaltungstermine",
+        "score": 10
+      },
+      {
+        "titel": "Drehorte",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/filmkulisse-weidenberg/drehorte",
+        "score": 10
+      },
+      {
+        "titel": "Die Perlmutterfarbe",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/filmkulisse-weidenberg/perlmutterfarbe",
+        "score": 10
+      },
+      {
+        "titel": "Elser - Er hätte die Welt verändert",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/filmkulisse-weidenberg/elser-haette-welt-veraendert",
+        "score": 10
+      },
+      {
+        "titel": "Tannbach",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/filmkulisse-weidenberg/tannbach-schicksal-dorfes",
+        "score": 10
+      },
+      {
+        "titel": "Informationen und Kontakt",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/tourismus/tourismus",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/tourismus/gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/tourismus/uebernachtungen",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/tourismus/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Radfahren",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/tourismus/radfahren",
+        "score": 10
+      },
+      {
+        "titel": "Altes Schloss",
+        "url": "https://www.markt-weidenberg.de/freizeit-tourismus/tourismus/sehenswuerdigkeiten/altes-schloss",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weidhausen b.Coburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/36885364760",
+    "webseite": "http://www.weidhausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weiding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/70440918760",
+    "webseite": "http://www.vg-schoensee.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine im Schönseer Land",
+        "url": "https://www.vg-schoensee.de/27147-2/",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.vg-schoensee.de/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Seefest",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/seefest/",
+        "score": 10
+      },
+      {
+        "titel": "Abendklänge",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/abendklaenge/",
+        "score": 10
+      },
+      {
+        "titel": "Freilichtspiel Pascher",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/27307-2/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Ausflugstipps",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/ausflugstipps/",
+        "score": 10
+      },
+      {
+        "titel": "Übernachten",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/uebernachten/",
+        "score": 10
+      },
+      {
+        "titel": "Essen & Trinken",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/essen-trinken/",
+        "score": 10
+      },
+      {
+        "titel": "Spitzenklöppeln",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/spitzenkloeppeln/",
+        "score": 10
+      },
+      {
+        "titel": "Grenzflüsterer",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/grenzfluesterer/",
+        "score": 10
+      },
+      {
+        "titel": "Webcams",
+        "url": "https://www.vg-schoensee.de/tourismus-kultur/webcams/",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarungen",
+        "url": "https://www.vg-schoensee.de/terminvereinbarungen/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weiding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/53663141760",
+    "webseite": "http://www.weiding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Leben & Wohnen\n    \n\tFreizeit und mehr\n\nLeben & Wohnen",
+        "url": "https://weiding.de/leben-wohnen/vereine/",
+        "score": 60
+      }
+    ]
+  },
+  {
+    "name": "Weigendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87218695760",
+    "webseite": "http://www.weigendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://weigendorf.de/vereine-2/",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Weigenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03996472761",
+    "webseite": "http://www.weigenheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weigenheim.de/verzeichnis/index.php?mandatstyp=2",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Weihenzell",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20774249761",
+    "webseite": "http://www.weihenzell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Vereine.html",
+        "score": 30
+      },
+      {
+        "titel": "Kunst, Kultur & Literatur",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Kunst-Kultur-Literatur.html",
+        "score": 20
+      },
+      {
+        "titel": "Tourismus & Freizeit",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Veranstaltungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltung melden",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Veranstaltungen/Veranstaltung-melden.html",
+        "score": 10
+      },
+      {
+        "titel": "Ortsplan & Fahrpläne",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Ortsplan-Fahrplaene.html",
+        "score": 10
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Feuerwehren.html",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Freizeit-und-Sport.html",
+        "score": 10
+      },
+      {
+        "titel": "Sporteinrichtungen",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Freizeit-und-Sport/Sporteinrichtungen.html",
+        "score": 10
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Freizeit-und-Sport/Spielplaetze.html",
+        "score": 10
+      },
+      {
+        "titel": "Kneipp-Anlage",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Freizeit-und-Sport/Kneipp-Anlage.html",
+        "score": 10
+      },
+      {
+        "titel": "SEGWAY Partner",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Freizeit-und-Sport/SEGWAY-Partner.html",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Freibad.html",
+        "score": 10
+      },
+      {
+        "titel": "Regionale Ausflugsziele",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Regionale-Ausflugsziele.html",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Wanderwege.html",
+        "score": 10
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Radwege.html",
+        "score": 10
+      },
+      {
+        "titel": "Jakobsweg",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Regionale-Ausflugsziele/Jakobsweg.html",
+        "score": 10
+      },
+      {
+        "titel": "Übernachtungen",
+        "url": "https://www.weihenzell.de/Tourismus-Freizeit/Uebernachtungen.html",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weiherhammer",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/37552026761",
+    "webseite": "http://www.weiherhammer.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weihmichl",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54329803761",
+    "webseite": "http://www.weihmichl.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weil",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71107580761",
+    "webseite": "https://www.weil.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Lebendiges Vereinsleben",
+        "url": "https://www.weil.de/freizeit-und-sport/lebendiges-vereinsleben/unsere-vereine",
+        "score": 50
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.weil.de/freizeit-und-sport/lebendiges-vereinsleben/feuerwehr",
+        "score": 40
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.weil.de/freizeit-und-sport/veranstaltungen/veranstaltungen-rund-um-weil",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie und Übernachtung",
+        "url": "https://www.weil.de/freizeit-und-sport/gastronomie-und-uebernachtung/essen-und-trinken",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.weil.de/freizeit-und-sport/gastronomie-und-uebernachtung/unterkuenfte",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weilbach",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/87885357761",
+    "webseite": "http://www.weilbach.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.weilbach.de/leben-und-arbeiten/freizeit/vereinsliste/",
+        "score": 50
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.weilbach.de/leben-und-arbeiten/freizeit/freizeitanlagen/",
+        "score": 10
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.weilbach.de/leben-und-arbeiten/freizeit/freizeitanlagen/sport/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.weilbach.de/kultur-tourismus/erleben/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Regionalmarkt",
+        "url": "https://www.weilbach.de/leben-und-arbeiten/freizeit/freizeitanlagen/regionalmarkt/",
+        "score": 10
+      },
+      {
+        "titel": "Erleben",
+        "url": "https://www.weilbach.de/kultur-tourismus/erleben/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.weilbach.de/kultur-tourismus/erleben/veranstaltungen/",
+        "score": 10
+      },
+      {
+        "titel": "Führungen",
+        "url": "https://www.weilbach.de/kultur-tourismus/aktiv-natur/fuehrungen/",
+        "score": 10
+      },
+      {
+        "titel": "Einkaufen & Genießen",
+        "url": "https://www.weilbach.de/kultur-tourismus/einkaufen-geniessen/",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.weilbach.de/kultur-tourismus/einkaufen-geniessen/gaststaetten/",
+        "score": 10
+      },
+      {
+        "titel": "Regionale Anbieter",
+        "url": "https://www.weilbach.de/kultur-tourismus/einkaufen-geniessen/regionale-anbieter/",
+        "score": 10
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.weilbach.de/kultur-tourismus/unterkuenfte/",
+        "score": 10
+      },
+      {
+        "titel": "Hotels",
+        "url": "https://www.weilbach.de/kultur-tourismus/unterkuenfte/hotels/",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.weilbach.de/kultur-tourismus/unterkuenfte/ferienwohnungen/",
+        "score": 10
+      },
+      {
+        "titel": "Aktiv & Natur",
+        "url": "https://www.weilbach.de/kultur-tourismus/aktiv-natur/",
+        "score": 10
+      },
+      {
+        "titel": "Mountainbiking",
+        "url": "https://www.weilbach.de/leben-und-arbeiten/freizeit/freizeitanlagen/mountainbiking/",
+        "score": 10
+      },
+      {
+        "titel": "Wanderwege",
+        "url": "https://www.weilbach.de/kultur-tourismus/aktiv-natur/wanderwege/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.weilbach.de/leben-und-arbeiten/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weiler-Simmerberg",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/21440911762",
+    "webseite": "http://www.weiler-simmerberg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weilersbach",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/04663134762",
+    "webseite": "https://www.weilersbach.de/",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weilheim i.OB",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/47553356474",
+    "webseite": "http://www.weilheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport/vereine-und-verbaende",
+        "score": 60
+      },
+      {
+        "titel": "Kultur und Sport",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport",
+        "score": 10
+      },
+      {
+        "titel": "Stadtarchiv",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport/stadtarchiv",
+        "score": 10
+      },
+      {
+        "titel": "Lichtkunst Weilheim",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport/lichtkunst-weilheim",
+        "score": 10
+      },
+      {
+        "titel": "Kinos",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport/kinos",
+        "score": 10
+      },
+      {
+        "titel": "Kirchen und Religion",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport/kirchen-und-religion",
+        "score": 10
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.weilheim.de/mein-weilheim/kultur-sport/volkshochschule",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit und Gastronomie",
+        "url": "https://www.weilheim.de/touristinfo/freizeit-gastronomie",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten und Führungen",
+        "url": "https://www.weilheim.de/touristinfo/freizeit-gastronomie/sehenswuerdigkeiten-und-fuehrungen",
+        "score": 10
+      },
+      {
+        "titel": "Wandern rund um Weilheim",
+        "url": "https://www.weilheim.de/touristinfo/freizeit-gastronomie/wandertouren",
+        "score": 10
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.weilheim.de/touristinfo/freizeit-gastronomie/freizeitanlagen",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie in Weilheim",
+        "url": "https://www.weilheim.de/touristinfo/freizeit-gastronomie/lokale",
+        "score": 10
+      },
+      {
+        "titel": "Sonstige Angebote",
+        "url": "https://www.weilheim.de/touristinfo/freizeit-gastronomie/sonstige-angebote",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weiltingen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/38218688762",
+    "webseite": "http://www.weiltingen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weiltingen.de/leben-wohnen/vereine/seite-1/suche-none",
+        "score": 50
+      },
+      {
+        "titel": "Spiel- & Grillplätze",
+        "url": "https://www.weiltingen.de/tourismus-kultur/freizeitaktivitaeten/spiel-grillplaetze",
+        "score": 20
+      },
+      {
+        "titel": "Limesfreibad Mönchsroth",
+        "url": "https://www.weiltingen.de/tourismus-kultur/freizeitaktivitaeten/limesfreibad-moenchsroth",
+        "score": 20
+      },
+      {
+        "titel": "Kinder- und Schulförderverein Weiltingen e.V.",
+        "url": "https://www.weiltingen.de/leben-wohnen/kinder-und-schulfoerderverein-weiltingen-ev",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus & Kultur",
+        "url": "https://www.weiltingen.de/tourismus-kultur/schlossgraben",
+        "score": 10
+      },
+      {
+        "titel": "ILEK der Allianz Hesselberg-Limes",
+        "url": "https://www.weiltingen.de/tourismus-kultur/ilek-der-allianz-hesselberg-limes",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungskalender",
+        "url": "https://www.weiltingen.de/tourismus-kultur/veranstaltungskalender/seite-1/suche-none",
+        "score": 10
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.weiltingen.de/tourismus-kultur/gaststaetten",
+        "score": 10
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.weiltingen.de/tourismus-kultur/ferienwohnungen",
+        "score": 10
+      },
+      {
+        "titel": "Touristikverband Hesselberg",
+        "url": "https://www.weiltingen.de/tourismus-kultur/touristikverband-hesselberg",
+        "score": 10
+      },
+      {
+        "titel": "Region Hesselberg",
+        "url": "https://www.weiltingen.de/tourismus-kultur/region-hesselberg",
+        "score": 10
+      },
+      {
+        "titel": "Feste & Märkte",
+        "url": "https://www.weiltingen.de/tourismus-kultur/feste-maerkte",
+        "score": 10
+      },
+      {
+        "titel": "Heimatmuseum",
+        "url": "https://www.weiltingen.de/tourismus-kultur/heimatmuseum",
+        "score": 10
+      },
+      {
+        "titel": "LIMESEUM",
+        "url": "https://www.weiltingen.de/tourismus-kultur/limeseum",
+        "score": 10
+      },
+      {
+        "titel": "Spurensuche",
+        "url": "https://www.weiltingen.de/tourismus-kultur/spurensuche",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weisendorf",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/54996465762",
+    "webseite": "http://www.weisendorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weismain",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/19331098482",
+    "webseite": "https://www.stadt-weismain.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.stadt-weismain.de/leben-in-weismain/vereine-und-verbaende/vereinsregister",
+        "score": 80
+      },
+      {
+        "titel": "Freizeit und Sport",
+        "url": "https://www.stadt-weismain.de/weismain-erleben/freizeit-und-sport/freizeitmoeglichkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Wandern",
+        "url": "https://www.stadt-weismain.de/weismain-erleben/freizeit-und-sport/wandern",
+        "score": 10
+      },
+      {
+        "titel": "Obermain erleben - Erlebnis- und Genusstouren",
+        "url": "https://www.stadt-weismain.de/weismain-erleben/freizeit-und-sport/obermain-erleben-erlebnis-und-genusstouren",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.stadt-weismain.de/weismain-erleben/freizeit-und-sport/sehenswuerdigkeiten",
+        "score": 10
+      },
+      {
+        "titel": "Rundwege und Lehrpfade",
+        "url": "https://www.stadt-weismain.de/weismain-erleben/freizeit-und-sport/rundwege-und-lehrpfade",
+        "score": 10
+      },
+      {
+        "titel": "Reisegruppen",
+        "url": "https://www.stadt-weismain.de/weismain-erleben/freizeit-und-sport/reisegruppen",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weißdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/71774242762",
+    "webseite": "http://www.weissdorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weißenbrunn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/88552019762",
+    "webseite": "http://www.weissenbrunn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Kultur- & Tourismusamt, Ferienprogramm",
+        "url": "https://www.weissenbrunn.de/rathaus-und-verwaltung/wer-was-wo/kultur-tourismusamt-ferienprogramm/",
+        "score": 10
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Neuigkeiten",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/tourismus/neuigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/gastronomie/",
+        "score": 10
+      },
+      {
+        "titel": "Schwimmbad",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/schwimmbad/",
+        "score": 10
+      },
+      {
+        "titel": "Sehenswürdigkeiten",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/sehenswuerdigkeiten/",
+        "score": 10
+      },
+      {
+        "titel": "Dreieinigkeitskirche",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/sehenswuerdigkeiten/dreieinigkeitskirche/",
+        "score": 10
+      },
+      {
+        "titel": "Dr.-Martin-Luther-Kirche",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/sehenswuerdigkeiten/dr-martin-luther-kirche/",
+        "score": 10
+      },
+      {
+        "titel": "Jungferkättl-Brunnen",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/sehenswuerdigkeiten/jungferkaettl-brunnen/",
+        "score": 10
+      },
+      {
+        "titel": "St. Egidius-Kirche",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/sehenswuerdigkeiten/st-egidius-kirche/",
+        "score": 10
+      },
+      {
+        "titel": "St. Josef-Kirche",
+        "url": "https://www.weissenbrunn.de/freizeit-tourismus/sehenswuerdigkeiten/st-josef-kirche/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weißenburg i.Bay.",
+    "typ": "Große Kreisstadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/52886652482",
+    "webseite": "http://www.weissenburg.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weissenburg.de/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Vereine & Stadtleben",
+        "url": "https://www.weissenburg.de/stadtleben/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Freizeit",
+        "url": "https://www.weissenburg.de/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.weissenburg.de/freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit von A bis Z",
+        "url": "https://www.weissenburg.de/freizeit/a-bis-z/",
+        "score": 10
+      },
+      {
+        "titel": "Veranstaltungsreihen",
+        "url": "https://www.weissenburg.de/kultur/veranstaltungsreihen/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturorte",
+        "url": "https://www.weissenburg.de/kulturorte/",
+        "score": 10
+      },
+      {
+        "titel": "Kulturforum",
+        "url": "https://www.weissenburg.de/kulturforum/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weißenhorn",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99886673477",
+    "webseite": "https://www.weissenhorn.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.weissenhorn.de/tourismus-und-freizeit/vereinsleben/vereinsfoerderung",
+        "score": 40
+      },
+      {
+        "titel": "Programm Kulturnacht",
+        "url": "https://www.weissenhorn.de/tourismus-und-freizeit/was-ist-los-in-weissenhorn/programm-kulturnacht",
+        "score": 20
+      },
+      {
+        "titel": "Offene Musikprobe - Musikverein Eintracht Attenhofen",
+        "url": "https://www.weissenhorn.de/tourismus-und-freizeit/was-ist-los-in-weissenhorn/veranstaltungskalender/veranstaltung/offene-musikprobe-musikverein-eintracht-attenhofen",
+        "score": 20
+      },
+      {
+        "titel": "Tag der offenen Tür beim Musikverein Bubenhausen",
+        "url": "https://www.weissenhorn.de/tourismus-und-freizeit/was-ist-los-in-weissenhorn/veranstaltungskalender/veranstaltung/tag-der-offenen-tuer-beim-musikverein-bubenhausen",
+        "score": 20
+      },
+      {
+        "titel": "Freibad geöffnet?",
+        "url": "https://www.weissenhorn.de/tourismus-und-freizeit/sport-und-erholung/schwimmen-und-baden/freibad-geoeffnet",
+        "score": 10
+      },
+      {
+        "titel": "Terminvereinbarung",
+        "url": "https://weissenhorn.communicetime.de/terminbuchung/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Weißenohe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/05329796763",
+    "webseite": "https://www.weissenohe.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "TOURISMUS & FREIZEIT",
+        "url": "https://www.weissenohe.de/tourismus-freizeit/",
+        "score": 10
+      }
+    ]
   }
 ]
