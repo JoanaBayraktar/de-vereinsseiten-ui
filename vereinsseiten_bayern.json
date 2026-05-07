@@ -62814,5 +62814,387 @@
     "webseite": "http://www.zell-main.de",
     "bundesland": "Bayern",
     "vereinsseiten": []
+  },
+  {
+    "name": "Zell im Fichtelgebirge",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/98551949777",
+    "webseite": "http://www.markt-zell.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/vereine/",
+        "score": 60
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/",
+        "score": 10
+      },
+      {
+        "titel": "Natur und Freizeit",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/natur-und-freizeit/",
+        "score": 10
+      },
+      {
+        "titel": "Gastronomien",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/gastronomien/",
+        "score": 10
+      },
+      {
+        "titel": "Wohnmobilstellplätze",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/gastronomien/wohnmobilstellplaetze/",
+        "score": 10
+      },
+      {
+        "titel": "Der Haidberg",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/sehenswertes/der-haidberg/",
+        "score": 10
+      },
+      {
+        "titel": "Die Saalequelle",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/sehenswertes/die-saalequelle/",
+        "score": 10
+      },
+      {
+        "titel": "Historiker Dr. Adrian Roßner",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/historiker-dr-adrian-rossner/",
+        "score": 10
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/freibad/",
+        "score": 10
+      },
+      {
+        "titel": "Naturpark Fichtelgebirge",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/naturpark-fichtelgebirge/",
+        "score": 10
+      },
+      {
+        "titel": "Nördliches Fichtelgebirge",
+        "url": "https://www.markt-zell.de/freizeit-tourismus/noerdliches-fichtelgebirge/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Zellingen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32107503778",
+    "webseite": "https://www.vgem-zellingen.info",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Beitr�ge von Vereinen - Verb�nden - Kirchen",
+        "url": "https://www.vgem-zellingen.info/seite/vg/cms0705202609425722945453/0704:4388/-/Beitraege_von_Vereinen_-Verbaenden_-Kirchen.html",
+        "score": 20
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-zellingen.info/verein/vg/cms0705202609425722945453/-/-/vereine_searchresult",
+        "score": 20
+      }
+    ]
+  },
+  {
+    "name": "Zenting",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/48885280778",
+    "webseite": "http://www.zenting.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ziemetshausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/65663057778",
+    "webseite": "https://www.vgziemetshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ziertheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/82440834778",
+    "webseite": "https://www.ziertheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zirndorf",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/02664548457",
+    "webseite": "https://www.zirndorf.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zöschingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/32774165779",
+    "webseite": "http://vg-syrgenstein.de/zoeschingen.html",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.vg-syrgenstein.de/vereine.html",
+        "score": 50
+      }
+    ]
+  },
+  {
+    "name": "Zolling",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/99218611778",
+    "webseite": "http://www.zolling.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zorneding",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/15996388779",
+    "webseite": "https://www.zorneding.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verb�nde",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Freizeit-Bildung-Kultur/Vereine-Verb%C3%A4nde/",
+        "score": 40
+      },
+      {
+        "titel": "Nutzungsvereinbarung Sitzungssaal Rathausanbau",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Freizeit-Bildung-Kultur/Nutzungsvereinbarung-Sitzungssaal-Rathausanbau/",
+        "score": 30
+      },
+      {
+        "titel": "Freizeit, Bildung & Kultur",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Freizeit-Bildung-Kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Musik & Kultur",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Freizeit-Bildung-Kultur/Musik-Kultur/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungen",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Freizeit-Bildung-Kultur/Veranstaltungen/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltungsleitfaden - Planen einer Veranstaltung",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Freizeit-Bildung-Kultur/Veranstaltungsleitfaden-Planen-einer-Veranstaltung/",
+        "score": 20
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.zorneding.de/Wohnen-Leben/Senioren/Vereinsleben/",
+        "score": 10
+      },
+      {
+        "titel": "Standesamt nur nach Terminvereinbarung geöffnet",
+        "url": "https://www.zorneding.de/index.php?object=tx,3094.5&ModID=7&FID=3094.3299.1",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Zusamaltheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/49551942779",
+    "webseite": "https://www.zusamaltheim.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://zusamaltheim.de/familie-leben/familie/vereine/",
+        "score": 50
+      },
+      {
+        "titel": "Do..\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t07.\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tMai\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t19:30 Uhr\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tKonstituierende Sitzung Gemeinderat",
+        "url": "https://zusamaltheim.de/kultur-freizeit/veranstaltungen/konstituierende-sitzung-gemeinderat/",
+        "score": 20
+      },
+      {
+        "titel": "Mi..\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t13.\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tMai\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t19:00 Uhr\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tKameradschaftsabend KSV",
+        "url": "https://zusamaltheim.de/kultur-freizeit/veranstaltungen/kameradschaftsabend-ksv-3/",
+        "score": 20
+      },
+      {
+        "titel": "Do..\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t14.\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tMai\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t10:00 Uhr\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tVatertagsfest in Sontheim",
+        "url": "https://zusamaltheim.de/kultur-freizeit/veranstaltungen/vatertagsfest-in-sontheim-2/",
+        "score": 20
+      },
+      {
+        "titel": "So..\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t17.\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tMai\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t2026\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tAusflug Landesgartenschau",
+        "url": "https://zusamaltheim.de/kultur-freizeit/veranstaltungen/ausflug-landesgartenschau/",
+        "score": 20
+      },
+      {
+        "titel": "Veranstaltung einreichen",
+        "url": "https://zusamaltheim.de/veranstaltung-einreichen/",
+        "score": 20
+      },
+      {
+        "titel": "Zum Kalender",
+        "url": "https://zusamaltheim.de/veranstaltungskalender/",
+        "score": 20
+      },
+      {
+        "titel": "Kultur & Geschichte",
+        "url": "https://zusamaltheim.de/",
+        "score": 10
+      },
+      {
+        "titel": "Zusamaltheim",
+        "url": "https://zusamaltheim.de/kultur-geschichte/zusamaltheim/",
+        "score": 10
+      },
+      {
+        "titel": "Sontheim",
+        "url": "https://zusamaltheim.de/kultur-geschichte/sontheim/",
+        "score": 10
+      },
+      {
+        "titel": "Marzelstetten",
+        "url": "https://zusamaltheim.de/kultur-geschichte/marzelstetten/",
+        "score": 10
+      },
+      {
+        "titel": "Gauried",
+        "url": "https://zusamaltheim.de/kultur-geschichte/gauried/",
+        "score": 10
+      },
+      {
+        "titel": "Ehrenbürger",
+        "url": "https://zusamaltheim.de/kultur-geschichte/ehrenbuerger/",
+        "score": 10
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://zusamaltheim.de/kultur-geschichte/buecherei/",
+        "score": 10
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://zusamaltheim.de/familie-leben/familie/freizeit/",
+        "score": 10
+      }
+    ]
+  },
+  {
+    "name": "Zusmarshausen",
+    "typ": "Markt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/66329719779",
+    "webseite": "http://www.zusmarshausen.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zwiesel",
+    "typ": "Stadt",
+    "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/42886722467",
+    "webseite": "http://www.zwiesel.de",
+    "bundesland": "Bayern",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.zwiesel.de/stadt-und-buerger/leben-arbeiten-wohnen/vereine/vereine-alphabetisch.html",
+        "score": 50
+      },
+      {
+        "titel": "Impressum",
+        "url": "https://www.zwiesel.de/urlaub-und-freizeit/info-service/impressum.html",
+        "score": 10
+      },
+      {
+        "titel": "Urlaub und Freizeit",
+        "url": "https://www.ferienregion-nationalpark.de/ferienregion/urlaubsorte/zwiesel",
+        "score": 10
+      },
+      {
+        "titel": "Kunst und Kultur",
+        "url": "https://www.zwiesel.de/kunst-und-kultur.html",
+        "score": 10
+      },
+      {
+        "titel": "Sommerkonzerte",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/sommerkonzerte.html",
+        "score": 10
+      },
+      {
+        "titel": "Zwieseler Osternest",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/zwieseler-osternest.html",
+        "score": 10
+      },
+      {
+        "titel": "Maibaum-Tradition",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/maibaum-tradition.html",
+        "score": 10
+      },
+      {
+        "titel": "Glaskulturausstellung 2025",
+        "url": "https://waldmuseum.zwiesel.de/sonderausstellungen/archiv/gefangen-im-ueberfang.html",
+        "score": 10
+      },
+      {
+        "titel": "Zwieseler Glasnacht",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/zwieseler-glasnacht.html",
+        "score": 10
+      },
+      {
+        "titel": "Zwieseler Krippenweg",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/zwieseler-krippenweg.html",
+        "score": 10
+      },
+      {
+        "titel": "Zwiesler Buntspecht",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/zwiesler-buntspecht.html",
+        "score": 10
+      },
+      {
+        "titel": "Glas-Stadt",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/glas-stadt.html",
+        "score": 10
+      },
+      {
+        "titel": "Glashütten und Glaskünstler",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/glas-stadt/glashuetten-und-glaskuenstler.html",
+        "score": 10
+      },
+      {
+        "titel": "Glasfachschule Zwiesel",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/glas-stadt/glasfachschule-zwiesel.html",
+        "score": 10
+      },
+      {
+        "titel": "Glasmuseen",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/glas-stadt/glasmuseen.html",
+        "score": 10
+      },
+      {
+        "titel": "Glasausstellungen, -auktionen und -events",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/glas-stadt/glasausstellungen-auktionen-und-events.html",
+        "score": 10
+      },
+      {
+        "titel": "Gläserne Sehenswürdigkeiten",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/glas-stadt/glaeserne-sehenswuerdigkeiten.html",
+        "score": 10
+      },
+      {
+        "titel": "Unterirdische Gänge",
+        "url": "https://www.zwiesel.de/kunst-und-kultur/unterirdische-gaenge.html",
+        "score": 10
+      }
+    ]
   }
 ]
