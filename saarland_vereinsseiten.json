@@ -653,7 +653,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Saarwellingen",
     "webseite": "https://www.saarwellingen.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Vereinsleben",
+        "url": "https://www.saarwellingen.de/gemeindeleben/vereine/vereinsregister"
+      },
+      {
+        "titel": "Hallenbelegungspläne",
+        "url": "https://www.saarwellingen.de/gemeindeleben/vereine/hallenbelegungsplaene"
+      }
+    ]
   },
   {
     "name": "Schiffweiler",
@@ -661,7 +670,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schiffweiler",
     "webseite": "https://www.schiffweiler.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schiffweiler.de/wohnen-leben/vereine"
+      }
+    ]
   },
   {
     "name": "Schmelz",
@@ -669,7 +683,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schmelz_(Saar)",
     "webseite": "https://www.schmelz.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.schmelz.de/freizeit-tourismus/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Schwalbach",
@@ -677,7 +696,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwalbach_(Saar)",
     "webseite": "https://www.schwalbach-saar.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt & Vereine",
+        "url": "https://www.schwalbach-saar.de/de/leben-in-schwalbach/familie-soziales/ehrenamt-vereine"
+      }
+    ]
   },
   {
     "name": "Spiesen-Elversberg",
@@ -685,7 +709,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Spiesen-Elversberg",
     "webseite": "https://www.spiesen-elversberg.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.spiesen-elversberg.de/sport-freizeit-kultur-tourismus/vereine"
+      },
+      {
+        "titel": "Vereinsformular",
+        "url": "https://www.spiesen-elversberg.de/sport-freizeit-kultur-tourismus/formular-vereine"
+      },
+      {
+        "titel": "08.05.2026 Jahreshauptversammlung beim Kneipp-Verein Spiesen",
+        "url": "https://www.spiesen-elversberg.de/information-et-participation-citoyenne/evenements/detail/jahreshauptversammlung-beim-kneipp-verein-spiesen"
+      }
+    ]
   },
   {
     "name": "St. Ingbert",
@@ -693,7 +730,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/St._Ingbert",
     "webseite": "https://www.st-ingbert.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Kommunikation und Vereine",
+        "url": "https://www.st-ingbert.de/rathaus/stadtverwaltung/stabsstellen/kommunikation-und-vereine"
+      }
+    ]
   },
   {
     "name": "St. Wendel",
@@ -709,7 +751,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sulzbach/Saar",
     "webseite": "https://www.stadt-sulzbach.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-sulzbach.de/redirect.phtml?extlink=1&La=1&url_fid=3703.44.1"
+      }
+    ]
   },
   {
     "name": "Tholey",
@@ -725,7 +772,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Völklingen",
     "webseite": "https://www.voelklingen.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.voelklingen.de/kultur-sport-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Wadern",
@@ -733,7 +785,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wadern",
     "webseite": "https://ssl.wadern.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://ssl.wadern.de/leben-wohnen/vereine"
+      }
+    ]
   },
   {
     "name": "Wadgassen",
@@ -749,7 +806,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wallerfangen",
     "webseite": "https://www.wallerfangen.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wallerfangen.de/tourismus-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Weiskirchen",
@@ -765,6 +827,11 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Überherrn",
     "webseite": "https://ueberherrn.de/",
     "bundesland": "Saarland",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Verbände & polit. Parteien",
+        "url": "https://ueberherrn.de/vereine-verbaende-polit-parteien"
+      }
+    ]
   }
 ]

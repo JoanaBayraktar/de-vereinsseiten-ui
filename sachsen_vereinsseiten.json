@@ -403,7 +403,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Bischofswerda",
     "webseite": "https://www.bischofswerda.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.bischofswerda.de/nachrichten/kategorie-55"
+      },
+      {
+        "titel": "Vereine und Ehrenamt",
+        "url": "https://www.bischofswerda.de/buerger-rathaus-und-politik/vereine-und-ehrenamt/vereinsliste"
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.bischofswerda.de/buerger-rathaus-und-politik/vereine-und-ehrenamt/feuerwehr"
+      },
+      {
+        "titel": "Kostümfundus",
+        "url": "https://www.bischofswerda.de/buerger-rathaus-und-politik/vereine-und-ehrenamt/kostuemfundus"
+      }
+    ]
   },
   {
     "name": "Bobritzsch-Hilbersdorf",
@@ -419,7 +436,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Bockau",
     "webseite": "https://www.bockau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Sport und Freizeit",
+        "url": "https://www.bockau.de/wirtschaft/vereine/sport-und-freizeit"
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.bockau.de/wirtschaft/vereine/kultur"
+      },
+      {
+        "titel": "Sonstige",
+        "url": "https://www.bockau.de/wirtschaft/vereine/sonstige"
+      }
+    ]
   },
   {
     "name": "Borna",
@@ -427,7 +457,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Borna",
     "webseite": "https://www.borna.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Jetzt Termin online vereinbaren",
+        "url": "https://www.borna.de/Stadtverwaltung-und-Buergerservice/Was-erledige-ich-wo/Termin-online-vereinbaren.htm?"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.borna.de/Freizeit-Kultur-und-Tourismus/Vereine.htm?"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.borna.de/Freizeit-Kultur-und-Tourismus/Vereine/eigenen-Verein-eintragen.htm?"
+      }
+    ]
   },
   {
     "name": "Borsdorf",
@@ -435,7 +478,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Borsdorf",
     "webseite": "https://www.borsdorf-sachsen.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.borsdorf.de/vereine"
+      }
+    ]
   },
   {
     "name": "Boxberg/O.L.",
@@ -443,7 +491,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Boxberg/O.L.",
     "webseite": "https://boxberg-ol.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://boxberg-ol.de/de/boxberg-ortsteile/vereine.html"
+      }
+    ]
   },
   {
     "name": "Brand-Erbisdorf",
@@ -451,7 +504,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Brand-Erbisdorf",
     "webseite": "https://www.brand-erbisdorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.brand-erbisdorf.de/leben/vereine"
+      },
+      {
+        "titel": "Weiterlesen des Beitrags Termine online vereinbaren",
+        "url": "https://www.brand-erbisdorf.de/2025/07/16/termine-online-vereinbaren"
+      },
+      {
+        "titel": "Fundgrube „Vereinigt Feld“",
+        "url": "https://www.brand-erbisdorf.de/stadt/stadtgeschichte/brander-schaechte/fundgrube-vereinigt-feld"
+      }
+    ]
   },
   {
     "name": "Brandis",
@@ -459,7 +525,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Brandis",
     "webseite": "https://stadt-brandis.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://stadt-brandis.de/brandis-ganz-nah-dran/vereine"
+      }
+    ]
   },
   {
     "name": "Breitenbrunn/Erzgeb.",
@@ -467,7 +538,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Breitenbrunn/Erzgeb.",
     "webseite": "https://www.breitenbrunn-erzgebirge.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.breitenbrunn-erzgebirge.de/de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Burgstädt",
@@ -475,7 +551,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Burgstädt",
     "webseite": "https://www.burgstaedt.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in Burgstädt",
+        "url": "https://www.burgstaedt.de/kultur-tourismus/vereine-in-burgstaedt"
+      },
+      {
+        "titel": "Vereine von A bis Z",
+        "url": "https://www.burgstaedt.de/kultur-tourismus/vereine-in-burgstaedt/vereine-von-a-bis-z"
+      },
+      {
+        "titel": "Neueintrag eines Verein",
+        "url": "https://www.burgstaedt.de/kultur-tourismus/vereine-in-burgstaedt/neueintrag-eines-verein"
+      },
+      {
+        "titel": "Zuwendungsrichtlinie",
+        "url": "https://www.burgstaedt.de/kultur-tourismus/vereine-in-burgstaedt/zuwendungsrichtlinie"
+      }
+    ]
   },
   {
     "name": "Burkau",
@@ -483,7 +576,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Burkau",
     "webseite": "https://www.gemeinde-burkau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-burkau.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Burkhardtsdorf",
@@ -491,7 +589,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Burkhardtsdorf",
     "webseite": "https://www.burkhardtsdorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.burkhardtsdorf.de/de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Bärenstein",
@@ -499,7 +602,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Bärenstein_(Erzgebirge)",
     "webseite": "https://www.baerenstein-erzgebirge.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Unternehmen, Vereine & Medizinische Versorgung",
+        "url": "https://www.baerenstein-erzgebirge.de/unternehmen"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.baerenstein-erzgebirge.de/vereine"
+      },
+      {
+        "titel": "Unternehmen & Vereineund medizinische Versorgung",
+        "url": "https://www.baerenstein-erzgebirge.de/unternehmen-vereine"
+      }
+    ]
   },
   {
     "name": "Böhlen",
@@ -515,7 +631,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Börnichen/Erzgeb.",
     "webseite": "https://www.boernichen.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://boernichen.de/vereine"
+      }
+    ]
   },
   {
     "name": "Bösenbrunn",
@@ -523,7 +644,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Bösenbrunn",
     "webseite": "https://boesenbrunn.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://boesenbrunn.de/vereine"
+      }
+    ]
   },
   {
     "name": "Callenberg",
@@ -531,7 +657,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Callenberg",
     "webseite": "https://www.callenberg.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.callenberg.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Cavertitz",
@@ -547,7 +678,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Chemnitz",
     "webseite": "https://www.chemnitz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Engagement",
+        "url": "https://www.chemnitz.de/de/leben-in-chemnitz/vereine"
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.chemnitz.de/de/leben-in-chemnitz/vereine/ehrenamt"
+      },
+      {
+        "titel": "Freiwilligendienste",
+        "url": "https://www.chemnitz.de/de/leben-in-chemnitz/vereine/freiwilligendienste"
+      },
+      {
+        "titel": "Wiedervereinigung und Rückbenennung",
+        "url": "https://www.chemnitz.de/de/unsere-stadt/geschichte/friedliche-revolution-89"
+      }
+    ]
   },
   {
     "name": "Claußnitz",
@@ -555,7 +703,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Claußnitz",
     "webseite": "https://www.claussnitz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.claussnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Colditz",
@@ -563,7 +716,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Colditz",
     "webseite": "https://www.colditz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine rund um Colditz",
+        "url": "https://www.colditz.de/seite/305649/vereine-rund-um-colditz.html"
+      }
+    ]
   },
   {
     "name": "Coswig",
@@ -571,7 +729,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Coswig_(Sachsen)",
     "webseite": "https://www.coswig.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.coswig.de/de/vereinsleben.html"
+      }
+    ]
   },
   {
     "name": "Crimmitschau",
@@ -579,7 +742,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Crimmitschau",
     "webseite": "https://www.crimmitschau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.crimmitschau.de/de/vereinsleben.html"
+      },
+      {
+        "titel": "Vereinsübersicht",
+        "url": "https://www.crimmitschau.de/de/vereinsuebersicht.html"
+      }
+    ]
   },
   {
     "name": "Crinitzberg",
@@ -603,7 +775,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Crottendorf",
     "webseite": "https://www.crottendorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "VEREINE",
+        "url": "https://www.crottendorf.de/gemeinde-ortsteile/einrichtungen/vereine"
+      }
+    ]
   },
   {
     "name": "Cunewalde",
@@ -611,7 +788,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Cunewalde",
     "webseite": "https://www.cunewalde.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.cunewalde.de/leben-wohnen/vereine"
+      }
+    ]
   },
   {
     "name": "Dahlen",
@@ -619,7 +801,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dahlen_(Sachsen)",
     "webseite": "https://www.heidestadt-dahlen.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.heidestadt-dahlen.de/leben/sportstaetten-vereine/vereinsregister"
+      },
+      {
+        "titel": "Vereins-Neueintrag",
+        "url": "https://www.heidestadt-dahlen.de/leben/sportstaetten-vereine/vereins-neueintrag"
+      },
+      {
+        "titel": "https://www.heidestadt-dahlen.de/portal/meldungen/inkrafttreten-der-neuen-richtlinie-zur-foerderung-der-aktiven-kinder-und-jugendarbeit-in-vereinen-und-vereinigungen-der-stadt-dahlen-900000289-27630.html?rubrik=900000001",
+        "url": "https://www.heidestadt-dahlen.de/portal/meldungen/inkrafttreten-der-neuen-richtlinie-zur-foerderung-der-aktiven-kinder-und-jugendarbeit-in-vereinen-und-vereinigungen-der-stadt-dahlen-900000289-27630.html?rubrik=900000001"
+      }
+    ]
   },
   {
     "name": "Delitzsch",
@@ -627,7 +822,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Delitzsch",
     "webseite": "https://www.delitzsch.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Bürgerpreis",
+        "url": "https://www.delitzsch.de/mein-delitzsch/freizeit-und-sport/vereine-und-buergerpreis"
+      }
+    ]
   },
   {
     "name": "Demitz-Thumitz",
@@ -635,7 +835,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Demitz-Thumitz",
     "webseite": "https://www.demitz-thumitz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.demitz-thumitz.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Dennheritz",
@@ -643,7 +848,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dennheritz",
     "webseite": "https://www.gemeinde-dennheritz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-dennheritz.de/vereine_im_ort"
+      },
+      {
+        "titel": "Fussball FSV Dennheritz",
+        "url": "https://www.gemeinde-dennheritz.de/vereine_im_ort/fsv-dennheritz"
+      },
+      {
+        "titel": "Feuerwehr Dennheritz",
+        "url": "https://www.gemeinde-dennheritz.de/vereine_im_ort/fw-dennheritz"
+      },
+      {
+        "titel": "Feuerwehr Niederschindmaas",
+        "url": "https://www.gemeinde-dennheritz.de/vereine_im_ort/fw-niederschindmaas"
+      },
+      {
+        "titel": "Kirchengemeinde",
+        "url": "https://www.gemeinde-dennheritz.de/vereine_im_ort/kirchengemeinde"
+      },
+      {
+        "titel": "Kleintierzüchter",
+        "url": "https://www.gemeinde-dennheritz.de/vereine_im_ort/kleintierzuechter"
+      }
+    ]
   },
   {
     "name": "Deutschneudorf",
@@ -659,7 +889,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Diera-Zehren",
     "webseite": "https://www.diera-zehren.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.diera-zehren.de/naherholung/freizeit-kultur/vereine"
+      }
+    ]
   },
   {
     "name": "Dippoldiswalde",
@@ -667,7 +902,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dippoldiswalde",
     "webseite": "https://www.dippoldiswalde.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.dippoldiswalde.de/seite/735763/vereine-ehrenamt.html"
+      }
+    ]
   },
   {
     "name": "Doberschau-Gaußig",
@@ -675,7 +915,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Doberschau-Gaußig",
     "webseite": "https://www.doberschau-gaussig.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.doberschau-gaussig.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Doberschütz",
@@ -683,7 +928,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Doberschütz",
     "webseite": "https://www.doberschuetz.eu/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.doberschuetz.eu/dob/kultur-sport/vereine.php"
+      }
+    ]
   },
   {
     "name": "Dohma",
@@ -699,7 +949,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dohna",
     "webseite": "https://www.stadt-dohna.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.stadt-dohna.de/kultur-freizeit/vereineverbande"
+      }
+    ]
   },
   {
     "name": "Dommitzsch",
@@ -715,7 +970,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dorfchemnitz",
     "webseite": "https://www.dorfchemnitz.eu/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dorfchemnitz.eu/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Dorfhain",
@@ -723,7 +983,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dorfhain",
     "webseite": "https://www.dorfhain.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Einrichtungen",
+        "url": "https://www.dorfhain.de/leben/vereine-und-einrichtungen"
+      }
+    ]
   },
   {
     "name": "Drebach",
@@ -739,7 +1004,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dreiheide",
     "webseite": "https://www.dreiheide.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dreiheide.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Dresden",
@@ -755,7 +1025,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Döbeln",
     "webseite": "https://www.doebeln.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.doebeln.de/leben-in-doebeln/vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.doebeln.de/tourismus-kultur-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Dürrhennersdorf",
@@ -763,7 +1042,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Dürrhennersdorf",
     "webseite": "https://www.gemeinde-duerrhennersdorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-duerrhennersdorf.de/leben-und-wohnen/vereine"
+      }
+    ]
   },
   {
     "name": "Dürrröhrsdorf-Dittersbach",
@@ -779,7 +1063,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ebersbach_(bei_Großenhain)",
     "webseite": "https://www.gemeinde-ebersbach.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-ebersbach.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Ebersbach-Neugersdorf",
@@ -787,7 +1076,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ebersbach-Neugersdorf",
     "webseite": "https://www.ebersbach-neugersdorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine rund ums Tier",
+        "url": "https://www.ebersbach-neugersdorf.de/freizeittourismus/vereine/vereine-rund-ums-tier"
+      }
+    ]
   },
   {
     "name": "Ehrenfriedersdorf",
@@ -795,7 +1089,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ehrenfriedersdorf",
     "webseite": "https://www.stadt-ehrenfriedersdorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-ehrenfriedersdorf.de/freizeit-tourismus/vereine.html"
+      }
+    ]
   },
   {
     "name": "Eibenstock",
@@ -803,7 +1102,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Eibenstock",
     "webseite": "https://www.eibenstock.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.eibenstock.de/deutsch/das/leben-wohnen/vereine"
+      }
+    ]
   },
   {
     "name": "Eichigt",
@@ -819,7 +1123,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Eilenburg",
     "webseite": "https://eilenburg.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.eilenburg.de/leben/vereine"
+      },
+      {
+        "titel": "Übersicht Vereine",
+        "url": "https://www.eilenburg.de/leben/vereine/uebersicht-vereine"
+      },
+      {
+        "titel": "Heinzelpreis",
+        "url": "https://www.eilenburg.de/leben/vereine/heinzelpreis"
+      }
+    ]
   },
   {
     "name": "Ellefeld",
@@ -827,7 +1144,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ellefeld",
     "webseite": "https://ellefeld.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Sport & Vereine",
+        "url": "https://ellefeld.de/leben-freizeit/sport-vereine"
+      }
+    ]
   },
   {
     "name": "Elsnig",
@@ -835,7 +1157,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Elsnig",
     "webseite": "https://www.elsnig.com/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.elsnig.com/vereine"
+      }
+    ]
   },
   {
     "name": "Elsterberg",
@@ -843,7 +1170,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Elsterberg",
     "webseite": "https://elsterberg.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Bildung und Vereine",
+        "url": "https://elsterberg.de/bildung-und-vereine.html"
+      },
+      {
+        "titel": "Vereine und Gemeinschaften",
+        "url": "https://elsterberg.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Elsterheide",
@@ -859,7 +1195,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Elstertrebnitz",
     "webseite": "https://www.gemeinde-elstertrebnitz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-elstertrebnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Elstra",
@@ -867,7 +1208,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Elstra",
     "webseite": "https://www.elstra.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.elstra.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Elterlein",
@@ -875,7 +1221,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Elterlein",
     "webseite": "https://www.elterlein-stadt.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.elterlein-stadt.de/vereine"
+      }
+    ]
   },
   {
     "name": "Eppendorf",
@@ -883,7 +1234,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Eppendorf",
     "webseite": "https://www.gemeinde-eppendorf.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsübersicht",
+        "url": "https://www.gemeinde-eppendorf.de/gemeindeleben/verein.php"
+      }
+    ]
   },
   {
     "name": "Erlau",
@@ -891,7 +1247,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Erlau_(Sachsen)",
     "webseite": "http://www.gemeindeerlau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.gemeindeerlau.de/index.php/vereine1"
+      },
+      {
+        "titel": "Vereine",
+        "url": "http://www.gemeindeerlau.de/index.php/vereine"
+      }
+    ]
   },
   {
     "name": "Falkenstein/Vogtl.",
@@ -899,7 +1264,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Falkenstein/Vogtl.",
     "webseite": "https://stadt-falkenstein.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Feuerwehren & Kirchgemeinden",
+        "url": "https://stadt-falkenstein.de/freizeit-tourismus/vereine-einrichtungen"
+      }
+    ]
   },
   {
     "name": "Flöha",
@@ -907,7 +1277,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Flöha",
     "webseite": "https://www.floeha.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.floeha.de/untersete/freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Frankenberg/Sa.",
@@ -915,7 +1290,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Frankenberg/Sa.",
     "webseite": "https://www.frankenberg-sachsen.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.frankenberg-sachsen.de/Bildung-Kultur/Vereine"
+      },
+      {
+        "titel": "Bildung-Vereine-Sport",
+        "url": "https://www.frankenberg-sachsen.de/Bildung-Kultur"
+      }
+    ]
   },
   {
     "name": "Frankenthal",
@@ -923,7 +1307,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Frankenthal_(Sachsen)",
     "webseite": "https://www.gemeinde-frankenthal.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-frankenthal.de/unser-dorf/vereine"
+      }
+    ]
   },
   {
     "name": "Frauenstein",
@@ -947,7 +1336,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Freiberg",
     "webseite": "https://www.freiberg.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.freiberg.de/leben-und-freizeit/freizeit-und-geniessen/vereine"
+      }
+    ]
   },
   {
     "name": "Freital",
@@ -955,7 +1349,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Freital",
     "webseite": "https://www.freital.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.freital.de/Unsere-Stadt/Leben-Wohnen/Vereine-Verb%C3%A4nde"
+      },
+      {
+        "titel": "Hinweise Nutzung Logos",
+        "url": "https://www.freital.de/Unsere-Stadt/Leben-Wohnen/Vereine-Verb%C3%A4nde/Hinweise-Nutzung-Logos"
+      }
+    ]
   },
   {
     "name": "Frohburg",
@@ -963,7 +1366,48 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Frohburg",
     "webseite": "https://www.frohburg.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine"
+      },
+      {
+        "titel": "Vereine nach Rubriken",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereine-nach-rubriken"
+      },
+      {
+        "titel": "weitere Vereine",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereine-nach-rubriken/weitere-vereine"
+      },
+      {
+        "titel": "Musik / Tanz / Gesang",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereine-nach-rubriken/musik-tanz-gesang"
+      },
+      {
+        "titel": "Vereine Übersicht",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereine-uebersicht"
+      },
+      {
+        "titel": "Vereinssuche",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereinssuche"
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereinsnachrichten"
+      },
+      {
+        "titel": "Neueintrag Verein",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/neueintrag-verein"
+      },
+      {
+        "titel": "Vereinsdaten",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereinsdaten"
+      },
+      {
+        "titel": "Vereinsvorstellungen",
+        "url": "https://www.frohburg.de/tourismus-und-freizeit/vereine/vereinsvorstellungen"
+      }
+    ]
   },
   {
     "name": "Gablenz",
@@ -979,7 +1423,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Geithain",
     "webseite": "https://www.geithain.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geithain.de/stadt-leben/sportstaetten-vereine/vereine"
+      },
+      {
+        "titel": "Markthütte für Geithainer Vereine, Schulen & Initiativen",
+        "url": "https://www.geithain.de/stadt-leben/aktuelle-infos-rund-ums-stadtleben/markthuette-fuer-geithainer-vereine-schulen-initiativen"
+      },
+      {
+        "titel": "Ehrenamtskarte des Landkreises",
+        "url": "https://www.geithain.de/stadt-leben/sportstaetten-vereine/vereine/ehrenamtskarte-des-landkreises"
+      }
+    ]
   },
   {
     "name": "Gelenau/Erzgeb.",
@@ -987,7 +1444,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gelenau/Erzgeb.",
     "webseite": "https://www.gelenau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gelenau.de/leben/vereine"
+      }
+    ]
   },
   {
     "name": "Geringswalde",
@@ -995,7 +1457,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Geringswalde",
     "webseite": "https://www.geringswalde.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.geringswalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gersdorf",
@@ -1011,7 +1478,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Geyer",
     "webseite": "https://www.stadt-geyer.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Handel",
+        "url": "https://www.stadt-geyer.de/unsere-stadt/wirtschaft-vereine/handel"
+      },
+      {
+        "titel": "Handwerk",
+        "url": "https://www.stadt-geyer.de/unsere-stadt/wirtschaft-vereine/handwerk"
+      },
+      {
+        "titel": "Industrie",
+        "url": "https://www.stadt-geyer.de/unsere-stadt/wirtschaft-vereine/industrie"
+      },
+      {
+        "titel": "Sonstiges",
+        "url": "https://www.stadt-geyer.de/unsere-stadt/wirtschaft-vereine/sonstiges"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-geyer.de/unsere-stadt/wirtschaft-vereine/vereine"
+      },
+      {
+        "titel": "Gaststätten",
+        "url": "https://www.stadt-geyer.de/unsere-stadt/wirtschaft-vereine/gaststaetten"
+      }
+    ]
   },
   {
     "name": "Glashütte",
@@ -1019,7 +1511,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Glashütte_(Sachsen)",
     "webseite": "https://www.glashuette-sachs.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.glashuette-sachs.de/de/vereine.html"
+      },
+      {
+        "titel": "Kommunale & Vereinsräume",
+        "url": "https://www.glashuette-sachs.de/de/oeffentliche-einrichtungen.html"
+      }
+    ]
   },
   {
     "name": "Glaubitz",
@@ -1027,7 +1528,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Glaubitz",
     "webseite": "https://gemeinde-glaubitz.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-glaubitz.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Glauchau",
@@ -1035,7 +1541,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Glauchau",
     "webseite": "https://www.glauchau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.glauchau.de/de/vereinswesen.html"
+      },
+      {
+        "titel": "Vereine im Überblick",
+        "url": "https://www.glauchau.de/de/vereine-im-ueberblick.html"
+      }
+    ]
   },
   {
     "name": "Gohrisch",
@@ -1043,7 +1558,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gohrisch",
     "webseite": "https://www.gohrisch.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gohrisch.de/vereine"
+      }
+    ]
   },
   {
     "name": "Gornau/Erzgeb.",
@@ -1051,7 +1571,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gornau/Erzgeb.",
     "webseite": "https://www.gornau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "VEREINE",
+        "url": "https://www.gornau.de/gemeindeinformationen/vereine"
+      }
+    ]
   },
   {
     "name": "Gornsdorf",
@@ -1059,7 +1584,60 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gornsdorf",
     "webseite": "https://www.gornsdorf-erzgebirge.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine"
+      },
+      {
+        "titel": "DRK Ortsgruppe",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/drk-ortsgruppe"
+      },
+      {
+        "titel": "IG Glockenfreunde",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/ig-glockenfreunde"
+      },
+      {
+        "titel": "IG Strumpfmuseum",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/ig-strumpfmuseum"
+      },
+      {
+        "titel": "Kleingartenanlagen",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/kleingartenanlagen"
+      },
+      {
+        "titel": "Ortschronik",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/ortschronik"
+      },
+      {
+        "titel": "Kleintierzüchter",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/kleintierzuechter"
+      },
+      {
+        "titel": "TSV Elektronik",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/tsv-elektronik"
+      },
+      {
+        "titel": "Neues aus den Abteilungen",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/tsv-elektronik/neues-in-den-sektionen"
+      },
+      {
+        "titel": "Schach 2. Bezirksklasse, Staffel A, 9. (letzte) Runde",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/tsv-elektronik/neues-in-den-sektionen/1786-schach-2-bezirksklasse-staffel-a-9-letzte-runde"
+      },
+      {
+        "titel": "Schach 2. Bezirksklasse, 7 + 8.. Runde",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/tsv-elektronik/neues-in-den-sektionen/1773-uli"
+      },
+      {
+        "titel": "KGA Apfelwiese",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/kleingartenanlagen/70-kga-apfelwiese/24-kga-apfelwiese"
+      },
+      {
+        "titel": "KGA Am Naturbad",
+        "url": "https://www.gornsdorf-erzgebirge.de/vereine/kleingartenanlagen/77-kga-am-naturbad/35-kga-am-naturbad"
+      }
+    ]
   },
   {
     "name": "Grimma",
@@ -1067,7 +1645,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Grimma",
     "webseite": "https://www.grimma.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.grimma.de/leben-in-grimma/sport-und-freizeitangebote/vereinsleben"
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.grimma.de/leben-in-grimma/sport-und-freizeitangebote/vereinsnachrichten"
+      },
+      {
+        "titel": "alle Vereine A-Z",
+        "url": "https://www.grimma.de/leben-in-grimma/sport-und-freizeitangebote/vereinsleben/alle-vereine-a-z"
+      },
+      {
+        "titel": "Soziale Vereine",
+        "url": "https://www.grimma.de/leben-in-grimma/sport-und-freizeitangebote/vereinsleben/soziale-vereine"
+      },
+      {
+        "titel": "Turnhallen und Sportplätze",
+        "url": "https://www.grimma.de/leben-in-grimma/sport-und-freizeitangebote/vereinsleben/turnhallen-und-sportplaetze"
+      },
+      {
+        "titel": "Räumlichkeiten",
+        "url": "https://www.grimma.de/leben-in-grimma/sport-und-freizeitangebote/vereinsleben/raeumlichkeiten"
+      }
+    ]
   },
   {
     "name": "Groitzsch",
@@ -1075,7 +1678,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Groitzsch",
     "webseite": "https://groitzsch.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://groitzsch.de/freizeit-kultur-tourismus/vereine"
+      }
+    ]
   },
   {
     "name": "Groß Düben",
@@ -1083,7 +1691,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Groß_Düben",
     "webseite": "https://grossdueben-online.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://grossdueben-online.de/vereine"
+      },
+      {
+        "titel": "Schmetterlingsfänger-Burschenschaft",
+        "url": "https://grossdueben-online.de/vereine/schmetterlinge"
+      },
+      {
+        "titel": "Jugendclub",
+        "url": "https://grossdueben-online.de/vereine/jugendclub"
+      }
+    ]
   },
   {
     "name": "Großdubrau",
@@ -1091,7 +1712,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großdubrau",
     "webseite": "https://www.grossdubrau.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsräume",
+        "url": "https://www.grossdubrau.de/vereinsraeume.html"
+      }
+    ]
   },
   {
     "name": "Großenhain",
@@ -1099,7 +1725,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großenhain",
     "webseite": "https://www.grossenhain.de/",
     "bundesland": "Sachsen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Ehrenamt",
+        "url": "https://www.grossenhain.de/vereine-und-ehrenamt.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.grossenhain.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Großharthau",
