@@ -16,7 +16,7 @@ const MUNICIPALITY_SOURCES = [
   "gemeinden_webseiten_schleswig_holstein.json",
   "gemeinden_webseiten_thueringen.json",
 ];
-const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json", "saarland_vereinsseiten.json"];
+const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json", "saarland_vereinsseiten.json", "sachsen_vereinsseiten.json", "hessen_vereinsseiten.json"];
 const SEARCH_TERM = "verein";
 const EXCLUDED_TITLE_OR_URL_TERMS = [
   "terminvereinbarung",
