@@ -3,152 +3,177 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Vereinsradar Dashboard</title>
-    <link rel="stylesheet" href="vereinsseiten_ui.css">
+    <title>Vereinsradar — Erkunder</title>
+    <link rel="stylesheet" href="design_final.css">
   </head>
   <body>
-    <main class="app-shell">
-      <header class="app-header">
-        <div class="brand-area">
-          <button id="menuButton" class="burger-button" type="button" aria-label="Bundesland-Menue oeffnen" aria-expanded="false">
-            <span></span>
-            <span></span>
-            <span></span>
-          </button>
-          <div class="brand-mark" aria-hidden="true">VR</div>
-          <div>
-            <p class="eyebrow">Vereinsradar</p>
-            <h1>Kommunen & Vereinsseiten</h1>
-          </div>
-        </div>
 
-        <div class="header-search">
-          <span class="search-icon" aria-hidden="true">⌕</span>
-          <input id="searchInput" type="search" placeholder="Gemeinde, Bundesland, Homepage oder Vereinslink suchen">
-        </div>
+    <!-- ═══════════════════════════════════════════════
+         LEFT SIDEBAR — Brand + Bundesländer
+    ════════════════════════════════════════════════ -->
+    <aside id="stateSidebar" class="state-sidebar" aria-label="Bundesländer">
 
-        <div class="header-actions">
-          <label class="ghost-button">
+      <div class="sidebar-top">
+        <div class="brand-mark" aria-hidden="true">VR</div>
+        <div>
+          <div class="brand-name">Vereinsradar</div>
+          <div class="brand-sub">Kommunen &amp; Vereinsseiten</div>
+        </div>
+      </div>
+
+      <div class="sidebar-section-head">
+        <span class="sidebar-section-title">Bundesländer</span>
+        <button id="clearStateButton" class="text-button" type="button">Alle</button>
+      </div>
+
+      <div id="stateProgressList" class="state-list"></div>
+
+      <div class="source-card">
+        <span class="source-card-label">Datenquellen</span>
+        <strong id="sourceLabel">Lade Daten …</strong>
+      </div>
+
+    </aside>
+
+    <!-- ═══════════════════════════════════════════════
+         MAIN AREA
+    ════════════════════════════════════════════════ -->
+    <div class="main-area">
+
+      <!-- Top bar: search + actions -->
+      <header class="topbar">
+        <button id="menuButton" class="burger-btn" type="button" aria-label="Sidebar öffnen" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+        <div class="search-wrap">
+          <svg class="search-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input id="searchInput" type="search" placeholder="Gemeinde, Bundesland, Vereinsseite suchen …" autocomplete="off">
+        </div>
+        <div class="topbar-actions">
+          <label class="btn file-btn">
             Datei laden
             <input id="fileInput" type="file" accept="application/json,.json">
           </label>
-          <button id="resetButton" class="primary-button" type="button">Reset</button>
+          <button id="resetButton" class="btn primary" type="button">Reset</button>
         </div>
       </header>
 
-      <section class="metric-grid" aria-label="Kennzahlen">
-        <article class="metric-card">
-          <span class="metric-icon" aria-hidden="true">◎</span>
-          <div>
-            <span>Gemeinden</span>
-            <strong id="municipalityMetric">0</strong>
-            <small id="municipalitySubMetric">0 sichtbar</small>
-          </div>
-        </article>
-        <article class="metric-card">
-          <span class="metric-icon orange" aria-hidden="true">⌂</span>
-          <div>
-            <span>Gemeindehomepages</span>
-            <strong id="homepageMetric">0%</strong>
-            <small id="homepageSubMetric">0 von 0</small>
-          </div>
-        </article>
-        <article class="metric-card">
-          <span class="metric-icon green" aria-hidden="true">✓</span>
-          <div>
-            <span>Vereinsseiten</span>
-            <strong id="clubCoverageMetric">0%</strong>
-            <small id="clubCoverageSubMetric">0 Gemeinden</small>
-          </div>
-        </article>
-        <article class="metric-card">
-          <span class="metric-icon blue" aria-hidden="true">↗</span>
-          <div>
-            <span>Vereinslinks</span>
-            <strong id="clubLinkMetric">0</strong>
-            <small id="clubLinkSubMetric">0 sichtbar</small>
-          </div>
-        </article>
-      </section>
+      <!-- Metric strip -->
+      <div class="metric-strip" aria-label="Kennzahlen">
+        <div class="metric-item">
+          <span class="metric-label">Gemeinden</span>
+          <span class="metric-value" id="mTotal">—</span>
+          <span class="metric-sub" id="mVisible"></span>
+        </div>
+        <div class="metric-item">
+          <span class="metric-label">Homepages</span>
+          <span class="metric-value" id="mHomepage">—</span>
+          <span class="metric-sub">der Gemeinden</span>
+        </div>
+        <div class="metric-item">
+          <span class="metric-label">Vereinsseiten</span>
+          <span class="metric-value" id="mClub">—</span>
+          <span class="metric-sub">mit mind. 1 Link</span>
+        </div>
+        <div class="metric-item">
+          <span class="metric-label">Vereinslinks</span>
+          <span class="metric-value" id="mLinks">—</span>
+          <span class="metric-sub">gesamt gefunden</span>
+        </div>
+      </div>
 
-      <section class="workspace">
-        <section class="content-column">
-          <section class="filter-card" aria-label="Filter">
-            <label>
-              Mindestscore
-              <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal">
-            </label>
-            <label>
-              Sortierung
-              <select id="sortSelect">
-                <option value="state">Bundesland</option>
-                <option value="name">Gemeinde A-Z</option>
-                <option value="clubs">Vereinslinks</option>
-                <option value="score">Hoechster Score</option>
-              </select>
-            </label>
-            <label>
-              Treffer
-              <select id="pageSizeSelect">
-                <option value="10">10</option>
-                <option value="50" selected>50</option>
-                <option value="100">100</option>
-              </select>
-            </label>
-            <label class="switch-row">
-              <input id="withClubsOnlyInput" type="checkbox">
-              <span>Nur mit Vereinsseite</span>
-            </label>
-            <button id="expandGroupsButton" class="ghost-button small-button" type="button">Ergebnisse ausklappen</button>
-          </section>
+      <!-- Filter bar -->
+      <div class="filter-bar" role="search" aria-label="Filter">
+        <div class="filter-group">
+          Sortierung
+          <select id="sortSelect" class="filter-select">
+            <option value="state">Bundesland A–Z</option>
+            <option value="name">Gemeinde A–Z</option>
+            <option value="clubs">Meiste Vereinslinks</option>
+            <option value="score">Höchster Score</option>
+          </select>
+        </div>
 
-          <section class="tab-card" aria-label="Ansichten">
-            <button class="tab-button active" type="button" data-tab-target="clubs">Vereine</button>
-            <button class="tab-button" type="button" data-tab-target="homepages">Gemeindeseiten</button>
-            <button class="tab-button" type="button" data-tab-target="municipalities">Gemeinden</button>
-          </section>
+        <div class="filter-divider" aria-hidden="true"></div>
 
-          <section class="results-card" aria-label="Ergebnisse">
-            <div class="results-head">
-              <div>
-                <p id="activeTabLabel" class="eyebrow">Vereine</p>
-                <h2 id="resultsTitle">Alle Bundeslaender</h2>
-              </div>
-            <div class="results-meta">
-                <label class="inline-filter">
-                  Bundesland
-                  <select id="resultStateSelect">
-                    <option value="">Alle</option>
-                  </select>
-                </label>
-                <strong id="summaryText">0 Ergebnisse</strong>
-                <div id="paginationTop" class="pagination compact"></div>
-              </div>
-            </div>
-            <div id="emptyState" class="empty-state" hidden>Keine passenden Ergebnisse.</div>
-            <div id="resultsList" class="results-list"></div>
-            <div id="paginationBottom" class="pagination"></div>
-          </section>
-        </section>
+        <div class="filter-group">
+          Min-Score
+          <input id="minScoreInput" type="number" min="0" step="10" placeholder="egal" class="filter-input" style="width:80px">
+        </div>
 
-        <aside id="stateSidebar" class="state-sidebar" aria-label="Bundeslaender">
-          <div class="sidebar-head">
-            <div>
-              <p class="eyebrow">Abdeckung</p>
-              <h2>Bundeslaender</h2>
-            </div>
-            <button id="clearStateButton" class="text-button" type="button">Alle</button>
+        <div class="filter-divider" aria-hidden="true"></div>
+
+        <label class="filter-check-label">
+          <input id="withClubsOnlyInput" type="checkbox">
+          Nur mit Vereinsseite
+        </label>
+
+        <div class="filter-right">
+          <div class="filter-group">
+            Pro Seite
+            <select id="pageSizeSelect" class="filter-select">
+              <option value="10">10</option>
+              <option value="50" selected>50</option>
+              <option value="100">100</option>
+            </select>
           </div>
-          <div id="stateProgressList" class="state-list"></div>
-          <div class="source-card">
-            <span>Datenquellen</span>
-            <strong id="sourceLabel">Lade Daten...</strong>
-          </div>
-        </aside>
-      </section>
-    </main>
+          <button id="collapseAllBtn" class="filter-btn" type="button">Alle einklappen</button>
+        </div>
+      </div>
 
-    <div id="navBackdrop" class="nav-backdrop" hidden></div>
-    <script src="vereinsseiten_ui.js"></script>
+      <!-- Results header -->
+      <div class="results-header">
+        <div class="results-left">
+          <span class="results-title" id="resultsTitle">Alle Bundesländer</span>
+          <span class="results-summary" id="summaryText">—</span>
+        </div>
+        <div class="results-right">
+          <select id="resultStateSelect" class="state-select-inline" aria-label="Bundesland filtern">
+            <option value="">Alle Bundesländer</option>
+          </select>
+          <div id="paginationTop" role="navigation" aria-label="Seitennavigation oben"></div>
+        </div>
+      </div>
+
+      <!-- Data table -->
+      <div class="table-wrap">
+        <div class="table-card">
+
+          <!-- Column headers -->
+          <div class="table-head" role="row">
+            <div class="th" aria-hidden="true"></div>
+            <div class="th">Gemeinde</div>
+            <div class="th">Bundesland</div>
+            <div class="th">Homepage</div>
+            <div class="th">Links</div>
+            <div class="th">Score</div>
+          </div>
+
+          <!-- Empty state -->
+          <div id="emptyState" class="empty-state" hidden>
+            <div class="empty-icon">🔍</div>
+            <div class="empty-text">Keine Einträge gefunden</div>
+            <div class="empty-hint">Filter anpassen oder Suche leeren</div>
+          </div>
+
+          <!-- Rows injected here -->
+          <div id="tableBody" class="table-body" role="list"></div>
+
+        </div>
+      </div>
+
+      <!-- Bottom pagination -->
+      <div class="pagination-bar">
+        <div id="paginationBot" role="navigation" aria-label="Seitennavigation unten"></div>
+      </div>
+
+    </div><!-- /main-area -->
+
+    <!-- Mobile overlay -->
+    <div id="navBackdrop" class="nav-backdrop" hidden aria-hidden="true"></div>
+
+    <script src="design_final.js"></script>
   </body>
 </html>
