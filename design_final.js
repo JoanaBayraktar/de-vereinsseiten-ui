@@ -21,7 +21,7 @@ const MUNICIPALITY_SOURCES = [
   "gemeinden_webseiten_schleswig_holstein.json",
   "gemeinden_webseiten_thueringen.json",
 ];
-const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json"];
+const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json", "saarland_vereinsseiten.json", "sachsen_vereinsseiten.json"];
 const SEARCH_TERM = "verein";
 const EXCLUDED_TITLE_OR_URL_TERMS = [
   "terminvereinbarung","förderverein","foerderverein","mütterverein",
@@ -29,7 +29,7 @@ const EXCLUDED_TITLE_OR_URL_TERMS = [
   "hauptversammlung","vereins-news","vereinsraum","festakt","wanderwege",
   "verein melden","vereins-challenges","sicherheitskonzept",
   "förderrichtlinien","foerderrichtlinien","vermietung",
-  "vereine - termine",
+  "vereine - termine", "formular", "Formular", "förder", "Ansprechpartner", "Aktuelles", "News",
 ];
 
 // ─── STATE ────────────────────────────────────────
