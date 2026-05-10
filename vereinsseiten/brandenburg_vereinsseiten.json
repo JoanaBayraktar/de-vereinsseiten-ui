@@ -13,7 +13,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Alt_Tucheband",
     "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52504",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-golzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Alt Zauche-Wußwerk",
@@ -154,7 +159,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Baruth/Mark",
     "webseite": "https://www.stadt-baruth-mark.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Mehr",
+        "url": "https://stadt-baruth-mark.de/Service-Leben/Vereine-Mehr"
+      }
+    ]
   },
   {
     "name": "Beelitz",
@@ -183,7 +193,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Beetzsee_(Gemeinde)",
     "webseite": "https://www.amt-beetzsee.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-beetzsee.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Beetzseeheide",
@@ -332,7 +347,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Bleyen-Genschmar",
     "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52507",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-golzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Bliesdorf",
@@ -348,7 +368,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Boitzenburger_Land",
     "webseite": "https://www.gemeinde-boitzenburger-land.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.gemeinde-boitzenburger-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Borkheide",
@@ -435,10 +460,6 @@
       {
         "titel": "Vereine",
         "url": "https://www.amt-biesenthal-barnim.de/vereine-6"
-      },
-      {
-        "titel": "Zuschüsse für Vereine",
-        "url": "https://www.amt-biesenthal-barnim.de/ankuendigung/zusch%C3%BCsse-f%C3%BCr-vereine-und-initiativen"
       }
     ]
   },
@@ -498,7 +519,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Brieskow-Finkenheerd",
     "webseite": "http://www.brieskow-finkenheerd.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "http://www.brieskow-finkenheerd.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Britz",
@@ -518,6 +544,10 @@
       {
         "titel": "Vereinsverzeichnis",
         "url": "https://www.amt-altdoebern.de/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-altdoebern.de/vereinsfoerderung"
       }
     ]
   },
@@ -1049,7 +1079,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Flieth-Stegelitz",
     "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=18929",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gerswalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Forst (Lausitz)",
@@ -1205,7 +1240,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gerdshagen",
     "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=38437",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und mehr",
+        "url": "https://www.amtmeyenburg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gerswalde",
@@ -1213,7 +1253,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gerswalde",
     "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=9679",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gerswalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Glienicke/Nordbahn",
@@ -1277,7 +1322,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Golzow_(Oderbruch)",
     "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52510",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-golzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gorden-Staupitz",
@@ -1285,7 +1335,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gorden-Staupitz",
     "webseite": "https://www.plessa.de/verzeichnis/objekt.php?mandat=18394",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.plessa.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gosen-Neu Zittau",
@@ -1293,7 +1348,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gosen-Neu_Zittau",
     "webseite": "https://www.amt-spreenhagen.de/verzeichnis/objekt.php?mandat=131797",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-spreenhagen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gramzow",
@@ -1301,7 +1361,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gramzow",
     "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27361",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gramzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gransee",
@@ -1309,7 +1374,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gransee",
     "webseite": "https://www.gransee.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin im Rathaus vereinbaren",
+        "url": "https://www.gransee.de/politik-verwaltung/verwaltung/termin-im-rathaus-vereinbaren"
+      }
+    ]
   },
   {
     "name": "Groß Kreutz (Havel)",
@@ -1325,7 +1395,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Groß_Köris",
     "webseite": "https://www.amt-schenkenlaendchen.de/verzeichnis/objekt.php?mandat=18781",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schenkenlaendchen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Groß Lindow",
@@ -1333,7 +1408,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Groß_Lindow",
     "webseite": "http://www.gross-lindow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.gross-lindow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Groß Pankow (Prignitz)",
@@ -1341,7 +1421,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Groß_Pankow_(Prignitz)",
     "webseite": "http://www.grosspankow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Öffentlich-rechtliche Vereinbarung",
+        "url": "http://www.grosspankow.de/seite/257125/%C3%B6ffentlich-rechtliche-vereinbarung.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "http://www.grosspankow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Groß Schacksdorf-Simmersdorf",
@@ -1349,7 +1438,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Groß_Schacksdorf-Simmersdorf",
     "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=58670",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-doebern-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Großbeeren",
@@ -1357,7 +1451,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großbeeren",
     "webseite": "https://www.grossbeeren.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grossbeeren.de/verein/de/gemeinde/036:68/tn_36/start"
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.grossbeeren.de/seite/de/gemeinde/036:69/tn_36/vereinsnachrichten.html"
+      },
+      {
+        "titel": "https://www.grossbeeren.de/verein/de/gemeinde/-/258/vereine_nachrichten#vn18",
+        "url": "https://www.grossbeeren.de/verein/de/gemeinde/-/258/vereine_nachrichten"
+      },
+      {
+        "titel": "https://www.grossbeeren.de/verein/de/gemeinde/-/485/vereine_nachrichten#vn15",
+        "url": "https://www.grossbeeren.de/verein/de/gemeinde/-/485/vereine_nachrichten"
+      }
+    ]
   },
   {
     "name": "Großderschau",
@@ -1365,7 +1476,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großderschau",
     "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54072",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Genossenschaften",
+        "url": "https://www.rhinow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Großkmehlen",
@@ -1373,7 +1489,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großkmehlen",
     "webseite": "https://www.grosskmehlen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grosskmehlen.de/vereine-grosskmehlen"
+      },
+      {
+        "titel": "SV Aufbau Großkmehlen",
+        "url": "https://www.grosskmehlen.de/vereine-grosskmehlen/sv-aufbau-gro%C3%9Fkmehlen"
+      }
+    ]
   },
   {
     "name": "Großräschen",
@@ -1381,7 +1506,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großräschen",
     "webseite": "https://www.grossraeschen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.grossraeschen.de/seite/325907/vereine.html"
+      }
+    ]
   },
   {
     "name": "Großthiemig",
@@ -1389,7 +1519,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großthiemig",
     "webseite": "https://www.grossthiemig.info/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schradenland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Großwoltersdorf",
@@ -1397,7 +1532,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Großwoltersdorf",
     "webseite": "https://www.gransee.de/politik-verwaltung/grosswoltersdorf/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin im Rathaus vereinbaren",
+        "url": "https://www.gransee.de/politik-verwaltung/verwaltung/termin-im-rathaus-vereinbaren"
+      }
+    ]
   },
   {
     "name": "Grunow-Dammendorf",
@@ -1405,7 +1545,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Grunow-Dammendorf",
     "webseite": "http://www.grunow-dammendorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.grunow-dammendorf.de/index.php?id=164"
+      }
+    ]
   },
   {
     "name": "Gräben",
@@ -1421,7 +1566,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gröden_(Brandenburg)",
     "webseite": "https://www.amt-schradenland.de/verzeichnis/objekt.php?mandat=18587",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schradenland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Grünewald",
@@ -1429,7 +1579,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Grünewald",
     "webseite": "https://www.amt-ruhland.de/amtsgemeinden/gruenewald/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.amt-ruhland.de/amtsgemeinden/gruenewald/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Grünheide (Mark)",
@@ -1437,7 +1592,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Grünheide_(Mark)",
     "webseite": "https://www.gruenheide-mark.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gruenheide-mark.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Grünow",
@@ -1445,7 +1605,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Grünow_(bei_Prenzlau)",
     "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27362",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gramzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Guben",
@@ -1453,7 +1618,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Guben",
     "webseite": "https://www.guben.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.guben.de/de/freizeit-tourismus/vereine"
+      }
+    ]
   },
   {
     "name": "Guhrow",
@@ -1461,7 +1631,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Guhrow",
     "webseite": "https://amt-burg-spreewald.de/de/amt-gemeinden/gemeinden/guhrow-gory.html",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://amt-burg-spreewald.de/de/leben/vereine.html"
+      }
+    ]
   },
   {
     "name": "Gumtow",
@@ -1469,7 +1644,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gumtow",
     "webseite": "https://www.gemeindegumtow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.gemeindegumtow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Gusow-Platkow",
@@ -1477,7 +1657,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gusow-Platkow",
     "webseite": "https://www.amt-seelow-land.de/verzeichnis/visitenkarte.php?mandat=50643",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.amt-seelow-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Guteborn",
@@ -1485,7 +1670,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Guteborn",
     "webseite": "https://www.amt-ruhland.de/amtsgemeinden/guteborn/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.amt-ruhland.de/amtsgemeinden/guteborn/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Göritz",
@@ -1493,7 +1683,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Göritz",
     "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=23649",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-bruessow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Görzke",
@@ -1509,7 +1704,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Gülitz-Reetz",
     "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55514",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amtputlitz-berge.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Halbe",
@@ -1517,7 +1717,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Halbe",
     "webseite": "https://www.amt-schenkenlaendchen.de/verzeichnis/objekt.php?mandat=18864",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schenkenlaendchen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Halenbeck-Rohlsdorf",
@@ -1525,7 +1730,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Halenbeck-Rohlsdorf",
     "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=53512",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und mehr",
+        "url": "https://www.amtmeyenburg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Havelaue",
@@ -1533,7 +1743,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Havelaue",
     "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54073",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Genossenschaften",
+        "url": "https://www.rhinow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Havelsee",
@@ -1541,7 +1756,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Havelsee",
     "webseite": "https://havelsee.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://havelsee.de/verzeichnis-kategorie/vereine"
+      },
+      {
+        "titel": "Verein \"Dorf Fohrde\"",
+        "url": "https://havelsee.de/schlagworte/verein-dorf-fohrde"
+      }
+    ]
   },
   {
     "name": "Heckelberg-Brunow",
@@ -1549,7 +1773,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Heckelberg-Brunow",
     "webseite": "https://www.amt-fahoe.de/seite/373818/heckelberg-brunow.html",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-fahoe.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Heideblick",
@@ -1557,7 +1786,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Heideblick",
     "webseite": "https://www.heideblick.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.heideblick.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Heideland",
@@ -1581,7 +1815,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Heiligengrabe",
     "webseite": "https://www.heiligengrabe.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.heiligengrabe.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Heinersbrück",
@@ -1589,7 +1828,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Heinersbrück",
     "webseite": "https://heinersbrueck-most.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://heinersbrueck-most.de/index.php/vereine"
+      },
+      {
+        "titel": "Sportfieber",
+        "url": "https://heinersbrueck-most.de/index.php/vereine/sportvereinmenue"
+      },
+      {
+        "titel": "Training",
+        "url": "https://heinersbrueck-most.de/index.php/vereine/sportvereinmenue/training"
+      },
+      {
+        "titel": "FF-Heinersbrück",
+        "url": "https://heinersbrueck-most.de/index.php/vereine/ff-heinersbrueck"
+      }
+    ]
   },
   {
     "name": "Hennigsdorf",
@@ -1605,7 +1861,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Hermsdorf_(bei_Ruhland)",
     "webseite": "https://www.amt-ruhland.de/amtsgemeinden/hermsdorf/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.amt-ruhland.de/amtsgemeinden/hermsdorf/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Herzberg (Elster)",
@@ -1613,7 +1874,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Herzberg_(Elster)",
     "webseite": "https://www.herzberg-elster.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.herzberg-elster.de/seite/595847/vereine-ehrenamt.html"
+      },
+      {
+        "titel": "Herzberg.digital.verein.t - Die Ehrenamtsplattform!",
+        "url": "https://www.herzberg-elster.de/seite/526233/herzberg.digital.verein.t-die-ehrenamtsplattform.html"
+      }
+    ]
   },
   {
     "name": "Herzberg (Mark)",
@@ -1629,7 +1899,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Hirschfeld_(Brandenburg)",
     "webseite": "http://www.hirschfeld-im-schraden.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "http://www.hirschfeld-im-schraden.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Hohen Neuendorf",
@@ -1637,7 +1912,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Hohen_Neuendorf",
     "webseite": "https://hohen-neuendorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Sport und Freizeit",
+        "url": "https://hohen-neuendorf.de/de/stadt-leben/sport-freizeit"
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://hohen-neuendorf.de/de/stadt-leben/vereinsverzeichnis"
+      }
+    ]
   },
   {
     "name": "Hohenbocka",
@@ -1645,7 +1929,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Hohenbocka",
     "webseite": "https://www.amt-ruhland.de/amtsgemeinden/hohenbocka/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.amt-ruhland.de/amtsgemeinden/hohenbocka/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Hohenbucko",
@@ -1685,7 +1974,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Hoppegarten",
     "webseite": "https://www.gemeinde-hoppegarten.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.gemeinde-hoppegarten.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Höhenland",
@@ -1693,7 +1987,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Höhenland",
     "webseite": "https://www.amt-fahoe.de/seite/373819/h%C3%B6henland.html",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-fahoe.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Ihlow",
@@ -1701,7 +2000,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ihlow_(Fläming)",
     "webseite": "https://www.dahme.de/verzeichnis/objekt.php?mandat=28324",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.dahme.de/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.dahme.de/verzeichnis/index.php?mandatstyp=2&ebene=1424"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.dahme.de/verzeichnis/index.php?mandatstyp=2&ebene=1484"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.dahme.de/verzeichnis/index.php?mandatstyp=2&ebene=1413"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.dahme.de/verzeichnis/index.php?mandatstyp=2&ebene=18"
+      }
+    ]
   },
   {
     "name": "Jacobsdorf",
@@ -1717,7 +2037,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Jamlitz",
     "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Jamlitz",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lieberose-oberspreewald.de/Leben-und-Wohnen/Vereine"
+      }
+    ]
   },
   {
     "name": "Joachimsthal",
@@ -1725,7 +2050,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Joachimsthal",
     "webseite": "https://www.amt-joachimsthal.de/texte/seite.php?id=73163",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-joachimsthal.de/vereine"
+      }
+    ]
   },
   {
     "name": "Jämlitz-Klein Düben",
@@ -1733,7 +2063,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Jämlitz-Klein_Düben",
     "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=91934",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-doebern-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Jänschwalde",
@@ -1741,7 +2076,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Jänschwalde",
     "webseite": "https://www.peitz.de/gemeinde/jaenschwalde",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.peitz.de/vereine"
+      },
+      {
+        "titel": "Öffentlich - rechtliche Vereinbarung zwischen den Gemeinden Jänschwalde, Drewitz und Grießen zur Bildung von Ortsteilen in der neuen Gemeinde Jänschwalde",
+        "url": "https://www.peitz.de/media/282"
+      }
+    ]
   },
   {
     "name": "Jüterbog",
@@ -1749,7 +2093,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Jüterbog",
     "webseite": "https://www.jueterbog.eu/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.jueterbog.eu/seite/246397/vereine-verb%C3%A4nde.html"
+      }
+    ]
   },
   {
     "name": "Karstädt",
@@ -1757,7 +2106,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Karstädt_(Prignitz)",
     "webseite": "https://www.gemeinde-karstaedt.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.gemeinde-karstaedt.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Kasel-Golzig",
@@ -1765,7 +2119,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kasel-Golzig",
     "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Kasel-Golssig.htm",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.unterspreewald.de/Leben-im-Amt-Unterspreewald/Vereinsleben.htm?"
+      }
+    ]
   },
   {
     "name": "Ketzin/Havel",
@@ -1773,7 +2132,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ketzin/Havel",
     "webseite": "https://www.ketzin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ketzin.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Kleinmachnow",
@@ -1781,7 +2145,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kleinmachnow",
     "webseite": "https://www.kleinmachnow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.kleinmachnow.de/Kultur-Freizeit/Freizeit/Vereine"
+      }
+    ]
   },
   {
     "name": "Kleßen-Görne",
@@ -1789,7 +2158,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kleßen-Görne",
     "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54074",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Genossenschaften",
+        "url": "https://www.rhinow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Kloster Lehnin",
@@ -1797,7 +2171,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kloster_Lehnin_(Gemeinde)",
     "webseite": "https://www.klosterlehnin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.klosterlehnin.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Kolkwitz",
@@ -1805,7 +2184,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kolkwitz",
     "webseite": "https://gemeinde-kolkwitz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://gemeinde-kolkwitz.de/termine"
+      },
+      {
+        "titel": "Festival der Vereine",
+        "url": "https://gemeinde-kolkwitz.de/event/festival-der-vereine-2"
+      }
+    ]
   },
   {
     "name": "Kotzen",
@@ -1813,7 +2201,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kotzen_(Havelland)",
     "webseite": "https://www.amt-nennhausen.de/verzeichnis/objekt.php?mandat=67586",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-nennhausen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Krausnick-Groß Wasserburg",
@@ -1821,7 +2214,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Krausnick-Groß_Wasserburg",
     "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Krausnick-Gross-Wasserburg.htm",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.unterspreewald.de/Leben-im-Amt-Unterspreewald/Vereinsleben.htm?"
+      }
+    ]
   },
   {
     "name": "Kremitzaue",
@@ -1837,7 +2235,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kremmen",
     "webseite": "https://www.kremmen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.kremmen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Kroppen",
@@ -1845,7 +2248,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kroppen",
     "webseite": "https://www.kroppen-osl.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.kroppen-osl.de/freizeit-kroppen/vereine"
+      }
+    ]
   },
   {
     "name": "Kyritz",
@@ -1861,7 +2269,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Königs_Wusterhausen",
     "webseite": "https://www.koenigs-wusterhausen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.koenigs-wusterhausen.de/vereine"
+      }
+    ]
   },
   {
     "name": "Kümmernitztal",
@@ -1869,7 +2282,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Kümmernitztal",
     "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=20313",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und mehr",
+        "url": "https://www.amtmeyenburg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Küstriner Vorland",
@@ -1877,7 +2295,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Küstriner_Vorland",
     "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52511",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-golzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Langewahl",
@@ -1885,7 +2308,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Langewahl",
     "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=112815",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-scharmuetzelsee.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lanz",
@@ -1893,7 +2321,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lanz_(Prignitz)",
     "webseite": "https://www.amtlenzen.de/verzeichnis/objekt.php?mandat=65380",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amtlenzen.de/seite/777660/vereine.html"
+      }
+    ]
   },
   {
     "name": "Lauchhammer",
@@ -1901,7 +2334,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lauchhammer",
     "webseite": "https://www.lauchhammer.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamt",
+        "url": "https://www.lauchhammer.de/seite/392599/vereine-ehrenamt.html"
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.lauchhammer.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lawitz",
@@ -1909,7 +2351,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lawitz",
     "webseite": "https://www.neuzelle.de/verzeichnis/visitenkarte.php?mandat=89481",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinseintrag",
+        "url": "https://www.neuzelle.de/formulare/index.php?form_id=11810"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuzelle.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lebus",
@@ -1933,7 +2384,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Leegebruch",
     "webseite": "https://www.leegebruch.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leegebruch.de/seite/144019/vereine.html"
+      }
+    ]
   },
   {
     "name": "Legde/Quitzöbel",
@@ -1949,7 +2405,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lenzen_(Elbe)",
     "webseite": "https://www.amtlenzen.de/verzeichnis/objekt.php?mandat=58824",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amtlenzen.de/seite/777660/vereine.html"
+      }
+    ]
   },
   {
     "name": "Lenzerwische",
@@ -1957,7 +2418,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lenzerwische",
     "webseite": "https://www.amtlenzen.de/verzeichnis/objekt.php?mandat=65388",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amtlenzen.de/seite/777660/vereine.html"
+      }
+    ]
   },
   {
     "name": "Letschin",
@@ -1965,7 +2431,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Letschin",
     "webseite": "https://www.letschin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "l",
+        "url": "https://letschin.de/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Lichterfeld-Schacksdorf",
@@ -1973,7 +2444,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lichterfeld-Schacksdorf",
     "webseite": "https://www.amt-kleine-elster.de/gemeinden/lichterfeld-schacksdorf",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-kleine-elster.de/leben/vereine"
+      }
+    ]
   },
   {
     "name": "Liebenwalde",
@@ -1981,7 +2457,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Liebenwalde",
     "webseite": "https://www.liebenwalde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.liebenwalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lieberose",
@@ -2005,7 +2486,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lietzen",
     "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52838",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.amt-seelow-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lindenau",
@@ -2013,7 +2499,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lindenau_(Oberlausitz)",
     "webseite": "https://www.lindenau-ol.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lindenau-ol.de/vereine_neu"
+      }
+    ]
   },
   {
     "name": "Lindendorf",
@@ -2021,7 +2512,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lindendorf",
     "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52839",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.amt-seelow-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lindow (Mark)",
@@ -2037,7 +2533,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Linthe",
     "webseite": "https://www.amt-brueck.de/verzeichnis/objekt.php?mandat=56904",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr-Vereine (im Vereinsverzeichnis)",
+        "url": "https://www.amt-brueck.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Luckaitztal",
@@ -2045,7 +2546,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Luckaitztal",
     "webseite": "https://www.amt-altdoebern.de/verzeichnis/objekt.php?mandat=22112",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.amt-altdoebern.de/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-altdoebern.de/vereinsfoerderung"
+      }
+    ]
   },
   {
     "name": "Luckau",
@@ -2053,7 +2563,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Luckau",
     "webseite": "https://luckau.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://luckau.de/de/kultur-stadtleben/vereine-und-verbaende.html"
+      }
+    ]
   },
   {
     "name": "Luckenwalde",
@@ -2061,7 +2576,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Luckenwalde",
     "webseite": "https://www.luckenwalde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.luckenwalde.de/Stadt/Entdecken-er-leben/Vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.luckenwalde.de/Stadt/Vereine"
+      }
+    ]
   },
   {
     "name": "Ludwigsfelde",
@@ -2069,7 +2593,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ludwigsfelde",
     "webseite": "https://www.ludwigsfelde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Sport",
+        "url": "https://www.ludwigsfelde.de/leben-in-ludwigsfelde/vereine-und-sport"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.ludwigsfelde.de/vereine"
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.ludwigsfelde.de/leben-in-ludwigsfelde/vereine-und-sport/ehrenamt"
+      }
+    ]
   },
   {
     "name": "Lunow-Stolzenhagen",
@@ -2085,7 +2622,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lychen",
     "webseite": "https://www.lychen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lychen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Löwenberger Land",
@@ -2093,7 +2635,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Löwenberger_Land",
     "webseite": "https://www.loewenberger-land.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.loewenberger-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Lübben (Spreewald)",
@@ -2101,7 +2648,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lübben_(Spreewald)",
     "webseite": "https://www.luebben.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "9. BÜRGERDIALOG VEREINE",
+        "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/9-buergerdialog-vereine"
+      },
+      {
+        "titel": "STADTLEBEN - KIRCHEN - VEREINE",
+        "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/stadtleben-kirchen-vereine"
+      },
+      {
+        "titel": "ADVENTSMARKT DER VEREINE",
+        "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/adventsmarkt-der-vereine"
+      },
+      {
+        "titel": "VERWALTUNGSVEREINBARUNG ZUM EINWOHNERMELDEWESEN-1",
+        "url": "https://www.luebben.de/stadt-luebben/de/buergerservice/aktuelles/verwaltungsvereinbarung-zum-einwohnermeldewesen-1"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.luebben.de/stadt-luebben/de/stadtleben/vereine"
+      }
+    ]
   },
   {
     "name": "Lübbenau/Spreewald",
@@ -2117,7 +2685,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Marienfließ",
     "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=53505",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und mehr",
+        "url": "https://www.amtmeyenburg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Marienwerder",
@@ -2125,7 +2698,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Marienwerder_(Barnim)",
     "webseite": "https://marienwerder-barnim.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "VereineErweitern",
+        "url": "https://marienwerder-barnim.de/vereine"
+      },
+      {
+        "titel": "Gemeindekirchenrat",
+        "url": "https://marienwerder-barnim.de/vereine/gemeindekirchenrat"
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://marienwerder-barnim.de/vereine/sport-freizeit"
+      }
+    ]
   },
   {
     "name": "Massen-Niederlausitz",
@@ -2133,7 +2719,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Massen-Niederlausitz",
     "webseite": "https://www.amt-kleine-elster.de/gemeinden/massen-niederlausitz",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-kleine-elster.de/leben/vereine"
+      }
+    ]
   },
   {
     "name": "Melchow",
@@ -2141,7 +2732,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Melchow",
     "webseite": "https://www.melchow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://melchow.de/leben-in-melchow/vereine-organisationen"
+      }
+    ]
   },
   {
     "name": "Merzdorf",
@@ -2149,7 +2745,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Merzdorf_(Elbe-Elster)",
     "webseite": "https://www.amt-schradenland.de/verzeichnis/objekt.php?mandat=18590",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schradenland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Mescherin",
@@ -2165,7 +2766,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Meyenburg",
     "webseite": "https://www.amtmeyenburg.de/verzeichnis/objekt.php?mandat=53497",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und mehr",
+        "url": "https://www.amtmeyenburg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Michendorf",
@@ -2173,7 +2779,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Michendorf",
     "webseite": "https://www.michendorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Netzwerke",
+        "url": "https://www.michendorf.de/seite/803334/vereine-netzwerke.html"
+      }
+    ]
   },
   {
     "name": "Milmersdorf",
@@ -2181,7 +2792,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Milmersdorf",
     "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=38919",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gerswalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Milower Land",
@@ -2189,7 +2805,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Milower_Land",
     "webseite": "https://www.milow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Gruppen",
+        "url": "https://www.milow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Mittenwalde",
@@ -2197,7 +2818,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mittenwalde",
     "webseite": "https://www.mittenwalde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsangebote",
+        "url": "https://www.mittenwalde.de/de/urlaub-freizeit/vereine"
+      },
+      {
+        "titel": "Natur",
+        "url": "https://www.mittenwalde.de/de/urlaub-freizeit/vereine/natur"
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.mittenwalde.de/de/urlaub-freizeit/vereine/kultur"
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.mittenwalde.de/de/urlaub-freizeit/vereine/sport"
+      },
+      {
+        "titel": "Soziales",
+        "url": "https://www.mittenwalde.de/de/urlaub-freizeit/vereine/soziales"
+      }
+    ]
   },
   {
     "name": "Mittenwalde",
@@ -2205,7 +2847,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mittenwalde_(Uckermark)",
     "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=38868",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gerswalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Mixdorf",
@@ -2221,7 +2868,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Märkisch_Buchholz",
     "webseite": "https://www.maerkischbuchholz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.maerkischbuchholz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Märkisch Linden",
@@ -2229,7 +2881,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Märkisch_Linden",
     "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87428",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-temnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Märkisch Luch",
@@ -2237,7 +2894,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Märkisch_Luch",
     "webseite": "https://www.amt-nennhausen.de/verzeichnis/objekt.php?mandat=67588",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-nennhausen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Märkische Heide",
@@ -2245,7 +2907,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Märkische_Heide",
     "webseite": "https://www.maerkische-heide.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.maerkische-heide.de/Leben/Vereine"
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.maerkische-heide.de/Leben/Vereine/Feuerwehr"
+      },
+      {
+        "titel": "Heimat/ Kultur/ Tradition",
+        "url": "https://www.maerkische-heide.de/Leben/Vereine/Heimat-Kultur-Tradition"
+      },
+      {
+        "titel": "Kinder/ Jugend/ Freizeit",
+        "url": "https://www.maerkische-heide.de/Leben/Vereine/Kinder-Jugend-Freizeit"
+      }
+    ]
   },
   {
     "name": "Märkische Höhe",
@@ -2261,7 +2940,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mühlberg/Elbe",
     "webseite": "https://www.muehlberg-elbe.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehlberg-elbe.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Mühlenbecker Land",
@@ -2269,7 +2953,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mühlenbecker_Land",
     "webseite": "https://www.muehlenbecker-land.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.muehlenbecker-land.de/de/freizeit-tourismus/vereine-im-muehlenbecker-land"
+      }
+    ]
   },
   {
     "name": "Mühlenberge",
@@ -2309,7 +2998,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Münchehofe",
     "webseite": "https://www.muenchehofe.info/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "VEREINE",
+        "url": "https://www.muenchehofe.info/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Nauen",
@@ -2317,7 +3011,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nauen",
     "webseite": "https://www.nauen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nauen.de/leben-arbeiten/freizeit/vereine"
+      },
+      {
+        "titel": "Allgemeiner Sport",
+        "url": "https://www.nauen.de/leben-arbeiten/freizeit/vereine/allgemeiner-sport"
+      },
+      {
+        "titel": "Historische Vereine",
+        "url": "https://www.nauen.de/leben-arbeiten/freizeit/vereine/historische-vereine"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.nauen.de/leben-arbeiten/freizeit/vereine/sonstige-vereine"
+      },
+      {
+        "titel": "Soziale Vereine",
+        "url": "https://www.nauen.de/leben-arbeiten/freizeit/vereine/soziale-vereine"
+      }
+    ]
   },
   {
     "name": "Neiße-Malxetal",
@@ -2325,7 +3040,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neiße-Malxetal",
     "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=83592",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-doebern-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Neißemünde",
@@ -2341,7 +3061,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nennhausen",
     "webseite": "https://www.amt-nennhausen.de/verzeichnis/objekt.php?mandat=67590",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-nennhausen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Neu Zauche",
@@ -2349,7 +3074,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neu_Zauche",
     "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Neu-Zauche",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lieberose-oberspreewald.de/Leben-und-Wohnen/Vereine"
+      }
+    ]
   },
   {
     "name": "Neu-Seeland",
@@ -2357,7 +3087,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neu-Seeland",
     "webseite": "https://www.amt-altdoebern.de/verzeichnis/objekt.php?mandat=22146",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.amt-altdoebern.de/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-altdoebern.de/vereinsfoerderung"
+      }
+    ]
   },
   {
     "name": "Neuenhagen bei Berlin",
@@ -2365,7 +3104,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuenhagen_bei_Berlin",
     "webseite": "https://www.neuenhagen-bei-berlin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuenhagen-bei-berlin.de/startseite-de/freizeit-tourismus/vereine"
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.neuenhagen-bei-berlin.de/startseite-de/freizeit-tourismus/vereine/vereinsnachrichten"
+      },
+      {
+        "titel": "2025",
+        "url": "https://www.neuenhagen-bei-berlin.de/startseite-de/freizeit-tourismus/vereine/vereinsnachrichten/2025"
+      },
+      {
+        "titel": "2026",
+        "url": "https://www.neuenhagen-bei-berlin.de/startseite-de/freizeit-tourismus/vereine/vereinsnachrichten/2026"
+      }
+    ]
   },
   {
     "name": "Neuhardenberg",
@@ -2373,7 +3129,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuhardenberg",
     "webseite": "https://www.amt-seelow-land.de/verzeichnis/visitenkarte.php?mandat=50645",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.amt-seelow-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Neuhausen/Spree",
@@ -2381,7 +3142,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuhausen/Spree",
     "webseite": "https://www.neuhausen-spree.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuhausen-spree.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Neulewin",
@@ -2413,7 +3179,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neustadt_(Dosse)",
     "webseite": "https://www.amt-neustadt-dosse.de/verzeichnis/objekt.php?mandat=26680",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-neustadt-dosse.de/seite/595619/vereine.html"
+      }
+    ]
   },
   {
     "name": "Neutrebbin",
@@ -2421,7 +3192,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neutrebbin",
     "webseite": "https://www.neutrebbin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Sonstige",
+        "url": "https://www.neutrebbin.de/leben-in-neutrebbin/vereine-und-initiativen"
+      }
+    ]
   },
   {
     "name": "Neuzelle",
@@ -2429,7 +3205,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuzelle",
     "webseite": "https://www.neuzelle.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinseintrag",
+        "url": "https://www.neuzelle.de/formulare/index.php?form_id=11810"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuzelle.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Niederer Fläming",
@@ -2445,7 +3230,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niederfinow",
     "webseite": "https://niederfinow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Sehenswertes & Tourismus",
+        "url": "https://niederfinow.de/sehenswertes-tourismus"
+      }
+    ]
   },
   {
     "name": "Niedergörsdorf",
@@ -2453,7 +3243,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niedergörsdorf",
     "webseite": "https://www.gemeinde-niedergoersdorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Gruppen",
+        "url": "https://www.gemeinde-niedergoersdorf.de/freizeit-tourismus/vereine-gruppen"
+      }
+    ]
   },
   {
     "name": "Niemegk",
@@ -2461,7 +3256,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niemegk",
     "webseite": "https://amt-niemegk.de/geschichte-der-stadt-niemegk/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://amt-niemegk.de/vereine"
+      }
+    ]
   },
   {
     "name": "Nordwestuckermark",
@@ -2477,7 +3277,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nuthe-Urstromtal",
     "webseite": "https://nuthe-urstromtal.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nuthe-urstromtal.de/kultur-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Nuthetal",
@@ -2485,7 +3290,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nuthetal",
     "webseite": "https://www.nuthetal.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.nuthetal.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Oberbarnim",
@@ -2501,7 +3311,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oberkrämer",
     "webseite": "https://www.oberkraemer.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.oberkraemer.de/freizeit-tourismus/unsere-vereine"
+      },
+      {
+        "titel": "Ballsportarten",
+        "url": "https://www.oberkraemer.de/freizeit-tourismus/unsere-vereine/ballsportarten"
+      },
+      {
+        "titel": "Weitere Sportarten",
+        "url": "https://www.oberkraemer.de/freizeit-tourismus/unsere-vereine/weitere-sportarten"
+      },
+      {
+        "titel": "Leichtathletik und Turnen",
+        "url": "https://www.oberkraemer.de/freizeit-tourismus/unsere-vereine/leichtathletik-und-turnen"
+      },
+      {
+        "titel": "weitere Vereine",
+        "url": "https://www.oberkraemer.de/freizeit-tourismus/unsere-vereine/weitere-vereine"
+      },
+      {
+        "titel": "/artikel-ansicht/show/besuch-einwohnermeldeamt-fuer-juni-bitte-termin-vereinbaren-2/",
+        "url": "https://www.oberkraemer.de/artikel-ansicht/show/besuch-einwohnermeldeamt-fuer-juni-bitte-termin-vereinbaren-2"
+      }
+    ]
   },
   {
     "name": "Oberuckersee",
@@ -2509,7 +3344,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oberuckersee_(Gemeinde)",
     "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27363",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gramzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Oderaue",
@@ -2533,7 +3373,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oranienburg",
     "webseite": "https://oranienburg.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://oranienburg.de/Stadtleben/Engagement/Vereine"
+      }
+    ]
   },
   {
     "name": "Ortrand",
@@ -2541,7 +3386,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ortrand",
     "webseite": "https://www.stadt-ortrand.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit",
+        "url": "https://www.stadt-ortrand.de/freizeit-ortrand/vereine"
+      },
+      {
+        "titel": "Freizeit Neben Kita, Grund- und Oberschule bieten auch 17 Vereine viele Freizeitangebote für Klein und Groß und Alt und Jung. Lassen Sie sich überzeugen.",
+        "url": "https://www.stadt-ortrand.de/component/content/article/freizeit?Itemid=399"
+      }
+    ]
   },
   {
     "name": "Panketal",
@@ -2549,7 +3403,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Panketal",
     "webseite": "https://panketal.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://panketal.de/freizeit/vereine-verbaende.html"
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://panketal.de/freizeit/vereine-verbaende/sport-freizeit.html"
+      },
+      {
+        "titel": "Kultur & Bildung",
+        "url": "https://panketal.de/freizeit/vereine-verbaende/kultur-bildung.html"
+      },
+      {
+        "titel": "Soziales & Gesellschaft",
+        "url": "https://panketal.de/freizeit/vereine-verbaende/soziales-gesellschaft.html"
+      }
+    ]
   },
   {
     "name": "Parsteinsee",
@@ -2565,7 +3436,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Paulinenaue",
     "webseite": "https://paulinenaue.info/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "KITA-Verein",
+        "url": "https://paulinenaue.info/index.php/kita-verein"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://paulinenaue.info/index.php/category/vereine"
+      }
+    ]
   },
   {
     "name": "Peitz",
@@ -2573,7 +3453,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Peitz",
     "webseite": "https://www.peitz.de/gemeinde/peitz",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.peitz.de/vereine"
+      }
+    ]
   },
   {
     "name": "Perleberg",
@@ -2581,7 +3466,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Perleberg",
     "webseite": "https://www.stadt-perleberg.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-perleberg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Pessin",
@@ -2589,7 +3479,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Pessin",
     "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=72688",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-friesack.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Petershagen/Eggersdorf",
@@ -2605,7 +3500,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Pinnow_(Uckermark)",
     "webseite": "https://schwedt.eu/de/politik-und-verwaltung/mitverwaltung/31982",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://schwedt.eu/de/kultur-und-freizeit/vereine-und-gruppen-/31404"
+      },
+      {
+        "titel": "Eintrag bestellen oder korrigieren",
+        "url": "https://schwedt.eu/de/kultur-und-freizeit/vereine-und-gruppen-/eintrag-bestellen-oder-korrigieren/24607"
+      }
+    ]
   },
   {
     "name": "Pirow",
@@ -2613,7 +3517,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Pirow",
     "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55519",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amtputlitz-berge.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Planebruch",
@@ -2621,7 +3530,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Planebruch",
     "webseite": "https://www.amt-brueck.de/verzeichnis/objekt.php?mandat=56905",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Feuerwehr-Vereine (im Vereinsverzeichnis)",
+        "url": "https://www.amt-brueck.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Planetal",
@@ -2629,7 +3543,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Planetal",
     "webseite": "https://www.amt-niemegk.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://amt-niemegk.de/vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://amt-niemegk.de/vereine"
+      }
+    ]
   },
   {
     "name": "Plattenburg",
@@ -2637,7 +3560,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Plattenburg",
     "webseite": "https://www.plattenburg.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.plattenburg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Plessa",
@@ -2645,7 +3573,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Plessa",
     "webseite": "https://www.plessa.de/verzeichnis/objekt.php?mandat=4630",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.plessa.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Podelzig",
@@ -2653,7 +3586,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Podelzig",
     "webseite": "https://www.podelzig.com/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.podelzig.com/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Potsdam",
@@ -2661,7 +3599,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Potsdam",
     "webseite": "https://www.potsdam.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit | Verein",
+        "url": "https://www.potsdam.de/de/content/vereine-freizeit"
+      }
+    ]
   },
   {
     "name": "Premnitz",
@@ -2669,7 +3612,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Premnitz",
     "webseite": "https://www.premnitz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.premnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Prenzlau",
@@ -2685,7 +3633,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Pritzwalk",
     "webseite": "https://www.pritzwalk.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.pritzwalk.de/seite/429084/vereine.html"
+      }
+    ]
   },
   {
     "name": "Prötzel",
@@ -2701,7 +3654,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Putlitz",
     "webseite": "http://www.putlitz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.putlitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Päwesin",
@@ -2717,7 +3675,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rabenstein/Fläming",
     "webseite": "https://www.amt-niemegk.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://amt-niemegk.de/vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://amt-niemegk.de/vereine"
+      }
+    ]
   },
   {
     "name": "Ragow-Merz",
@@ -2725,7 +3692,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ragow-Merz",
     "webseite": "http://www.amt-schlaubetal.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schlaubetal.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Randowtal",
@@ -2733,7 +3705,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Randowtal",
     "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27364",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gramzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rangsdorf",
@@ -2741,7 +3718,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rangsdorf",
     "webseite": "https://www.rangsdorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rangsdorf.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rathenow",
@@ -2749,7 +3731,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rathenow",
     "webseite": "https://www.rathenow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Soziale Vereine / Bürgerstiftungen",
+        "url": "https://www.rathenow.de/leben-in-rathenow/gesundheit-soziales/soziale-vereine"
+      }
+    ]
   },
   {
     "name": "Rauen",
@@ -2757,7 +3744,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rauen",
     "webseite": "https://www.amt-spreenhagen.de/verzeichnis/objekt.php?mandat=112250",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-spreenhagen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rehfelde",
@@ -2765,7 +3757,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rehfelde",
     "webseite": "https://www.gemeinde-rehfelde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.gemeinde-rehfelde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Reichenow-Möglin",
@@ -2781,7 +3778,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Reichenwalde",
     "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=174785",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-scharmuetzelsee.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Reitwein",
@@ -2789,7 +3791,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Reitwein",
     "webseite": "https://www.amt-lebus.de/verzeichnis/objekt.php?mandat=27435",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-lebus.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Retzow",
@@ -2797,7 +3804,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Retzow",
     "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=79126",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-friesack.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rheinsberg",
@@ -2813,7 +3825,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rhinow",
     "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54075",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Genossenschaften",
+        "url": "https://www.rhinow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rietz-Neuendorf",
@@ -2821,7 +3838,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rietz-Neuendorf",
     "webseite": "https://www.rietz-neuendorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Co.",
+        "url": "https://www.rietz-neuendorf.de/Leben-Freizeit/Vereine-Co-"
+      }
+    ]
   },
   {
     "name": "Rietzneuendorf-Staakow",
@@ -2829,7 +3851,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rietzneuendorf-Staakow",
     "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Rietzneuendorf-Staakow.htm",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.unterspreewald.de/Leben-im-Amt-Unterspreewald/Vereinsleben.htm?"
+      }
+    ]
   },
   {
     "name": "Rosenau",
@@ -2837,7 +3864,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rosenau_(Brandenburg)",
     "webseite": "https://www.amt-wusterwitz.de/verzeichnis/objekt.php?mandat=85892",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-wusterwitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Roskow",
@@ -2845,7 +3877,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Roskow",
     "webseite": "https://www.amt-beetzsee.de/verzeichnis/objekt.php?mandat=41040&browser=1",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-beetzsee.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Ruhland",
@@ -2853,7 +3890,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ruhland",
     "webseite": "https://www.amt-ruhland.de/amtsgemeinden/ruhland/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.amt-ruhland.de/amtsgemeinden/ruhland/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Röderland",
@@ -2861,7 +3903,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Röderland",
     "webseite": "https://www.gemeinde-roederland.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-roederland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rückersdorf",
@@ -2869,7 +3916,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rückersdorf_(Niederlausitz)",
     "webseite": "https://www.rueckersdorf.eu/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.rueckersdorf.eu/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rüdersdorf bei Berlin",
@@ -2877,7 +3929,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rüdersdorf_bei_Berlin",
     "webseite": "https://www.ruedersdorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ruedersdorf.de/freizeit-tourismus/freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Rüdnitz",
@@ -2909,7 +3966,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sallgast",
     "webseite": "https://www.amt-kleine-elster.de/gemeinden/sallgast",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-kleine-elster.de/leben/vereine"
+      }
+    ]
   },
   {
     "name": "Schenkenberg",
@@ -2917,7 +3979,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schenkenberg_(Uckermark)",
     "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=23653",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-bruessow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schenkendöbern",
@@ -2925,7 +3992,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schenkendöbern",
     "webseite": "https://www.schenkendoebern.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schenkendoebern.de/index.php/gemeindeleben/engagement/vereine"
+      }
+    ]
   },
   {
     "name": "Schilda",
@@ -2933,7 +4005,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schilda_(Brandenburg)",
     "webseite": "https://www.elsterland.de/verzeichnis/objekt.php?mandat=17316",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.elsterland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schipkau",
@@ -2941,7 +4018,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schipkau",
     "webseite": "https://www.gemeinde-schipkau.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-schipkau.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schlaubetal",
@@ -2949,7 +4031,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schlaubetal",
     "webseite": "https://www.amt-schlaubetal.de/verzeichnis/visitenkarte.php?mandat=89479",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-schlaubetal.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schlepzig",
@@ -2981,7 +4068,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schorfheide_(Gemeinde)",
     "webseite": "https://www.gemeinde-schorfheide.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-schorfheide.de/startseite/wohnen-leben/vereine"
+      }
+    ]
   },
   {
     "name": "Schraden",
@@ -2989,7 +4081,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schraden_(Gemeinde)",
     "webseite": "https://www.plessa.de/verzeichnis/objekt.php?mandat=18395",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.plessa.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schulzendorf",
@@ -2997,7 +4094,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schulzendorf",
     "webseite": "https://www.schulzendorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.schulzendorf.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schwarzbach",
@@ -3005,7 +4107,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwarzbach_(Lausitz)",
     "webseite": "https://www.schwarzbach-biehlen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schwarzbach-biehlen.de/vereine/vereine.html"
+      }
+    ]
   },
   {
     "name": "Schwarzheide",
@@ -3013,7 +4120,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwarzheide",
     "webseite": "https://www.stadt-schwarzheide.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-schwarzheide.de/seite/457726/vereine.html"
+      }
+    ]
   },
   {
     "name": "Schwedt/Oder",
@@ -3021,7 +4133,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwedt/Oder",
     "webseite": "https://www.schwedt.eu/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.schwedt.eu/de/kultur-und-freizeit/vereine-und-gruppen-/31404"
+      },
+      {
+        "titel": "Eintrag bestellen oder korrigieren",
+        "url": "https://www.schwedt.eu/de/kultur-und-freizeit/vereine-und-gruppen-/eintrag-bestellen-oder-korrigieren/24607"
+      }
+    ]
   },
   {
     "name": "Schwerin",
@@ -3029,7 +4150,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwerin_(Landkreis_Dahme-Spreewald)",
     "webseite": "https://www.schwerin-lds.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "VEREINE",
+        "url": "https://www.schwerin-lds.de/vereine"
+      }
+    ]
   },
   {
     "name": "Schwielochsee",
@@ -3037,7 +4163,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwielochsee_(Gemeinde)",
     "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Schwielochsee",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lieberose-oberspreewald.de/Leben-und-Wohnen/Vereine"
+      }
+    ]
   },
   {
     "name": "Schwielowsee",
@@ -3045,7 +4176,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwielowsee_(Gemeinde)",
     "webseite": "https://www.schwielowsee.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.schwielowsee.de/leben-soziales/vereine-und-verbaende.html"
+      }
+    ]
   },
   {
     "name": "Schönborn",
@@ -3053,7 +4189,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönborn_(Niederlausitz)",
     "webseite": "https://www.elsterland.de/verzeichnis/visitenkarte.php?mandat=18391",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.elsterland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schönefeld",
@@ -3061,7 +4202,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönefeld",
     "webseite": "https://gemeinde-schoenefeld.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Freizeitorganisationen",
+        "url": "https://gemeinde-schoenefeld.de/mein-schoenefeld/sport-und-freizeit/vereine-und-freizeitorganisationen"
+      },
+      {
+        "titel": "Nutzungsvereinbarung WLAN",
+        "url": "https://gemeinde-schoenefeld.de/nutzungsvereinbarung-wlan"
+      }
+    ]
   },
   {
     "name": "Schöneiche bei Berlin",
@@ -3069,7 +4219,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schöneiche_bei_Berlin",
     "webseite": "https://www.schoeneiche-bei-berlin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoeneiche-bei-berlin.de/freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Schönermark",
@@ -3077,7 +4232,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönermark",
     "webseite": "https://www.gransee.de/politik-verwaltung/schoenermark/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin im Rathaus vereinbaren",
+        "url": "https://www.gransee.de/politik-verwaltung/verwaltung/termin-im-rathaus-vereinbaren"
+      }
+    ]
   },
   {
     "name": "Schönewalde",
@@ -3085,7 +4245,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönewalde",
     "webseite": "https://www.schoenewalde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.schoenewalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schönfeld",
@@ -3093,7 +4258,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönfeld_(Uckermark)",
     "webseite": "https://www.amt-bruessow.de/verzeichnis/visitenkarte.php?mandat=23671",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-bruessow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schönwald",
@@ -3101,7 +4271,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönwald_(Brandenburg)",
     "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Schoenwald.htm",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.unterspreewald.de/Leben-im-Amt-Unterspreewald/Vereinsleben.htm?"
+      }
+    ]
   },
   {
     "name": "Schönwalde-Glien",
@@ -3109,7 +4284,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schönwalde-Glien",
     "webseite": "https://www.schoenwalde-glien.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoenwalde-glien.de/de/unsere-gemeinde/ehrenamt/vereine"
+      }
+    ]
   },
   {
     "name": "Seddiner See",
@@ -3117,7 +4297,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Seddiner_See",
     "webseite": "https://www.seddiner-see.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Sport",
+        "url": "https://www.seddiner-see.de/leben-wohnen/vereine-sport"
+      }
+    ]
   },
   {
     "name": "Seeblick",
@@ -3125,7 +4310,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Seeblick",
     "webseite": "https://www.rhinow.de/verzeichnis/objekt.php?mandat=54076",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Genossenschaften",
+        "url": "https://www.rhinow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Seelow",
@@ -3133,7 +4323,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Seelow",
     "webseite": "https://www.seelow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "weitere Vereine",
+        "url": "https://www.seelow.de/seite/434802/weitere-vereine.html"
+      }
+    ]
   },
   {
     "name": "Senftenberg",
@@ -3141,7 +4336,36 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Senftenberg",
     "webseite": "https://www.senftenberg.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Stadtportrait/Ortsteile/Brieske-Brjazki/Leben-in-Brieske/Vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Stadtportrait/Ortsteile/Gro%C3%9Fkoschen-K%C3%B3-yna/Leben-in-Gro%C3%9Fkoschen/Vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Stadtportrait/Ortsteile/Hosena-H%C3%B3znja/Leben-in-Hosena/Vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Stadtportrait/Ortsteile/Niemtsch-Nimje-k/Leben-in-Niemtsch/Vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Stadtportrait/Ortsteile/Peickwitz-Tsikojce/Leben-in-Peickwitz/Vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Stadtportrait/Ortsteile/Sedlitz-Sedli-263-o/Leben-in-Sedlitz/Vereinsleben"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.senftenberg.de/B%C3%BCrger/Freizeit/Vereine"
+      }
+    ]
   },
   {
     "name": "Siehdichum",
@@ -3149,7 +4373,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Siehdichum",
     "webseite": "http://gemeinde-siehdichum.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "VEREINE",
+        "url": "http://gemeinde-siehdichum.de/index.php?id=106"
+      }
+    ]
   },
   {
     "name": "Sieversdorf-Hohenofen",
@@ -3157,7 +4386,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sieversdorf-Hohenofen",
     "webseite": "http://www.sieversdorf-hohenofen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.sieversdorf-hohenofen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Sonnenberg",
@@ -3165,7 +4399,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sonnenberg_(Brandenburg)",
     "webseite": "https://www.gransee.de/politik-verwaltung/sonnenberg/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin im Rathaus vereinbaren",
+        "url": "https://www.gransee.de/politik-verwaltung/verwaltung/termin-im-rathaus-vereinbaren"
+      }
+    ]
   },
   {
     "name": "Sonnewalde",
@@ -3173,7 +4412,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sonnewalde",
     "webseite": "https://www.stadt-sonnewalde.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-sonnewalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Spreenhagen",
@@ -3181,7 +4425,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Spreenhagen",
     "webseite": "https://www.amt-spreenhagen.de/verzeichnis/objekt.php?mandat=57816",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-spreenhagen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Spreewaldheide",
@@ -3189,7 +4438,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Spreewaldheide",
     "webseite": "https://www.lieberose-oberspreewald.de/Die-Gemeinden/Spreewaldheide",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.lieberose-oberspreewald.de/Leben-und-Wohnen/Vereine"
+      }
+    ]
   },
   {
     "name": "Spremberg",
@@ -3205,7 +4459,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Stahnsdorf",
     "webseite": "https://www.stahnsdorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.stahnsdorf.de/bildung-soziales/kultur-sport/vereine-und-gruppen"
+      }
+    ]
   },
   {
     "name": "Stechlin",
@@ -3221,7 +4480,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Stechow-Ferchesar",
     "webseite": "https://www.stechow-ferchesar.info/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stechow-ferchesar.info/vereine"
+      }
+    ]
   },
   {
     "name": "Steinhöfel",
@@ -3229,7 +4493,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Steinhöfel",
     "webseite": "https://www.gemeinde-steinhoefel.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.gemeinde-steinhoefel.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Steinreich",
@@ -3237,7 +4506,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Steinreich",
     "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Steinreich.htm",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.unterspreewald.de/Leben-im-Amt-Unterspreewald/Vereinsleben.htm?"
+      }
+    ]
   },
   {
     "name": "Storbeck-Frankendorf",
@@ -3245,7 +4519,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Storbeck-Frankendorf",
     "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87438",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-temnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Storkow (Mark)",
@@ -3253,7 +4532,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Storkow_(Mark)",
     "webseite": "https://www.storkow-mark.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.storkow-mark.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Straupitz (Spreewald)",
@@ -3261,7 +4545,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Straupitz_(Spreewald)",
     "webseite": "https://www.straupitz-im-spreewald.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Unser Verein",
+        "url": "https://www.straupitz-im-spreewald.de/unser-verein"
+      },
+      {
+        "titel": "Vereine & Förderer",
+        "url": "https://www.straupitz-im-spreewald.de/Vereine-F%C3%B6rderer"
+      }
+    ]
   },
   {
     "name": "Strausberg",
@@ -3269,7 +4562,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Strausberg",
     "webseite": "https://www.stadt-strausberg.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-strausberg.de/vereine"
+      }
+    ]
   },
   {
     "name": "Stüdenitz-Schönermark",
@@ -3277,7 +4575,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Stüdenitz-Schönermark",
     "webseite": "https://www.amt-neustadt-dosse.de/verzeichnis/objekt.php?mandat=43530",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-neustadt-dosse.de/seite/595619/vereine.html"
+      }
+    ]
   },
   {
     "name": "Sydower Fließ",
@@ -3285,7 +4588,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sydower_Fließ",
     "webseite": "https://www.sydower-fliess.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.sydower-fliess.de/vereine"
+      },
+      {
+        "titel": "SV Melchow Grüntal",
+        "url": "https://www.sydower-fliess.de/vereine/sv-melchow-gruental"
+      },
+      {
+        "titel": "Billard-Club Tempelfelde",
+        "url": "https://www.sydower-fliess.de/vereine/billard-club-tempelfelde"
+      },
+      {
+        "titel": "Schützengilde",
+        "url": "https://www.sydower-fliess.de/vereine/schuetzengilde"
+      },
+      {
+        "titel": "Das Haus Grüntal",
+        "url": "https://www.sydower-fliess.de/vereine/das-haus-gruental"
+      }
+    ]
   },
   {
     "name": "Tantow",
@@ -3301,7 +4625,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Tauche",
     "webseite": "https://www.gemeinde-tauche.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-tauche.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Tauer",
@@ -3309,7 +4638,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Tauer",
     "webseite": "https://www.peitz.de/gemeinde/tauer",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.peitz.de/vereine"
+      }
+    ]
   },
   {
     "name": "Teichland",
@@ -3317,7 +4651,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Teichland",
     "webseite": "https://www.peitz.de/gemeinde/teichland",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.peitz.de/vereine"
+      },
+      {
+        "titel": "Tarif der Gemeinde Teichland/Gatojce für die Benutzung der Gemeindezentren, dem „Haus der Vereine“ und dem „Begegnungszentrum Kastanienhof“ 27.06.2023",
+        "url": "https://www.peitz.de/media/866"
+      }
+    ]
   },
   {
     "name": "Teltow",
@@ -3325,7 +4668,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Teltow",
     "webseite": "https://www.teltow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Sport",
+        "url": "https://www.teltow.de/seite/714356/vereine-sport.html"
+      }
+    ]
   },
   {
     "name": "Temmen-Ringenwalde",
@@ -3333,7 +4681,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Temmen-Ringenwalde",
     "webseite": "https://www.amt-gerswalde.de/verzeichnis/objekt.php?mandat=38920",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gerswalde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Temnitzquell",
@@ -3341,7 +4694,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Temnitzquell",
     "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87444",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-temnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Temnitztal",
@@ -3349,7 +4707,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Temnitztal",
     "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=54908",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-temnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Templin",
@@ -3357,7 +4720,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Templin",
     "webseite": "https://www.templin.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.templin.de/vereine"
+      }
+    ]
   },
   {
     "name": "Tettau",
@@ -3365,7 +4733,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Tettau_(Brandenburg)",
     "webseite": "https://www.tettau-osl.de",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.tettau-osl.de/vereine"
+      }
+    ]
   },
   {
     "name": "Teupitz",
@@ -3373,7 +4746,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Teupitz",
     "webseite": "https://www.teupitz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.teupitz.de/sport-freizeit/vereine-verbaende.php"
+      }
+    ]
   },
   {
     "name": "Trebbin",
@@ -3389,7 +4767,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Treplin",
     "webseite": "https://www.amt-lebus.de/verzeichnis/objekt.php?mandat=27436",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-lebus.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Treuenbrietzen",
@@ -3397,7 +4780,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Treuenbrietzen",
     "webseite": "https://www.treuenbrietzen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.treuenbrietzen.de/seite/501310/vereine.html"
+      }
+    ]
   },
   {
     "name": "Triglitz",
@@ -3405,7 +4793,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Triglitz",
     "webseite": "https://www.amtputlitz-berge.de/verzeichnis/visitenkarte.php?mandat=55521",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amtputlitz-berge.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Tröbitz",
@@ -3413,7 +4806,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Tröbitz",
     "webseite": "https://www.gemeinde-troebitz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-troebitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Tschernitz",
@@ -3421,7 +4819,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Tschernitz",
     "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=86710",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-doebern-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Turnow-Preilack",
@@ -3429,7 +4832,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Turnow-Preilack",
     "webseite": "https://www.peitz.de/gemeinde/turnow-preilack",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.peitz.de/vereine"
+      }
+    ]
   },
   {
     "name": "Uckerfelde",
@@ -3437,7 +4845,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Uckerfelde",
     "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27365",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gramzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Uckerland",
@@ -3453,7 +4866,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Uebigau-Wahrenbrück",
     "webseite": "https://www.uebigau-wahrenbrueck.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.uebigau-wahrenbrueck.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Unterspreewald",
@@ -3461,7 +4879,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Unterspreewald_(Gemeinde)",
     "webseite": "https://www.unterspreewald.de/Stadt-und-Gemeinden/Unterspreewald.htm",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.unterspreewald.de/Leben-im-Amt-Unterspreewald/Vereinsleben.htm?"
+      }
+    ]
   },
   {
     "name": "Velten",
@@ -3469,7 +4892,44 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Velten",
     "webseite": "https://velten.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde"
+      },
+      {
+        "titel": "Sport",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Sport"
+      },
+      {
+        "titel": "Kleingärten",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Kleing%C3%A4rten"
+      },
+      {
+        "titel": "Jugend",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Jugend"
+      },
+      {
+        "titel": "Fördern und Unterstützen",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/F%C3%B6rdern-und-Unterst%C3%BCtzen"
+      },
+      {
+        "titel": "Soziales Engagement",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Soziales-Engagement"
+      },
+      {
+        "titel": "Tiersport & Tierzucht",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Tiersport-Tierzucht"
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Senioren-"
+      },
+      {
+        "titel": "Kunst, Kultur & Hobbys",
+        "url": "https://velten.de/Stadtleben-Tourismus/Freizeit/Vereine-Verb%C3%A4nde/Kunst-Kultur-Hobbys"
+      }
+    ]
   },
   {
     "name": "Vetschau/Spreewald",
@@ -3477,7 +4937,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Vetschau/Spreewald",
     "webseite": "https://stadt.vetschau.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://stadt.vetschau.de/bildung-soziales-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Vielitzsee",
@@ -3493,7 +4958,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Vierlinden",
     "webseite": "https://www.amt-seelow-land.de/verzeichnis/objekt.php?mandat=52844",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.amt-seelow-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Vogelsang",
@@ -3501,7 +4971,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Vogelsang_(Odertal)",
     "webseite": "https://www.amt-b-f.de/verzeichnis/objekt.php?mandat=78410",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-b-f.de/seite/305601/vereine.html"
+      }
+    ]
   },
   {
     "name": "Waldsieversdorf",
@@ -3509,7 +4984,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Waldsieversdorf",
     "webseite": "https://www.waldsieversdorf.info/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.waldsieversdorf.info/unser-ort/bibliothek"
+      }
+    ]
   },
   {
     "name": "Walsleben",
@@ -3517,7 +4997,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Walsleben_(Brandenburg)",
     "webseite": "https://www.amt-temnitz.de/verzeichnis/mandat.php?mandat=87464",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-temnitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wandlitz",
@@ -3525,7 +5010,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wandlitz",
     "webseite": "https://www.wandlitz.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wandlitz.de/seite/110653/vereine.html"
+      }
+    ]
   },
   {
     "name": "Weisen",
@@ -3541,7 +5031,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Welzow",
     "webseite": "https://www.welzow.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.welzow.de/index.php/index.php/index.php/vereine.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.welzow.de/index.php/index.php/vereine.html"
+      },
+      {
+        "titel": "Navigation überspringen",
+        "url": "https://www.welzow.de/index.php/index.php/index.php/index.php/vereine.html"
+      },
+      {
+        "titel": "Orts-Landfrauenverband Proschim",
+        "url": "https://www.welzow.de/index.php/index.php/index.php/vereinsdetail/orts-landfrauenverband-proschim.html"
+      },
+      {
+        "titel": "Volkssolidarität Landesverband Brandenburg RV Lausitz Ortsgruppe Welzow",
+        "url": "https://www.welzow.de/index.php/index.php/index.php/vereinsdetail/volkssolidaritaet-landesverband-brandenburg-rv-lausitz-ortsgruppe-welzow.html"
+      }
+    ]
   },
   {
     "name": "Wendisch Rietz",
@@ -3549,7 +5060,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wendisch_Rietz",
     "webseite": "https://www.amt-scharmuetzelsee.de/verzeichnis/objekt.php?mandat=54337",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-scharmuetzelsee.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wenzlow",
@@ -3565,7 +5081,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Werben_(Spreewald)",
     "webseite": "http://www.werben-im-spreewald.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "http://www.werben-im-spreewald.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Werder (Havel)",
@@ -3581,7 +5102,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Werneuchen",
     "webseite": "https://www.werneuchen-barnim.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine der Stadt Werneuchen",
+        "url": "https://www.werneuchen-barnim.de/portal/aseiten/Seite-902000001-30690.html?kalender=1&naviID=reset2"
+      },
+      {
+        "titel": "UNTERNEHMENS- UND VEREINSVERZEICHNIS",
+        "url": "https://www.werneuchen-barnim.de/schnellziele/unternehmens-und-vereinsverzeichnis"
+      }
+    ]
   },
   {
     "name": "Wiesenau",
@@ -3589,7 +5119,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wiesenau",
     "webseite": "https://www.gemeinde-wiesenau.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-wiesenau.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wiesenaue",
@@ -3597,7 +5132,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wiesenaue",
     "webseite": "https://www.amt-friesack.de/verzeichnis/objekt.php?mandat=72582",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-friesack.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wiesenburg/Mark",
@@ -3605,7 +5145,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wiesenburg/Mark",
     "webseite": "https://www.wiesenburgmark.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.wiesenburgmark.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wiesengrund",
@@ -3613,7 +5158,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wiesengrund",
     "webseite": "https://www.amt-doebern-land.de/verzeichnis/visitenkarte.php?mandat=90112",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-doebern-land.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wildau",
@@ -3621,7 +5171,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wildau",
     "webseite": "https://www.wildau.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wildau.de/leben/freizeit/vereine"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.wildau.de/leben/freizeit/vereine/sonstige-vereine"
+      }
+    ]
   },
   {
     "name": "Wittenberge",
@@ -3629,7 +5188,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wittenberge",
     "webseite": "https://www.wittenberge.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wittenberge.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wittstock/Dosse",
@@ -3637,7 +5201,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wittstock/Dosse",
     "webseite": "https://www.wittstock.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wittstock.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wollin",
@@ -3653,7 +5222,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Woltersdorf_(bei_Berlin)",
     "webseite": "https://www.woltersdorf-schleuse.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.woltersdorf-schleuse.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wriezen",
@@ -3661,7 +5235,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wriezen",
     "webseite": "https://www.wriezen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsförderrichtlinie",
+        "url": "https://www.wriezen.de/seite/417443/vereinsf%C3%B6rderrichtlinie.html"
+      },
+      {
+        "titel": "Vereine & Stiftungen",
+        "url": "https://www.wriezen.de/seite/384078/vereine-stiftungen.html"
+      }
+    ]
   },
   {
     "name": "Wusterhausen/Dosse",
@@ -3669,7 +5252,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wusterhausen/Dosse",
     "webseite": "http://www.wusterhausen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.wusterhausen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wustermark",
@@ -3677,7 +5265,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wustermark",
     "webseite": "https://www.wustermark.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.wustermark.de/Leben-Soziales/Freizeit/Vereine-und-Verb%C3%A4nde"
+      }
+    ]
   },
   {
     "name": "Wusterwitz",
@@ -3685,7 +5278,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wusterwitz",
     "webseite": "https://www.amt-wusterwitz.de/verzeichnis/objekt.php?mandat=90464",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-wusterwitz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Zechin",
@@ -3693,7 +5291,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zechin",
     "webseite": "https://www.amt-golzow.de/verzeichnis/objekt.php?mandat=52515",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-golzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Zehdenick",
@@ -3701,7 +5304,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zehdenick",
     "webseite": "https://www.zehdenick.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.zehdenick.de/vereine.html"
+      }
+    ]
   },
   {
     "name": "Zernitz-Lohm",
@@ -3709,7 +5317,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zernitz-Lohm",
     "webseite": "http://www.gemeinde-zernitz-lohm.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "http://www.gemeinde-zernitz-lohm.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Zeschdorf",
@@ -3717,7 +5330,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zeschdorf",
     "webseite": "https://www.amt-lebus.de/verzeichnis/objekt.php?mandat=27437",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-lebus.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Zeuthen",
@@ -3733,7 +5351,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zichow",
     "webseite": "https://www.amt-gramzow.de/verzeichnis/objekt.php?mandat=27366",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.amt-gramzow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Ziesar",
@@ -3741,7 +5364,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ziesar",
     "webseite": "https://www.ziesar.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine / Verbände",
+        "url": "https://www.ziesar.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Ziethen",
@@ -3749,7 +5377,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ziethen_(Barnim)",
     "webseite": "https://www.amt-joachimsthal.de/texte/seite.php?id=73150",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.amt-joachimsthal.de/vereine"
+      }
+    ]
   },
   {
     "name": "Ziltendorf",
@@ -3757,7 +5390,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ziltendorf",
     "webseite": "http://www.ziltendorf.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.ziltendorf.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Zossen",
@@ -3765,6 +5403,15 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zossen",
     "webseite": "https://www.zossen.de/",
     "bundesland": "Brandenburg",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine von A-Z im Überblick",
+        "url": "https://www.zossen.de/buerger/vereine-von-a-z-im-ueberblick"
+      },
+      {
+        "titel": "Vereinsregistrierung",
+        "url": "https://www.zossen.de/buerger/vereine-von-a-z-im-ueberblick/vereinsregistrierung"
+      }
+    ]
   }
 ]
