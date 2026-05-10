@@ -1,27 +1,40 @@
 // ═══════════════════════════════════════════════════
-//  VEREINSRADAR — ERKUNDER (Final Redesign)
-//  Single unified table, expandable rows, no tabs
+//  VEREINSRADAR — ERKUNDER
+//  Einheitliche Tabelle, aufklappbare Zeilen
 // ═══════════════════════════════════════════════════
 
+// Score-Schwellwerte für farbliche Bewertung der Treffer-Qualität
+const SCORE_HIGH = 70;
+const SCORE_MED  = 40;
+
+const DEFAULT_PAGE_SIZE = 50;
+
 const MUNICIPALITY_SOURCES = [
-  "gemeinden_webseiten_bawue.json",
-  "gemeinden_webseiten_bayern.json",
-  "gemeinden_webseiten_berlin.json",
-  "gemeinden_webseiten_brandenburg.json",
-  "gemeinden_webseiten_bremen.json",
-  "gemeinden_webseiten_hamburg.json",
-  "gemeinden_webseiten_hessen.json",
-  "gemeinden_webseiten_mecklenburg_vorpommern.json",
-  "gemeinden_webseiten_niedersachsen.json",
-  "gemeinden_webseiten_nordrhein_westfalen.json",
-  "gemeinden_webseiten_rheinland_pfalz.json",
-  "gemeinden_webseiten_saarland.json",
-  "gemeinden_webseiten_sachsen.json",
-  "gemeinden_webseiten_sachsen_anhalt.json",
-  "gemeinden_webseiten_schleswig_holstein.json",
-  "gemeinden_webseiten_thueringen.json",
+  "gemeinden/gemeinden_webseiten_bawue.json",
+  "gemeinden/gemeinden_webseiten_bayern.json",
+  "gemeinden/gemeinden_webseiten_berlin.json",
+  "gemeinden/gemeinden_webseiten_brandenburg.json",
+  "gemeinden/gemeinden_webseiten_bremen.json",
+  "gemeinden/gemeinden_webseiten_hamburg.json",
+  "gemeinden/gemeinden_webseiten_hessen.json",
+  "gemeinden/gemeinden_webseiten_mecklenburg_vorpommern.json",
+  "gemeinden/gemeinden_webseiten_niedersachsen.json",
+  "gemeinden/gemeinden_webseiten_nordrhein_westfalen.json",
+  "gemeinden/gemeinden_webseiten_rheinland_pfalz.json",
+  "gemeinden/gemeinden_webseiten_saarland.json",
+  "gemeinden/gemeinden_webseiten_sachsen.json",
+  "gemeinden/gemeinden_webseiten_sachsen_anhalt.json",
+  "gemeinden/gemeinden_webseiten_schleswig_holstein.json",
+  "gemeinden/gemeinden_webseiten_thueringen.json",
 ];
-const CLUB_SOURCES = ["vereinsseiten.json", "vereinsseiten_bayern.json", "saarland_vereinsseiten.json", "sachsen_vereinsseiten.json"];
+const CLUB_SOURCES = [
+  "vereinsseiten/bawue_vereinsseiten.json",
+  "vereinsseiten/bayern_vereinsseiten.json",
+  "vereinsseiten/brandenburg_vereinsseiten.json",
+  "vereinsseiten/saarland_vereinsseiten.json",
+  "vereinsseiten/sachsen_vereinsseiten.json",
+];
+
 const SEARCH_TERM = "verein";
 const EXCLUDED_TITLE_OR_URL_TERMS = [
   "terminvereinbarung","förderverein","foerderverein","mütterverein",
@@ -155,7 +168,7 @@ function getFilters() {
     selectedState: state.selectedState,
     sort: el.sortSelect.value,
     withClubsOnly: el.withClubsOnly.checked,
-    pageSize: Number(el.pageSizeSelect.value) || 50,
+    pageSize: Number(el.pageSizeSelect.value) || DEFAULT_PAGE_SIZE,
   };
 }
 
@@ -234,7 +247,7 @@ function renderRow(e) {
   const isOpen = state.expandedRows.has(e.id);
   const score = getMaxScore(e);
   const scorePct = Math.min(100, score);
-  const scoreColor = score >= 70 ? "var(--green)" : score >= 40 ? "var(--amber)" : "var(--line-2)";
+  const scoreColor = score >= SCORE_HIGH ? "var(--green)" : score >= SCORE_MED ? "var(--amber)" : "var(--line-2)";
   const hasHome = Boolean(e.webseite);
   const linkCount = e.visibleLinks.length;
 
@@ -248,7 +261,7 @@ function renderRow(e) {
           </div>
           <div class="link-score">
             <div class="link-score-bar">
-              <div class="link-score-fill" style="width:${Math.min(100,p.score)}%;background:${p.score>=70?"var(--green)":p.score>=40?"var(--amber)":"var(--muted)"}"></div>
+              <div class="link-score-fill" style="width:${Math.min(100,p.score)}%;background:${p.score>=SCORE_HIGH?"var(--green)":p.score>=SCORE_MED?"var(--amber)":"var(--muted)"}"></div>
             </div>
             <span class="link-score-num">${p.score}</span>
           </div>
@@ -384,7 +397,7 @@ el.navBackdrop?.addEventListener("click", closeMenu);
 // ─── RESET ────────────────────────────────────────
 el.resetButton?.addEventListener("click", () => {
   el.searchInput.value = ""; el.minScoreInput.value = "";
-  el.sortSelect.value = "state"; el.pageSizeSelect.value = "50";
+  el.sortSelect.value = "state"; el.pageSizeSelect.value = String(DEFAULT_PAGE_SIZE);
   el.resultStateSelect.value = ""; el.withClubsOnly.checked = false;
   state.selectedState = ""; state.page = 1;
   state.expandedRows.clear();
