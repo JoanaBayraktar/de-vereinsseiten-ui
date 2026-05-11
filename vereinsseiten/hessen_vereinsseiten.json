@@ -4702,7 +4702,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Liebenau_(Hessen)",
     "webseite": "https://stadt-liebenau.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://stadt-liebenau.de/vereine"
+      }
+    ]
   },
   {
     "name": "Liederbach am Taunus",
@@ -4710,7 +4715,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Liederbach_am_Taunus",
     "webseite": "https://www.liederbach.eu/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Online TERMIN für Ihren Besuch im Rathaus vereinbaren?",
+        "url": "https://www.liederbach.eu/datei/de/gemeinde/-/3333/extLink"
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.liederbach.eu/seite/de/gemeinde/0101:1949/-/Vereine_und_Verbaende.html"
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.liederbach.eu/seite/de/gemeinde/0101:1949:2694/-/Vereinsnachrichten.html"
+      },
+      {
+        "titel": "https://www.liederbach.eu/verein/de/gemeinde/-/3638/vereine_nachrichten#vn10",
+        "url": "https://www.liederbach.eu/verein/de/gemeinde/-/3638/vereine_nachrichten"
+      },
+      {
+        "titel": "https://www.liederbach.eu/verein/de/gemeinde/-/241/vereine_nachrichten#vn1",
+        "url": "https://www.liederbach.eu/verein/de/gemeinde/-/241/vereine_nachrichten"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.liederbach.eu/verein/de/gemeinde/0101:1949:35/-/start"
+      }
+    ]
   },
   {
     "name": "Limburg a.d. Lahn",
@@ -4718,7 +4748,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Limburg_an_der_Lahn",
     "webseite": "https://www.limburg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.limburg.de/Freizeit-Tourismus/Vereine-Verb%C3%A4nde"
+      }
+    ]
   },
   {
     "name": "Limeshain",
@@ -4726,7 +4761,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Limeshain",
     "webseite": "https://www.limeshain.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.limeshain.de/kultur-freizeit/vereine"
+      },
+      {
+        "titel": "Vereinsübersicht",
+        "url": "https://www.limeshain.de/kultur-freizeit/vereine/vereinsuebersicht"
+      }
+    ]
   },
   {
     "name": "Linden",
@@ -4734,7 +4778,36 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Linden_(Hessen)",
     "webseite": "https://www.linden.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Caritative Vereine",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/caritative-vereine.html"
+      },
+      {
+        "titel": "Musik",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/musik.html"
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/kultur.html"
+      },
+      {
+        "titel": "Naturschutz",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/naturschutz.html"
+      },
+      {
+        "titel": "Religiöse Vereine",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/religioese-vereine.html"
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/sport.html"
+      },
+      {
+        "titel": "weitere",
+        "url": "https://www.linden.de/kultur-freizeit/vereine/weitere.html"
+      }
+    ]
   },
   {
     "name": "Lindenfels",
@@ -4742,7 +4815,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lindenfels",
     "webseite": "https://www.lindenfels.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.lindenfels.de/buergerservice-der-stadt-lindenfels-im-odenwald/vereine-und-verbaende"
+      }
+    ]
   },
   {
     "name": "Linsengericht",
@@ -4750,7 +4828,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Linsengericht_(Hessen)",
     "webseite": "https://www.linsengericht.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.linsengericht.de/kultur-freizeit/sport-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Lohfelden",
@@ -4758,7 +4841,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lohfelden",
     "webseite": "https://www.lohfelden.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Seniorengruppen und -vereine",
+        "url": "https://www.lohfelden.de/de/leben-und-wohnen/senioren/seniorengruppen-und-vereine"
+      },
+      {
+        "titel": "Organisationen & Vereine",
+        "url": "https://www.lohfelden.de/de/freizeit/organisationen-vereine"
+      },
+      {
+        "titel": "Rettende u. helfende Vereine",
+        "url": "https://www.lohfelden.de/de/freizeit/organisationen-vereine/rettende-u-helfende-vereine"
+      },
+      {
+        "titel": "Barrierefreiheit",
+        "url": "https://www.lohfelden.de/de/freizeit/organisationen-vereine/barrierefreiheit"
+      }
+    ]
   },
   {
     "name": "Lohra",
@@ -4766,7 +4866,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lohra",
     "webseite": "https://www.lohra.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.lohra.de/vereine-und-verbaende-02919.html"
+      }
+    ]
   },
   {
     "name": "Lollar",
@@ -4790,7 +4895,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lorsch",
     "webseite": "https://lorsch.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://lorsch.de/de/vereinsverzeichnis"
+      },
+      {
+        "titel": "Vereinsfahrzeuge",
+        "url": "https://lorsch.de/de/leben-in-lorsch/Vereinsfahrzeug.php"
+      }
+    ]
   },
   {
     "name": "Ludwigsau",
@@ -4798,7 +4912,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ludwigsau",
     "webseite": "https://www.gemeinde-ludwigsau.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-ludwigsau.de/vereine"
+      }
+    ]
   },
   {
     "name": "Löhnberg",
@@ -4806,7 +4925,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Löhnberg",
     "webseite": "https://www.gemeinde-loehnberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://gemeinde-loehnberg.de/freizeit-erleben/rathaus/vereinsverzeichnis"
+      }
+    ]
   },
   {
     "name": "Lützelbach",
@@ -4814,7 +4938,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Lützelbach",
     "webseite": "https://www.luetzelbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.luetzelbach.de/freizeit-tourismus/vereine"
+      },
+      {
+        "titel": "Lützel-Wiebelsbach",
+        "url": "https://www.luetzelbach.de/freizeit-tourismus/vereine/luetzel-wiebelsbach"
+      },
+      {
+        "titel": "Seckmauern",
+        "url": "https://www.luetzelbach.de/freizeit-tourismus/vereine/seckmauern"
+      },
+      {
+        "titel": "Haingrund",
+        "url": "https://www.luetzelbach.de/freizeit-tourismus/vereine/haingrund"
+      },
+      {
+        "titel": "Breitenbrunn",
+        "url": "https://www.luetzelbach.de/freizeit-tourismus/vereine/breitenbrunn"
+      },
+      {
+        "titel": "Rimhorn",
+        "url": "https://www.luetzelbach.de/freizeit-tourismus/vereine/rimhorn"
+      }
+    ]
   },
   {
     "name": "Mainhausen",
@@ -4822,7 +4971,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mainhausen",
     "webseite": "https://www.mainhausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.mainhausen.de/vereine"
+      },
+      {
+        "titel": "Vereinsnachrichten",
+        "url": "https://www.mainhausen.de/vereinsnachrichten"
+      },
+      {
+        "titel": "Vereinsringe",
+        "url": "https://www.mainhausen.de/vereinsringe"
+      },
+      {
+        "titel": "Vereinscontainer (Feste)",
+        "url": "https://www.mainhausen.de/vereinscontainer-feste"
+      }
+    ]
   },
   {
     "name": "Maintal",
@@ -4830,7 +4996,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Maintal",
     "webseite": "https://www.maintal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.maintal.de/seite/257169/vereine.html"
+      }
+    ]
   },
   {
     "name": "Malsfeld",
@@ -4838,7 +5009,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Malsfeld",
     "webseite": "https://www.malsfeld.net/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.malsfeld.net/leben-in-malsfeld/vereine"
+      }
+    ]
   },
   {
     "name": "Marburg",
@@ -4846,7 +5022,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Marburg",
     "webseite": "https://www.marburg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Projektgruppe Vereinbarkeit von Familie und Beruf",
+        "url": "https://www.marburg.de/leben-in-marburg/familie-und-soziales/familien/buendnis-fuer-familie/projektgruppe-vereinbarkeit-von-familie-und-beruf"
+      },
+      {
+        "titel": "Vereine und Gruppen in Cyriaxweimar/ Allnatal",
+        "url": "https://www.marburg.de/politik-und-verwaltung/aus-den-stadtteilen/infos-der-ortsbeiraete/cyriaxweimar/vereine-und-gruppen-in-cyriaxweimar-allnatal"
+      }
+    ]
   },
   {
     "name": "Meinhard",
@@ -4862,7 +5047,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Meißner_(Gemeinde)",
     "webseite": "https://www.gemeinde-meissner.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-meissner.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Melsungen",
@@ -4878,7 +5068,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mengerskirchen",
     "webseite": "https://www.mengerskirchen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mengerskirchen.de/freizeit/vereine"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.mengerskirchen.de/freizeit/vereine/verein-eintragen"
+      },
+      {
+        "titel": "Verein aktualisieren",
+        "url": "https://www.mengerskirchen.de/freizeit/vereine/verein-aktualisieren"
+      }
+    ]
   },
   {
     "name": "Merenberg",
@@ -4886,7 +5089,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Merenberg",
     "webseite": "https://merenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.merenberg.de/leben-freizeit/freizeit-und-kultur/vereine"
+      }
+    ]
   },
   {
     "name": "Messel",
@@ -4894,7 +5102,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Messel",
     "webseite": "https://www.messel.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.messel.de/wohnen-freizeit/vereinsleben"
+      },
+      {
+        "titel": "Vereine Übersicht",
+        "url": "https://www.messel.de/wohnen-freizeit/vereinsleben/vereine-uebersicht"
+      }
+    ]
   },
   {
     "name": "Michelstadt",
@@ -4902,7 +5119,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Michelstadt",
     "webseite": "https://www.michelstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.michelstadt.de/leben-wohnen/familie-und-soziales/vereine"
+      }
+    ]
   },
   {
     "name": "Mittenaar",
@@ -4910,7 +5132,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mittenaar",
     "webseite": "https://www.mittenaar.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mittenaar.de/freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Modautal",
@@ -4918,7 +5145,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Modautal",
     "webseite": "https://www.modautal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Gruppen",
+        "url": "https://www.modautal.de/gemeindeleben/vereine-und-gruppen"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.modautal.de/gemeindeleben/vereine-und-gruppen/vereine"
+      },
+      {
+        "titel": "Bürger.Stiftung.Modautal",
+        "url": "https://www.modautal.de/gemeindeleben/vereine-und-gruppen/buerger-stiftung-modautal"
+      },
+      {
+        "titel": "Jagdgenossenschaften",
+        "url": "https://www.modautal.de/gemeindeleben/vereine-und-gruppen/jagdgenossenschaften"
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.modautal.de/gemeindeleben/vereine-und-gruppen/kirchen"
+      }
+    ]
   },
   {
     "name": "Morschen",
@@ -4926,7 +5174,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Morschen",
     "webseite": "https://www.morschen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Mitteilungen der Vereine und Verbände",
+        "url": "https://www.morschen.de/mitteilungen-der-vereine"
+      }
+    ]
   },
   {
     "name": "Mossautal",
@@ -4934,7 +5187,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mossautal",
     "webseite": "https://mossautal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://mossautal.de/vereine"
+      },
+      {
+        "titel": "jetzt Termin vereinbaren",
+        "url": "https://mossautal.de/terminvergabe"
+      }
+    ]
   },
   {
     "name": "Mörfelden-Walldorf",
@@ -4942,7 +5204,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mörfelden-Walldorf",
     "webseite": "https://www.moerfelden-walldorf.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moerfelden-walldorf.de/de/freizeit/vereine"
+      },
+      {
+        "titel": "Vereine allgemein",
+        "url": "https://www.moerfelden-walldorf.de/de/freizeit/vereine/vereine-allgemein"
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.moerfelden-walldorf.de/de/freizeit/vereine/vereinsverzeichnis"
+      }
+    ]
   },
   {
     "name": "Mörlenbach",
@@ -4950,7 +5225,84 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mörlenbach",
     "webseite": "https://www.moerlenbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "1225 Jahre Mörlenbach",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/1225-jahre-moerlenbach"
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/buechereien"
+      },
+      {
+        "titel": "Bürgerhaus",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/buergerhaus"
+      },
+      {
+        "titel": "Musikschulen",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/musikschulen"
+      },
+      {
+        "titel": "Sportlich aktiv",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/sportlich-aktiv"
+      },
+      {
+        "titel": "Volkshochschule",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/volkshochschule"
+      },
+      {
+        "titel": "Buntes Vereinsleben",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/buntes-vereinsleben"
+      },
+      {
+        "titel": "Koordinierungszentrum für Bürgerengagement",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/buntes-vereinsleben/koordinierungszentrum-fuer-buergerengagement"
+      },
+      {
+        "titel": "\"Alte Schule\" Bonsweiher",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/dorfgeschichten/alte-schule-bonsweiher"
+      },
+      {
+        "titel": "Dorfgeschichte Weiher",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/kultur-vereine/dorfgeschichten/dorfgeschichte-weiher"
+      },
+      {
+        "titel": "Gewerbevereinigung",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/wirtschaft-gewerbe/gewerbevereinigung"
+      },
+      {
+        "titel": "FW-Vereine",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine"
+      },
+      {
+        "titel": "Mörlenbach-Mitte",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/moerlenbach-mitte"
+      },
+      {
+        "titel": "Bonsweiher",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/bonsweiher"
+      },
+      {
+        "titel": "Juhöhe",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/juhoehe"
+      },
+      {
+        "titel": "Ober-Liebersbach",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/ober-liebersbach"
+      },
+      {
+        "titel": "Ober-Mumbach",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/ober-mumbach"
+      },
+      {
+        "titel": "Vöckelsbach",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/voeckelsbach"
+      },
+      {
+        "titel": "Weiher",
+        "url": "https://www.moerlenbach.de/gemeinde-leben/schutz-sicherheit/feuerwehr/fw-vereine/weiher"
+      }
+    ]
   },
   {
     "name": "Mücke",
@@ -4958,7 +5310,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mücke_(Hessen)",
     "webseite": "https://gemeinde-muecke.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://gemeinde-muecke.de/freizeit-tourismus-gemeinde-muecke/vereinsverzeichnis.html"
+      }
+    ]
   },
   {
     "name": "Mühlheim am Main",
@@ -4966,7 +5323,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mühlheim_am_Main",
     "webseite": "https://www.muehlheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehlheim.de/kultur-freizeit/freizeit-sport/vereine"
+      }
+    ]
   },
   {
     "name": "Mühltal",
@@ -4974,7 +5336,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Mühltal",
     "webseite": "https://www.muehltal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muehltal.de/muehltal/freizeit/vereine"
+      },
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.muehltal.de/muehltal/freizeit/vereine/vereinsliste"
+      }
+    ]
   },
   {
     "name": "Münchhausen",
@@ -4982,7 +5353,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Münchhausen_(am_Christenberg)",
     "webseite": "https://www.gemeinde-muenchhausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-muenchhausen.de/leben-wohnen/leben-wohnen/vereine"
+      },
+      {
+        "titel": "Bürgersprechstunde des Betreuungsvereins",
+        "url": "https://www.gemeinde-muenchhausen.de/leben-wohnen/leben-wohnen/gesundheit-pflege-und-soziales/buergersprechstunde-des-betreuungsvereins"
+      }
+    ]
   },
   {
     "name": "Münster (Hessen)",
@@ -4990,7 +5370,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Münster_(Hessen)",
     "webseite": "https://www.muenster-hessen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.muenster-hessen.de/de/kultur-freizeit/vereine-verbaende"
+      },
+      {
+        "titel": "7.777 Euro für die aktive Jugendarbeit der Vereine",
+        "url": "https://www.muenster-hessen.de/de/buerger-verwaltung/aktuelles/neuigkeiten/357/7777-euro-fuer-die-aktive-jugendarbeit-der-vereine"
+      }
+    ]
   },
   {
     "name": "Münzenberg",
@@ -4998,7 +5387,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Münzenberg",
     "webseite": "https://www.muenzenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.muenzenberg.de/vereine.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.muenzenberg.de/b%C3%BCrgerservice-von-a-bis-z/vereine.html"
+      }
+    ]
   },
   {
     "name": "Nauheim",
@@ -5014,7 +5412,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Naumburg_(Hessen)",
     "webseite": "https://www.naumburg.eu/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.naumburg.eu/tourismus-freizeit/vereine"
+      },
+      {
+        "titel": "© PixabayWettbewerb für Vereine zum Landesjubiläum „80 Jahre Hessen“Das Land Hessen feiert dieses Jahr seinen 80. Geburtstag.Zu diesem Anlass veranstaltet die Landesehrenamtsagentur LEAH einen Wettbewerb: Alle Vereine, die ebenfalls 80 Jahre alt werden, können mit einem Foto, einem Video und einer Selbstbeschreibung mitmachen. Einzige Bedingung: Sie müssen im Jahr …Mehr",
+        "url": "https://www.naumburg.eu/aktuelles/wettbewerb-fuer-vereine-zum-landesjubilaeum-80-jahre-hessen"
+      }
+    ]
   },
   {
     "name": "Neckarsteinach",
@@ -5022,7 +5429,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neckarsteinach",
     "webseite": "https://www.neckarsteinach.com/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Institutionen",
+        "url": "https://www.neckarsteinach.com/leben-wohnen/vereine-institutionen"
+      }
+    ]
   },
   {
     "name": "Nentershausen",
@@ -5030,7 +5442,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nentershausen_(Hessen)",
     "webseite": "https://www.nentershausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nentershausen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Neu-Anspach",
@@ -5038,7 +5455,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neu-Anspach",
     "webseite": "https://www.neu-anspach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neu-anspach.de/leben-in-neu-anspach/freizeit-sport/vereine"
+      }
+    ]
   },
   {
     "name": "Neu-Eichenberg",
@@ -5046,7 +5468,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neu-Eichenberg",
     "webseite": "https://www.neu-eichenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neu-eichenberg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Neu-Isenburg",
@@ -5062,7 +5489,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuberg_(Hessen)",
     "webseite": "https://neuberg.eu/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Vereine",
+        "url": "https://neuberg.eu/Freizeit-Kultur/Freizeit-und-Vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://neuberg.eu/%C3%9Cber-Neuberg/Vereine"
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://neuberg.eu/Freizeit-Kultur/Freizeit-und-Vereine/Spielpl%C3%A4tze"
+      },
+      {
+        "titel": "Sportanlagen",
+        "url": "https://neuberg.eu/Freizeit-Kultur/Freizeit-und-Vereine/Sportanlagen"
+      },
+      {
+        "titel": "Freizeitangebote",
+        "url": "https://neuberg.eu/Freizeit-Kultur/Freizeit-und-Vereine/Freizeitangebote"
+      }
+    ]
   },
   {
     "name": "Neuenstein",
@@ -5070,7 +5518,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuenstein_(Hessen)",
     "webseite": "https://www.neuenstein.net/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.neuenstein.net/neuenstein-erleben/vereine.html"
+      }
+    ]
   },
   {
     "name": "Neuental",
@@ -5078,7 +5531,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuental",
     "webseite": "https://www.neuental.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.neuental.de/vereine-verbaende.html"
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.neuental.de/nachrichten-lesen/vereine-verbaende.html"
+      }
+    ]
   },
   {
     "name": "Neuhof",
@@ -5086,7 +5548,80 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neuhof_(bei_Fulda)",
     "webseite": "https://www.neuhof-fulda.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine"
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/freizeit"
+      },
+      {
+        "titel": "Pumptrack-Anlage",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/freizeit/pumptrack-anlage"
+      },
+      {
+        "titel": "Spiel- und Bolzplätze",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/freizeit/spiel-und-bolzplaetze"
+      },
+      {
+        "titel": "Sporteinrichtungen",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/freizeit/sporteinrichtungen"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/freizeit/vereine"
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus"
+      },
+      {
+        "titel": "Essen und Trinken",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/essen-und-trinken"
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/radwege"
+      },
+      {
+        "titel": "Unterkünfte",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/unterkuenfte"
+      },
+      {
+        "titel": "Wander- und Spazierwege",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/wander-und-spazierwege"
+      },
+      {
+        "titel": "Planetenwanderweg",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/wander-und-spazierwege/planetenwanderweg"
+      },
+      {
+        "titel": "Panoramaweg Opperzer Berg",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/wander-und-spazierwege/panoramaweg-opperzer-berg"
+      },
+      {
+        "titel": "Mutter-Teresa-Weg",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/wander-und-spazierwege/mutter-teresa-weg"
+      },
+      {
+        "titel": "Spazierweg Grünes Dreieck",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/wander-und-spazierwege/spazierweg-gruenes-dreieck"
+      },
+      {
+        "titel": "Panoramaweg Fliedetal+Kemmete",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/tourismus/wander-und-spazierwege/panoramaweg-fliedetal-kemmete"
+      },
+      {
+        "titel": "Kultur",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/kultur"
+      },
+      {
+        "titel": "Kulturprogramm",
+        "url": "https://www.neuhof-fulda.de/freizeit-vereine/kultur/kulturprogramm"
+      }
+    ]
   },
   {
     "name": "Neukirchen",
@@ -5094,7 +5629,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neukirchen_(Knüll)",
     "webseite": "https://www.neukirchen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.neukirchen.de/leben-wohnen/leben/vereine"
+      },
+      {
+        "titel": "21.04.2026 Wettbewerb für Vereine zum Landesjubiläum 80 Jahre Hessen",
+        "url": "https://www.neukirchen.de/nachrichten-artikel-neukirchen/2026/april/wettbewerb-fuer-vereine-zum-landesjubilaeum-80-jahre-hessen"
+      }
+    ]
   },
   {
     "name": "Neustadt (Hessen)",
@@ -5102,7 +5646,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Neustadt_(Hessen)",
     "webseite": "https://www.neustadt-hessen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.neustadt-hessen.de/leben-stadtinfo/buergerservice-stadt-neustadt/vereine.html"
+      }
+    ]
   },
   {
     "name": "Nidda",
@@ -5110,7 +5659,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nidda",
     "webseite": "https://www.nidda.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nidda.de/leben/leben-in-nidda/vereine"
+      },
+      {
+        "titel": "Änderungsformular Vereine-Formularbaukasten",
+        "url": "https://www.nidda.de/leben/leben-in-nidda/vereine/aenderungsformular-vereine-formularbaukasten"
+      },
+      {
+        "titel": "Verein für Suchtkrankenhilfe",
+        "url": "https://www.nidda.de/leben/familie-soziales/hilfen-und-beratungsstellen/verein-fuer-suchtkrankenhilfe"
+      }
+    ]
   },
   {
     "name": "Niddatal",
@@ -5118,7 +5680,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niddatal",
     "webseite": "https://www.niddatal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Kommerzielle Vereine",
+        "url": "https://www.niddatal.de/leben-in-niddatal/kommerzielle-vereine"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.niddatal.de/leben-in-niddatal/sonstige-vereine"
+      }
+    ]
   },
   {
     "name": "Nidderau",
@@ -5126,7 +5697,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nidderau",
     "webseite": "https://www.nidderau.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.nidderau.de/erleben-entdecken/vereine"
+      }
+    ]
   },
   {
     "name": "Niedenstein",
@@ -5134,7 +5710,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niedenstein",
     "webseite": "https://www.niedenstein.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niedenstein.de/freizeit-und-tourismus/vereine"
+      },
+      {
+        "titel": "Kulturelle Vereine",
+        "url": "https://www.niedenstein.de/freizeit-und-tourismus/vereine/kulturelle-vereine"
+      },
+      {
+        "titel": "Vereine mit sozialem Schwerpunkt",
+        "url": "https://www.niedenstein.de/freizeit-und-tourismus/vereine/vereine-mit-sozialem-schwerpunkt"
+      },
+      {
+        "titel": "Parteien",
+        "url": "https://www.niedenstein.de/freizeit-und-tourismus/vereine/parteien"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.niedenstein.de/freizeit-und-tourismus/vereine/sonstige-vereine"
+      }
+    ]
   },
   {
     "name": "Niederaula",
@@ -5142,7 +5739,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niederaula",
     "webseite": "https://www.niederaula.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niederaula.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Niederdorfelden",
@@ -5150,7 +5752,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niederdorfelden",
     "webseite": "https://www.niederdorfelden.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://www.niederdorfelden.de/seite/562961/online-terminvergabe.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.niederdorfelden.de/seite/522817/vereine.html"
+      }
+    ]
   },
   {
     "name": "Niedernhausen",
@@ -5158,7 +5769,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niedernhausen",
     "webseite": "https://www.niedernhausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Kultur, Vereine & Freizeit",
+        "url": "https://www.niedernhausen.de/kultur-vereine-freizeit"
+      },
+      {
+        "titel": "Gemeindebücherei",
+        "url": "https://www.niedernhausen.de/kultur-vereine-freizeit/gemeindebuecherei"
+      },
+      {
+        "titel": "Grillplätze",
+        "url": "https://www.niedernhausen.de/kultur-vereine-freizeit/grillplaetze"
+      },
+      {
+        "titel": "Öffentliche Hallen",
+        "url": "https://www.niedernhausen.de/kultur-vereine-freizeit/oeffentliche-hallen"
+      },
+      {
+        "titel": "Rad- & Wanderwege",
+        "url": "https://www.niedernhausen.de/kultur-vereine-freizeit/rad-wanderwege"
+      },
+      {
+        "titel": "Waldschwimmbad",
+        "url": "https://www.niedernhausen.de/kultur-vereine-freizeit/waldschwimmbad"
+      }
+    ]
   },
   {
     "name": "Nieste",
@@ -5166,7 +5802,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nieste_(Gemeinde)",
     "webseite": "https://www.nieste.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in Nieste",
+        "url": "https://www.nieste.de/freizeit-tourismus/vereine-in-nieste"
+      }
+    ]
   },
   {
     "name": "Niestetal",
@@ -5174,7 +5815,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Niestetal",
     "webseite": "https://www.niestetal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.niestetal.de/gv_niestetal/Freizeit%20&%20Tourismus/Freizeitangebote/Vereine%20und%20Verb%C3%A4nde"
+      }
+    ]
   },
   {
     "name": "Nüsttal",
@@ -5182,7 +5828,84 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Nüsttal",
     "webseite": "https://www.nuesttal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.nuesttal.de/freizeit-vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.nuesttal.de/freizeit-vereine/vereine"
+      },
+      {
+        "titel": "Vereine in Nüsttal",
+        "url": "https://www.nuesttal.de/freizeit-vereine/vereine/vereine-in-nuesttal"
+      },
+      {
+        "titel": "Verein aktualisieren",
+        "url": "https://www.nuesttal.de/freizeit-vereine/vereine/verein-aktualisieren"
+      },
+      {
+        "titel": "Freizeit",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit"
+      },
+      {
+        "titel": "Freizeitanlagen",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/freizeitanlagen"
+      },
+      {
+        "titel": "gemeinsam aktiv",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/gemeinsam-aktiv"
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/buecherei"
+      },
+      {
+        "titel": "Spiel- und Bolzplätze",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/spiel-und-bolzplaetze"
+      },
+      {
+        "titel": "Sporteinrichtungen",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/sporteinrichtungen"
+      },
+      {
+        "titel": "Tourismus",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus"
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus/gastronomie"
+      },
+      {
+        "titel": "Einkaufsmöglichkeiten",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus/einkaufsmoeglichkeiten"
+      },
+      {
+        "titel": "Ferienwohnungen",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus/ferienwohnungen"
+      },
+      {
+        "titel": "Wander- und Spazierwege",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus/wander-und-spazierwege"
+      },
+      {
+        "titel": "Radwege",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus/radwege"
+      },
+      {
+        "titel": "Himmelsschauplatz",
+        "url": "https://www.nuesttal.de/freizeit-vereine/tourismus/himmelsschauplatz"
+      },
+      {
+        "titel": "Grillplätze und Aussichtspunkte",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/freizeitanlagen/grillplaetze-und-aussichtspunkte"
+      },
+      {
+        "titel": "Freibad Gotthards",
+        "url": "https://www.nuesttal.de/freizeit-vereine/freizeit/freizeitanlagen/freibad-gotthards"
+      }
+    ]
   },
   {
     "name": "Ober-Mörlen",
@@ -5198,7 +5921,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ober-Ramstadt",
     "webseite": "https://www.ober-ramstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ober-ramstadt.de/leben/vereine"
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.ober-ramstadt.de/leben/vereine/vereinsverzeichnis"
+      }
+    ]
   },
   {
     "name": "Oberaula",
@@ -5206,7 +5938,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oberaula",
     "webseite": "https://www.oberaula.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.oberaula.de/leben-wohnen/leben/vereine"
+      }
+    ]
   },
   {
     "name": "Obertshausen",
@@ -5214,7 +5951,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Obertshausen",
     "webseite": "https://www.obertshausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.obertshausen.de/de/stadtleben/vereine"
+      }
+    ]
   },
   {
     "name": "Oberursel (Taunus)",
@@ -5222,7 +5964,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oberursel_(Taunus)",
     "webseite": "https://www.oberursel.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinswelt",
+        "url": "https://www.oberursel.de/de/erleben-entdecken/vereinswelt"
+      },
+      {
+        "titel": "Turniere der Vereine",
+        "url": "https://www.oberursel.de/de/erleben-entdecken/sport-aktiv/sport-events/turniere-der-vereine"
+      }
+    ]
   },
   {
     "name": "Oberzent",
@@ -5230,7 +5981,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oberzent",
     "webseite": "https://www.stadt-oberzent.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-oberzent.de/stadtleben/vereine"
+      },
+      {
+        "titel": "Vereinsdatenbank",
+        "url": "https://www.stadt-oberzent.de/stadtleben/vereine/vereinsdatenbank"
+      },
+      {
+        "titel": "Fördermöglichkeiten",
+        "url": "https://www.stadt-oberzent.de/stadtleben/vereine/foerdermoeglichkeiten"
+      }
+    ]
   },
   {
     "name": "Oestrich-Winkel",
@@ -5238,7 +6002,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Oestrich-Winkel",
     "webseite": "https://www.oestrich-winkel.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt & Vereine",
+        "url": "https://www.oestrich-winkel.de/leben-in-oestrich-winkel/ehrenamt-vereine"
+      },
+      {
+        "titel": "Politische Vereine",
+        "url": "https://www.oestrich-winkel.de/leben-in-oestrich-winkel/ehrenamt-vereine/politische-vereine"
+      },
+      {
+        "titel": "Soziale Vereine",
+        "url": "https://www.oestrich-winkel.de/leben-in-oestrich-winkel/ehrenamt-vereine/soziale-vereine"
+      },
+      {
+        "titel": "Seniorenclubs",
+        "url": "https://www.oestrich-winkel.de/leben-in-oestrich-winkel/ehrenamt-vereine/seniorenclubs"
+      }
+    ]
   },
   {
     "name": "Offenbach am Main",
@@ -5254,7 +6035,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ortenberg_(Hessen)",
     "webseite": "https://www.ortenberg.net/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ortenberg.net/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Öffentlich-rechtliche Vereinbarungen",
+        "url": "https://www.ortenberg.net/rechtsgrundlagen/4/gesetze.html"
+      }
+    ]
   },
   {
     "name": "Ottrau",
@@ -5262,7 +6052,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ottrau",
     "webseite": "https://www.ottrau.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ottrau.de/leben-wohnen/leben/vereine"
+      }
+    ]
   },
   {
     "name": "Otzberg",
@@ -5270,7 +6065,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Otzberg",
     "webseite": "https://www.otzberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.otzberg.de/freizeit-tourismus/freizeit/vereine"
+      },
+      {
+        "titel": "Otzberger Schnupperkarte",
+        "url": "https://www.otzberg.de/freizeit-tourismus/freizeit/vereine/otzberger-schnupperkarte"
+      }
+    ]
   },
   {
     "name": "Petersberg",
@@ -5278,7 +6082,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Petersberg_(Hessen)",
     "webseite": "https://www.petersberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Sport",
+        "url": "https://www.petersberg.de/vereine-sport-02844.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.petersberg.de/vereine-0447.html"
+      },
+      {
+        "titel": "Änderung Vereinsdaten",
+        "url": "https://www.petersberg.de/aenderung-vereinsdaten-0976.html"
+      },
+      {
+        "titel": "Anträge für Vereine",
+        "url": "https://www.petersberg.de/antraege-fuer-vereine-03185.html"
+      }
+    ]
   },
   {
     "name": "Pfungstadt",
@@ -5286,7 +6107,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Pfungstadt",
     "webseite": "https://www.pfungstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.pfungstadt.de/stadtleben/freizeitaktivitaeten/vereine"
+      },
+      {
+        "titel": "Soziale Einrichtungen & Vereine",
+        "url": "https://www.pfungstadt.de/stadtleben/soziale-hilfen/soziale-einrichtungen-vereine"
+      }
+    ]
   },
   {
     "name": "Philippsthal (Werra)",
@@ -5294,7 +6124,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Philippsthal_(Werra)",
     "webseite": "https://www.philippsthal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.philippsthal.de/lebenswert-liebenswert/vereine-und-verbaende.html"
+      }
+    ]
   },
   {
     "name": "Pohlheim",
@@ -5302,7 +6137,56 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Pohlheim",
     "webseite": "https://www.pohlheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Kulturelle Vereine",
+        "url": "https://www.pohlheim.de/freizeit-und-kultur/kultur/kulturelle-vereine"
+      },
+      {
+        "titel": "Vereine & Kirchen",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen"
+      },
+      {
+        "titel": "Burschen-/Mädchenschaften",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/burschenmaedchenschaften"
+      },
+      {
+        "titel": "Kulturelle Vereine",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/kulturelle-vereine"
+      },
+      {
+        "titel": "Natur- und Umweltschutz",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/naturund-umweltschutz"
+      },
+      {
+        "titel": "Obst- und Gartenbau",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/obstund-gartenbau"
+      },
+      {
+        "titel": "Soziales und Gesundheit",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/soziales-gesundheit"
+      },
+      {
+        "titel": "Stiftungen",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/stiftungen"
+      },
+      {
+        "titel": "Tiere und Tierzucht",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/tiere-und-tierzucht"
+      },
+      {
+        "titel": "sonstige Vereine",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/vereine/sonstige-vereine"
+      },
+      {
+        "titel": "neuapostol. Kirchengemeinden",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/kirchen-kirchliche-gruppen/neuapostol-kirchengemeinden/neuapostolische-kirchengemeinden.html"
+      },
+      {
+        "titel": "Vereine und Kirchen / kirchliche Gruppen",
+        "url": "https://www.pohlheim.de/vereine-brinstitutionen/beratungsund-foerdermoeglichkeiten/beratungsund-foerdermoeglichkeiten.html"
+      }
+    ]
   },
   {
     "name": "Poppenhausen (Wasserkuppe)",
@@ -5310,7 +6194,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Poppenhausen_(Wasserkuppe)",
     "webseite": "https://www.poppenhausen-wasserkuppe.de/de/rathaus-gemeinde/rathaus/gemeindeverwaltung.html",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.poppenhausen-wasserkuppe.de/de/de/rathaus-gemeinde/buergerservice/vereine-verbaende.html"
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.poppenhausen-wasserkuppe.de/de/rathaus-gemeinde/rathaus/de/rathaus-gemeinde/buergerservice/vereine-verbaende.html"
+      }
+    ]
   },
   {
     "name": "Rabenau",
@@ -5318,7 +6211,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rabenau_(Hessen)",
     "webseite": "https://www.gemeinde-rabenau.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.gemeinde-rabenau.de/vereine"
+      }
+    ]
   },
   {
     "name": "Ranstadt",
@@ -5326,7 +6224,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ranstadt",
     "webseite": "https://ranstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Kultur & Vereine",
+        "url": "https://www.ranstadt.de/leben-freizeit/kultur-vereine"
+      },
+      {
+        "titel": "Bücherei",
+        "url": "https://www.ranstadt.de/leben-freizeit/kultur-vereine/buecherei"
+      },
+      {
+        "titel": "unsere Vereine",
+        "url": "https://www.ranstadt.de/leben-freizeit/kultur-vereine/unsere-vereine"
+      }
+    ]
   },
   {
     "name": "Rasdorf",
@@ -5334,7 +6245,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rasdorf",
     "webseite": "https://www.rasdorf.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rasdorf.de/vereine"
+      }
+    ]
   },
   {
     "name": "Raunheim",
@@ -5350,7 +6266,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rauschenberg",
     "webseite": "https://www.rauschenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rauschenberg.de/unsere-stadt/vereine"
+      }
+    ]
   },
   {
     "name": "Reichelsheim (Odenwald)",
@@ -5358,7 +6279,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Reichelsheim_(Odenwald)",
     "webseite": "https://www.reichelsheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.reichelsheim.de/leben-in-reichelsheim/familie-soziales/vereine"
+      }
+    ]
   },
   {
     "name": "Reichelsheim (Wetterau)",
@@ -5366,7 +6292,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Reichelsheim_(Wetterau)",
     "webseite": "https://www.stadt-reichelsheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.stadt-reichelsheim.de/leben-wohnen/vereine-organisationen"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-reichelsheim.de/leben-wohnen/vereine-organisationen/vereine"
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.stadt-reichelsheim.de/leben-wohnen/vereine-organisationen/feuerwehr"
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.stadt-reichelsheim.de/leben-wohnen/vereine-organisationen/kirchen"
+      },
+      {
+        "titel": "Pfarrheim Dorn-Assenheim",
+        "url": "https://www.stadt-reichelsheim.de/leben-wohnen/vereine-organisationen/kirchen/katholische-kirchengemeinde-dorn-assenheim"
+      }
+    ]
   },
   {
     "name": "Reinhardshagen",
@@ -5374,7 +6321,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Reinhardshagen",
     "webseite": "https://www.reinhardshagen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Kirchen, Vereine, Verbände",
+        "url": "https://www.reinhardshagen.de/buerger/kirchen-vereine-und-verbaende"
+      },
+      {
+        "titel": "Vereinsleben in Reinhardshagen",
+        "url": "https://www.reinhardshagen.de/buerger/kirchen-vereine-und-verbaende/vereinsleben-in-reinhardshagen"
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.reinhardshagen.de/buerger/kirchen-vereine-und-verbaende/kirchen"
+      }
+    ]
   },
   {
     "name": "Reinheim",
@@ -5382,7 +6342,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Reinheim",
     "webseite": "https://www.reinheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.reinheim.de/kultur-freizeit/sport/vereine"
+      }
+    ]
   },
   {
     "name": "Reiskirchen",
@@ -5398,7 +6363,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Riedstadt",
     "webseite": "https://www.riedstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.riedstadt.de/leben-in-riedstadt/vereine/vereine-in-riedstadt.html"
+      },
+      {
+        "titel": "Vereinsregistrierung",
+        "url": "https://www.riedstadt.de/nc/vereinsregistrierung.html"
+      },
+      {
+        "titel": "Vereinsänderung",
+        "url": "https://www.riedstadt.de/nc/leben-in-riedstadt/vereine/vereinsaenderung.html"
+      }
+    ]
   },
   {
     "name": "Rimbach",
@@ -5406,7 +6384,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rimbach_(Odenwald)",
     "webseite": "https://www.rimbach-odw.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rimbach-odw.de/kultur-tourismus/vereine"
+      }
+    ]
   },
   {
     "name": "Ringgau",
@@ -5414,7 +6397,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ringgau_(Gemeinde)",
     "webseite": "https://www.ringgau.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ringgau.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rockenberg",
@@ -5422,7 +6410,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rockenberg",
     "webseite": "https://www.rockenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rockenberg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Rodenbach",
@@ -5430,7 +6423,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rodenbach_(bei_Hanau)",
     "webseite": "https://www.rodenbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rodenbach.de/Leben-Wohnen/Gesellschaft/Vereine"
+      }
+    ]
   },
   {
     "name": "Rodgau",
@@ -5446,7 +6444,40 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Romrod",
     "webseite": "https://www.romrod.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.romrod.de/verzeichnis-kategorie/vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.romrod.de/category/vereine-sport"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.romrod.de/tag/vereine"
+      },
+      {
+        "titel": "Vereine Nieder-Breidenbach",
+        "url": "https://www.romrod.de/verzeichnis-kategorie/vereine-nieder-breidenbach"
+      },
+      {
+        "titel": "Vereine Ober-Breidenbach",
+        "url": "https://www.romrod.de/verzeichnis-kategorie/vereine-ober-breidenbach"
+      },
+      {
+        "titel": "Vereine Romrod",
+        "url": "https://www.romrod.de/verzeichnis-kategorie/vereine-romrod"
+      },
+      {
+        "titel": "Vereine Strebendorf",
+        "url": "https://www.romrod.de/verzeichnis-kategorie/vereine-strebendorf"
+      },
+      {
+        "titel": "Vereine Zell",
+        "url": "https://www.romrod.de/verzeichnis-kategorie/vereine-zell"
+      }
+    ]
   },
   {
     "name": "Ronneburg",
@@ -5454,7 +6485,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ronneburg_(Hessen)",
     "webseite": "https://www.ronneburg.eu/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ronneburg.eu/freizeit-tourismus/vereine"
+      }
+    ]
   },
   {
     "name": "Ronshausen",
@@ -5462,7 +6498,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ronshausen",
     "webseite": "https://www.ronshausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Grundschule",
+        "url": "https://www.ronshausen.de/gemeinde_verwaltung/oeffentliche_einrichtungen/grundschule_foerderverein/grundschule_foerderverein.html"
+      }
+    ]
   },
   {
     "name": "Rosbach v.d. Höhe",
@@ -5470,7 +6511,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rosbach_vor_der_Höhe",
     "webseite": "https://www.rosbach-hessen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Kultur",
+        "url": "https://www.rosbach-hessen.de/leben-freizeit/vereine-kultur"
+      },
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.rosbach-hessen.de/leben-freizeit/vereine-kultur/vereinsregister"
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.rosbach-hessen.de/leben-freizeit/vereine-kultur/ehrenamt"
+      },
+      {
+        "titel": "Blütenfest",
+        "url": "https://www.rosbach-hessen.de/leben-freizeit/vereine-kultur/bluetenfest"
+      },
+      {
+        "titel": "Kulturprogramm",
+        "url": "https://www.rosbach-hessen.de/leben-freizeit/vereine-kultur/kulturprogramm"
+      }
+    ]
   },
   {
     "name": "Rosenthal",
@@ -5478,7 +6540,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rosenthal_(Hessen)",
     "webseite": "https://www.rosenthaler.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rosenthaler.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Roßdorf",
@@ -5486,7 +6553,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Roßdorf_(bei_Darmstadt)",
     "webseite": "https://rossdorf.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://rossdorf.de/verwaltung-b%C3%BCrgerservice-politik/termin-vereinbaren.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://rossdorf.de/leben-in-rossdorf/vereine.html"
+      }
+    ]
   },
   {
     "name": "Rotenburg a.d. Fulda",
@@ -5494,7 +6570,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rotenburg_an_der_Fulda",
     "webseite": "https://www.rotenburg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.rotenburg.de/freizeit/sport-engagement/vereine-verbaende"
+      }
+    ]
   },
   {
     "name": "Runkel",
@@ -5502,7 +6583,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Runkel",
     "webseite": "https://www.runkel-lahn.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.runkel-lahn.de/bildung-kultur/vereine/?no_cache=1"
+      }
+    ]
   },
   {
     "name": "Rödermark",
@@ -5518,7 +6604,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Rüdesheim_am_Rhein",
     "webseite": "https://www.stadt-ruedesheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-ruedesheim.de/seite/418687/vereine.html"
+      },
+      {
+        "titel": "Vereinshäuser",
+        "url": "https://www.stadt-ruedesheim.de/seite/133484/vereinsh%C3%A4user.html"
+      }
+    ]
   },
   {
     "name": "Rüsselsheim am Main",
@@ -5534,7 +6629,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schaafheim",
     "webseite": "https://www.schaafheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schaafheim.de/kultur-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Schauenburg",
@@ -5542,7 +6642,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schauenburg",
     "webseite": "https://www.gemeinde-schauenburg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine + Verbände",
+        "url": "https://www.gemeinde-schauenburg.de/de/die-gemeinde/soziales-sport/vereine.php"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-schauenburg.de/de/haeufig-gesucht/vereine.php"
+      }
+    ]
   },
   {
     "name": "Schenklengsfeld",
@@ -5550,7 +6659,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schenklengsfeld",
     "webseite": "https://www.schenklengsfeld.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schenklengsfeld.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Schlangenbad",
@@ -5558,7 +6672,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schlangenbad",
     "webseite": "https://www.schlangenbad.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schlangenbad.de/index_main.php?unid=1986&websiteid=default&PHPSESSID=64fee7e86d188fb76733460254f0ada2"
+      }
+    ]
   },
   {
     "name": "Schlitz",
@@ -5574,7 +6693,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schlüchtern",
     "webseite": "https://www.schluechtern.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schluechtern.de/familie-leben/vereine"
+      }
+    ]
   },
   {
     "name": "Schmitten im Taunus",
@@ -5582,7 +6706,36 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schmitten_im_Taunus",
     "webseite": "https://www.schmitten.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt & Vereine",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine/vereine"
+      },
+      {
+        "titel": "Bürgermedaille",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine/buergermedaille"
+      },
+      {
+        "titel": "Umweltpaten Schmitten (UMPAS)",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine/umweltpaten-schmitten-umpas"
+      },
+      {
+        "titel": "Ehrenamts-Card",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine/ehrenamts-card"
+      },
+      {
+        "titel": "Grüne Damen Hochtaunus",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine/vereine/gruene-damen-hochtaunus"
+      },
+      {
+        "titel": "Liste der Träger",
+        "url": "https://www.schmitten.de/freizeit-tourismus/ehrenamt-vereine/buergermedaille/liste-der-traeger"
+      }
+    ]
   },
   {
     "name": "Schotten",
@@ -5590,7 +6743,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schotten_(Stadt)",
     "webseite": "https://www.schotten.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schotten.de/leben-wohnen/soziales-engagement/vereine"
+      }
+    ]
   },
   {
     "name": "Schrecksbach",
@@ -5598,7 +6756,28 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schrecksbach",
     "webseite": "https://www.schrecksbach.info/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Soziales & Vereine",
+        "url": "https://www.schrecksbach.info/soziales-vereine"
+      },
+      {
+        "titel": "Kindertagesstätten",
+        "url": "https://www.schrecksbach.info/soziales-vereine/kindergaerten"
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.schrecksbach.info/soziales-vereine/schulen"
+      },
+      {
+        "titel": "Jugendarbeit",
+        "url": "https://www.schrecksbach.info/soziales-vereine/jugendarbeit"
+      },
+      {
+        "titel": "Kirchen",
+        "url": "https://www.schrecksbach.info/soziales-vereine/kirchen"
+      }
+    ]
   },
   {
     "name": "Schwalbach am Taunus",
@@ -5606,7 +6785,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwalbach_am_Taunus",
     "webseite": "https://www.schwalbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "test",
+        "url": "https://www.schwalbach.de/Freizeit-und-Kultur/Vereine-und-Arbeitskreise/test.htm?"
+      },
+      {
+        "titel": "Vereine und Arbeitskreise A-Z",
+        "url": "https://www.schwalbach.de/Vereine-und-Arbeitskreise.htm?"
+      },
+      {
+        "titel": "Jubiläums-Liste",
+        "url": "https://www.schwalbach.de/Freizeit-und-Kultur/Vereine-und-Arbeitskreise/Vereinsjubilaeen.htm?"
+      }
+    ]
   },
   {
     "name": "Schwalmstadt",
@@ -5614,7 +6806,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwalmstadt",
     "webseite": "https://schwalmstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://schwalmstadt.de/gaesteinformationen/freizeit/vereine.html"
+      }
+    ]
   },
   {
     "name": "Schwalmtal",
@@ -5622,7 +6819,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwalmtal_(Hessen)",
     "webseite": "https://schwalmtal-hessen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Erleichterung für Vereine, Initiativen, Bürgergruppen sowie ehrenamtliche Zusammenschlüsse",
+        "url": "https://schwalmtal-hessen.de/erleichterung-fuer-vereine-initiativen-buergergruppen-sowie-ehrenamtliche-zusammenschluesse"
+      }
+    ]
   },
   {
     "name": "Schwarzenborn",
@@ -5630,7 +6832,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schwarzenborn_(Knüll)",
     "webseite": "https://www.schwarzenborn.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Organisationen",
+        "url": "https://www.schwarzenborn.de/leben-wohnen/vereine-organisationen"
+      },
+      {
+        "titel": "Vereine von A-Z",
+        "url": "https://www.schwarzenborn.de/leben-wohnen/vereine-organisationen/vereine-von-a-z"
+      }
+    ]
   },
   {
     "name": "Schöffengrund",
@@ -5638,7 +6849,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schöffengrund",
     "webseite": "https://www.schoeffengrund.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Organisationen und Vereine",
+        "url": "https://www.schoeffengrund.de/kultur-freizeit/organisationen-und-vereine"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.schoeffengrund.de/kultur-freizeit/organisationen-und-vereine/vereinsleben"
+      }
+    ]
   },
   {
     "name": "Schöneck",
@@ -5646,7 +6866,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Schöneck_(Hessen)",
     "webseite": "https://www.schoeneck.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Unser Verein",
+        "url": "https://www.schoeneck.de/leben-wohnen/gemeindeportraet/partnerschaftsstaedte/unser-verein"
+      },
+      {
+        "titel": "Organisationen - Vereine",
+        "url": "https://www.schoeneck.de/kultur-freizeit/organisationen-vereine"
+      },
+      {
+        "titel": "Religionsgemeinschaften",
+        "url": "https://www.schoeneck.de/kultur-freizeit/organisationen-vereine/religionsgemeinschaften"
+      },
+      {
+        "titel": "Ehrenamtssuchmaschine",
+        "url": "https://www.schoeneck.de/kultur-freizeit/organisationen-vereine/ehrenamtssuchmaschine"
+      },
+      {
+        "titel": "Essensbank",
+        "url": "https://www.schoeneck.de/kultur-freizeit/organisationen-vereine/essensbank"
+      },
+      {
+        "titel": "Digitaltreff Schöneck",
+        "url": "https://www.schoeneck.de/kultur-freizeit/organisationen-vereine/digitaltreff-schoeneck"
+      }
+    ]
   },
   {
     "name": "Seeheim-Jugenheim",
@@ -5654,7 +6899,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Seeheim-Jugenheim",
     "webseite": "https://www.seeheim-jugenheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.seeheim-jugenheim.de/leben-wohnen/vereine"
+      }
+    ]
   },
   {
     "name": "Seligenstadt",
@@ -5670,7 +6920,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Selters_(Taunus)",
     "webseite": "https://www.selters-taunus.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.selters-taunus.de/tourismus-freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Siegbach",
@@ -5678,7 +6933,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Siegbach",
     "webseite": "https://www.siegbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.siegbach.de/freizeit/vereine"
+      },
+      {
+        "titel": "Informationen für Ehrenamtliche",
+        "url": "https://www.siegbach.de/freizeit/vereine/informationen-fuer-ehrenamtliche"
+      },
+      {
+        "titel": "31.03.2026 Ferienpass 202531.03.2026Welcher Verein, Institution oder Privatperson hat Lust eine Aktion für den Ferienpass anzubieten?Mehr",
+        "url": "https://www.siegbach.de/rathaus/veroeffentlichungen/aktuelles/2026/q1/ferienpass-2026"
+      }
+    ]
   },
   {
     "name": "Sinn",
@@ -5686,7 +6954,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sinn_(Hessen)",
     "webseite": "https://www.gemeindesinn.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeindesinn.de/freizeit-tourismus-kultur/vereine.html"
+      }
+    ]
   },
   {
     "name": "Sinntal",
@@ -5694,7 +6967,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sinntal",
     "webseite": "https://www.sinntal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.sinntal.de/vereine/vereinsregister/index.html"
+      }
+    ]
   },
   {
     "name": "Solms",
@@ -5702,7 +6980,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Solms",
     "webseite": "https://www.solms.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.solms.de/freizeit-tourismus/freizeit/vereine"
+      },
+      {
+        "titel": "Vereine nach Stadtteilen",
+        "url": "https://www.solms.de/freizeit-tourismus/freizeit/vereine/vereine-nach-stadtteilen"
+      },
+      {
+        "titel": "Ortssporttag",
+        "url": "https://www.solms.de/freizeit-tourismus/freizeit/vereine/ortssporttag"
+      }
+    ]
   },
   {
     "name": "Sontra",
@@ -5710,7 +7001,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Sontra",
     "webseite": "https://www.sontra.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.sontra.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Spangenberg",
@@ -5718,7 +7014,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Spangenberg",
     "webseite": "https://www.spangenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.spangenberg.de/leben-soziales/kinder-jugend-und-familie/vereine"
+      }
+    ]
   },
   {
     "name": "Stadtallendorf",
@@ -5726,7 +7027,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Stadtallendorf",
     "webseite": "https://stadtallendorf.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Termin vereinbaren",
+        "url": "https://stadtallendorf.de/Rathaus-Politik/B%C3%BCrgerservice/Termin-vereinbaren"
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://stadtallendorf.de/Leben/Freizeit-Sport/Vereine-Verb%C3%A4nde"
+      }
+    ]
   },
   {
     "name": "Staufenberg",
@@ -5734,7 +7044,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Staufenberg_(Hessen)",
     "webseite": "https://www.staufenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.staufenberg.de/verein/de/stadt/039:34/tn_63/start"
+      }
+    ]
   },
   {
     "name": "Steffenberg",
@@ -5742,7 +7057,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Steffenberg",
     "webseite": "https://www.steffenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.steffenberg.de/leben-freizeit-tourismus/freizeit-tourismus/vereine.html"
+      }
+    ]
   },
   {
     "name": "Steinau an der Straße",
@@ -5750,7 +7070,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Steinau_an_der_Straße",
     "webseite": "https://www.steinau.eu/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine Stadt Steinau und Stadtteile",
+        "url": "https://www.steinau.eu/vereine-stadt-steinau-und-stadtteile-03081.html"
+      }
+    ]
   },
   {
     "name": "Steinbach (Taunus)",
@@ -5758,7 +7083,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Steinbach_(Taunus)",
     "webseite": "https://www.stadt-steinbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-steinbach.de/kultur-erleben/vereine"
+      }
+    ]
   },
   {
     "name": "Stockstadt am Rhein",
@@ -5766,7 +7096,36 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Stockstadt_am_Rhein",
     "webseite": "https://stockstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://stockstadt.de/vereine"
+      },
+      {
+        "titel": "Natur & Tier",
+        "url": "https://stockstadt.de/vereine/natur-tier"
+      },
+      {
+        "titel": "Politik",
+        "url": "https://stockstadt.de/vereine/politik"
+      },
+      {
+        "titel": "Sport",
+        "url": "https://stockstadt.de/vereine/sport"
+      },
+      {
+        "titel": "Tanz & Musik",
+        "url": "https://stockstadt.de/vereine/tanz-musik"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://stockstadt.de/vereine/sonstige-vereine"
+      },
+      {
+        "titel": "Vereine & Clubs",
+        "url": "https://stockstadt.de/event_type/vereine-clubs"
+      }
+    ]
   },
   {
     "name": "Sulzbach (Taunus)",
@@ -5782,7 +7141,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Söhrewald",
     "webseite": "https://www.soehrewald.eu/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.soehrewald.eu/leben/vereine-verbaende.html"
+      }
+    ]
   },
   {
     "name": "Tann (Rhön)",
@@ -5790,7 +7154,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Tann_(Rhön)",
     "webseite": "https://tann-rhoen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt und Vereine",
+        "url": "https://tann-rhoen.de/leben-und-arbeiten-in-tann/ehrenamt"
+      }
+    ]
   },
   {
     "name": "Taunusstein",
@@ -5798,7 +7167,52 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Taunusstein",
     "webseite": "https://www.taunusstein.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Netzwerke, Vereine und Freizeitmöglichkeiten",
+        "url": "https://www.taunusstein.de/leben-wohnen/soziales-integration/integration/willkommen-in-taunusstein/netzwerke-vereine-und-freizeitmoeglichkeiten"
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/vereine"
+      },
+      {
+        "titel": "Gruppen & Kurse",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/gruppen-kurse"
+      },
+      {
+        "titel": "Mehrzweckeinrichtungen",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/mehrzweckeinrichtungen"
+      },
+      {
+        "titel": "Sport & Freizeit",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/sport-freizeit"
+      },
+      {
+        "titel": "Freibad",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/sport-freizeit/freibad"
+      },
+      {
+        "titel": "Spiel- & Sportplätze",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/sport-freizeit/spiel-sportplaetze"
+      },
+      {
+        "titel": "Grillplätze",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/sport-freizeit/grillplaetze"
+      },
+      {
+        "titel": "Rad & Wandern",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/sport-freizeit/rad-wandern"
+      },
+      {
+        "titel": "Kleingartenanlagen",
+        "url": "https://www.taunusstein.de/leben-wohnen/freizeit-vereine/sport-freizeit/kleingartenanlagen"
+      }
+    ]
   },
   {
     "name": "Trebur",
@@ -5806,7 +7220,32 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Trebur",
     "webseite": "https://trebur.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Angebote der Vereine und Kirchen für Kinder",
+        "url": "https://trebur.de/leben-in-trebur/familie-und-soziales/angebote-der-vereine-und-kirchen-fuer-kinder.html"
+      },
+      {
+        "titel": "Beratung",
+        "url": "https://trebur.de/leben-in-trebur/familie-und-soziales/angebote-der-vereine-und-kirchen-fuer-kinder/beratung.html"
+      },
+      {
+        "titel": "Ferien",
+        "url": "https://trebur.de/leben-in-trebur/familie-und-soziales/angebote-der-vereine-und-kirchen-fuer-kinder/ferien.html"
+      },
+      {
+        "titel": "Musik",
+        "url": "https://trebur.de/leben-in-trebur/familie-und-soziales/angebote-der-vereine-und-kirchen-fuer-kinder/musik.html"
+      },
+      {
+        "titel": "Sport",
+        "url": "https://trebur.de/leben-in-trebur/familie-und-soziales/angebote-der-vereine-und-kirchen-fuer-kinder/sport.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://trebur.de/freizeit-kultur-sport/vereine.html"
+      }
+    ]
   },
   {
     "name": "Trendelburg",
@@ -5830,7 +7269,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Ulrichstein",
     "webseite": "https://www.ulrichstein.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.ulrichstein.de/seite/456398/vereinsverzeichnis.html"
+      }
+    ]
   },
   {
     "name": "Usingen",
@@ -5838,7 +7282,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Usingen",
     "webseite": "https://www.usingen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt und Vereinsleben",
+        "url": "https://www.usingen.de/leben-wohnen/gesellschaft/ehrenamt"
+      }
+    ]
   },
   {
     "name": "Vellmar",
@@ -5846,7 +7295,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Vellmar",
     "webseite": "https://www.vellmar.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Verbände",
+        "url": "https://www.vellmar.de/Vereine-und-Verbaende.htm?"
+      }
+    ]
   },
   {
     "name": "Viernheim",
@@ -5854,7 +7308,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Viernheim",
     "webseite": "https://www.viernheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Selbsthilfegruppen",
+        "url": "https://www.viernheim.de/kultur-freizeit-sport/vereine/vereinsverzeichnis-selbsthilfegruppen/selbsthilfegruppen.html"
+      },
+      {
+        "titel": "Vernemer Vereinsportal",
+        "url": "https://www.viernheim.de/kultur-freizeit-sport/vernemer-vereinsportal.html"
+      },
+      {
+        "titel": "Kommunikation und Vernetzung",
+        "url": "https://www.viernheim.de/kultur-freizeit-sport/vernemer-vereinsportal/kommunikation-und-vernetzung.html"
+      },
+      {
+        "titel": "Unterstützung des Ehrenamts",
+        "url": "https://www.viernheim.de/kultur-freizeit-sport/vernemer-vereinsportal/unterstuetzung-des-ehrenamts.html"
+      }
+    ]
   },
   {
     "name": "Villmar",
@@ -5862,7 +7333,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Villmar",
     "webseite": "https://www.marktflecken-villmar.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.marktflecken-villmar.de/freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Volkmarsen",
@@ -5878,7 +7354,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Vöhl",
     "webseite": "https://www.voehl.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.voehl.de/index.php/leben-arbeiten/vereinsregister"
+      },
+      {
+        "titel": "Vereine und Verbände: Veröffentlichung Ihrer Mitteilungen über Bürgerzeitung und Crossiety",
+        "url": "https://www.voehl.de/index.php/aktuelles/7544-vereine-und-verbaende-veroeffentlichung-ihrer-mitteilungen-ueber-buergerzeitung-und-crossiety-2"
+      },
+      {
+        "titel": "Weniger Bürokratie für Ihr Ehrenamt – Wegfall der Gaststätten-Anzeigepflicht (§ 6 HGastG) für Vereine und nicht-gewinnorientierte Organisationen und Initiativen",
+        "url": "https://www.voehl.de/index.php/aktuelles/7540-weniger-buerokratie-fuer-ihr-ehrenamt-wegfall-der-gaststaetten-anzeigepflicht-6-hgastg-fuer-vereine-und-nicht-gewinnorientierte-organisationen-und-initiativen"
+      }
+    ]
   },
   {
     "name": "Wabern",
@@ -5886,7 +7375,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wabern",
     "webseite": "https://www.wabern.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Tages-Eltern-Verein-Beratung",
+        "url": "https://www.wabern.de/familie-leben/betreuungsangebote/familienzentrum/tages-eltern-verein-beratung"
+      },
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.wabern.de/freizeit-tourismus/freizeit/vereine-verbaende"
+      }
+    ]
   },
   {
     "name": "Wald-Michelbach",
@@ -5894,7 +7392,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wald-Michelbach",
     "webseite": "https://www.wald-michelbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wald-michelbach.de/kultur-und-freizeit/freizeit-und-sport/vereine"
+      }
+    ]
   },
   {
     "name": "Waldbrunn (Westerwald)",
@@ -5902,7 +7405,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Waldbrunn_(Westerwald)",
     "webseite": "https://www.waldbrunn.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.waldbrunn.de/leben-wohnen/vereine"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.waldbrunn.de/leben-wohnen/vereine/verein-eintragen"
+      }
+    ]
   },
   {
     "name": "Waldeck",
@@ -5910,7 +7422,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Waldeck_(Stadt)",
     "webseite": "https://www.waldeck-stadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.waldeck-stadt.de/Freizeit/Vereinsregister.htm?"
+      }
+    ]
   },
   {
     "name": "Waldems",
@@ -5918,7 +7435,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Waldems",
     "webseite": "https://gemeinde-waldems.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/Verbände",
+        "url": "https://gemeinde-waldems.de/information/vereine-verbaende"
+      }
+    ]
   },
   {
     "name": "Waldkappel",
@@ -5926,7 +7448,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Waldkappel",
     "webseite": "https://www.waldkappel.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.waldkappel.de/unsere-stadt/vereine"
+      }
+    ]
   },
   {
     "name": "Waldsolms",
@@ -5942,7 +7469,20 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Walluf",
     "webseite": "https://www.walluf.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinshäuser und öffentliche Einrichtungen",
+        "url": "https://www.walluf.de/leben-in-walluf/oeffentliche-einrichtungen/vereinshaeuser-und-oeffentliche-einrichtungen"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.walluf.de/leben-in-walluf/vereine"
+      },
+      {
+        "titel": "VGV Walluf",
+        "url": "https://www.walluf.de/leben-in-walluf/vereine/vgv"
+      }
+    ]
   },
   {
     "name": "Wanfried",
@@ -5950,7 +7490,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wanfried",
     "webseite": "https://www.wanfried.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Einrichtungen",
+        "url": "https://www.wanfried.de/onlinedienste/buergerservice/vereine-und-einrichtungen"
+      }
+    ]
   },
   {
     "name": "Wartenberg",
@@ -5966,7 +7511,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wehretal",
     "webseite": "https://www.wehretal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Wehretal vereint",
+        "url": "https://www.wehretal.de/seite/593557/wehretal-vereint.html"
+      },
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.wehretal.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
   },
   {
     "name": "Wehrheim",
@@ -5974,7 +7528,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wehrheim",
     "webseite": "https://www.wehrheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Organisation & Vereine",
+        "url": "https://www.wehrheim.de/kultur-freizeit/organisation-vereine"
+      },
+      {
+        "titel": "Vereine & Gruppen",
+        "url": "https://www.wehrheim.de/kultur-freizeit/organisation-vereine/vereine-gruppen"
+      }
+    ]
   },
   {
     "name": "Weilburg",
@@ -5990,7 +7553,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Weilmünster",
     "webseite": "https://www.weilmuenster.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.weilmuenster.de/freizeit-tourismus/freizeit/vereine"
+      }
+    ]
   },
   {
     "name": "Weilrod",
@@ -5998,7 +7566,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Weilrod",
     "webseite": "https://www.weilrod.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Gruppen in Weilrod",
+        "url": "https://www.weilrod.de/freizeit-touristik/freizeit-gemeinschaft/vereine-gruppen-in-weilrod"
+      }
+    ]
   },
   {
     "name": "Weimar (Lahn)",
@@ -6006,7 +7579,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Weimar_(Lahn)",
     "webseite": "https://www.gemeinde-weimar.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-weimar.de/leben-in-weimar-lahn/leben/vereine.html"
+      }
+    ]
   },
   {
     "name": "Weinbach",
@@ -6014,7 +7592,560 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Weinbach",
     "webseite": "https://www.gemeinde-weinbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/zahlen-daten-fakten/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/partnergemeinden/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/aktuelles/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/kindergarten-betreuung/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/schulen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/kirchengemeinden/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/feuerwehren/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/bauhof/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/schiedsamt/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/ortsgericht/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/ver-und-entsorgung/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/wasserversorgung/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/gesundheitswesen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/jugendtaxi/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/kunstinitiative-weinbach/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/gemeindewohnungen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/huepfburg/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/nimm-mit-tag/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/branchenbuch/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/grusswort/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/digitales-rathaus/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/klimaschutz/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/bebauungsplaene/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/ansprechpartner/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/was-erledige-ich-wo/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/ehrenamt/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/fundbuero/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/finanzen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/bauplaetze/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/bodenrichtwerte/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/zustaendige-behoerden/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/formulare/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/forstverwaltung/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/ortslandwirte/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/gebuehren/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/standesamt/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/politik/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/stellenausschreibungen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/rathaus-politik/gesetze-verordnungen-erlasse/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Menü",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/zahlen-daten-fakten"
+      },
+      {
+        "titel": "Partnergemeinden",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/partnergemeinden"
+      },
+      {
+        "titel": "Aktuelles",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/aktuelles"
+      },
+      {
+        "titel": "Kindergarten + Betreuung",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/kindergarten-betreuung"
+      },
+      {
+        "titel": "Schulen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/schulen"
+      },
+      {
+        "titel": "Kirchengemeinden",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/kirchengemeinden"
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/feuerwehren"
+      },
+      {
+        "titel": "Bauhof",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/bauhof"
+      },
+      {
+        "titel": "Schiedsamt",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/schiedsamt"
+      },
+      {
+        "titel": "Ortsgericht",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/ortsgericht"
+      },
+      {
+        "titel": "Ver- und Entsorgung",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/ver-und-entsorgung"
+      },
+      {
+        "titel": "Wasserversorgung",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/wasserversorgung"
+      },
+      {
+        "titel": "Gesundheitswesen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/gesundheitswesen"
+      },
+      {
+        "titel": "Jugendtaxi",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/jugendtaxi"
+      },
+      {
+        "titel": "Kunstinitiative Weinbach",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/kunstinitiative-weinbach"
+      },
+      {
+        "titel": "Gemeindewohnungen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/gemeindewohnungen"
+      },
+      {
+        "titel": "Hüpfburg",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/huepfburg"
+      },
+      {
+        "titel": "Nimm-Mit!-Tag",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/nimm-mit-tag"
+      },
+      {
+        "titel": "Branchenbuch",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/gemeinde-einrichtungen/branchenbuch/?no_cache=1"
+      },
+      {
+        "titel": "Rathaus & Politik",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/grusswort"
+      },
+      {
+        "titel": "Digitales Rathaus Termine Online",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/digitales-rathaus"
+      },
+      {
+        "titel": "Klimaschutz",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/klimaschutz"
+      },
+      {
+        "titel": "Bebauungspläne",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/bebauungsplaene"
+      },
+      {
+        "titel": "Ansprechpartner",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/ansprechpartner"
+      },
+      {
+        "titel": "Was erledige ich wo?",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/was-erledige-ich-wo"
+      },
+      {
+        "titel": "Ehrenamt",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/ehrenamt"
+      },
+      {
+        "titel": "Fundbüro",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/fundbuero"
+      },
+      {
+        "titel": "Finanzen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/finanzen"
+      },
+      {
+        "titel": "Bauplätze",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/bauplaetze"
+      },
+      {
+        "titel": "Bodenrichtwerte",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/bodenrichtwerte"
+      },
+      {
+        "titel": "Zuständige Behörden",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/zustaendige-behoerden"
+      },
+      {
+        "titel": "Formulare",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/formulare"
+      },
+      {
+        "titel": "Forstverwaltung",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/forstverwaltung"
+      },
+      {
+        "titel": "Ortslandwirte",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/ortslandwirte"
+      },
+      {
+        "titel": "Gebühren",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/gebuehren"
+      },
+      {
+        "titel": "Standesamt",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/standesamt"
+      },
+      {
+        "titel": "Politik",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/politik"
+      },
+      {
+        "titel": "Stellenausschreibungen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/stellenausschreibungen"
+      },
+      {
+        "titel": "Gesetze, Verordnungen + Erlasse",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/rathaus-politik/gesetze-verordnungen-erlasse"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "DGH / MZH Belegungsplan",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan"
+      },
+      {
+        "titel": "Grillhütten",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/grillhuetten"
+      },
+      {
+        "titel": "Ausflugsziele",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/ausflugsziele"
+      },
+      {
+        "titel": "Schwimmbad",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/schwimmbad"
+      },
+      {
+        "titel": "Sport",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/sport"
+      },
+      {
+        "titel": "Gastronomie",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/gastronomie/?no_cache=1"
+      },
+      {
+        "titel": "Übernachtung",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/uebernachtung/?no_cache=1"
+      },
+      {
+        "titel": "Zukunftsbeirat - Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/zukunftsbeirat-tourismus"
+      },
+      {
+        "titel": "Zukunftsbeirat - Kultur und Dorfleben",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/zukunftsbeirat-kultur-und-dorfleben"
+      },
+      {
+        "titel": "Zukuntsbeirat - Klima und Energie",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/zukuntsbeirat-klima-und-energie"
+      },
+      {
+        "titel": "Ortsteile & Geschichte",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/geschichte"
+      },
+      {
+        "titel": "Weinbach",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/weinbach"
+      },
+      {
+        "titel": "Freienfels",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/freienfels"
+      },
+      {
+        "titel": "Gräveneck",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/graeveneck"
+      },
+      {
+        "titel": "Elkerhausen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/elkerhausen"
+      },
+      {
+        "titel": "Edelsberg",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/edelsberg"
+      },
+      {
+        "titel": "Blessenbach",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/blessenbach"
+      },
+      {
+        "titel": "Fürfurt",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/ortsteile-geschichte/fuerfurt"
+      },
+      {
+        "titel": "Servicezeiten",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/servicezeiten"
+      },
+      {
+        "titel": "Anregungen an die Gemeinde",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/anregungen-an-die-gemeinde"
+      },
+      {
+        "titel": "Impressum",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/impressum"
+      },
+      {
+        "titel": "Datenschutz",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/datenschutz"
+      },
+      {
+        "titel": "Anmeldung DGH Blessenbach",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-blessenbach"
+      },
+      {
+        "titel": "Anmeldung DGH Edelsberg",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-edelsberg"
+      },
+      {
+        "titel": "Anmeldung DGH Elkerhausen",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-elkerhausen"
+      },
+      {
+        "titel": "Anmeldung DGH Freienfels",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-freienfels"
+      },
+      {
+        "titel": "Anmeldung DGH Fürfurt",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-fuerfurt"
+      },
+      {
+        "titel": "Anmeldung DGH Gräveneck",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-graeveneck"
+      },
+      {
+        "titel": "Anmeldung MZH Weinbach",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/vereine/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-mzh-weinbach"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/grillhuetten/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/ausflugsziele/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/schwimmbad/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/sport/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/gastronomie/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/uebernachtung/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/zukunftsbeirat-tourismus/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/zukunftsbeirat-kultur-und-dorfleben/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/zukuntsbeirat-klima-und-energie/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/geschichte/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/weinbach/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/freienfels/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/graeveneck/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/elkerhausen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/edelsberg/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/blessenbach/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/ortsteile-geschichte/fuerfurt/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/gemeinde-einrichtungen/aktuelles/details/archiv/2026/mai/artikel/einladung-zur-1-konstituierenden-oeffentlichen-sitzung-des-ortsbeirates-fuerfurt-am-11-mai-2026/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/servicezeiten/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/anregungen-an-die-gemeinde/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/impressum/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-blessenbach/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-edelsberg/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-elkerhausen/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-freienfels/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-fuerfurt/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-dgh-graeveneck/freizeit-tourismus/vereine/?no_cache=1"
+      },
+      {
+        "titel": "Freizeit & Tourismus",
+        "url": "https://www.gemeinde-weinbach.de/freizeit-tourismus/dgh-mzh-belegungsplan/anmeldung-mzh-weinbach/freizeit-tourismus/vereine/?no_cache=1"
+      }
+    ]
   },
   {
     "name": "Weißenborn",
@@ -6022,7 +8153,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Weißenborn_(Hessen)",
     "webseite": "https://www.gemeinde-weissenborn.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinskontakte",
+        "url": "https://www.gemeinde-weissenborn.de/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Vorstellung der Vereine",
+        "url": "https://www.gemeinde-weissenborn.de/seite/653182/vorstellung-der-vereine.html"
+      }
+    ]
   },
   {
     "name": "Weiterstadt",
@@ -6030,7 +8170,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Weiterstadt",
     "webseite": "https://www.weiterstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsportal",
+        "url": "https://www.weiterstadt.de/kultur-freizeit/vereine/vereinsportal/index.php"
+      },
+      {
+        "titel": "Karitative Vereine",
+        "url": "https://www.weiterstadt.de/kultur-freizeit/vereine/karitative-vereine/index.php"
+      },
+      {
+        "titel": "Politische Vereine",
+        "url": "https://www.weiterstadt.de/kultur-freizeit/vereine/politische-vereine/index.php"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.weiterstadt.de/kultur-freizeit/vereine/sonstige-vereine/index.php"
+      }
+    ]
   },
   {
     "name": "Wesertal",
@@ -6038,7 +8195,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wesertal",
     "webseite": "https://www.gemeinde-wesertal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine / Organisationen",
+        "url": "https://www.gemeinde-wesertal.de/familie-soziales/vereine-organisationen"
+      }
+    ]
   },
   {
     "name": "Wettenberg",
@@ -6054,7 +8216,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wetter_(Hessen)",
     "webseite": "https://www.wetter-hessen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Verbände",
+        "url": "https://www.wetter-hessen.de/Freizeit/Freizeitaktivit%C3%A4ten/Vereine-Verb%C3%A4nde"
+      }
+    ]
   },
   {
     "name": "Wetzlar",
@@ -6062,7 +8229,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wetzlar",
     "webseite": "https://www.wetzlar.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wetzlar.de/service/vereine.php"
+      }
+    ]
   },
   {
     "name": "Wiesbaden",
@@ -6078,7 +8250,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wildeck",
     "webseite": "https://www.wildeck.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.wildeck.de/tourismus-freizeit/vereinsleben"
+      },
+      {
+        "titel": "Vereine in Wildeck",
+        "url": "https://www.wildeck.de/tourismus-freizeit/vereinsleben/vereine-in-wildeck"
+      }
+    ]
   },
   {
     "name": "Willingen (Upland)",
@@ -6086,7 +8267,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Willingen_(Upland)",
     "webseite": "https://www.rathaus-willingen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.rathaus-willingen.de/leben-in-willingen/gesellschaft-soziales/vereine/vereine-in-willingen"
+      }
+    ]
   },
   {
     "name": "Willingshausen",
@@ -6094,7 +8280,48 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Willingshausen",
     "webseite": "https://www.willingshausen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ehrenamt & Vereine",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine"
+      },
+      {
+        "titel": "Büchereien",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/buechereien"
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/vereine"
+      },
+      {
+        "titel": "Feuerwehr Loshausen",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren/feuerwehr-loshausen"
+      },
+      {
+        "titel": "Feuerwehr Merzhausen",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren/feuerwehr-merzhausen"
+      },
+      {
+        "titel": "Feuerwehr Steina",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren/feuerwehr-steina"
+      },
+      {
+        "titel": "Feuerwehr Wasenberg",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren/feuerwehr-wasenberg"
+      },
+      {
+        "titel": "Feuerwehr Willingshausen",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren/feuerwehr-willingshausen"
+      },
+      {
+        "titel": "Feuerwehr Zella",
+        "url": "https://www.willingshausen.de/leben-wohnen/ehrenamt-vereine/feuerwehren/feuerwehr-zella"
+      }
+    ]
   },
   {
     "name": "Witzenhausen",
@@ -6110,7 +8337,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wohratal",
     "webseite": "https://www.wohratal.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.wohratal.de/leben-freizeit/vereine.html"
+      }
+    ]
   },
   {
     "name": "Wolfhagen",
@@ -6118,7 +8350,16 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wolfhagen",
     "webseite": "https://wolfhagen.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Mehr lesen",
+        "url": "https://wolfhagen.de/aktuelle-ereignisse/das-neue-update-der-wolfhagen-app-eigene-plattform-fuer-die-wolfhager-vereine-und-ortsteile"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://wolfhagen.de/vereine"
+      }
+    ]
   },
   {
     "name": "Wächtersbach",
@@ -6126,7 +8367,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wächtersbach",
     "webseite": "https://www.stadt-waechtersbach.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereinswelt",
+        "url": "https://www.stadt-waechtersbach.de/erleben/vereinswelt"
+      },
+      {
+        "titel": "Ehrenamt & E-Card",
+        "url": "https://www.stadt-waechtersbach.de/erleben/vereinswelt/ehrenamt-e-card"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-waechtersbach.de/erleben/vereinswelt/vereine"
+      },
+      {
+        "titel": "Ehrenamtspreis",
+        "url": "https://www.stadt-waechtersbach.de/erleben/vereinswelt/ehrenamtspreis"
+      }
+    ]
   },
   {
     "name": "Wölfersheim",
@@ -6134,7 +8392,40 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wölfersheim",
     "webseite": "https://www.woelfersheim.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Organisationen",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen/vereine"
+      },
+      {
+        "titel": "Feuerwehr",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen/feuerwehr"
+      },
+      {
+        "titel": "Partnerstädte",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen/partnerstaedte"
+      },
+      {
+        "titel": "Bürgerstiftung",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen/buergerstiftung"
+      },
+      {
+        "titel": "Eltern-Kind-Verein",
+        "url": "https://www.woelfersheim.de/familie-soziales/kinder/eltern-kind-verein"
+      },
+      {
+        "titel": "Förderkonzept",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen/feuerwehr/foerderkonzept"
+      },
+      {
+        "titel": "Ansprechpartner",
+        "url": "https://www.woelfersheim.de/kultur-freizeit/vereine-und-organisationen/feuerwehr/ansprechpartner"
+      }
+    ]
   },
   {
     "name": "Wöllstadt",
@@ -6142,7 +8433,24 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Wöllstadt",
     "webseite": "https://www.woellstadt.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Ansprechpartner & Vereinsangebote",
+        "url": "https://www.woellstadt.de/ansprechpartner-vereinsangebote-01838.html"
+      },
+      {
+        "titel": "Freizeit & Vereine",
+        "url": "https://www.woellstadt.de/freizeit-vereine-01746.html"
+      },
+      {
+        "titel": "Vereine Nieder-Wöllstadt",
+        "url": "https://www.woellstadt.de/vereine-nieder-woellstadt-01878.html"
+      },
+      {
+        "titel": "Vereine Ober-Wöllstadt",
+        "url": "https://www.woellstadt.de/vereine-ober-woellstadt-01882.html"
+      }
+    ]
   },
   {
     "name": "Zierenberg",
@@ -6150,7 +8458,12 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zierenberg",
     "webseite": "https://www.stadt-zierenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-zierenberg.de/leben-kultur/vereine"
+      }
+    ]
   },
   {
     "name": "Zwingenberg",
@@ -6158,6 +8471,11 @@
     "quelle_url": "https://de.wikipedia.org/wiki/Zwingenberg_(Bergstraße)",
     "webseite": "https://zwingenberg.de/",
     "bundesland": "Hessen",
-    "vereinsseiten": []
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://zwingenberg.de/de/vereinsverzeichnis"
+      }
+    ]
   }
 ]
