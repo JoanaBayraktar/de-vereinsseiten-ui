@@ -34,6 +34,11 @@ const CLUB_SOURCES = [
   "vereinsseiten/saarland_vereinsseiten.json",
   "vereinsseiten/sachsen_vereinsseiten.json",
   "vereinsseiten/hessen_vereinsseiten.json",
+  "vereinsseiten/nordrhein_westfalen_vereinsseiten.json",
+  "vereinsseiten/rheinland_pfalz_vereinsseiten.json",
+  "vereinsseiten/sachsen_anhalt_vereinsseiten.json",
+  "vereinsseiten/schleswig_holstein_vereinsseiten.json",
+  "vereinsseiten/thueringen_vereinsseiten.json",
 ];
 
 const SEARCH_TERM = "verein";
