@@ -9,6 +9,34 @@ Stand: 2026-05-26
 
 ---
 
+## Diagnose-CLI
+
+Die wichtigsten Debug- und Auswertungsskripte sind über `diagnostics.js` gebündelt:
+
+```bash
+node diagnostics.js all-links https://www.example.de --depth=1
+node diagnostics.js test-crawl https://www.example.de
+node diagnostics.js missing
+node diagnostics.js diagnose
+node diagnostics.js uncrawled
+node diagnostics.js single
+node diagnostics.js report
+```
+
+| Befehl | Zweck |
+|--------|-------|
+| `all-links` | Einzel-URL-Debug-Crawler; gibt erreichbare Links einer Seite aus. |
+| `test-crawl` | Problemfall-/Cloudflare-Diagnose für einzelne URLs. |
+| `missing` | Findet Gemeinden ohne Vereinsseiten-Link bzw. nicht gescrapte Bundesländer. |
+| `diagnose` | Erklärt fehlende Treffer mit `KEIN_CRAWL`, `EXCLUDED` oder `KEIN_TREFFER`. |
+| `uncrawled` | Listet Gemeinden, bei denen der Link-Crawl keine Unterseiten fand. |
+| `single` | Findet Gemeinden mit genau einem Vereinsseiten-Treffer. |
+| `report` | Führt `missing`, `diagnose`, `uncrawled` und `single` nacheinander aus. |
+
+Hinweis: Einige Befehle schreiben JSON-Dateien in `results/`, z. B. `fehlende_vereinsseiten.json`, `diagnose_missing_vereine.json` oder `single_link_gemeinden.json`.
+
+---
+
 ## Fertig gecrawlt (7 von 16)
 
 | Bundesland           | Gemeinden | Links gecrawlt | Vereinsseiten |
