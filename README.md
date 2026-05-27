@@ -58,7 +58,7 @@ Hinweis: Einige Befehle schreiben JSON-Dateien in `results/`, z. B. `fehlende_ve
 | Saarland | 52 | 5.928 | 52 | 52 | 43 | 9 | 94 | Nachprüfung |
 | Sachsen | 418 | 51.435 | 416 | 418 | 339 | 79 | 909 | Nachprüfung |
 | Sachsen-Anhalt | 218 | 24.907 | 195 | 218 | 150 | 68 | 241 | Nachprüfung |
-| Schleswig-Holstein | 1.104 | — | — | — | — | — | — | Noch nicht gecrawlt |
+| Schleswig-Holstein | 1.104 | — | — | — | — | — | — | Läuft aktuell |
 | Thüringen | 601 | 44.336 | 576 | 601 | 383 | 218 | 856 | Nachprüfung |
 | **Gesamt** | **10.879** | **432.777** | **5.315** | **5.514** | **2.522** | **2.992** | **6.288** | — |
 
