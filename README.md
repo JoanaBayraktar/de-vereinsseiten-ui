@@ -1,6 +1,6 @@
 # CiviScraper – Fortschrittsübersicht
 
-Stand: 2026-05-26
+Stand: 2026-06-09
 
 ## Legende
 - **Gemeinden**: Anzahl Einträge in `lists/gemeinden_webseiten_*.json`
@@ -45,22 +45,21 @@ Hinweis: Einige Befehle schreiben JSON-Dateien in `results/`, z. B. `fehlende_ve
 | Bundesland | Gemeinden | Link-Einträge | Link-Quellen | Ergebnis-Einträge | Gemeinden mit Treffer | Ohne Treffer | Vereinsseiten-Links | Status |
 |------------|----------:|--------------:|-------------:|-------------------:|----------------------:|-------------:|--------------------:|--------|
 | Baden-Württemberg | 1.101 | — | — | — | — | — | — | Noch nicht gecrawlt |
-| Bayern | 2.056 | 2.056 | 2.010 | 2.056 | 0 | 2.056 | 0 | Nachprüfung |
 | Berlin | 109 | — | — | — | — | — | — | Noch nicht gecrawlt |
-| Brandenburg | 413 | 42.733 | 407 | 413 | 327 | 86 | 446 | Nachprüfung |
+| Brandenburg | 413 | 42.733 | 408 | 413 | 327 | 86 | 446 | Fertig |
 | Bremen | 20 | — | — | — | — | — | — | Noch nicht gecrawlt |
 | Hamburg | 7 | — | — | — | — | — | — | Noch nicht gecrawlt |
-| Hessen | 421 | 73.168 | 419 | 421 | 363 | 58 | 1.187 | Nachprüfung |
+| Hessen | 421 | 73.168 | 419 | 421 | 363 | 58 | 1.187 | Fertig |
 | Mecklenburg-Vorpommern | 725 | — | — | — | — | — | — | Noch nicht gecrawlt |
-| Niedersachsen | 939 | 117.461 | 844 | 939 | 645 | 294 | 1.938 | Nachprüfung |
-| Nordrhein-Westfalen | 396 | 70.753 | 396 | 396 | 272 | 124 | 617 | Nachprüfung |
-| Rheinland-Pfalz | 2.299 | — | — | — | — | — | — | Noch nicht gecrawlt |
-| Saarland | 52 | 5.928 | 52 | 52 | 43 | 9 | 94 | Nachprüfung |
-| Sachsen | 418 | 51.435 | 416 | 418 | 339 | 79 | 909 | Nachprüfung |
-| Sachsen-Anhalt | 218 | 24.907 | 195 | 218 | 150 | 68 | 241 | Nachprüfung |
-| Schleswig-Holstein | 1.104 | — | — | — | — | — | — | Läuft aktuell |
-| Thüringen | 601 | 44.336 | 576 | 601 | 383 | 218 | 856 | Nachprüfung |
-| **Gesamt** | **10.879** | **432.777** | **5.315** | **5.514** | **2.522** | **2.992** | **6.288** | — |
+| Niedersachsen | 939 | 117.461 | 839 | 939 | 645 | 294 | 1.938 | Fertig |
+| Nordrhein-Westfalen | 396 | 70.753 | 396 | 396 | 272 | 124 | 617 | Fertig |
+| Rheinland-Pfalz | 2.299 | 7.769 | 104 | 2.299 | 82 | 2.217 | 114 | In Bearbeitung |
+| Saarland | 52 | 5.928 | 52 | 52 | 43 | 9 | 94 | Fertig |
+| Sachsen | 418 | 51.435 | 417 | 418 | 339 | 79 | 909 | Fertig |
+| Sachsen-Anhalt | 218 | 24.907 | 195 | 218 | 150 | 68 | 241 | Fertig |
+| Schleswig-Holstein | 1.104 | 103.394 | 1.091 | 1.104 | 653 | 451 | 1.557 | Fertig |
+| Thüringen | 601 | 44.336 | 570 | 601 | 383 | 218 | 856 | Fertig |
+| **Gesamt** | **8.823** | **541.884** | **4.491** | **6.861** | **3.257** | **3.604** | **7.959** | — |
 
 ---
 
@@ -68,8 +67,9 @@ Hinweis: Einige Befehle schreiben JSON-Dateien in `results/`, z. B. `fehlende_ve
 
 | Status | Bundesländer | Gemeinden |
 |--------|-------------:|----------:|
-| Nachprüfung | 9 | 5.514 |
-| Noch nicht gecrawlt | 7 | 5.365 |
-| **Total** | **16** | **10.879** |
+| Fertig | 9 | 4.562 |
+| In Bearbeitung | 1 | 2.299 |
+| Noch nicht gecrawlt | 5 | 1.962 |
+| **Total (ohne Bayern)** | **15** | **8.823** |
 
-Fortschritt: **9/16 Bundesländer** haben Ergebnisdateien; **2.522/5.514** Ergebnis-Einträge haben mindestens einen Vereinsseiten-Treffer.
+Fortschritt: **9/15 Bundesländer** abgeschlossen (ohne Bayern); **3.257/6.861** Ergebnis-Einträge haben mindestens einen Vereinsseiten-Treffer.
