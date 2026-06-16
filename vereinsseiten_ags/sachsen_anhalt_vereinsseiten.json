@@ -1,0 +1,3078 @@
+[
+  {
+    "name": "Ahlsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ahlsdorf",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/ahlsdorf/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087010",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in der Verbandsgemeinde",
+        "url": "https://www.verwaltungsamt-helbra.de/vereine-in-der-verbandsgemeine"
+      }
+    ]
+  },
+  {
+    "name": "Aken (Elbe)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Aken_(Elbe)",
+    "webseite": "https://www.aken.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082005",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.aken.de/de/vereine-in-aken.html"
+      },
+      {
+        "titel": "Haus der Vereine",
+        "url": "https://www.aken.de/de/haus-der-vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Aland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Aland_(Altmark)",
+    "webseite": "https://www.seehausen-altmark.de/service-verwaltung/gemeinden-politik/mitgliedsgemeinden/gemeinde-aland/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090003",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamtliche",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/vereine"
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/feuerwehren"
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/senioren"
+      }
+    ]
+  },
+  {
+    "name": "Allstedt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Allstedt",
+    "webseite": "https://allstedt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087015",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.allstedt.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Alsleben (Saale)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Alsleben_(Saale)",
+    "webseite": "https://www.alsleben-saale-online.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089005",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.alsleben-saale-online.de/pages/mein-alsleben/vereine.php"
+      }
+    ]
+  },
+  {
+    "name": "Altenhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altenhausen",
+    "webseite": "https://www.vg-flechtingen.de/rathaus/verbandsgemeinde/mitgliedsgemeinden/altenhausen",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083020",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Altmärkische Höhe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altmärkische_Höhe",
+    "webseite": "https://www.seehausen-altmark.de/content-pages/verwaltung-wirtschaft/mitgliedsgemeinden/altmaerkische-hoehe/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090007",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamtliche",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/vereine"
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/feuerwehren"
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/senioren"
+      }
+    ]
+  },
+  {
+    "name": "Altmärkische Wische",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Altmärkische_Wische",
+    "webseite": "https://www.seehausen-altmark.de/content-pages/verwaltung-wirtschaft/mitgliedsgemeinden/altmaerkische-wische/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090008",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamtliche",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/vereine"
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/feuerwehren"
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/senioren"
+      }
+    ]
+  },
+  {
+    "name": "Am Großen Bruch",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Am_Großen_Bruch",
+    "webseite": "https://www.westlicheboerde.de/B%C3%BCrger-Gemeinde/Verbandsgemeinde/Gemeinde-Am-Gro%C3%9Fen-Bruch/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083025",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Engagement",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement/Verein-eintragen"
+      }
+    ]
+  },
+  {
+    "name": "An der Poststraße",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/An_der_Poststraße",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=1&active_menu=1&vhm=&area=Gemeinden&menu=Gemeinde%20An%20der%20Poststra%DFe&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084012",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Angern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Angern",
+    "webseite": "https://www.gemeindeangern.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083030",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeindeangern.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Annaburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Annaburg",
+    "webseite": "https://annaburg.info/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091010",
+    "vereinsseiten": [
+      {
+        "titel": "Datenschutzerklärung",
+        "url": "https://annaburg.info/datenschutzvereinbarungen"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://annaburg.info/vereinsleben"
+      }
+    ]
+  },
+  {
+    "name": "Apenburg-Winterfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Apenburg-Winterfeld",
+    "webseite": "https://flecken-apenburg-winterfeld.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081026",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Arendsee (Altmark)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Arendsee_(Altmark)",
+    "webseite": "https://arendsee.info/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081030",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Arneburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Arneburg",
+    "webseite": "https://www.stadt-arneburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090010",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-arneburg.de/leben-in-arneburg/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Arnstein",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Arnstein_(Sachsen-Anhalt)",
+    "webseite": "https://www.arnstein-harz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087031",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Aschersleben",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Aschersleben",
+    "webseite": "https://www.aschersleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089015",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und Institutionen",
+        "url": "https://www.aschersleben.de/Unsere-Stadt/Vereine-und-Institutionen"
+      }
+    ]
+  },
+  {
+    "name": "Ausleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ausleben",
+    "webseite": "https://www.westlicheboerde.de/B%C3%BCrger-Gemeinde/Verbandsgemeinde/Gemeinde-Ausleben/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083035",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Engagement",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement/Verein-eintragen"
+      }
+    ]
+  },
+  {
+    "name": "Bad Bibra",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Bibra",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=2&active_menu=2&vhm=&area=Gemeinden&menu=Stadt%20Bad%20Bibra&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084015",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bad Dürrenberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Dürrenberg",
+    "webseite": "https://www.badduerrenberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088020",
+    "vereinsseiten": [
+      {
+        "titel": "Bürger- und Vereinshaus - Saal",
+        "url": "https://www.badduerrenberg.de/seite/440630/b%C3%BCrger-und-vereinshaus-saal.html"
+      },
+      {
+        "titel": "Bürger- und Vereinshaus - Clubraum",
+        "url": "https://www.badduerrenberg.de/seite/636021/b%C3%BCrger-und-vereinshaus-clubraum.html"
+      },
+      {
+        "titel": "Bürger- und Vereinshaus - Vereinszimmer",
+        "url": "https://www.badduerrenberg.de/seite/636024/b%C3%BCrger-und-vereinshaus-vereinszimmer.html"
+      },
+      {
+        "titel": "Übersicht der Vereine",
+        "url": "https://www.badduerrenberg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Bad Lauchstädt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Lauchstädt",
+    "webseite": "https://www.goethestadt-bad-lauchstaedt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088025",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.goethestadt-bad-lauchstaedt.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Bad Schmiedeberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bad_Schmiedeberg",
+    "webseite": "https://www.bad-schmiedeberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091020",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bad-schmiedeberg.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Balgstädt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Balgstädt",
+    "webseite": "https://www.verbgem-unstruttal.de/de/gemeinde-balgstaedt.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084025",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ballenstedt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ballenstedt",
+    "webseite": "https://www.ballenstedt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085040",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ballenstedt.de/kommunales-und-soziales/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Barby",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barby",
+    "webseite": "https://www.stadt-barby.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089026",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine/ Würdigungen/ Nachrufe",
+        "url": "https://www.stadt-barby.de/de/engagement-fuer-die-kommune.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-barby.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Barleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barleben",
+    "webseite": "https://www.barleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083040",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.barleben.de/Familie-und-Leben/Freizeit/Vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.barleben.de/Familie-und-Leben/Freizeit/Vereine/?La=1"
+      }
+    ]
+  },
+  {
+    "name": "Barnstädt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Barnstädt",
+    "webseite": "https://www.weida-land.de/de/gemeinde-barnstaedt.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088030",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Freizeit",
+        "url": "https://www.weida-land.de/de/vereine__freizeit.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.weida-land.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Beendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beendorf",
+    "webseite": "https://beendorf.com/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083060",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://beendorf.com/vereine-gruppen"
+      },
+      {
+        "titel": "Interessengruppe Beendorf",
+        "url": "https://beendorf.com/vereine-gruppen/interessengruppe-beendorf"
+      },
+      {
+        "titel": "Volleyballgruppe",
+        "url": "https://beendorf.com/vereine-gruppen/volleyballgruppe"
+      },
+      {
+        "titel": "Kirchenvorstand",
+        "url": "https://beendorf.com/vereine-gruppen/kirchenvorstand"
+      },
+      {
+        "titel": "AK KZ-Gedenkstätte",
+        "url": "https://beendorf.com/vereine-gruppen/ak-kz-gedenkstaette"
+      }
+    ]
+  },
+  {
+    "name": "Beetzendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Beetzendorf",
+    "webseite": "https://www.beetzendorf.net/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081045",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Benndorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Benndorf",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/benndorf/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087045",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Berga (Kyffhäuser)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Berga_(Kyffhäuser)",
+    "webseite": "https://www.vwg-goldene-aue.de/verzeichnis/objekt.php?mandat=38146",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": null,
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.vwg-goldene-aue.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Bernburg (Saale)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bernburg_(Saale)",
+    "webseite": "https://www.bernburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089030",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Biederitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Biederitz",
+    "webseite": "https://www.gemeinde-biederitz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086005",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-biederitz.de/Leben-und-Umwelt/Leben-und-Kultur/Vereine"
+      }
+    ]
+  },
+  {
+    "name": "Bismark (Altmark)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bismark_(Altmark)",
+    "webseite": "https://www.stadt-bismark.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090070",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bitterfeld-Wolfen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bitterfeld-Wolfen",
+    "webseite": "https://www.bitterfeld-wolfen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082015",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.bitterfeld-wolfen.de/wisl_s-cms/_redaktionell/59/Vereine.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.bitterfeld-wolfen.de/de/wisl_s-cms/wisl_s-cms/_redaktionell/59/Vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Blankenburg (Harz)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenburg_(Harz)",
+    "webseite": "https://www.blankenburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085055",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.blankenburg.de/meine-stadt/sport-freizeit/vereinsleben"
+      }
+    ]
+  },
+  {
+    "name": "Blankenheim",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Blankenheim_(Landkreis_Mansfeld-Südharz)",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/blankenheim/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087070",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in der Verbandsgemeinde",
+        "url": "https://www.verwaltungsamt-helbra.de/vereine-in-der-verbandsgemeine"
+      }
+    ]
+  },
+  {
+    "name": "Borne",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Borne_(bei_Staßfurt)",
+    "webseite": "https://www.borne-slk.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089045",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.borne-slk.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Bornstedt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bornstedt_(bei_Eisleben)",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/bornstedt/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087075",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in der Verbandsgemeinde",
+        "url": "https://www.verwaltungsamt-helbra.de/vereine-in-der-verbandsgemeine"
+      }
+    ]
+  },
+  {
+    "name": "Braunsbedra",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Braunsbedra",
+    "webseite": "https://www.braunsbedra.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088065",
+    "vereinsseiten": [
+      {
+        "titel": "Kindertagsfeier & 17. Gewerbe- und Vereinsfest",
+        "url": "https://www.braunsbedra.de/de/bildergalerie/kindertagsfeier-17-gewerbe-und-vereinsfest.html"
+      },
+      {
+        "titel": "18. Gewerbe- und Vereinsfest - Braunsbedra feiert 20 Jahre Stadtrecht",
+        "url": "https://www.braunsbedra.de/de/bildergalerie/18-gewerbe-und-vereinsfest-braunsbedra-feiert-20-jahre-stadtrecht.html"
+      }
+    ]
+  },
+  {
+    "name": "Brücken-Hackpfüffel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Brücken-Hackpfüffel",
+    "webseite": "http://www.bruecken-hackpfueffel.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087101",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.bruecken-hackpfueffel.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Burg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burg_(bei_Magdeburg)",
+    "webseite": "https://www.stadtburg.info/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086015",
+    "vereinsseiten": [
+      {
+        "titel": "Tag der Vereine zum Rolandfest 2026",
+        "url": "https://www.stadtburg.info/nachricht/tag-der-vereine-zum-rolandfest-2026.html"
+      }
+    ]
+  },
+  {
+    "name": "Burgstall",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Burgstall_(Landkreis_Börde)",
+    "webseite": "https://www.elbe-heide.de/verzeichnis/objekt.php?mandat=80852",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083120",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.elbe-heide.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Börde-Hakel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Börde-Hakel",
+    "webseite": "https://www.gemeinde-boerdehakel.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089043",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine und mehr",
+        "url": "https://www.gemeinde-boerdehakel.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Bördeaue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bördeaue",
+    "webseite": "https://www.gemeinde-boerdeaue.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089041",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-boerdeaue.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Bördeland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bördeland",
+    "webseite": "https://www.gem-boerdeland.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089042",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Bülstringen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Bülstringen",
+    "webseite": "https://www.gemeinde-buelstringen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083115",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Calbe (Saale)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Calbe_(Saale)",
+    "webseite": "https://www.calbe.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089055",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.calbe.de/Freizeit-Kultur/Vereine"
+      },
+      {
+        "titel": "TSG Calbe",
+        "url": "https://www.calbe.de/Freizeit-Kultur/Vereine/TSG-Calbe"
+      },
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.calbe.de/Freizeit-Kultur/Vereine/Vereinsregister"
+      }
+    ]
+  },
+  {
+    "name": "Calvörde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Calvörde",
+    "webseite": "https://www.calvoerde.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083125",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.calvoerde.de/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Colbitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Colbitz",
+    "webseite": "https://www.gemeinde-colbitz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083130",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-colbitz.de/pages/vereine.php"
+      }
+    ]
+  },
+  {
+    "name": "Coswig (Anhalt)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Coswig_(Anhalt)",
+    "webseite": "https://www.coswigonline.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091060",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.coswigonline.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Dessau-Roßlau",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dessau-Roßlau",
+    "webseite": "https://verwaltung.dessau-rosslau.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15001000",
+    "vereinsseiten": [
+      {
+        "titel": "Ärztesuche auf der Kassenärztlichen Vereinigung",
+        "url": "https://verwaltung.dessau-rosslau.de/soziales-bildung/gesundheit/aerztesuche-auf-der-kassenaerztlichen-vereinigung.html"
+      },
+      {
+        "titel": "Ärztesuche auf der Kassenärztlichen Vereinigung",
+        "url": "https://verwaltung.dessau-rosslau.de/stadt-buerger/neuigkeiten/detailseite/article/soziales-bildung/gesundheit/aerztesuche-auf-der-kassenaerztlichen-vereinigung.html"
+      }
+    ]
+  },
+  {
+    "name": "Diesdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Diesdorf",
+    "webseite": "https://www.diesdorf.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081105",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.diesdorf.de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Ditfurt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ditfurt",
+    "webseite": "https://www.ditfurt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085090",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.ditfurt.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Droyßig",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Droyßig",
+    "webseite": "https://www.vgem-dzf.de/de/droyssig.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084115",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-dzf.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Dähre",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Dähre",
+    "webseite": "https://gemeinde-daehre.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081095",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eckartsberga",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eckartsberga",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=3&active_menu=3&vhm=&area=Gemeinden&menu=Stadt%20Eckartsberga&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084125",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Edersleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Edersleben",
+    "webseite": "https://www.vwg-goldene-aue.de/verzeichnis/objekt.php?mandat=38304",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087125",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.vwg-goldene-aue.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Egeln",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Egeln",
+    "webseite": "https://www.egeln.info/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089075",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.egeln.info/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Eichstedt (Altmark)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eichstedt_(Altmark)",
+    "webseite": "https://www.arneburg-goldbeck.de/leben-wohnen/staedte-und-gemeinden/eichstedt-altmark/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090135",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Eilsleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Eilsleben",
+    "webseite": "https://www.gemeinde-eilsleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083190",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.gemeinde-eilsleben.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Eisleben, Lutherstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lutherstadt_Eisleben",
+    "webseite": "https://www.eisleben.eu/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087130",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Elbe-Parey",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elbe-Parey",
+    "webseite": "https://www.elbe-parey.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086035",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.elbe-parey.de/leben-elbe-parey/vereinsleben"
+      },
+      {
+        "titel": "Vereine von A bis Z",
+        "url": "https://www.elbe-parey.de/leben-elbe-parey/vereinsleben/vereine-von-bis-z"
+      },
+      {
+        "titel": "Soziale Vereine",
+        "url": "https://www.elbe-parey.de/leben-elbe-parey/vereinsleben/soziale-vereine"
+      },
+      {
+        "titel": "Sonstige Vereine",
+        "url": "https://www.elbe-parey.de/leben-elbe-parey/vereinsleben/sonstige-vereine"
+      }
+    ]
+  },
+  {
+    "name": "Elsteraue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Elsteraue",
+    "webseite": "https://www.gemeinde-elsteraue.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084130",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-elsteraue.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Erxleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Erxleben_(Landkreis_Börde)",
+    "webseite": "http://www.gemeinde-erxleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083205",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "http://www.gemeinde-erxleben.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Falkenstein/Harz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Falkenstein/Harz",
+    "webseite": "https://www.falkenstein-harz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085110",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.falkenstein-harz.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Farnstädt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Farnstädt",
+    "webseite": "https://www.weida-land.de/de/gemeinde-farnstaedt.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088100",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Freizeit",
+        "url": "https://www.weida-land.de/de/vereine__freizeit.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.weida-land.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Finne",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Finne_(Gemeinde)",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=4&active_menu=4&vhm=&area=Gemeinden&menu=Gemeinde%20Finne&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084132",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Finneland",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Finneland",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=5&active_menu=5&vhm=&area=Gemeinden&menu=Gemeinde%20Finneland&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084133",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Flechtingen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Flechtingen",
+    "webseite": "https://www.luftkurortflechtingen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083230",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine + Interessengruppen",
+        "url": "https://www.luftkurortflechtingen.de/vereine-interessengruppen.html"
+      },
+      {
+        "titel": "Kurhaus + Vereinshaus",
+        "url": "https://www.luftkurortflechtingen.de/kurhaus-vereinshaus.html"
+      }
+    ]
+  },
+  {
+    "name": "Freyburg (Unstrut)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Freyburg_(Unstrut)",
+    "webseite": "https://www.verbgem-unstruttal.de/de/stadt-freyburg.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084135",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gardelegen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gardelegen",
+    "webseite": "https://www.gardelegen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081135",
+    "vereinsseiten": [
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.gardelegen.de/Stadtleben/Freizeit/Verein-eintragen"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gardelegen.de/Stadtleben/Freizeit/Vereinsleben"
+      }
+    ]
+  },
+  {
+    "name": "Genthin",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Genthin",
+    "webseite": "https://www.stadt-genthin.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086040",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.stadt-genthin.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Gerbstedt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gerbstedt",
+    "webseite": "https://www.stadt-gerbstedt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087165",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-gerbstedt.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Giersleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Giersleben",
+    "webseite": "https://www.saale-wipper.de/de/mitgliedsgemeinde-gemeinde-giersleben.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089130",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gleina",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gleina",
+    "webseite": "https://www.verbgem-unstruttal.de/de/gemeinde-gleina.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084150",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Goldbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Goldbeck",
+    "webseite": "https://www.arneburg-goldbeck.de/leben-wohnen/staedte-und-gemeinden/goldbeck/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090180",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Gommern",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gommern",
+    "webseite": "https://www.gommern.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086055",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gommern.de/de/einheitsgemeinde-gommern/leben-wohnen/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Goseck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Goseck",
+    "webseite": "https://www.verbgem-unstruttal.de/de/gemeinde-goseck.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084170",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Groß Quenstedt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Groß_Quenstedt",
+    "webseite": "https://www.vorharz.net/de/gross-quenstedt.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085125",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsgründungen",
+        "url": "https://www.vorharz.net/de/vereinsgruendungen-1652705163.html"
+      }
+    ]
+  },
+  {
+    "name": "Gräfenhainichen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gräfenhainichen",
+    "webseite": "https://www.graefenhainichen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091110",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.graefenhainichen.de/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Gröningen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gröningen",
+    "webseite": "https://www.westlicheboerde.de/B%C3%BCrger-Gemeinde/Verbandsgemeinde/Stadt-Gr%C3%B6ningen/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083245",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Engagement",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement/Verein-eintragen"
+      }
+    ]
+  },
+  {
+    "name": "Gutenborn",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Gutenborn",
+    "webseite": "https://www.gutenborn.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084207",
+    "vereinsseiten": [
+      {
+        "titel": "Unternehmen und Vereine",
+        "url": "https://www.gutenborn.de/service/unternehmen-und-vereine"
+      }
+    ]
+  },
+  {
+    "name": "Güsten",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Güsten",
+    "webseite": "https://www.saale-wipper.de/de/mitgliedsgemeinde-stadt-guesten.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089165",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Halberstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halberstadt",
+    "webseite": "https://www.halberstadt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085135",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.halberstadt.de/de/vereine-leben.html"
+      },
+      {
+        "titel": "Vereine und Stiftungen",
+        "url": "https://www.halberstadt.de/de/vereine-und-stiftungen.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.halberstadt.de/de/vereine.html"
+      },
+      {
+        "titel": "Vereinsdatenbank",
+        "url": "https://www.halberstadt.de/de/vereine_kultur_freizeit.html"
+      },
+      {
+        "titel": "Bestätigung Vereine",
+        "url": "https://www.halberstadt.de/de/bestaetigung-vereine.html"
+      },
+      {
+        "titel": "Kontakt Vereine",
+        "url": "https://www.halberstadt.de/de/kontakt-vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Haldensleben",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Haldensleben",
+    "webseite": "https://www.haldensleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083270",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.haldensleben.de/B%C3%BCrgerservice-Rathaus/Vereine"
+      }
+    ]
+  },
+  {
+    "name": "Halle (Saale)",
+    "typ": "Kreisfreie Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Halle_(Saale)",
+    "webseite": "https://halle.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15002000",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Harbke",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Harbke",
+    "webseite": "http://www.gemeinde-harbke.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083275",
+    "vereinsseiten": [
+      {
+        "titel": "Verein Klein und Groß",
+        "url": "http://www.gemeinde-harbke.de/verzeichnis/visitenkarte.php?mandat=40887"
+      }
+    ]
+  },
+  {
+    "name": "Harsleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Harsleben",
+    "webseite": "https://www.vorharz.net/de/harsleben.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085140",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsgründungen",
+        "url": "https://www.vorharz.net/de/vereinsgruendungen-1652705163.html"
+      }
+    ]
+  },
+  {
+    "name": "Harzgerode",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Harzgerode",
+    "webseite": "https://www.harzgerode.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085145",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.harzgerode.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Hassel",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hassel_(Altmark)",
+    "webseite": "https://www.arneburg-goldbeck.de/leben-wohnen/staedte-und-gemeinden/hassel/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090220",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Havelberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Havelberg",
+    "webseite": "https://www.havelberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090225",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.havelberg.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Hecklingen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hecklingen",
+    "webseite": "https://www.stadt-hecklingen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089175",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.stadt-hecklingen.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Hedersleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hedersleben",
+    "webseite": "https://www.vorharz.net/de/hedersleben.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085160",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsgründungen",
+        "url": "https://www.vorharz.net/de/vereinsgruendungen-1652705163.html"
+      }
+    ]
+  },
+  {
+    "name": "Helbra",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Helbra",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/helbra/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087205",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in der Verbandsgemeinde",
+        "url": "https://www.verwaltungsamt-helbra.de/vereine-in-der-verbandsgemeine"
+      }
+    ]
+  },
+  {
+    "name": "Hergisdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hergisdorf",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/hergisdorf-2/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087210",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in der Verbandsgemeinde",
+        "url": "https://www.verwaltungsamt-helbra.de/vereine-in-der-verbandsgemeine"
+      }
+    ]
+  },
+  {
+    "name": "Hettstedt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hettstedt",
+    "webseite": "https://www.hettstedt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087220",
+    "vereinsseiten": [
+      {
+        "titel": "Hettstedt entdecken Willkommen in Hettstedt! Tauchen Sie ein in eine Stadt, die Tradition und Moderne vereint, und erleben Sie unvergessliche Momente inmitten einer malerischen Umgebung.",
+        "url": "https://www.hettstedt.de/hettstedt-entdecken"
+      },
+      {
+        "titel": "Online-Terminvergabe Einwohnermeldeamt Online-Dienst Wenn Sie eine Leistung des Einwohnermeldeamtes in Anspruch nehmen möchten, vereinbaren Sie hier einen Termin.",
+        "url": "https://www.hettstedt.de/buergerservice/online-dienste/online-terminvergabe-einwohnermeldeamt"
+      },
+      {
+        "titel": "Online-Terminvergabe Gewerbeamt Online-Dienst Wenn Sie eine Leistung des Gewerbeamtes in Anspruch nehmen möchten, vereinbaren Sie hier einen Termin.",
+        "url": "https://www.hettstedt.de/buergerservice/online-dienste/online-terminvergabe-gewerbeamt"
+      }
+    ]
+  },
+  {
+    "name": "Hohe Börde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohe_Börde",
+    "webseite": "https://www.hoheboerde.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083298",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.hoheboerde.de/tourismus-freizeit-und-dorfleben/vereine"
+      },
+      {
+        "titel": "Vereinstermine",
+        "url": "https://www.hoheboerde.de/ehrenamt-und-engagement/vereinstermine"
+      }
+    ]
+  },
+  {
+    "name": "Hohenberg-Krusemark",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenberg-Krusemark",
+    "webseite": "https://www.arneburg-goldbeck.de/leben-wohnen/staedte-und-gemeinden/hohenberg-krusemark/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090245",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Hohenmölsen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hohenmölsen",
+    "webseite": "https://www.stadt-hohenmoelsen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084235",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Vereine",
+        "url": "https://www.stadt-hohenmoelsen.de/de/kultur-freizeit-1392621762.html"
+      },
+      {
+        "titel": "Vereine der Stadt",
+        "url": "https://www.stadt-hohenmoelsen.de/de/vereinsdatenbank.html"
+      }
+    ]
+  },
+  {
+    "name": "Huy",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Huy_(Gemeinde)",
+    "webseite": "https://www.gemeindehuy.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085185",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeindehuy.de/Leben/Vereine"
+      }
+    ]
+  },
+  {
+    "name": "Hötensleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Hötensleben",
+    "webseite": "https://www.hoetensleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083320",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.hoetensleben.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Iden",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Iden_(Altmark)",
+    "webseite": "https://www.arneburg-goldbeck.de/leben-wohnen/staedte-und-gemeinden/iden/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090270",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ilberstedt",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ilberstedt",
+    "webseite": "https://www.saale-wipper.de/de/mitgliedsgemeinde-gemeinde-ilberstedt.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089185",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Ilsenburg (Harz)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ilsenburg_(Harz)",
+    "webseite": "https://www.stadt-ilsenburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085190",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-ilsenburg.de/B%C3%BCrgerservice/Kultur-Bildung/Vereine"
+      },
+      {
+        "titel": "Haus der Vereine",
+        "url": "https://www.stadt-ilsenburg.de/B%C3%BCrgerservice/Kultur-Bildung/Haus-der-Vereine"
+      }
+    ]
+  },
+  {
+    "name": "Ingersleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ingersleben",
+    "webseite": "https://www.vg-flechtingen.de/rathaus/verbandsgemeinde/mitgliedsgemeinden/ingersleben",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083323",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Jerichow",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jerichow",
+    "webseite": "https://www.stadt-jerichow.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086080",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.stadt-jerichow.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Jessen (Elster)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jessen_(Elster)",
+    "webseite": "https://www.jessen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091145",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.jessen.de/tourismus-und-freizeit/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Jübar",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Jübar",
+    "webseite": "https://www.juebar.eu/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081225",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kabelsketal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kabelsketal",
+    "webseite": "https://www.kabelsketal.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088150",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit + Vereine",
+        "url": "https://www.kabelsketal.de/de/freizeit-kultur.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.kabelsketal.de/de/vereine.html"
+      },
+      {
+        "titel": "Vereinsraum Obergeschoss",
+        "url": "https://www.kabelsketal.de/de/vereinsraum-og-dorfgemeinschaftshaus-kabelsketal.html"
+      },
+      {
+        "titel": "Vereinsraum Untergeschoss",
+        "url": "https://www.kabelsketal.de/de/vereinsraum-ug-dorfgemeinschaftshaus-kabelsketal.html"
+      },
+      {
+        "titel": "Vereinshaus Zwintschöna",
+        "url": "https://www.kabelsketal.de/de/vereinshaus-zwintschoena.html"
+      }
+    ]
+  },
+  {
+    "name": "Kaiserpfalz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kaiserpfalz_(Gemeinde)",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=6&active_menu=6&vhm=&area=Gemeinden&menu=Gemeinde%20Kaiserpfalz&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084246",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kalbe (Milde)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kalbe_(Milde)",
+    "webseite": "https://www.stadt-kalbe-milde.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081240",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-kalbe-milde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Kamern",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kamern",
+    "webseite": "https://www.kamern.com/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090285",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Einrichtungen",
+        "url": "https://www.kamern.com/vereine-einrichtungen.php"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.kamern.com/vereine.php"
+      }
+    ]
+  },
+  {
+    "name": "Karsdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Karsdorf",
+    "webseite": "http://www.karsdorf.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084250",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Kelbra (Kyffhäuser)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kelbra_(Kyffhäuser)",
+    "webseite": "https://www.kelbra.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087250",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.kelbra.de/de/kultur/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Kemberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kemberg",
+    "webseite": "https://www.stadt-kemberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091160",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Klietz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klietz",
+    "webseite": "https://www.klietz.com/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090310",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.klietz.com/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Klostermansfeld",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klostermansfeld",
+    "webseite": "https://www.verwaltungsamt-helbra.de/gemeinden/klostermansfeld-2/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087260",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in der Verbandsgemeinde",
+        "url": "https://www.verwaltungsamt-helbra.de/vereine-in-der-verbandsgemeine"
+      }
+    ]
+  },
+  {
+    "name": "Klötze",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Klötze",
+    "webseite": "https://www.stadt-kloetze.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081280",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-kloetze.de/seite/86200/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Kretzschau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kretzschau",
+    "webseite": "https://www.vgem-dzf.de/de/kretzschau.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084275",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-dzf.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Kroppenstedt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kroppenstedt",
+    "webseite": "https://www.westlicheboerde.de/B%C3%BCrger-Gemeinde/Verbandsgemeinde/Reithufenstadt-Kroppenstedt/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083355",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Engagement",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement"
+      },
+      {
+        "titel": "Verein eintragen",
+        "url": "https://www.westlicheboerde.de/Familie-Bildung/Vereine-Engagement/Verein-eintragen"
+      }
+    ]
+  },
+  {
+    "name": "Kuhfelde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Kuhfelde",
+    "webseite": "https://www.beetzendorf-diesdorf.de/verzeichnis/visitenkarte.php?mandat=248395",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081290",
+    "vereinsseiten": [
+      {
+        "titel": "Verbandsgemeindevereinbarung",
+        "url": "https://www.beetzendorf-diesdorf.de/seite/689323/verbandsgemeindevereinbarung.html"
+      }
+    ]
+  },
+  {
+    "name": "Könnern",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Könnern",
+    "webseite": "https://www.stadt-koennern.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089195",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.stadt-koennern.de/vereinsleben.php"
+      }
+    ]
+  },
+  {
+    "name": "Köthen (Anhalt)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Köthen_(Anhalt)",
+    "webseite": "https://www.koethen-anhalt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082180",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.koethen-anhalt.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Landsberg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Landsberg_(Saalekreis)",
+    "webseite": "https://www.stadt-landsberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088195",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-landsberg.de/de/vereine.html"
+      },
+      {
+        "titel": "/de/aktuelles/kostenloser-foerdermittel-workshop-fuer-vereine.html",
+        "url": "https://www.stadt-landsberg.de/de/aktuelles/kostenloser-foerdermittel-workshop-fuer-vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Lanitz-Hassel-Tal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lanitz-Hassel-Tal",
+    "webseite": "https://www.vgem-finne.de/webNC/de/content/content.php?areaID=4&menuID=7&active_menu=7&vhm=&area=Gemeinden&menu=Gemeinde%20Lanitzund#727;Hasselund#727;Tal&content=",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084282",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Laucha an der Unstrut",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Laucha_an_der_Unstrut",
+    "webseite": "https://www.stadt-laucha.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084285",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.stadt-laucha.de/de/vereinsverzeichnis.html"
+      }
+    ]
+  },
+  {
+    "name": "Leuna",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Leuna",
+    "webseite": "https://www.leuna.de/de/startseite.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088205",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.leuna.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Loitsche-Heinrichsberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Loitsche-Heinrichsberg",
+    "webseite": "https://www.elbe-heide.de/verzeichnis/objekt.php?mandat=80856",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083361",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.elbe-heide.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Lützen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lützen",
+    "webseite": "https://www.stadt-luetzen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084315",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-luetzen.de/de/vereinsregister.html"
+      }
+    ]
+  },
+  {
+    "name": "Magdeburg",
+    "typ": "Landeshauptstadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Magdeburg",
+    "webseite": "https://www.magdeburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15003000",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine in Magdeburg",
+        "url": "https://www.magdeburg.de/B%C3%BCrger-Stadt/Stadt/Vereine-in-Magdeburg"
+      },
+      {
+        "titel": "Vereinsdatenbank",
+        "url": "https://www.magdeburg.de/B%C3%BCrger-Stadt/Stadt/Vereine-in-Magdeburg/Vereinsdatenbank"
+      }
+    ]
+  },
+  {
+    "name": "Mansfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mansfeld",
+    "webseite": "https://www.mansfeld.eu/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087275",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.mansfeld.eu/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Meineweh",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Meineweh",
+    "webseite": "https://www.vgem-wethautal.de/de/meineweh.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084013",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-wethautal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Merseburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Merseburg",
+    "webseite": "https://www.merseburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088220",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.merseburg.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Mertendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mertendorf_(Sachsen-Anhalt)",
+    "webseite": "https://www.vgem-wethautal.de/de/mertendorf.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084335",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-wethautal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Molauer Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Molauer_Land",
+    "webseite": "https://www.vgem-wethautal.de/de/molauer-land.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084341",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-wethautal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Muldestausee",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Muldestausee_(Gemeinde)",
+    "webseite": "https://www.gemeinde-muldestausee.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082241",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-muldestausee.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Möckern",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Möckern",
+    "webseite": "https://www.moeckern-flaeming.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086140",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.moeckern-flaeming.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Möser",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Möser",
+    "webseite": "https://www.gemeinde-moeser.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15086145",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine"
+      },
+      {
+        "titel": "Ihren Verein eintragen",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/ihren-verein-eintragen"
+      },
+      {
+        "titel": "Vereine in Hohenwarthe",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/vereine-hohenwarthe"
+      },
+      {
+        "titel": "Vereine in Lostau",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/vereine-lostau"
+      },
+      {
+        "titel": "Vereine in Möser",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/vereine-moeser"
+      },
+      {
+        "titel": "Vereine in Körbelitz",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/vereine-koerbelitz"
+      },
+      {
+        "titel": "Vereine in Schermen",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/vereine-schermen"
+      },
+      {
+        "titel": "Vereine in Pietzpuhl",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/vereine-pietzpuhl"
+      },
+      {
+        "titel": "Parteien in Hohenwarthe",
+        "url": "https://www.gemeinde-moeser.de/de/familien-jugend-senioren/vereine/parteien-hohenwarthe"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/moser/vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/hohenwarthe/vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/lostau/mehr-erleben-vereinen"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/koerbelitz/vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/schermen/vereinsleben"
+      },
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.gemeinde-moeser.de/de/gemeinde-buergerservice/ortschaften/pietzpuhl/vereinsleben"
+      }
+    ]
+  },
+  {
+    "name": "Mücheln (Geiseltal)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Mücheln_(Geiseltal)",
+    "webseite": "https://www.muecheln.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088235",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.muecheln.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Naumburg (Saale)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Naumburg_(Saale)",
+    "webseite": "https://www.naumburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084355",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.naumburg.de/de/vereinsregister.html"
+      }
+    ]
+  },
+  {
+    "name": "Nebra (Unstrut)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nebra_(Unstrut)",
+    "webseite": "https://www.stadt-nebra.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084360",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-nebra.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Nemsdorf-Göhrendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nemsdorf-Göhrendorf",
+    "webseite": "https://www.weida-land.de/de/gemeinde-nemsdorfgoehrendorf.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088250",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Freizeit",
+        "url": "https://www.weida-land.de/de/vereine__freizeit.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.weida-land.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Niedere Börde",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Niedere_Börde",
+    "webseite": "https://www.niedere-boerde.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083390",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.niedere-boerde.de/seite/396519/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Nienburg (Saale)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nienburg_(Saale)",
+    "webseite": "https://www.stadt-nienburg-saale.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089235",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.stadt-nienburg-saale.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Nordharz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Nordharz",
+    "webseite": "https://gemeinde-nordharz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085227",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://gemeinde-nordharz.de/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Oberharz am Brocken",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oberharz_am_Brocken",
+    "webseite": "https://stadtoberharz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085228",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://stadtoberharz.de/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Obhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Obhausen",
+    "webseite": "https://www.obhausen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088265",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oebisfelde-Weferlingen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oebisfelde-Weferlingen",
+    "webseite": "https://www.stadt-oebisfelde-weferlingen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083411",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Oranienbaum-Wörlitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oranienbaum-Wörlitz",
+    "webseite": "https://www.oranienbaum-woerlitz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091241",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.oranienbaum-woerlitz.de/Tourismus-Freizeit/Vereine"
+      }
+    ]
+  },
+  {
+    "name": "Oschersleben (Bode)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Oschersleben_(Bode)",
+    "webseite": "https://www.oscherslebenbode.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083415",
+    "vereinsseiten": [
+      {
+        "titel": "Freizeit und Vereine",
+        "url": "https://www.oscherslebenbode.de/Home/Familie-Bildung/Freizeit-und-Vereine"
+      },
+      {
+        "titel": "Spielplätze",
+        "url": "https://www.oscherslebenbode.de/Home/Familie-Bildung/Freizeit-und-Vereine/Spielpl%C3%A4tze"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.oscherslebenbode.de/Home/Familie-Bildung/Freizeit-und-Vereine/Vereine"
+      },
+      {
+        "titel": "Wiesenpark",
+        "url": "https://www.oscherslebenbode.de/Home/Familie-Bildung/Freizeit-und-Vereine/Wiesenpark"
+      }
+    ]
+  },
+  {
+    "name": "Osterburg (Altmark)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Osterburg_(Altmark)",
+    "webseite": "https://www.osterburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090415",
+    "vereinsseiten": [
+      {
+        "titel": "Anmeldung und Vereinbarung",
+        "url": "https://www.osterburg.de/schulen-kitas/anmeldung-und-vereinbarung"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.osterburg.de/sport-freizeit/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Osterfeld",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Osterfeld_(Sachsen-Anhalt)",
+    "webseite": "https://www.vgem-wethautal.de/de/osterfeld.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084375",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-wethautal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Osternienburger Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Osternienburger_Land",
+    "webseite": "https://www.osternienburgerland.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082256",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "https://www.osternienburgerland.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Osterwieck",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Osterwieck",
+    "webseite": "https://www.stadt-osterwieck.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085230",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-osterwieck.de/leben/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Petersberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Petersberg_(Saalekreis)",
+    "webseite": "https://www.gemeinde-petersberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088295",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Plötzkau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Plötzkau",
+    "webseite": "https://www.gemeinde-ploetzkau.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089245",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Quedlinburg",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Quedlinburg",
+    "webseite": "https://www.quedlinburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085235",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.quedlinburg.de/Familie-und-Leben/Freizeit/Vereine"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.quedlinburg.de/Familie-und-Leben/Freizeit/Vereine/?La=1"
+      }
+    ]
+  },
+  {
+    "name": "Querfurt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Querfurt",
+    "webseite": "https://www.querfurt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088305",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "https://www.querfurt.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Raguhn-Jeßnitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Raguhn-Jeßnitz",
+    "webseite": "https://www.raguhn-jessnitz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082301",
+    "vereinsseiten": [
+      {
+        "titel": "Bildung & Vereine",
+        "url": "https://www.raguhn-jessnitz.de/de/bildung-vereine.html"
+      },
+      {
+        "titel": "Vereinslandschaft",
+        "url": "https://www.raguhn-jessnitz.de/de/vereinslandschaft.html"
+      },
+      {
+        "titel": "Aus den Vereinen",
+        "url": "https://www.raguhn-jessnitz.de/de/aus-den-vereinen.html"
+      }
+    ]
+  },
+  {
+    "name": "Rochau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rochau",
+    "webseite": "https://www.arneburg-goldbeck.de/leben-wohnen/staedte-und-gemeinden/rochau/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090435",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rogätz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rogätz",
+    "webseite": "https://www.rogaetz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083440",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Rohrberg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Rohrberg_(Altmark)",
+    "webseite": "https://www.beetzendorf-diesdorf.de/verzeichnis/visitenkarte.php?mandat=248392",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081440",
+    "vereinsseiten": [
+      {
+        "titel": "Verbandsgemeindevereinbarung",
+        "url": "https://www.beetzendorf-diesdorf.de/seite/689323/verbandsgemeindevereinbarung.html"
+      }
+    ]
+  },
+  {
+    "name": "Salzatal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Salzatal",
+    "webseite": "https://www.gemeinde-salzatal.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088319",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-salzatal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Salzwedel",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Salzwedel",
+    "webseite": "https://www.salzwedel.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081455",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsliste",
+        "url": "https://www.salzwedel.de/Freizeit/Vereinsliste"
+      }
+    ]
+  },
+  {
+    "name": "Sandau (Elbe)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sandau_(Elbe)",
+    "webseite": "https://www.sandau.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090445",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.sandau.de/seite/614495/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Sandersdorf-Brehna",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sandersdorf-Brehna",
+    "webseite": "https://www.sandersdorf-brehna.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082340",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.sandersdorf-brehna.de/Meine-Stadt/Stadt-Land-Kultur/Vereine"
+      },
+      {
+        "titel": "Sportplätze und Sporthallen",
+        "url": "https://www.sandersdorf-brehna.de/Meine-Stadt/Stadt-Land-Kultur/Vereine/Sportpl%C3%A4tze-und-Sporthallen"
+      },
+      {
+        "titel": "Hallenbelegung",
+        "url": "https://www.sandersdorf-brehna.de/Meine-Stadt/Stadt-Land-Kultur/Vereine/Hallenbelegung"
+      },
+      {
+        "titel": "Brauchtumsmittel und weiteres Wissenswertes",
+        "url": "https://www.sandersdorf-brehna.de/Meine-Stadt/Stadt-Land-Kultur/Vereine/Brauchtumsmittel-und-weiteres-Wissenswertes"
+      },
+      {
+        "titel": "Dank an das Ehrenamt - Einladung ins Volksbad Roitzsch Datum: 23.05.2026 Uhrzeit: 15:00 bis 19:00 Uhr Ehrentag 2026 Gemeinsam Engagement feiern! Ob im Verein, in der Feuerwehr, in der Stadtpolitik, bei Privatinitiativen oder durch ganz persönliches Engagement im Alltag Ehrenamt hat viele Gesichter. Und genau diese Vielfalt möchten wir gemeinsam würdigen! Mehr",
+        "url": "https://www.sandersdorf-brehna.de/index.php?object=tx,3722.4.1&ModID=11&FID=3722.574.1"
+      },
+      {
+        "titel": "Teichfest der Vereine Petersroda Datum: 30.05.2026 Uhrzeit: 14:00 bis 22:00 Uhr Auch 2026 findet unser traditionelles Teichfest der Vereine, in gemütlicher Atmosphäre am Dorfteich an der Hauptstraße in Petersroda statt. Wir freuen uns auf viele Vesucher. In diesem Jahr lassen wir uns aös Highlight, von Sir Henry aus Dessau verzaubern. Mehr",
+        "url": "https://www.sandersdorf-brehna.de/index.php?object=tx,3722.4.1&ModID=11&FID=3722.573.1"
+      }
+    ]
+  },
+  {
+    "name": "Sangerhausen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sangerhausen",
+    "webseite": "https://sangerhausen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087370",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Schkopau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schkopau",
+    "webseite": "https://www.gemeinde-schkopau.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088330",
+    "vereinsseiten": [
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.gemeinde-schkopau.de/de/unsere-vereine.html"
+      },
+      {
+        "titel": "Unsere Vereine",
+        "url": "https://www.gemeinde-schkopau.de/de/unsere-vereine-1777451420.html"
+      }
+    ]
+  },
+  {
+    "name": "Schnaudertal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schnaudertal",
+    "webseite": "https://www.vgem-dzf.de/de/schnaudertal.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084442",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-dzf.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Schollene",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schollene",
+    "webseite": "http://www.schollene.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090485",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "http://www.schollene.de/vereine.php?id=13"
+      }
+    ]
+  },
+  {
+    "name": "Schraplau",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schraplau",
+    "webseite": "http://www.stadt-schraplau.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088340",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "http://www.stadt-schraplau.de/verzeichnis/index.php?mandatstyp=2"
+      },
+      {
+        "titel": "Fotoalben unserer Vereine",
+        "url": "http://www.stadt-schraplau.de/fotos/2"
+      }
+    ]
+  },
+  {
+    "name": "Schwanebeck",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schwanebeck",
+    "webseite": "https://www.vorharz.net/de/schwanebeck.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085285",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsgründungen",
+        "url": "https://www.vorharz.net/de/vereinsgruendungen-1652705163.html"
+      }
+    ]
+  },
+  {
+    "name": "Schönburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönburg_(Saale)",
+    "webseite": "https://www.vgem-wethautal.de/de/schoenburg.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084445",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-wethautal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Schönebeck (Elbe)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönebeck_(Elbe)",
+    "webseite": "https://www.schoenebeck.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089305",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoenebeck.de/de/vereine.html"
+      },
+      {
+        "titel": "Vereine und öffentliche Einrichtungen",
+        "url": "https://www.schoenebeck.de/de/vereine-und-oeffentliche-einrichtungen-ploetzky.html"
+      },
+      {
+        "titel": "Vereine und öffentliche Einrichtungen",
+        "url": "https://www.schoenebeck.de/de/vereine-und-oeffentliche-einrichtungen-ploetzky-copy-1592981083.html"
+      },
+      {
+        "titel": "Vereine und öffentliche Einrichtungen",
+        "url": "https://www.schoenebeck.de/de/vereine-und-oeffentliche-einrichtungen-ploetzky-copy-1592981083-copy-1592988815.html"
+      },
+      {
+        "titel": "Vereinsregister",
+        "url": "https://www.schoenebeck.de/de/vereinsregister.html"
+      }
+    ]
+  },
+  {
+    "name": "Schönhausen (Elbe)",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Schönhausen_(Elbe)",
+    "webseite": "https://www.schoenhausen-elbe.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090500",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.schoenhausen-elbe.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Seegebiet Mansfelder Land",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seegebiet_Mansfelder_Land",
+    "webseite": "https://www.seegebiet-mansfelder-land.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087386",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.seegebiet-mansfelder-land.de/meine-Gemeinde/Vereinsverzeichnis"
+      },
+      {
+        "titel": "‌Nachricht schreiben",
+        "url": "https://www.seegebiet-mansfelder-land.de/meine-Gemeinde/Vereinsverzeichnis/index.php?object=tx,4270.1.1&ModID=9&NavID=4270.615.1&FID=4270.1.1&mt_step=contact&to_id=4270.1.1"
+      }
+    ]
+  },
+  {
+    "name": "Seehausen (Altmark)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seehausen_(Altmark)",
+    "webseite": "https://www.seehausen-altmark.de/service-verwaltung/gemeinden-politik/mitgliedsgemeinden/hansestadt-seehausen-altm/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090520",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Ehrenamtliche",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/vereine"
+      },
+      {
+        "titel": "Feuerwehren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/feuerwehren"
+      },
+      {
+        "titel": "Senioren",
+        "url": "https://www.seehausen-altmark.de/familie-freizeit/vereine-ehrenamtliche/senioren"
+      }
+    ]
+  },
+  {
+    "name": "Seeland",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Seeland_(Sachsen-Anhalt)",
+    "webseite": "https://www.stadt-seeland.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089307",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.stadt-seeland.de/seite/852516/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Selke-Aue",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Selke-Aue",
+    "webseite": "https://www.vorharz.net/de/selke-aue.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085287",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsgründungen",
+        "url": "https://www.vorharz.net/de/vereinsgruendungen-1652705163.html"
+      }
+    ]
+  },
+  {
+    "name": "Sommersdorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sommersdorf_(Landkreis_Börde)",
+    "webseite": "http://www.sommersdorf.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083485",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & mehr",
+        "url": "http://www.sommersdorf.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Staßfurt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Staßfurt",
+    "webseite": "https://www.stassfurt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089310",
+    "vereinsseiten": [
+      {
+        "titel": "Sport & Verein",
+        "url": "https://www.stassfurt.de/de/sport-verein.html"
+      }
+    ]
+  },
+  {
+    "name": "Steigra",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Steigra",
+    "webseite": "https://www.weida-land.de/de/gemeinde-steigra.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088355",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine & Freizeit",
+        "url": "https://www.weida-land.de/de/vereine__freizeit.html"
+      },
+      {
+        "titel": "Vereine",
+        "url": "https://www.weida-land.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Stendal",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stendal",
+    "webseite": "https://www.stendal.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090535",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Stößen",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Stößen",
+    "webseite": "https://www.vgem-wethautal.de/de/stoessen.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084470",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.vgem-wethautal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Südharz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Südharz",
+    "webseite": "https://gemeinde-suedharz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087412",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Südliches Anhalt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Südliches_Anhalt",
+    "webseite": "https://www.suedliches-anhalt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082377",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.suedliches-anhalt.de/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Sülzetal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Sülzetal",
+    "webseite": "https://www.gemeinde-sülzetal.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083490",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.xn--gemeinde-slzetal-szb.de/Leben-in-S%C3%BClzetal/Kultur-und-Tourismus/Vereine"
+      }
+    ]
+  },
+  {
+    "name": "Tangerhütte",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tangerhütte",
+    "webseite": "https://www.tangerhuette.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090546",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.tangerhuette.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Tangermünde",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Tangermünde",
+    "webseite": "https://www.tangermuende.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090550",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsverzeichnis",
+        "url": "https://www.tangermuende.de/de/vereinsverzeichnis.html"
+      }
+    ]
+  },
+  {
+    "name": "Teuchern",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teuchern",
+    "webseite": "http://www.stadt-teuchern.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084490",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine, Kultur & Freizeit",
+        "url": "https://www.stadt-teuchern.de/de/vereinsregister.html"
+      }
+    ]
+  },
+  {
+    "name": "Teutschenthal",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Teutschenthal",
+    "webseite": "https://www.gemeinde-teutschenthal.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088365",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.gemeinde-teutschenthal.de/de/vereine.html"
+      }
+    ]
+  },
+  {
+    "name": "Thale",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Thale",
+    "webseite": "https://stadt.bodetal.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085330",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://stadt.bodetal.de/leben-in-thale/vereine"
+      }
+    ]
+  },
+  {
+    "name": "Ummendorf",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Ummendorf_(Börde)",
+    "webseite": "http://www.ummendorf-boerde.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083505",
+    "vereinsseiten": [
+      {
+        "titel": "Vereinsleben",
+        "url": "http://www.ummendorf-boerde.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Völpke",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Völpke",
+    "webseite": "https://www.obere-aller.de/verzeichnis/objekt.php?mandat=40950",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083515",
+    "vereinsseiten": [
+      {
+        "titel": "Vereine",
+        "url": "https://www.obere-aller.de/verzeichnis/index.php?mandatstyp=2"
+      }
+    ]
+  },
+  {
+    "name": "Wallhausen",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wallhausen_(Helme)",
+    "webseite": "https://www.vwg-goldene-aue.de/verzeichnis/objekt.php?mandat=38431",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087440",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wallstawe",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wallstawe",
+    "webseite": "https://www.beetzendorf-diesdorf.de/verzeichnis/visitenkarte.php?mandat=248391",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15081545",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wanzleben-Börde",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wanzleben-Börde",
+    "webseite": "https://www.wanzleben-boerde.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083531",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wefensleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wefensleben",
+    "webseite": "http://www.gemeinde-wefensleben.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083535",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wegeleben",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wegeleben",
+    "webseite": "https://www.vorharz.net/de/wegeleben.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085365",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Weißenfels",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Weißenfels",
+    "webseite": "https://www.weissenfels.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084550",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Werben (Elbe)",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Werben_(Elbe)",
+    "webseite": "https://www.werben-elbe.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090610",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wernigerode",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wernigerode",
+    "webseite": "https://www.wernigerode.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15085370",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Westheide",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Westheide",
+    "webseite": "https://www.elbe-heide.de/verzeichnis/objekt.php?mandat=80864",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083557",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wethau",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wethau",
+    "webseite": "https://www.gemeinde-wethau.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084560",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wetterzeube",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wetterzeube",
+    "webseite": "https://www.vgem-dzf.de/de/wetterzeube.html",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084565",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wettin-Löbejün",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wettin-Löbejün",
+    "webseite": "https://www.stadt-wettin-loebejuen.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15088216",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wimmelburg",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wimmelburg",
+    "webseite": "http://www.wimmelburg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15087470",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wittenberg, Lutherstadt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Lutherstadt_Wittenberg",
+    "webseite": "https://www.wittenberg.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091375",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wolmirsleben",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wolmirsleben",
+    "webseite": "https://www.egelnermulde.de/verzeichnis/objekt.php?mandat=3284",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15089365",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wolmirstedt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wolmirstedt",
+    "webseite": "https://stadtwolmirstedt.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083565",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Wust-Fischbeck",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Wust-Fischbeck",
+    "webseite": "https://www.elbe-havel-land.de/verzeichnis/objekt.php?mandat=91364",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090631",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zahna-Elster",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zahna-Elster",
+    "webseite": "https://www.stadt-zahna-elster.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15091391",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zehrental",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zehrental",
+    "webseite": "https://www.seehausen-altmark.de/content-pages/verwaltung-wirtschaft/mitgliedsgemeinden/zehrental/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15090635",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zeitz",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zeitz",
+    "webseite": "https://www.zeitz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15084590",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zerbst/Anhalt",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zerbst/Anhalt",
+    "webseite": "https://www.stadt-zerbst.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082430",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zielitz",
+    "typ": "Gemeinde",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zielitz",
+    "webseite": "https://www.zielitz.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15083580",
+    "vereinsseiten": []
+  },
+  {
+    "name": "Zörbig",
+    "typ": "Stadt",
+    "quelle_url": "https://de.wikipedia.org/wiki/Zörbig",
+    "webseite": "https://www.stadt-zoerbig.de/",
+    "bundesland": "Sachsen-Anhalt",
+    "ags": "15082440",
+    "vereinsseiten": []
+  }
+]
