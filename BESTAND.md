@@ -14,6 +14,8 @@ Stand: 2026-06-16
 
 | Bundesland | Link-Einträge | Gemeinden | davon mit Treffer | AGS gemappt |
 |------------|-------------:|----------:|------------------:|------------:|
+| Baden-Württemberg | 134.964 | 509 | 509 | — |
+| Bayern | 208.342 | 2.056 | 1 | 2.055 |
 | Brandenburg | 42.733 | 413 | 327 | 413 |
 | Mecklenburg-Vorpommern | 70.709 | 725 | 420 | 725 |
 | Hessen | 73.168 | 421 | 363 | 421 |
@@ -24,7 +26,7 @@ Stand: 2026-06-16
 | Sachsen-Anhalt | 24.907 | 218 | 150 | 217 |
 | Schleswig-Holstein | 103.394 | 1.104 | 653 | 1.101 |
 | Thüringen | 44.336 | 601 | 383 | 601 |
-| **Gesamt** | **604.824** | **5.287** | **3.595** | **5.281** |
+| **Gesamt** | **948.130** | **7.852** | **4.105** | **7.336** |
 
 ## Datenformat
 
