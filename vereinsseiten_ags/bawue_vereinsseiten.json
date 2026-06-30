@@ -515,7 +515,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/altdorf-bei-boeblingen/",
     "webseite": "http://www.altdorf-bb.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08115002",
     "vereinsseiten": [
       {
         "titel": "Musikunterricht",
@@ -533,7 +533,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/altdorf-bei-nuertingen/",
     "webseite": "http://www.gemeinde-altdorf.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08115002",
     "vereinsseiten": []
   },
   {
@@ -574,7 +574,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/altheim-bei-ehingen/",
     "webseite": "https://www.Altheim-Info.de",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08425004",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -592,7 +592,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/altheim-bei-riedlingen/",
     "webseite": "http://www.gemeinde-altheim.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08425004",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -850,7 +850,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/au-breisgau/",
     "webseite": "http://www.au-hexental.de",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08315003",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -1938,7 +1938,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/biberach-baden/",
     "webseite": "http://www.biberach-baden.de//",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08317011",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -2763,7 +2763,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/buchen/",
     "webseite": "http://www.buchen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08225014",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -3044,7 +3044,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/dachsberg/",
     "webseite": "http://www.dachsberg.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08337027",
     "vereinsseiten": []
   },
   {
@@ -3765,7 +3765,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/duernau-landkreis-biberach/",
     "webseite": "https://www.estellen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08117017",
     "vereinsseiten": []
   },
   {
@@ -3774,7 +3774,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/duernau-landkreis-goeppingen/",
     "webseite": "https://www.estellen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08117017",
     "vereinsseiten": []
   },
   {
@@ -4121,7 +4121,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/eislingen-an-der-fils/",
     "webseite": "http://www.eislingen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08117019",
     "vereinsseiten": [
       {
         "titel": "Vereine + Organisationen",
@@ -4176,7 +4176,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/ellwangen/",
     "webseite": "http://www.ellwangen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08136019",
     "vereinsseiten": [
       {
         "titel": "Vereinsportal",
@@ -4459,7 +4459,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/erbach-donau/",
     "webseite": "http://www.erbach-donau.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08425039",
     "vereinsseiten": [
       {
         "titel": "Verbände & Vereinigungen",
@@ -4752,7 +4752,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/feldberg/",
     "webseite": "http://www.gemeinde-feldberg.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08315037",
     "vereinsseiten": []
   },
   {
@@ -6311,7 +6311,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/hartheim/",
     "webseite": "https://www.hartheim.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08315048",
     "vereinsseiten": []
   },
   {
@@ -7014,7 +7014,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/hochdorf-bei-plochingen/",
     "webseite": "http://www.hochdorf.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08116027",
     "vereinsseiten": [
       {
         "titel": "Vereinshistorie",
@@ -7032,7 +7032,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/hochdorf-riss/",
     "webseite": "http://www.gemeinde-hochdorf.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08116027",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -9659,7 +9659,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/malsch-landkreis-karlsruhe/",
     "webseite": "http://www.malsch.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08215046",
     "vereinsseiten": [
       {
         "titel": "Parteien und Wählervereinigungen",
@@ -9681,7 +9681,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/malsch-rhein-neckar-kreis/",
     "webseite": "http://www.malsch-weinort.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08215046",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -10366,7 +10366,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/muehlhausen-kraichgau/",
     "webseite": "http://www.muehlhausen-kraichgau.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08226054",
     "vereinsseiten": [
       {
         "titel": "Vereinsliste",
@@ -10458,7 +10458,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/muellheim/",
     "webseite": "http://www.muellheim.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08315074",
     "vereinsseiten": [
       {
         "titel": "Vereine - Infos",
@@ -13206,7 +13206,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/rosenberg-baden/",
     "webseite": "http://www.rosenberg-baden.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08136060",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -13220,7 +13220,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/rosenberg-wuerttemberg/",
     "webseite": "http://www.gemeinde-rosenberg.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08136060",
     "vereinsseiten": [
       {
         "titel": "Vereinsliste",
@@ -13429,7 +13429,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/rust-baden/",
     "webseite": "http://www.rust.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08317114",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -13496,7 +13496,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/salem-baden/",
     "webseite": "http://www.salem-baden.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08435052",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -13528,7 +13528,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/sasbach-ortenau/",
     "webseite": "http://www.sasbach-ortenau.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08317116",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -13835,7 +13835,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schlierbach-wuerttemberg/",
     "webseite": "http://www.schlierbach.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08117044",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -13872,7 +13872,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schoemberg-bei-balingen/",
     "webseite": "http://www.stadt-schoemberg.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08235065",
     "vereinsseiten": [
       {
         "titel": "VereineIn Schömberg hat das Vereinsleben einen hohen Stellenwert",
@@ -13886,7 +13886,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schoemberg-landkreis-calw/",
     "webseite": "http://www.schoemberg.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08235065",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -13932,7 +13932,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schoenau-odenwald/",
     "webseite": "http://www.stadt-schoenau.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08226080",
     "vereinsseiten": [
       {
         "titel": "Webseiteneintrag für Gewerbe/ Vereine",
@@ -13959,7 +13959,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schoenbrunn-baden/",
     "webseite": "https://www.estellen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08226081",
     "vereinsseiten": []
   },
   {
@@ -13968,7 +13968,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schoenenberg-schwarzwald/",
     "webseite": "http://www.gemeinde-schoenenberg.de",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08336080",
     "vereinsseiten": [
       {
         "titel": "Verein für Landschaftspflege",
@@ -14306,7 +14306,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/schwenningen-heuberg/",
     "webseite": "http://www.schwenningen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08437102",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -14617,7 +14617,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/singen/",
     "webseite": "http://www.singen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08335075",
     "vereinsseiten": [
       {
         "titel": "Vereine & Ehrenamt",
@@ -15299,7 +15299,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/sulzfeld-baden/",
     "webseite": "http://www.sulzfeld.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08215082",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -15353,7 +15353,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/talheim-landkreis-heilbronn/",
     "webseite": "http://www.talheim.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08125094",
     "vereinsseiten": []
   },
   {
@@ -15362,7 +15362,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/talheim-landkreis-tuttlingen/",
     "webseite": "http://www.gemeinde-talheim.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08125094",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -16659,7 +16659,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/wehr-baden/",
     "webseite": "http://www.wehr.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08337116",
     "vereinsseiten": [
       {
         "titel": "Wir in Wehr",
@@ -16783,7 +16783,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/weilheim-baden/",
     "webseite": "https://www.estellen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08337118",
     "vereinsseiten": []
   },
   {
@@ -16806,7 +16806,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/weingarten/",
     "webseite": "https://www.estellen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": "08436082",
+    "ags": "08215090",
     "vereinsseiten": []
   },
   {
@@ -17046,7 +17046,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/wernau/",
     "webseite": "http://www.wernau.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08116072",
     "vereinsseiten": [
       {
         "titel": "VereineDie aktuelle Liste der Wernauer Vereine",
@@ -17082,7 +17082,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/westerheim-wuerttemberg/",
     "webseite": "http://www.westerheim.de",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08425134",
     "vereinsseiten": [
       {
         "titel": "Vereinsliste",
@@ -17132,7 +17132,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/wieden-schwarzwald/",
     "webseite": "http://www.gemeinde-wieden.de",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08336096",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -17168,7 +17168,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/wiesenbach-baden/",
     "webseite": "http://www.wiesenbach-online.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08226097",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -17236,7 +17236,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/wilhelmsdorf-wuerttemberg/",
     "webseite": "http://www.gemeinde-wilhelmsdorf.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08436083",
     "vereinsseiten": [
       {
         "titel": "Vereine",
@@ -17544,7 +17544,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/wurmlingen-bei-tuttlingen/",
     "webseite": "https://www.estellen.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08327054",
     "vereinsseiten": []
   },
   {
@@ -17747,7 +17747,7 @@
     "quelle_url": "https://www.staatsanzeiger.de/kommunen/zwingenberg-baden/",
     "webseite": "http://www.zwingenberg-neckar.de/",
     "bundesland": "Baden-Württemberg",
-    "ags": null,
+    "ags": "08225113",
     "vereinsseiten": [
       {
         "titel": "Vereine",

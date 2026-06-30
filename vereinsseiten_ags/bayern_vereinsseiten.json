@@ -3386,7 +3386,7 @@
     "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/83775558478",
     "webseite": "http://www.weissenstadt.de",
     "bundesland": "Bayern",
-    "ags": null,
+    "ags": "09479166",
     "vereinsseiten": [
       {
         "titel": "Ver­ei­ne und Organisationen",
@@ -32567,7 +32567,7 @@
     "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/20218814735",
     "webseite": "http://www.meintaufkirchen.de",
     "bundesland": "Bayern",
-    "ags": "09183145",
+    "ags": "09177139",
     "vereinsseiten": []
   },
   {
@@ -32576,7 +32576,7 @@
     "quelle_url": "https://www.bayernportal.de/dokumente/behoerde/03441037735",
     "webseite": "http://www.gemeinde-taufkirchen.eu",
     "bundesland": "Bayern",
-    "ags": "09183145",
+    "ags": "09177139",
     "vereinsseiten": [
       {
         "titel": "Unsere Vereine",
