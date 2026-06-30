@@ -39,6 +39,8 @@ const CLUB_SOURCES = [
   "vereinsseiten/sachsen_anhalt_vereinsseiten.json",
   "vereinsseiten/schleswig_holstein_vereinsseiten.json",
   "vereinsseiten/thueringen_vereinsseiten.json",
+  "vereinsseiten/niedersachsen_vereinsseiten.json",
+  "vereinsseiten/mecklenburg_vorpommern_vereinsseiten.json",
 ];
 
 const SEARCH_TERM = "verein";
